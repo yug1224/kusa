@@ -1,138 +1,114 @@
 [
   {
-    "userId": "1a16c39d-fa06-40a9-8041-343f65614ff7",
-    "fullName": "Olive Turcotte",
-    "bio": "dreamer, film lover, parent 🇿🇼",
-    "gender": "Woman",
-    "birthdate": "1955-11-27T02:45:36.880Z",
-    "registeredAt": "2025-11-14T19:13:53.954Z"
-  },
-  {
-    "userId": "50686e1a-f827-47b2-aba4-2e80baebe9b0",
-    "fullName": "Mabel Wyman",
-    "bio": "entrepreneur",
-    "gender": "Gender questioning",
-    "birthdate": "1997-06-08T01:14:33.678Z",
-    "registeredAt": "2025-12-08T02:22:11.573Z"
-  },
-  {
-    "userId": "ca5c261e-9fb3-4e35-992d-c6523301a954",
-    "fullName": "Karla Kreiger",
-    "bio": "foodie",
-    "gender": "Transgender female",
-    "birthdate": "1976-01-16T18:18:24.047Z",
-    "registeredAt": "2025-07-26T16:29:55.115Z"
-  },
-  {
-    "userId": "c3c5f68c-914c-41da-96be-e9cf193458f0",
-    "fullName": "Jeremy Jones",
-    "bio": "news advocate  🛒",
-    "gender": "Bigender",
-    "birthdate": "1961-04-20T00:16:31.352Z",
-    "registeredAt": "2025-10-24T10:25:41.930Z"
-  },
-  {
-    "userId": "0385dd8c-63f5-42bc-b811-4b57277e4f89",
-    "fullName": "Samantha Kemmer-Armstrong",
-    "bio": "singer, model, geek 🪠",
-    "gender": "Intersex person",
-    "birthdate": "1957-08-19T05:36:17.413Z",
-    "registeredAt": "2025-06-30T09:41:09.852Z"
-  },
-  {
-    "userId": "15eb983e-ef78-4c1f-ba8b-50da9d47f034",
-    "fullName": "Marion Armstrong",
-    "bio": "streamer",
-    "gender": "Cisgender man",
-    "birthdate": "1999-08-28T09:59:51.377Z",
-    "registeredAt": "2025-10-07T08:05:16.365Z"
-  },
-  {
-    "userId": "ae24b677-6fe5-4b48-86a2-665946a7d796",
-    "fullName": "Angela Rice",
-    "bio": "pulse fan  📋",
-    "gender": "Androgynous",
-    "birthdate": "1955-12-21T07:15:52.994Z",
-    "registeredAt": "2025-12-29T09:32:11.005Z"
-  },
-  {
-    "userId": "0db7abac-3182-4682-8b85-34f843b41b7a",
-    "fullName": "Samuel King-Harvey",
-    "bio": "creator, patriot",
-    "gender": "Demi-man",
-    "birthdate": "1990-10-23T06:39:54.183Z",
-    "registeredAt": "2025-07-28T13:51:32.280Z"
-  },
-  {
-    "userId": "f94a8595-f622-4e97-8d60-8cdf1d464fa5",
-    "fullName": "Kristin Casper",
-    "bio": "blogger, philosopher, founder 🚶🏼‍♀️",
-    "gender": "Transmasculine",
-    "birthdate": "1969-07-26T22:35:37.835Z",
-    "registeredAt": "2025-10-05T00:07:37.480Z"
-  },
-  {
-    "userId": "d0b6207e-a7f5-4668-9242-8b91ad4bdf06",
-    "fullName": "Leo Hagenes",
-    "bio": "musician, filmmaker, creator 🍠",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1961-05-22T23:33:27.780Z",
-    "registeredAt": "2025-03-17T11:23:36.874Z"
-  },
-  {
-    "userId": "5616928f-951c-4f5f-bee2-6f4441562702",
-    "fullName": "Frances Goyette",
-    "bio": "aluminium lover",
-    "gender": "FTM",
-    "birthdate": "1973-09-28T20:05:10.964Z",
-    "registeredAt": "2025-04-10T23:24:29.237Z"
-  },
-  {
-    "userId": "eed7cf71-fff7-48ba-98d3-d656e0cf78d3",
-    "fullName": "Mindy Cassin",
-    "bio": "bike junkie",
-    "gender": "Demi-girl",
-    "birthdate": "1953-10-19T00:02:04.267Z",
-    "registeredAt": "2025-12-28T15:09:16.543Z"
-  },
-  {
-    "userId": "0507a16e-2dab-49e9-90a3-2186ddcc0c5e",
-    "fullName": "Greg Bechtelar",
-    "bio": "entrepreneur, film lover, developer 🦤",
-    "gender": "Intersex",
-    "birthdate": "1961-03-01T10:28:02.009Z",
-    "registeredAt": "2026-02-05T21:50:28.530Z"
-  },
-  {
-    "userId": "2543b2d0-5592-4ddc-9d18-3bbfaab214dc",
-    "fullName": "Sadie Ritchie",
-    "bio": "coach",
-    "gender": "Polygender",
-    "birthdate": "1988-10-06T20:30:45.200Z",
-    "registeredAt": "2025-07-27T23:15:36.172Z"
-  },
-  {
-    "userId": "53081fa0-e81a-4edf-a667-7cabdc8f76fd",
-    "fullName": "Stella Tillman",
-    "bio": "film lover",
+    "userId": "5ad542e2-a91f-4691-add8-0a62f4cec40b",
+    "fullName": "Tommie Walter DVM",
+    "bio": "teapot junkie",
     "gender": "Trans male",
-    "birthdate": "1976-11-29T23:59:10.192Z",
-    "registeredAt": "2025-04-25T14:28:04.725Z"
+    "birthdate": "1995-10-17T07:14:38.142Z",
+    "registeredAt": "2025-07-19T20:46:15.914Z"
   },
   {
-    "userId": "ff6083c0-75e3-4beb-95e0-bf8e6668c7c6",
-    "fullName": "Levi Boehm",
-    "bio": "wind advocate, gamer 🇳🇵",
-    "gender": "Trans person",
-    "birthdate": "1982-03-09T05:27:34.237Z",
-    "registeredAt": "2025-06-06T13:31:53.163Z"
+    "userId": "6a90f9f9-62f3-4cfc-9674-1934a1b1067e",
+    "fullName": "Israel Gutkowski",
+    "bio": "radiosonde devotee, educator 🆑",
+    "gender": "Multigender",
+    "birthdate": "1976-12-24T02:19:30.777Z",
+    "registeredAt": "2025-08-19T23:30:03.650Z"
   },
   {
-    "userId": "d678a026-cc76-4964-bf11-5690ce1de0d4",
-    "fullName": "Jenny Bednar",
-    "bio": "philosopher, developer",
-    "gender": "Cisgender man",
-    "birthdate": "2006-02-05T04:28:27.714Z",
-    "registeredAt": "2025-09-13T21:47:04.449Z"
+    "userId": "0354a07b-6066-46d0-b7d4-e313bad6828c",
+    "fullName": "Russell Nicolas",
+    "bio": "temporariness lover, writer",
+    "gender": "Gender questioning",
+    "birthdate": "2003-05-13T14:26:21.116Z",
+    "registeredAt": "2025-03-28T04:23:20.047Z"
+  },
+  {
+    "userId": "d6c9b90f-c56c-4890-a77f-bf4653ce6b56",
+    "fullName": "Tabitha Kub",
+    "bio": "yin lover, artist",
+    "gender": "Cis man",
+    "birthdate": "1957-09-09T08:25:30.112Z",
+    "registeredAt": "2026-01-04T07:02:59.567Z"
+  },
+  {
+    "userId": "abfe3a57-fff3-4994-ad2b-fb3e197ec846",
+    "fullName": "Wayne Schmidt",
+    "bio": "friend, photographer, teacher ⚗️",
+    "gender": "Woman",
+    "birthdate": "1947-03-24T16:28:32.329Z",
+    "registeredAt": "2025-06-10T11:59:02.734Z"
+  },
+  {
+    "userId": "06b827cc-462a-4548-ba24-fc605e7b996b",
+    "fullName": "Kristine Buckridge",
+    "bio": "tomorrow advocate, founder 👩🏾‍❤️‍💋‍👩🏻",
+    "gender": "Female to male",
+    "birthdate": "1990-03-13T09:18:11.604Z",
+    "registeredAt": "2025-05-06T01:19:03.461Z"
+  },
+  {
+    "userId": "fe2330d0-f6c4-4a61-a9d8-8e619de66e2d",
+    "fullName": "Dr. Bertha Watsica Jr.",
+    "bio": "period junkie, gamer 📵",
+    "gender": "Multigender",
+    "birthdate": "1975-04-21T19:15:15.731Z",
+    "registeredAt": "2025-04-30T07:50:31.567Z"
+  },
+  {
+    "userId": "a7cfb233-bc36-4156-955c-74854f7c4c56",
+    "fullName": "Dr. Chester Trantow",
+    "bio": "engineer, filmmaker, blogger",
+    "gender": "M2F",
+    "birthdate": "1969-04-29T23:47:05.512Z",
+    "registeredAt": "2026-01-25T02:07:48.182Z"
+  },
+  {
+    "userId": "e8a59553-fdef-407f-bbbc-fe6bdc89807c",
+    "fullName": "Sandy Monahan",
+    "bio": "public speaker, patriot, blogger",
+    "gender": "T* woman",
+    "birthdate": "1980-11-08T14:12:55.943Z",
+    "registeredAt": "2025-04-26T14:14:50.147Z"
+  },
+  {
+    "userId": "107e0cb9-7a7f-4da9-bee2-58393383c0cb",
+    "fullName": "Perry Wyman-Lueilwitz",
+    "bio": "musician",
+    "gender": "Bigender",
+    "birthdate": "1955-08-09T20:24:26.537Z",
+    "registeredAt": "2025-04-27T02:26:20.860Z"
+  },
+  {
+    "userId": "12baf232-898d-46eb-8618-5409eec62d14",
+    "fullName": "Gustavo Klocko",
+    "bio": "musician, designer, designer 🆑",
+    "gender": "Intersex man",
+    "birthdate": "1998-04-09T19:10:10.963Z",
+    "registeredAt": "2025-05-11T06:44:56.999Z"
+  },
+  {
+    "userId": "cb5ba59e-2675-48d8-b0b9-bac36da3e84e",
+    "fullName": "Mindy Hamill",
+    "bio": "gamer, friend, traveler 🪅",
+    "gender": "T* man",
+    "birthdate": "1970-06-17T19:22:19.083Z",
+    "registeredAt": "2025-06-09T06:07:07.794Z"
+  },
+  {
+    "userId": "6f5bef1c-5d06-46cd-a288-d9aa0a7ef2a8",
+    "fullName": "Courtney Kuhn",
+    "bio": "woman advocate",
+    "gender": "Male to female trans woman",
+    "birthdate": "1988-03-23T12:13:30.372Z",
+    "registeredAt": "2025-11-03T18:01:28.518Z"
+  },
+  {
+    "userId": "810c3dd1-ea2a-430b-a687-346cdb6f5bf5",
+    "fullName": "Alberta Batz-Glover Jr.",
+    "bio": "pince-nez devotee, nerd",
+    "gender": "M2F",
+    "birthdate": "2001-01-31T01:46:01.257Z",
+    "registeredAt": "2025-07-25T08:43:03.868Z"
   }
 ]
