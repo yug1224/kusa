@@ -1,162 +1,42 @@
 [
   {
-    "userId": "752ddab8-e5fb-4877-ab9a-151199d25a33",
-    "fullName": "Jo Monahan",
-    "bio": "geek, grad, creator 🧡",
-    "gender": "Agender",
-    "birthdate": "2007-03-02T07:57:24.422Z",
-    "registeredAt": "2025-06-28T20:02:01.386Z"
-  },
-  {
-    "userId": "9d3ce7e5-2edb-42ad-92c2-a534f4e26469",
-    "fullName": "Leland Aufderhar",
-    "bio": "sightseeing enthusiast  👿",
-    "gender": "T* man",
-    "birthdate": "2005-12-18T05:50:40.859Z",
-    "registeredAt": "2025-07-24T03:31:28.024Z"
-  },
-  {
-    "userId": "556f4bcc-541e-4f82-936b-f9ae62b964fb",
-    "fullName": "Marguerite Blick",
-    "bio": "entrepreneur",
-    "gender": "Demi-boy",
-    "birthdate": "1983-09-06T15:50:20.710Z",
-    "registeredAt": "2025-06-15T08:05:03.053Z"
-  },
-  {
-    "userId": "c7382d06-adb4-4c11-baf7-bc2710c44a9f",
-    "fullName": "Colin Kiehn",
-    "bio": "country junkie, entrepreneur",
-    "gender": "Xenogender",
-    "birthdate": "1975-01-19T23:36:01.748Z",
-    "registeredAt": "2025-05-18T16:38:51.829Z"
-  },
-  {
-    "userId": "d968c512-e91f-460a-a5ae-1163fd06b5fb",
-    "fullName": "Debra Blick-Mueller",
-    "bio": "sculpting junkie",
-    "gender": "Female to male",
-    "birthdate": "1985-07-08T03:00:46.413Z",
-    "registeredAt": "2025-11-30T01:56:42.405Z"
-  },
-  {
-    "userId": "d8e66d0b-3274-4fd0-a89e-e6e2f86618a4",
-    "fullName": "Eric Reichert",
-    "bio": "intervention lover  🎁",
-    "gender": "Cisgender woman",
-    "birthdate": "2007-08-09T02:27:18.527Z",
-    "registeredAt": "2026-01-23T06:23:55.449Z"
-  },
-  {
-    "userId": "b917cebd-747d-4039-b6f5-41614939d8bf",
-    "fullName": "Kelly Hansen",
-    "bio": "leader, film lover, entrepreneur ⚡",
-    "gender": "Trans male",
-    "birthdate": "1982-02-09T16:20:55.890Z",
-    "registeredAt": "2025-03-26T09:50:13.869Z"
-  },
-  {
-    "userId": "3ad6dfca-9378-4ff2-b15e-8f9779bbb560",
-    "fullName": "Karla Lowe",
-    "bio": "info devotee",
-    "gender": "Female to male",
-    "birthdate": "1984-03-23T13:51:14.917Z",
-    "registeredAt": "2026-01-03T16:08:29.196Z"
-  },
-  {
-    "userId": "97874821-a53c-47bc-949e-fd6b22ad02c5",
-    "fullName": "Dr. Max Ziemann",
-    "bio": "reservation lover, artist",
-    "gender": "Bigender",
-    "birthdate": "1984-03-03T19:11:55.994Z",
-    "registeredAt": "2025-06-11T15:11:25.054Z"
-  },
-  {
-    "userId": "6e2aa9c5-a71a-4d9a-bf76-2bde5a479dc5",
-    "fullName": "Dr. Verna Abernathy I",
-    "bio": "collagen enthusiast, public speaker",
-    "gender": "Cis female",
-    "birthdate": "1966-09-29T23:08:45.820Z",
-    "registeredAt": "2025-12-12T19:30:20.649Z"
-  },
-  {
-    "userId": "0241c7ca-f082-4f80-af34-918ea90699bd",
-    "fullName": "Kelly Hermiston-Schuppe",
-    "bio": "monger junkie  🏙️",
-    "gender": "Cisgender",
-    "birthdate": "1957-02-22T03:46:41.045Z",
-    "registeredAt": "2025-11-13T06:44:34.990Z"
-  },
-  {
-    "userId": "c4f8f4b4-7b97-44d2-848a-9714df7f87f4",
-    "fullName": "Randal Sauer",
-    "bio": "environmentalist, creator, dreamer 🎤",
-    "gender": "Woman",
-    "birthdate": "1970-08-26T08:36:37.594Z",
-    "registeredAt": "2025-09-26T08:27:16.267Z"
-  },
-  {
-    "userId": "58e898a2-f09d-4e57-b686-af38c8c05373",
-    "fullName": "Krista Durgan",
-    "bio": "founder, author, filmmaker",
-    "gender": "Cis",
-    "birthdate": "1997-07-07T02:27:08.931Z",
-    "registeredAt": "2026-01-26T02:40:40.909Z"
-  },
-  {
-    "userId": "f25b6632-2dd2-4a96-80d8-1eb5dfed14b9",
-    "fullName": "Jerry Ferry-Gleason",
-    "bio": "veteran, patriot, veteran 👨🏻‍❤️‍👨🏾",
-    "gender": "Female to male",
-    "birthdate": "1981-01-16T09:21:29.979Z",
-    "registeredAt": "2025-09-30T08:46:27.078Z"
-  },
-  {
-    "userId": "e09671b0-ee5f-4bd0-8f4d-03a6c26a777a",
-    "fullName": "Kenny Orn",
-    "bio": "film lover, leader, teacher ✨",
-    "gender": "Transexual male",
-    "birthdate": "1966-02-16T07:03:06.920Z",
-    "registeredAt": "2025-04-11T12:41:26.658Z"
-  },
-  {
-    "userId": "5e0bd269-cc38-43d4-89d4-a110a94c31eb",
-    "fullName": "Cecelia Cummings",
-    "bio": "creator",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1978-03-09T13:22:49.314Z",
-    "registeredAt": "2026-02-16T16:06:29.434Z"
-  },
-  {
-    "userId": "be1f4b75-940e-47cb-a369-a7b6b190f687",
-    "fullName": "Kristie Hodkiewicz",
-    "bio": "nerd",
+    "userId": "4b6506c1-12f3-46a4-9080-759a0c38f1b0",
+    "fullName": "Wallace Kovacek",
+    "bio": "stake junkie, developer 🪅",
     "gender": "Cisgender female",
-    "birthdate": "1954-11-23T06:00:10.329Z",
-    "registeredAt": "2026-01-11T14:25:27.297Z"
+    "birthdate": "1998-02-13T14:50:14.596Z",
+    "registeredAt": "2025-10-16T21:21:30.909Z"
   },
   {
-    "userId": "f98cf100-a15e-4831-9776-13cbcb0b8b1b",
-    "fullName": "Camille Pouros MD",
-    "bio": "server devotee, musician",
-    "gender": "Intersex man",
-    "birthdate": "2004-03-31T17:58:43.559Z",
-    "registeredAt": "2025-12-02T08:25:07.545Z"
+    "userId": "11259260-ea3c-4dcc-b696-240b975c432b",
+    "fullName": "Mr. Leo Prohaska",
+    "bio": "entrepreneur, filmmaker, scientist",
+    "gender": "Other",
+    "birthdate": "1979-06-10T18:44:45.390Z",
+    "registeredAt": "2025-09-22T20:54:13.106Z"
   },
   {
-    "userId": "9dbb0a9b-e04a-451c-addd-82adf7dfe682",
-    "fullName": "Verna Legros",
-    "bio": "graft advocate, gamer 🥿",
-    "gender": "Demi-woman",
-    "birthdate": "1973-11-20T23:14:55.313Z",
-    "registeredAt": "2025-08-09T10:10:08.081Z"
+    "userId": "128b8d45-9de1-4227-9fd1-0c3fb2d58928",
+    "fullName": "Lorene O'Keefe",
+    "bio": "traveler, traveler",
+    "gender": "Polygender",
+    "birthdate": "1983-05-10T00:58:59.328Z",
+    "registeredAt": "2025-11-19T04:13:12.265Z"
   },
   {
-    "userId": "ccf10ed0-2a8a-47cd-8e3d-bd55ff6c5d77",
-    "fullName": "Brandi Heathcote",
-    "bio": "founder, parent, artist",
-    "gender": "Non-binary",
-    "birthdate": "1969-02-01T00:53:41.681Z",
-    "registeredAt": "2025-07-07T01:17:23.661Z"
+    "userId": "fb67ddaa-86a3-4b63-be12-938cd4f9b65f",
+    "fullName": "Dr. Drew Crona DDS",
+    "bio": "parsley supporter, traveler 🇻🇮",
+    "gender": "Gender fluid",
+    "birthdate": "1998-01-15T10:56:15.853Z",
+    "registeredAt": "2026-02-12T06:57:41.220Z"
+  },
+  {
+    "userId": "bb075976-fd68-448d-93dc-25e3daf4274a",
+    "fullName": "Ella Erdman",
+    "bio": "twitter lover, geek",
+    "gender": "Transexual",
+    "birthdate": "1995-01-24T10:06:51.238Z",
+    "registeredAt": "2026-02-06T22:00:59.859Z"
   }
 ]
