@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "userId": "bb7f1de5-a79a-42fe-8fa8-d039374da554",
+    "fullName": "Mr. Oscar Schmeler",
+    "bio": "artist, engineer",
+    "gender": "Gender questioning",
+    "birthdate": "1949-06-29T06:58:04.893Z",
+    "registeredAt": "2025-03-20T12:45:59.375Z"
+  },
+  {
+    "userId": "031076aa-b493-4c60-81b0-435bd2e5c2b5",
+    "fullName": "Edith Gutmann",
+    "bio": "founder",
+    "gender": "Androgynous",
+    "birthdate": "1988-10-04T04:06:56.245Z",
+    "registeredAt": "2026-01-03T05:43:26.710Z"
+  },
+  {
+    "userId": "44341476-85ba-4885-b57b-f07d9ebe8b03",
+    "fullName": "Nicolas Parker",
+    "bio": "decoder devotee",
+    "gender": "Male to female",
+    "birthdate": "1979-07-08T07:46:47.717Z",
+    "registeredAt": "2025-07-16T19:15:00.141Z"
+  },
+  {
+    "userId": "52661ed9-fbd1-4328-bc92-0900b9dfb656",
+    "fullName": "Alvin Little",
+    "bio": "film lover, film lover, coach",
+    "gender": "Other",
+    "birthdate": "1978-07-02T19:18:04.799Z",
+    "registeredAt": "2026-02-03T15:12:36.911Z"
+  },
+  {
+    "userId": "de4bb430-968d-406c-967c-cacbec17da82",
+    "fullName": "Kevin Yundt",
+    "bio": "purchase lover",
+    "gender": "Man",
+    "birthdate": "1991-12-31T13:39:39.428Z",
+    "registeredAt": "2026-02-07T22:11:48.841Z"
+  }
+]
