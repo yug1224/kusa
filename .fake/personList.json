@@ -1,98 +1,74 @@
 [
   {
-    "userId": "32d6a0d5-a7eb-4a29-bb72-f8adea59426e",
-    "fullName": "Dianna Morar",
-    "bio": "tortellini junkie, gamer",
-    "gender": "Multigender",
-    "birthdate": "2002-07-27T05:07:20.482Z",
-    "registeredAt": "2025-04-24T04:50:47.627Z"
-  },
-  {
-    "userId": "a5975bc3-146d-41e4-ba72-90a5d92a5f2d",
-    "fullName": "Frank Bruen",
-    "bio": "gossip fan, streamer",
-    "gender": "Demigender",
-    "birthdate": "1961-06-23T02:02:41.753Z",
-    "registeredAt": "2025-09-28T05:36:48.597Z"
-  },
-  {
-    "userId": "4f44326d-c599-4dd6-8fb1-db69562c9b83",
-    "fullName": "Jay Fay Sr.",
-    "bio": "artist, business owner, activist 🥄",
-    "gender": "Androgynous",
-    "birthdate": "1978-03-29T12:45:54.965Z",
-    "registeredAt": "2026-03-04T19:14:14.986Z"
-  },
-  {
-    "userId": "d9548769-3039-45ee-a647-2dffb977323b",
-    "fullName": "Priscilla Kling",
-    "bio": "apartment supporter, inventor 🦬",
-    "gender": "Gender questioning",
-    "birthdate": "2002-04-20T18:58:01.916Z",
-    "registeredAt": "2025-07-21T14:00:08.362Z"
-  },
-  {
-    "userId": "17fc3c0c-190c-45a1-aa44-6c0dde5c7090",
-    "fullName": "Adrian Klocko Sr.",
-    "bio": "student, scientist",
-    "gender": "Transexual person",
-    "birthdate": "1967-04-22T14:05:55.320Z",
-    "registeredAt": "2025-12-25T11:23:32.843Z"
-  },
-  {
-    "userId": "648e3c63-e1bd-485e-8efe-175cc75670db",
-    "fullName": "William McGlynn",
-    "bio": "musician",
-    "gender": "Demi-man",
-    "birthdate": "1968-11-24T06:30:23.213Z",
-    "registeredAt": "2025-11-30T20:31:06.419Z"
-  },
-  {
-    "userId": "2c237a88-fc53-40e1-98c3-ad5628db2116",
-    "fullName": "Carlton Thompson",
-    "bio": "colorlessness junkie  🧍🏼‍♀️",
-    "gender": "Cisgender female",
-    "birthdate": "1983-08-02T08:32:45.863Z",
-    "registeredAt": "2025-10-09T17:00:33.627Z"
-  },
-  {
-    "userId": "74f26aaf-643f-40aa-a3a1-19a947a8112a",
-    "fullName": "Mr. Arnold Davis",
-    "bio": "streamer",
-    "gender": "Intersex person",
-    "birthdate": "1955-11-30T14:28:02.456Z",
-    "registeredAt": "2025-05-14T02:33:46.565Z"
-  },
-  {
-    "userId": "80895521-fbfa-4f01-97e5-a24c4f865381",
-    "fullName": "Meghan Mann",
-    "bio": "author",
-    "gender": "Gender neutral",
-    "birthdate": "1998-11-22T08:25:40.622Z",
-    "registeredAt": "2025-10-05T13:53:24.657Z"
-  },
-  {
-    "userId": "ac99566a-ca5c-4936-8e76-f681266f6c98",
-    "fullName": "Erick McDermott",
-    "bio": "traveler",
-    "gender": "MTF",
-    "birthdate": "1998-04-20T01:43:08.490Z",
-    "registeredAt": "2025-03-16T02:40:55.293Z"
-  },
-  {
-    "userId": "2c2d2c3a-b5a7-45ae-a5f7-31a75d3de47b",
-    "fullName": "Shelly McCullough",
-    "bio": "parade supporter, artist",
-    "gender": "FTM",
-    "birthdate": "1959-04-26T10:22:34.653Z",
-    "registeredAt": "2025-07-26T01:43:02.937Z"
-  },
-  {
-    "userId": "8651c81c-1fd5-4f29-b959-1b5e0ed20f2c",
-    "fullName": "Gerald Weimann",
-    "bio": "gamer, scientist, artist 🟪",
+    "userId": "888a3476-488d-40c6-b12e-b653ff14f546",
+    "fullName": "Deborah Mueller",
+    "bio": "author, patriot",
     "gender": "Demiflux",
-    "birthdate": "2006-11-17T04:31:51.085Z",
-    "registeredAt": "2025-07-31T03:05:30.166Z"
+    "birthdate": "1970-01-03T08:48:27.027Z",
+    "registeredAt": "2026-02-10T02:38:56.826Z"
+  },
+  {
+    "userId": "ee26fbc7-fdeb-4dbb-8509-e5a373c4214f",
+    "fullName": "Ollie Bruen",
+    "bio": "poverty fan  🇫🇮",
+    "gender": "FTM",
+    "birthdate": "1955-07-26T00:46:40.698Z",
+    "registeredAt": "2025-09-13T22:35:19.827Z"
+  },
+  {
+    "userId": "2ebde120-4be1-43f1-bca2-b3ff75cacd80",
+    "fullName": "Dominick Stokes",
+    "bio": "serial advocate, musician 🦶🏽",
+    "gender": "Cisgender",
+    "birthdate": "1993-08-29T02:21:58.641Z",
+    "registeredAt": "2025-03-27T08:14:49.756Z"
+  },
+  {
+    "userId": "ef8e694d-d391-471d-aecf-0d5a67a1e366",
+    "fullName": "Loren Braun",
+    "bio": "grad, coach, parent",
+    "gender": "Transexual female",
+    "birthdate": "2007-03-12T17:15:38.190Z",
+    "registeredAt": "2025-10-09T06:50:43.415Z"
+  },
+  {
+    "userId": "7a0cfe5b-65d4-4b35-9df6-b5e24f4260d9",
+    "fullName": "Henrietta Ward",
+    "bio": "coach",
+    "gender": "Trigender",
+    "birthdate": "1949-09-23T01:50:54.838Z",
+    "registeredAt": "2025-12-16T09:32:27.104Z"
+  },
+  {
+    "userId": "1042bf17-2617-492a-b14e-038504950204",
+    "fullName": "Toni Pfannerstill",
+    "bio": "traveler",
+    "gender": "Other",
+    "birthdate": "2006-12-20T11:09:20.344Z",
+    "registeredAt": "2025-09-01T09:22:21.185Z"
+  },
+  {
+    "userId": "c194c83b-e9f4-4737-b74c-c5201ecde137",
+    "fullName": "Tabitha Gulgowski",
+    "bio": "foodie",
+    "gender": "Intersex person",
+    "birthdate": "1978-12-08T08:21:14.289Z",
+    "registeredAt": "2026-01-22T20:54:38.072Z"
+  },
+  {
+    "userId": "a59d7c52-e599-45ef-b558-16a832e16229",
+    "fullName": "Joyce White",
+    "bio": "nerd, blogger, foodie",
+    "gender": "Trans person",
+    "birthdate": "1967-04-18T05:42:26.617Z",
+    "registeredAt": "2025-04-30T02:25:56.183Z"
+  },
+  {
+    "userId": "1526c512-7010-4b21-9efe-b448e707ed52",
+    "fullName": "Ms. Emma Franecki-Skiles",
+    "bio": "philosopher, artist",
+    "gender": "Demigender",
+    "birthdate": "1985-09-30T03:04:43.066Z",
+    "registeredAt": "2025-03-23T07:01:10.447Z"
   }
 ]
