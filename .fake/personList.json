@@ -1,138 +1,82 @@
 [
   {
-    "userId": "f4480a0d-4591-431b-8b99-7eb354cbbd4a",
-    "fullName": "Arthur McLaughlin",
-    "bio": "note enthusiast  ♟️",
-    "gender": "Demi-boy",
-    "birthdate": "1993-03-22T05:18:22.447Z",
-    "registeredAt": "2025-06-07T15:38:39.441Z"
-  },
-  {
-    "userId": "22947a46-bc2d-4c10-8202-ebddef498eb1",
-    "fullName": "Lawrence Fisher",
-    "bio": "scientist",
-    "gender": "Intersex person",
-    "birthdate": "1952-09-30T06:18:07.855Z",
-    "registeredAt": "2025-03-18T17:52:16.774Z"
-  },
-  {
-    "userId": "a4c3a890-f5b8-4ece-aae0-5b7dda699a65",
-    "fullName": "David West DDS",
-    "bio": "fountain fan, founder",
-    "gender": "M2F",
-    "birthdate": "1966-04-02T18:31:00.838Z",
-    "registeredAt": "2026-01-01T17:50:37.984Z"
-  },
-  {
-    "userId": "a2f80c87-5eb2-4935-82f9-ff0b2a0c3a8d",
-    "fullName": "Paulette Volkman",
-    "bio": "musician",
-    "gender": "Xenogender",
-    "birthdate": "1977-03-03T20:23:44.044Z",
-    "registeredAt": "2025-06-23T13:35:13.587Z"
-  },
-  {
-    "userId": "13434be4-cd4b-4385-aac1-9735c5ce4682",
-    "fullName": "Dr. Lucille Mohr",
-    "bio": "veteran, gamer, public speaker 🈚",
-    "gender": "Polygender",
-    "birthdate": "1990-09-18T20:52:58.109Z",
-    "registeredAt": "2026-01-12T07:06:26.218Z"
-  },
-  {
-    "userId": "8a736b84-34ba-4019-a0fb-d36d0f66d7ef",
-    "fullName": "Mr. Alvin Krajcik",
-    "bio": "dreamer, philosopher, inventor 🦦",
-    "gender": "Two* person",
-    "birthdate": "1980-11-07T03:40:30.543Z",
-    "registeredAt": "2025-08-15T00:00:32.422Z"
-  },
-  {
-    "userId": "9836dd6d-c951-4e2b-862d-8c0ca85a41ac",
-    "fullName": "Jaime Bergstrom",
-    "bio": "fob fan",
-    "gender": "Male to female trans woman",
-    "birthdate": "1957-04-27T12:50:31.195Z",
-    "registeredAt": "2026-01-19T16:42:40.535Z"
-  },
-  {
-    "userId": "252a31b0-ff39-427f-b6af-2deecd1e7152",
-    "fullName": "Mr. Alejandro Barrows",
-    "bio": "scientist, coach, person 🪥",
-    "gender": "MTF",
-    "birthdate": "1989-11-10T20:50:56.966Z",
-    "registeredAt": "2025-03-25T12:19:03.045Z"
-  },
-  {
-    "userId": "9d63753d-ffc6-4d6a-bb70-3987e63fbff8",
-    "fullName": "Catherine Raynor-Dare",
-    "bio": "digger devotee  🦻🏾",
-    "gender": "Transgender female",
-    "birthdate": "1967-10-22T23:25:47.354Z",
-    "registeredAt": "2026-01-25T13:58:39.691Z"
-  },
-  {
-    "userId": "3320900e-9245-41d1-a4e8-f56f917d8048",
-    "fullName": "Lila Lowe",
-    "bio": "dead devotee  🤑",
-    "gender": "Gender variant",
-    "birthdate": "1960-03-03T20:44:23.405Z",
-    "registeredAt": "2025-05-17T21:49:01.441Z"
-  },
-  {
-    "userId": "cf1c341c-7e8a-45cf-9746-617d6921a6e5",
-    "fullName": "Mr. Julius Kohler",
-    "bio": "developer, activist, veteran",
-    "gender": "Cis woman",
-    "birthdate": "2007-08-17T01:20:39.768Z",
-    "registeredAt": "2025-07-20T08:01:48.622Z"
-  },
-  {
-    "userId": "5fc24832-be58-4de8-9dc1-d63d49ab92f3",
-    "fullName": "Jimmy Jenkins",
-    "bio": "herb lover",
-    "gender": "Female to male transgender man",
-    "birthdate": "1963-11-11T12:08:56.802Z",
-    "registeredAt": "2026-01-09T01:51:13.308Z"
-  },
-  {
-    "userId": "101bef87-0a4f-4cb9-bb1d-50300e28cf0b",
-    "fullName": "Fernando Gerlach",
-    "bio": "legume devotee, foodie 🇰🇭",
-    "gender": "Man",
-    "birthdate": "1971-03-27T19:59:46.899Z",
-    "registeredAt": "2025-05-20T01:23:09.781Z"
-  },
-  {
-    "userId": "0a9834dc-43b4-4c12-a157-bff52285caef",
-    "fullName": "Katherine Ferry",
-    "bio": "sheath enthusiast",
-    "gender": "Genderqueer",
-    "birthdate": "1960-03-17T15:42:08.538Z",
-    "registeredAt": "2025-07-28T20:30:38.060Z"
-  },
-  {
-    "userId": "5647dda6-ea3c-4afc-8c65-519057061edf",
-    "fullName": "Mable McCullough",
-    "bio": "foodie, geek, person 💙",
-    "gender": "Neutrois",
-    "birthdate": "1972-03-14T09:23:56.648Z",
-    "registeredAt": "2025-09-19T01:31:59.947Z"
-  },
-  {
-    "userId": "0e73e20c-a39e-4e16-a718-dd6cf9a8b19e",
-    "fullName": "Helen Konopelski",
-    "bio": "cirrus lover, filmmaker 🇵🇸",
+    "userId": "d9586cd3-e4ad-4b88-95ac-b06bbe3b345d",
+    "fullName": "Corey Schroeder",
+    "bio": "blogger, model, person",
     "gender": "Hermaphrodite",
-    "birthdate": "2004-08-29T12:09:53.318Z",
-    "registeredAt": "2026-02-01T20:55:10.216Z"
+    "birthdate": "1966-08-09T10:20:47.812Z",
+    "registeredAt": "2025-04-14T15:12:46.728Z"
   },
   {
-    "userId": "c5373e8a-3c3a-4b81-bcd1-acf817fe2e0e",
-    "fullName": "Mrs. Carole Jast",
-    "bio": "alibi enthusiast, grad",
-    "gender": "Multigender",
-    "birthdate": "2007-04-27T03:25:41.168Z",
-    "registeredAt": "2025-08-07T12:22:25.368Z"
+    "userId": "4d510cb6-191b-44bf-ac84-4d5b61ad8aed",
+    "fullName": "Geraldine Howell",
+    "bio": "pod supporter, designer 🧑🏼‍❤️‍💋‍🧑🏾",
+    "gender": "Cis",
+    "birthdate": "1975-10-10T20:43:58.472Z",
+    "registeredAt": "2025-11-09T15:48:45.608Z"
+  },
+  {
+    "userId": "36fa7f81-9ccc-4632-88ec-8eab204907ea",
+    "fullName": "Jan Kling",
+    "bio": "singer, student, artist",
+    "gender": "Cis female",
+    "birthdate": "1980-07-11T19:34:27.986Z",
+    "registeredAt": "2025-04-20T05:25:20.950Z"
+  },
+  {
+    "userId": "4b4367ec-7890-4368-a6fd-3f55067274d6",
+    "fullName": "Claude Swaniawski",
+    "bio": "streamer",
+    "gender": "Trans woman",
+    "birthdate": "1971-04-25T13:50:07.293Z",
+    "registeredAt": "2026-01-24T22:02:21.085Z"
+  },
+  {
+    "userId": "4de67607-7cbd-4f0a-b8fc-b38424482468",
+    "fullName": "Dr. Marion Fadel PhD",
+    "bio": "film lover, traveler, philosopher 1️⃣",
+    "gender": "Gender nonconforming",
+    "birthdate": "1957-12-26T14:04:39.960Z",
+    "registeredAt": "2026-01-08T17:43:44.785Z"
+  },
+  {
+    "userId": "6e97b2f2-e99a-4115-90a8-7aac2bb9789e",
+    "fullName": "Daryl Wuckert",
+    "bio": "educator, parent",
+    "gender": "FTM",
+    "birthdate": "1959-02-06T11:22:55.730Z",
+    "registeredAt": "2025-11-21T23:53:49.418Z"
+  },
+  {
+    "userId": "428497b5-8e9e-45b4-8479-7f7f2f10ffda",
+    "fullName": "Dr. Darren Hayes Sr.",
+    "bio": "grip lover",
+    "gender": "Man",
+    "birthdate": "1996-08-07T10:47:07.332Z",
+    "registeredAt": "2025-09-19T03:14:53.640Z"
+  },
+  {
+    "userId": "dd7ce897-e7bc-4fa5-bc75-9e6c798793ca",
+    "fullName": "Melvin Ankunding",
+    "bio": "vaulting enthusiast  🩺",
+    "gender": "Trans man",
+    "birthdate": "1991-09-07T01:51:17.322Z",
+    "registeredAt": "2025-05-22T08:10:08.616Z"
+  },
+  {
+    "userId": "02448b34-df68-4b8e-87d3-86ceb55333c6",
+    "fullName": "Jeff Muller IV",
+    "bio": "leader, friend",
+    "gender": "Man",
+    "birthdate": "1966-05-07T16:48:26.965Z",
+    "registeredAt": "2025-12-15T03:03:24.701Z"
+  },
+  {
+    "userId": "cf117933-2602-4312-bf4e-36b536444402",
+    "fullName": "Freda Morar",
+    "bio": "writer, patriot, engineer 💏🏽",
+    "gender": "Hermaphrodite",
+    "birthdate": "1988-01-28T22:16:49.747Z",
+    "registeredAt": "2025-11-22T06:35:50.323Z"
   }
 ]
