@@ -1,138 +1,18 @@
 [
   {
-    "userId": "0db8d358-162e-49ec-893a-2752fa17363d",
-    "fullName": "Wanda Funk",
-    "bio": "alpha supporter",
-    "gender": "T* man",
-    "birthdate": "1973-03-12T20:34:13.237Z",
-    "registeredAt": "2023-11-26T17:16:37.847Z"
-  },
-  {
-    "userId": "83746e64-d5b5-4191-9b89-4c943740085a",
-    "fullName": "Miss Yvonne Walter",
-    "bio": "buyer enthusiast, author",
-    "gender": "Cisgender female",
-    "birthdate": "2001-09-10T11:36:42.801Z",
-    "registeredAt": "2023-05-15T00:15:06.823Z"
-  },
-  {
-    "userId": "f3720f3f-9051-4182-bb87-544dc05672ca",
-    "fullName": "Jacqueline Schulist",
-    "bio": "teacher, grad, author 🇲🇽",
-    "gender": "T* woman",
-    "birthdate": "1975-04-20T21:51:55.933Z",
-    "registeredAt": "2024-03-06T00:00:10.314Z"
-  },
-  {
-    "userId": "cf520df2-2f84-4fef-9989-1b2164720313",
-    "fullName": "Jody Zemlak",
-    "bio": "entrepreneur, entrepreneur",
+    "userId": "066b278d-970f-4039-9854-c1817b1bdc66",
+    "fullName": "Jack Kris",
+    "bio": "leader, founder",
     "gender": "Genderqueer",
-    "birthdate": "1951-04-17T23:18:02.092Z",
-    "registeredAt": "2023-12-22T19:07:18.222Z"
+    "birthdate": "1977-01-01T18:58:01.415Z",
+    "registeredAt": "2023-05-06T02:51:04.327Z"
   },
   {
-    "userId": "9b20f57d-c0b1-4068-a5e6-1359d3c26548",
-    "fullName": "Danielle O'Kon DDS",
-    "bio": "engineer, model",
-    "gender": "Woman",
-    "birthdate": "1945-10-18T07:08:18.767Z",
-    "registeredAt": "2023-04-10T08:31:49.987Z"
-  },
-  {
-    "userId": "4b6627df-81e7-4694-aa59-292d933d09f7",
-    "fullName": "Kellie Yost",
-    "bio": "filmmaker, public speaker",
-    "gender": "Agender",
-    "birthdate": "1964-09-25T15:44:27.816Z",
-    "registeredAt": "2024-01-26T22:12:05.027Z"
-  },
-  {
-    "userId": "2e92b33e-8c40-44e1-9907-59f1e09c9212",
-    "fullName": "Kay O'Keefe",
-    "bio": "misunderstand junkie  🍯",
-    "gender": "Transgender female",
-    "birthdate": "1973-12-26T21:12:08.526Z",
-    "registeredAt": "2023-03-26T19:21:26.128Z"
-  },
-  {
-    "userId": "662d060a-d1a5-41b6-948e-8a95d6231e02",
-    "fullName": "Doug Ryan",
-    "bio": "foodie, entrepreneur, filmmaker",
-    "gender": "Omnigender",
-    "birthdate": "1944-04-11T07:01:42.235Z",
-    "registeredAt": "2023-05-05T08:47:44.706Z"
-  },
-  {
-    "userId": "92eb8c9a-a3e5-4171-abb1-12f761f7335d",
-    "fullName": "Roland Rolfson",
-    "bio": "feeding devotee, leader 🐤",
-    "gender": "M2F",
-    "birthdate": "1965-11-01T07:58:08.045Z",
-    "registeredAt": "2024-03-09T12:42:36.047Z"
-  },
-  {
-    "userId": "e2d0def5-e261-47c7-808a-6088432a0018",
-    "fullName": "Mr. Elijah Haag",
-    "bio": "brunch advocate, scientist",
-    "gender": "Two* person",
-    "birthdate": "1959-04-06T07:29:53.137Z",
-    "registeredAt": "2023-05-19T05:06:15.908Z"
-  },
-  {
-    "userId": "aa7e891a-01ed-4e4c-89c2-b3dc972b070a",
-    "fullName": "Brad Gleason Jr.",
-    "bio": "instinct devotee  💜",
-    "gender": "Trans female",
-    "birthdate": "1971-08-26T12:20:52.306Z",
-    "registeredAt": "2023-06-07T16:47:05.198Z"
-  },
-  {
-    "userId": "22f0d243-240f-42e3-8b6c-8c3699bc946c",
-    "fullName": "Janice Greenholt-Rath",
-    "bio": "photographer, traveler, environmentalist",
-    "gender": "Trans person",
-    "birthdate": "1964-04-21T05:11:14.636Z",
-    "registeredAt": "2023-04-27T17:50:08.845Z"
-  },
-  {
-    "userId": "683842dc-bbef-4fb7-a32c-6a6c684eebd0",
-    "fullName": "Joe Ebert",
-    "bio": "tanker advocate  🎴",
-    "gender": "Male to female trans woman",
-    "birthdate": "1945-08-25T20:36:17.327Z",
-    "registeredAt": "2023-08-29T22:01:24.457Z"
-  },
-  {
-    "userId": "ad79e56d-1729-4c4a-89eb-74b835c9e26a",
-    "fullName": "Denise Johnson",
-    "bio": "blogger, traveler, creator 👐🏿",
-    "gender": "Cisgender female",
-    "birthdate": "1986-11-19T15:20:27.001Z",
-    "registeredAt": "2023-11-07T03:38:49.671Z"
-  },
-  {
-    "userId": "ac62721a-f94f-4d0f-8a45-6a00589696b2",
-    "fullName": "Myra Okuneva",
-    "bio": "latitude supporter",
-    "gender": "Intersex man",
-    "birthdate": "1982-12-25T13:14:49.099Z",
-    "registeredAt": "2023-07-18T07:31:39.842Z"
-  },
-  {
-    "userId": "262399f2-392e-4da2-8c0e-4fa964c86fd1",
-    "fullName": "Orville Wiza",
-    "bio": "stealth enthusiast  🎸",
-    "gender": "Cisgender woman",
-    "birthdate": "1961-04-26T16:42:18.213Z",
-    "registeredAt": "2024-03-05T04:56:52.254Z"
-  },
-  {
-    "userId": "271ea680-3c29-46da-8570-0c7de93b40c6",
-    "fullName": "Lionel Gulgowski",
-    "bio": "blogger, philosopher",
-    "gender": "Transexual",
-    "birthdate": "2004-09-17T04:45:36.988Z",
-    "registeredAt": "2023-06-25T09:43:33.730Z"
+    "userId": "baabbec9-f7a7-4c65-b12a-759d8ef74519",
+    "fullName": "Ralph Aufderhar",
+    "bio": "stockings fan",
+    "gender": "Intersex",
+    "birthdate": "1950-02-01T02:45:10.545Z",
+    "registeredAt": "2023-07-21T07:36:36.232Z"
   }
 ]
