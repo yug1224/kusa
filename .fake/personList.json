@@ -1,98 +1,66 @@
 [
   {
-    "userId": "5128c42f-9a35-4db6-a9ac-54d27faff019",
-    "fullName": "Jaime Jast",
-    "bio": "writer, scientist, scientist 🇵🇭",
-    "gender": "Gender neutral",
-    "birthdate": "1979-07-13T05:28:42.824Z",
-    "registeredAt": "2026-01-14T21:23:21.255Z"
-  },
-  {
-    "userId": "5bb04ecc-d500-4314-a82f-f467676f66fa",
-    "fullName": "Jenny Turcotte",
-    "bio": "designer",
-    "gender": "T* woman",
-    "birthdate": "1974-12-24T04:16:54.270Z",
-    "registeredAt": "2026-01-09T23:17:17.418Z"
-  },
-  {
-    "userId": "515f533e-1574-4577-9c52-19d650a423ec",
-    "fullName": "Diane Littel",
-    "bio": "leader, singer",
-    "gender": "Cisgender",
-    "birthdate": "1950-01-22T14:19:07.904Z",
-    "registeredAt": "2025-06-26T03:14:19.315Z"
-  },
-  {
-    "userId": "4781979a-f8b8-4867-99bc-73fbb8881147",
-    "fullName": "Meredith Schiller DVM",
-    "bio": "streamer, artist, designer",
-    "gender": "Gender fluid",
-    "birthdate": "1948-12-29T18:03:16.164Z",
-    "registeredAt": "2025-08-13T05:09:21.566Z"
-  },
-  {
-    "userId": "a3ac54b6-e7cc-48b5-ab01-469d2516094b",
-    "fullName": "Mr. Lewis Rowe",
-    "bio": "span advocate",
-    "gender": "Demigender",
-    "birthdate": "1974-07-31T17:29:16.166Z",
-    "registeredAt": "2026-01-19T07:17:53.050Z"
-  },
-  {
-    "userId": "81d8c77b-5122-4c86-995a-b6e3395811bb",
-    "fullName": "Dr. Rene Upton",
-    "bio": "local devotee",
-    "gender": "Demi-woman",
-    "birthdate": "1996-09-25T19:50:11.107Z",
-    "registeredAt": "2025-05-17T08:44:52.910Z"
-  },
-  {
-    "userId": "9ffafb45-2e8e-4de4-91d2-9270a709b7ab",
-    "fullName": "Robyn Bergstrom",
-    "bio": "streamer, singer",
-    "gender": "Xenogender",
-    "birthdate": "1990-08-01T17:30:53.427Z",
-    "registeredAt": "2025-06-03T23:57:51.379Z"
-  },
-  {
-    "userId": "2e7b57e7-5280-4740-bc08-ab079ba2f0be",
-    "fullName": "Cedric Brown",
-    "bio": "shoemaker lover",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1946-10-17T14:29:49.122Z",
-    "registeredAt": "2025-08-04T18:55:04.708Z"
-  },
-  {
-    "userId": "1ef5c551-0ef2-453c-89c6-27c64aef34a9",
-    "fullName": "Frances Carroll MD",
-    "bio": "journal junkie, business owner ❗",
-    "gender": "Trans male",
-    "birthdate": "2003-03-24T08:21:42.598Z",
-    "registeredAt": "2025-09-21T02:20:09.722Z"
-  },
-  {
-    "userId": "ca7b6d54-9c85-4142-8b02-ff8dffeb8581",
-    "fullName": "Mindy Kirlin",
-    "bio": "iridescence fan, singer 🥈",
-    "gender": "Neither",
-    "birthdate": "1946-06-28T13:08:58.706Z",
-    "registeredAt": "2025-09-07T20:24:44.724Z"
-  },
-  {
-    "userId": "158a28e4-a288-4768-9d20-e89e1fd862f1",
-    "fullName": "Leah Casper",
-    "bio": "scientist, musician, veteran",
-    "gender": "T* man",
-    "birthdate": "1951-09-09T22:25:40.040Z",
-    "registeredAt": "2025-08-04T18:54:06.563Z"
-  },
-  {
-    "userId": "275cb4e7-0516-408c-9e03-feab8eec157b",
-    "fullName": "Ross Yost",
-    "bio": "labourer junkie  🧈",
+    "userId": "c7e9b024-a938-4b8e-a7fb-9df3f1ef9db0",
+    "fullName": "Teri Weber Sr.",
+    "bio": "waterwheel lover  🇦🇲",
     "gender": "Omnigender",
-    "birthdate": "1965-08-26T12:32:39.522Z",
-    "registeredAt": "2025-09-05T05:27:56.184Z"
+    "birthdate": "2004-01-20T05:57:58.897Z",
+    "registeredAt": "2026-01-07T18:11:12.365Z"
+  },
+  {
+    "userId": "5aa15776-c6e8-42cf-a246-87097775294d",
+    "fullName": "Dennis Lang-Watsica",
+    "bio": "tonality supporter",
+    "gender": "Xenogender",
+    "birthdate": "1965-08-21T23:32:44.996Z",
+    "registeredAt": "2025-05-08T06:00:10.388Z"
+  },
+  {
+    "userId": "7734d367-046d-44e6-84e5-19b6726131d0",
+    "fullName": "Irving Stanton",
+    "bio": "activist, model, designer 👩🏽‍🦼",
+    "gender": "Hermaphrodite",
+    "birthdate": "1947-01-03T23:58:04.137Z",
+    "registeredAt": "2026-01-24T23:25:38.532Z"
+  },
+  {
+    "userId": "0fb0b349-01d0-439b-a36c-f062071ca90e",
+    "fullName": "Hugh Walsh",
+    "bio": "author, friend, author",
+    "gender": "Cis",
+    "birthdate": "1967-12-17T21:26:10.539Z",
+    "registeredAt": "2025-05-04T18:18:11.992Z"
+  },
+  {
+    "userId": "01e1f960-984e-47ad-9f1d-467935490180",
+    "fullName": "Dean Stiedemann",
+    "bio": "teacher, photographer",
+    "gender": "Hermaphrodite",
+    "birthdate": "1999-05-03T05:54:45.151Z",
+    "registeredAt": "2025-09-16T23:40:16.635Z"
+  },
+  {
+    "userId": "1b7b1f0c-8d63-4bb6-ae1e-8460c1e7acaa",
+    "fullName": "Della Berge",
+    "bio": "inventor, dreamer, friend 🎎",
+    "gender": "Trans female",
+    "birthdate": "1969-07-22T17:54:10.537Z",
+    "registeredAt": "2025-12-26T15:17:16.519Z"
+  },
+  {
+    "userId": "9125d281-60b5-4245-9972-9a7eb9938b59",
+    "fullName": "Madeline Mertz",
+    "bio": "scientist, dreamer, veteran",
+    "gender": "Intersex person",
+    "birthdate": "1952-02-14T18:48:27.377Z",
+    "registeredAt": "2025-09-06T22:16:19.623Z"
+  },
+  {
+    "userId": "8b8e2556-4c29-4092-bfb6-18924abe0a62",
+    "fullName": "Nicolas Windler",
+    "bio": "way fan, artist 🪛",
+    "gender": "Cis",
+    "birthdate": "1959-11-24T03:47:37.367Z",
+    "registeredAt": "2025-08-11T01:56:06.056Z"
   }
 ]
