@@ -1,146 +1,66 @@
 [
   {
-    "userId": "998870e6-12dd-4958-b590-2685036783d3",
-    "fullName": "Lynette Bernier",
-    "bio": "engineer",
-    "gender": "Transexual male",
-    "birthdate": "1990-07-16T21:50:58.359Z",
-    "registeredAt": "2025-11-25T14:50:42.557Z"
-  },
-  {
-    "userId": "14a573d0-3866-45e2-b06c-42c2147312fa",
-    "fullName": "Jenna Fahey",
-    "bio": "abbey advocate, writer 📌",
-    "gender": "Trans person",
-    "birthdate": "1949-04-05T13:50:18.200Z",
-    "registeredAt": "2025-08-01T16:44:51.883Z"
-  },
-  {
-    "userId": "54c4d3ec-83c5-4ba7-b22c-212203cb01ea",
-    "fullName": "Roberto Skiles",
-    "bio": "maker junkie  🥰",
-    "gender": "Gender variant",
-    "birthdate": "1990-07-28T21:19:08.376Z",
-    "registeredAt": "2025-06-21T02:22:58.490Z"
-  },
-  {
-    "userId": "5237bb7d-ba4f-420d-9c24-b7b2df3c096d",
-    "fullName": "Miss Shawna Ferry",
-    "bio": "singer, streamer",
-    "gender": "Cisgender",
-    "birthdate": "1956-06-20T05:49:00.138Z",
-    "registeredAt": "2025-05-13T20:55:15.482Z"
-  },
-  {
-    "userId": "213ad014-21d0-4ada-b3f2-5fc75d62a3e1",
-    "fullName": "Abel Jacobson",
-    "bio": "inventor, musician",
-    "gender": "Gender fluid",
-    "birthdate": "1980-01-03T20:33:44.369Z",
-    "registeredAt": "2025-06-16T16:14:54.228Z"
-  },
-  {
-    "userId": "38c6bea6-3be3-441b-9cd7-3df3ab860a3c",
-    "fullName": "Leon Hickle",
-    "bio": "engineer, singer, nerd",
-    "gender": "Female to male",
-    "birthdate": "1948-05-14T09:19:35.323Z",
-    "registeredAt": "2025-11-16T00:53:19.752Z"
-  },
-  {
-    "userId": "be9c44ff-208a-43b7-8b01-725534b31d7d",
-    "fullName": "Paul McCullough",
-    "bio": "removal fan, gamer",
-    "gender": "Polygender",
-    "birthdate": "1974-11-29T15:09:39.559Z",
-    "registeredAt": "2025-04-17T04:52:42.103Z"
-  },
-  {
-    "userId": "f700592c-2138-420c-8c54-b164722a415e",
-    "fullName": "William McCullough",
-    "bio": "brief junkie, founder",
-    "gender": "Trans man",
-    "birthdate": "1968-11-05T23:44:55.617Z",
-    "registeredAt": "2025-09-06T16:41:32.561Z"
-  },
-  {
-    "userId": "752a8bf4-fca3-4b2b-8fe6-84bc7bb64133",
-    "fullName": "Mr. Winston Murphy MD",
-    "bio": "veteran, geek, founder 🐢",
-    "gender": "Woman",
-    "birthdate": "1971-01-06T01:22:36.884Z",
-    "registeredAt": "2025-08-05T11:25:58.856Z"
-  },
-  {
-    "userId": "9ba9c20e-fa1c-491c-807d-57557c94d441",
-    "fullName": "Adrienne Swaniawski",
-    "bio": "patriot, parent, creator",
-    "gender": "Female to male transgender man",
-    "birthdate": "1975-09-18T17:38:49.394Z",
-    "registeredAt": "2025-08-19T01:24:11.119Z"
-  },
-  {
-    "userId": "3f3a8d55-b80c-40c1-99cf-82d2efd8220b",
-    "fullName": "Angel Treutel",
-    "bio": "singer, model",
-    "gender": "FTM",
-    "birthdate": "1992-10-29T20:37:36.059Z",
-    "registeredAt": "2025-12-10T14:49:06.686Z"
-  },
-  {
-    "userId": "1c4b7f60-10ac-4472-9c53-0f9e6ca3a1e3",
-    "fullName": "Noah Greenholt",
-    "bio": "educator",
-    "gender": "Gender fluid",
-    "birthdate": "1982-08-03T07:03:24.205Z",
-    "registeredAt": "2025-07-18T09:38:19.728Z"
-  },
-  {
-    "userId": "9da74e26-6ba4-4a04-9120-e7a2adbd6d5e",
-    "fullName": "Patrick Welch",
-    "bio": "musician, film lover, geek",
-    "gender": "Transgender female",
-    "birthdate": "1958-01-02T02:09:35.195Z",
-    "registeredAt": "2025-06-11T20:24:31.263Z"
-  },
-  {
-    "userId": "b44af3a3-826d-4863-b1d2-0e25778db289",
-    "fullName": "Beatrice MacGyver",
-    "bio": "author, founder, designer",
-    "gender": "Hermaphrodite",
-    "birthdate": "1991-05-19T04:47:19.870Z",
-    "registeredAt": "2025-11-25T15:05:19.007Z"
-  },
-  {
-    "userId": "92ed3802-fbdf-43bf-9692-71af72ead881",
-    "fullName": "Dr. Lloyd Auer",
-    "bio": "foodie",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1992-02-08T14:51:12.375Z",
-    "registeredAt": "2025-11-22T15:03:06.622Z"
-  },
-  {
-    "userId": "8274aa9e-90cf-4831-9c65-9385edc5dfb0",
-    "fullName": "Sophia Nitzsche",
-    "bio": "environmentalist, singer, public speaker",
-    "gender": "Trans person",
-    "birthdate": "1959-12-14T03:27:03.665Z",
-    "registeredAt": "2025-09-28T17:33:24.704Z"
-  },
-  {
-    "userId": "abb9a97f-d748-4b3f-8642-8cf6c8e919b4",
-    "fullName": "Eunice Hagenes DDS",
-    "bio": "enjoyment advocate, film lover 👏🏽",
-    "gender": "Female to male trans man",
-    "birthdate": "2003-10-16T03:39:54.539Z",
-    "registeredAt": "2025-09-13T12:53:23.598Z"
-  },
-  {
-    "userId": "b18cbd6c-098e-4405-964c-253a7ba95a88",
-    "fullName": "Lorene Brakus",
-    "bio": "ideal junkie  🇹🇦",
+    "userId": "748f68ab-212e-40a1-aa18-4cc18f5101ca",
+    "fullName": "Shaun Muller",
+    "bio": "coach, streamer, founder ♉",
     "gender": "Non-binary",
-    "birthdate": "2003-09-12T21:08:59.724Z",
-    "registeredAt": "2025-04-10T19:53:11.254Z"
+    "birthdate": "2000-06-17T14:39:49.449Z",
+    "registeredAt": "2025-12-10T20:43:51.469Z"
+  },
+  {
+    "userId": "3b7b363a-6c70-45d8-8618-c8d28bf61c15",
+    "fullName": "Gladys Purdy",
+    "bio": "spelt supporter, environmentalist 💊",
+    "gender": "Two* person",
+    "birthdate": "1989-07-23T16:27:54.009Z",
+    "registeredAt": "2025-07-16T16:10:29.877Z"
+  },
+  {
+    "userId": "1c857844-b76a-476b-867f-4abd01dc9112",
+    "fullName": "Kelli Ankunding",
+    "bio": "carry fan  ♉",
+    "gender": "Trans woman",
+    "birthdate": "1973-01-30T18:40:58.436Z",
+    "registeredAt": "2025-07-28T20:45:50.412Z"
+  },
+  {
+    "userId": "09b383d9-db5b-44bf-857f-c0034fce6bd0",
+    "fullName": "Ethel Stroman",
+    "bio": "airbag junkie",
+    "gender": "Cisgender female",
+    "birthdate": "1952-05-28T23:53:06.212Z",
+    "registeredAt": "2025-07-19T19:49:25.920Z"
+  },
+  {
+    "userId": "45b1a461-1c4a-46f5-8e74-8a828538955a",
+    "fullName": "Ms. Wanda Kris",
+    "bio": "patriot, teacher, educator",
+    "gender": "Two-spirit person",
+    "birthdate": "1968-01-28T16:23:49.837Z",
+    "registeredAt": "2025-08-01T19:52:23.619Z"
+  },
+  {
+    "userId": "75c8f89f-fef0-4165-aa0a-00c7bce83064",
+    "fullName": "Dr. Tyler Rodriguez",
+    "bio": "engineer, creator, streamer",
+    "gender": "T* woman",
+    "birthdate": "2001-03-16T22:58:49.529Z",
+    "registeredAt": "2026-01-03T03:46:34.165Z"
+  },
+  {
+    "userId": "3e933ca5-2f6b-4f23-b334-fbad8e4742f6",
+    "fullName": "Isabel Franey",
+    "bio": "environmentalist",
+    "gender": "Cisgender female",
+    "birthdate": "1948-07-19T08:11:13.545Z",
+    "registeredAt": "2025-12-01T22:28:36.172Z"
+  },
+  {
+    "userId": "a424beca-5e6f-4d67-bf73-e81079e4876d",
+    "fullName": "Miss Shirley Reynolds",
+    "bio": "geek, leader, nerd 🎣",
+    "gender": "Cis male",
+    "birthdate": "1982-10-22T23:25:34.432Z",
+    "registeredAt": "2025-11-17T01:40:59.345Z"
   }
 ]
