@@ -1,146 +1,66 @@
 [
   {
-    "userId": "2c053353-24b7-4ad0-ba1f-c9c978dae664",
-    "fullName": "Jean Weissnat",
-    "bio": "planet supporter, designer 🇹🇴",
-    "gender": "Neutrois",
-    "birthdate": "2005-07-06T22:22:25.146Z",
-    "registeredAt": "2025-12-11T21:35:32.441Z"
-  },
-  {
-    "userId": "af87d6ce-e120-4821-84af-35a7a2b294bb",
-    "fullName": "Wendell Yost-Muller",
-    "bio": "dreamer, business owner",
-    "gender": "Bigender",
-    "birthdate": "1972-12-31T23:29:07.232Z",
-    "registeredAt": "2026-02-10T07:50:46.952Z"
-  },
-  {
-    "userId": "c370b3a6-933e-4921-99c4-aefde7dd10b8",
-    "fullName": "Salvatore Bartell-Carroll III",
-    "bio": "wrecker enthusiast",
-    "gender": "Androgyne",
-    "birthdate": "1990-09-10T10:10:32.366Z",
-    "registeredAt": "2025-05-28T07:42:00.342Z"
-  },
-  {
-    "userId": "d57b345e-5644-494e-b9c4-2a00ef0946af",
-    "fullName": "Clifton Vandervort",
-    "bio": "dance enthusiast, model 🐉",
-    "gender": "Cis man",
-    "birthdate": "1988-06-27T10:48:25.916Z",
-    "registeredAt": "2025-06-29T02:19:39.119Z"
-  },
-  {
-    "userId": "541277fc-0972-48f6-8939-6fbcdfe491e6",
-    "fullName": "Kelli Smith",
-    "bio": "patriot",
-    "gender": "Demi-man",
-    "birthdate": "1960-09-11T02:31:41.912Z",
-    "registeredAt": "2026-02-10T06:52:00.577Z"
-  },
-  {
-    "userId": "bfa7dee2-ccda-40f7-9202-11b9c13b877e",
-    "fullName": "Fernando Kertzmann",
-    "bio": "leader, student, engineer",
-    "gender": "Cis",
-    "birthdate": "2007-01-08T19:02:23.402Z",
-    "registeredAt": "2025-06-23T14:50:44.224Z"
-  },
-  {
-    "userId": "d78ee856-02f1-45f1-aa6e-879cf47a912d",
-    "fullName": "Gordon Hermiston",
-    "bio": "gamer, developer, parent 🧑🏿‍🦼",
-    "gender": "Woman",
-    "birthdate": "1968-01-16T11:58:43.291Z",
-    "registeredAt": "2025-07-23T11:08:39.852Z"
-  },
-  {
-    "userId": "6def4710-42fa-4d0d-82cc-53911e2eae6a",
-    "fullName": "Jared Hermiston",
-    "bio": "leisure devotee",
-    "gender": "M2F",
-    "birthdate": "1953-05-07T05:44:19.564Z",
-    "registeredAt": "2025-09-10T15:56:32.041Z"
-  },
-  {
-    "userId": "b1c4e2d9-4129-4392-a15a-c95883d69c23",
-    "fullName": "Kerry Cassin",
-    "bio": "pennant lover",
-    "gender": "Omnigender",
-    "birthdate": "1968-02-03T16:10:09.668Z",
-    "registeredAt": "2025-08-28T12:13:49.640Z"
-  },
-  {
-    "userId": "dce70f7b-3bf2-44e4-b533-adb6f1f6d8a3",
-    "fullName": "Linda Ullrich",
-    "bio": "developer, business owner, artist",
-    "gender": "Cis man",
-    "birthdate": "1952-09-09T02:14:05.041Z",
-    "registeredAt": "2025-07-15T06:29:39.025Z"
-  },
-  {
-    "userId": "8a02bc77-da66-4a70-ad80-44fbbaa91a6b",
-    "fullName": "Jackie Muller",
-    "bio": "scientist, founder",
-    "gender": "Trigender",
-    "birthdate": "2007-04-10T17:58:33.885Z",
-    "registeredAt": "2025-11-19T10:41:04.488Z"
-  },
-  {
-    "userId": "7b8cb81b-89aa-45bf-a337-ed23314fc35f",
-    "fullName": "Israel Mosciski",
-    "bio": "bandolier devotee, environmentalist",
-    "gender": "Omnigender",
-    "birthdate": "1973-01-16T04:04:37.859Z",
-    "registeredAt": "2025-10-14T08:40:03.504Z"
-  },
-  {
-    "userId": "4ab7623a-8313-4825-b2b5-3c4c3ddd6de3",
-    "fullName": "Sophie Johns IV",
-    "bio": "singer, musician, engineer",
-    "gender": "Trans",
-    "birthdate": "1999-04-10T19:33:02.367Z",
-    "registeredAt": "2025-07-09T06:37:13.047Z"
-  },
-  {
-    "userId": "408029d8-5707-4c88-8f68-454b740cee31",
-    "fullName": "Dr. Gabriel Kihn",
-    "bio": "neighborhood devotee, student 🤕",
-    "gender": "Trigender",
-    "birthdate": "1991-08-03T03:05:33.168Z",
-    "registeredAt": "2025-07-30T00:52:46.389Z"
-  },
-  {
-    "userId": "85204469-fe1c-4b43-bff2-62053dd5e819",
-    "fullName": "Danielle DuBuque Sr.",
-    "bio": "remark junkie, streamer",
-    "gender": "Male to female",
-    "birthdate": "1953-03-05T12:17:33.199Z",
-    "registeredAt": "2025-09-16T08:06:03.228Z"
-  },
-  {
-    "userId": "25c5d3c2-93f1-4670-8913-71788aa13ce8",
-    "fullName": "Doreen Hudson",
-    "bio": "affair enthusiast, geek",
+    "userId": "97965d83-9345-4161-856f-6c7a6a854327",
+    "fullName": "Kurt Schmitt",
+    "bio": "shot fan, grad 🔶",
     "gender": "Other",
-    "birthdate": "1994-11-03T10:39:32.019Z",
-    "registeredAt": "2025-12-26T18:45:08.445Z"
+    "birthdate": "1951-04-04T10:41:16.148Z",
+    "registeredAt": "2025-06-29T23:52:52.827Z"
   },
   {
-    "userId": "eab030b2-020f-4c0e-96ec-685f67ce3ce0",
-    "fullName": "Audrey Medhurst",
-    "bio": "engineer, designer, engineer",
-    "gender": "Female to male",
-    "birthdate": "1989-01-14T00:40:37.477Z",
-    "registeredAt": "2025-07-09T16:32:40.257Z"
+    "userId": "fa11cf34-abac-45b7-8b38-d265e8a554dd",
+    "fullName": "Katie Witting",
+    "bio": "photographer, developer, philosopher",
+    "gender": "Cisgender man",
+    "birthdate": "1988-06-09T19:37:04.139Z",
+    "registeredAt": "2025-04-26T13:30:35.762Z"
   },
   {
-    "userId": "0b72ed18-753f-47e5-8f6c-59ed92a81437",
-    "fullName": "Sadie Franecki",
-    "bio": "picturesque enthusiast, environmentalist 🔭",
-    "gender": "Other",
-    "birthdate": "1971-07-09T15:28:22.142Z",
-    "registeredAt": "2025-03-21T02:39:23.200Z"
+    "userId": "5bbffef3-c2a0-4865-8f7f-fc7fcb6773e8",
+    "fullName": "Cody Lind DDS",
+    "bio": "teacher, developer, filmmaker",
+    "gender": "Cisgender female",
+    "birthdate": "1986-06-09T21:26:47.142Z",
+    "registeredAt": "2025-06-09T16:32:02.162Z"
+  },
+  {
+    "userId": "fa32ef3d-6996-4383-8277-18332c566a9f",
+    "fullName": "Seth Towne",
+    "bio": "paper enthusiast, veteran 🇬🇧",
+    "gender": "Multigender",
+    "birthdate": "1953-12-07T02:00:06.666Z",
+    "registeredAt": "2026-01-19T16:31:59.933Z"
+  },
+  {
+    "userId": "fc021fc7-1116-439a-9fa2-2ef88be1bcb4",
+    "fullName": "Salvador Gleichner",
+    "bio": "leader, author",
+    "gender": "Genderqueer",
+    "birthdate": "1995-10-11T11:31:20.938Z",
+    "registeredAt": "2025-11-10T16:21:47.794Z"
+  },
+  {
+    "userId": "77dc09c8-173c-45a1-9af4-acc24cd9e37a",
+    "fullName": "Garrett Kozey II",
+    "bio": "emanate lover",
+    "gender": "Intersex person",
+    "birthdate": "2005-02-23T05:30:16.589Z",
+    "registeredAt": "2025-08-26T00:50:43.550Z"
+  },
+  {
+    "userId": "d235ce2f-d705-4926-b834-a257c959cf21",
+    "fullName": "Lillian Borer-Hettinger",
+    "bio": "change devotee",
+    "gender": "Omnigender",
+    "birthdate": "1981-06-03T14:21:33.029Z",
+    "registeredAt": "2025-07-11T14:13:43.264Z"
+  },
+  {
+    "userId": "05e8a5e1-f902-4a18-b194-ebfb2fc8684a",
+    "fullName": "Tanya Harris",
+    "bio": "waffle enthusiast, educator 🐺",
+    "gender": "Transexual person",
+    "birthdate": "1987-01-20T05:30:00.458Z",
+    "registeredAt": "2025-03-29T04:54:32.782Z"
   }
 ]
