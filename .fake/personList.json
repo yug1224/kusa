@@ -1,154 +1,106 @@
 [
   {
-    "userId": "e2fd6c83-1844-4267-9b19-b553394d7e58",
-    "fullName": "Mr. Rex Price",
-    "bio": "onset supporter, film lover 1️⃣",
-    "gender": "Cisgender man",
-    "birthdate": "1968-07-16T19:39:25.526Z",
-    "registeredAt": "2026-01-08T05:15:42.111Z"
-  },
-  {
-    "userId": "993d25c2-11fa-4534-8c08-c8b8c2071f54",
-    "fullName": "Emilio Kilback",
-    "bio": "artist, teacher",
-    "gender": "Neutrois",
-    "birthdate": "1951-09-13T04:56:30.012Z",
-    "registeredAt": "2025-07-08T17:17:41.340Z"
-  },
-  {
-    "userId": "64e0e803-a80d-456a-a21e-a71d4bea6250",
-    "fullName": "Darlene Fisher",
-    "bio": "patriot, gamer, writer",
-    "gender": "Transexual male",
-    "birthdate": "1968-06-28T13:03:14.069Z",
-    "registeredAt": "2026-01-22T15:47:57.381Z"
-  },
-  {
-    "userId": "9d829170-03bf-44aa-9f0b-1b2f2dec994e",
-    "fullName": "Francis Lynch",
-    "bio": "photographer, leader, traveler",
-    "gender": "Intersex man",
-    "birthdate": "1987-08-19T03:44:17.972Z",
-    "registeredAt": "2025-07-19T09:23:26.653Z"
-  },
-  {
-    "userId": "f5d54962-f6bd-439b-afb1-860ccdd6744e",
-    "fullName": "Susan Langworth",
-    "bio": "philosopher, founder",
-    "gender": "Intersex man",
-    "birthdate": "1989-03-04T14:21:58.669Z",
-    "registeredAt": "2025-12-24T18:24:58.418Z"
-  },
-  {
-    "userId": "6b36b23a-fe03-46fb-b46f-ba9d21695a1c",
-    "fullName": "Mrs. Penny Hand",
-    "bio": "savannah supporter  🐌",
-    "gender": "Cis man",
-    "birthdate": "1948-01-24T20:17:14.392Z",
-    "registeredAt": "2025-07-26T11:05:49.909Z"
-  },
-  {
-    "userId": "a789dc6d-30c0-40c9-a57e-fdb0d0ab92da",
-    "fullName": "Frederick Kreiger",
-    "bio": "handball devotee",
-    "gender": "Two-spirit person",
-    "birthdate": "1968-11-29T06:53:37.255Z",
-    "registeredAt": "2025-04-17T20:27:18.638Z"
-  },
-  {
-    "userId": "1f9fd836-fdec-405a-8843-8fbf17208c06",
-    "fullName": "Blanche Bechtelar",
-    "bio": "insurrection junkie, entrepreneur ⏫",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1966-10-01T04:00:07.444Z",
-    "registeredAt": "2025-11-04T18:47:02.910Z"
-  },
-  {
-    "userId": "20081d85-48e3-49a7-b709-47a371bed522",
-    "fullName": "Rafael Sauer",
-    "bio": "teacher",
-    "gender": "Agender",
-    "birthdate": "2007-08-26T08:54:35.833Z",
-    "registeredAt": "2025-12-14T11:29:19.733Z"
-  },
-  {
-    "userId": "2bb52995-3092-465e-b48b-5a86437e4019",
-    "fullName": "Mr. Gabriel Lehner",
-    "bio": "menopause enthusiast  🦦",
-    "gender": "Intersex woman",
-    "birthdate": "1963-01-31T00:24:15.213Z",
-    "registeredAt": "2025-09-26T07:21:06.550Z"
-  },
-  {
-    "userId": "b851cbed-8871-4e60-a4bf-eb79144a4ef9",
-    "fullName": "Patsy Funk",
-    "bio": "rose lover, teacher 🎮",
-    "gender": "Trans male",
-    "birthdate": "1981-12-07T23:19:46.439Z",
-    "registeredAt": "2025-06-10T23:45:12.504Z"
-  },
-  {
-    "userId": "9c1c7331-a332-4350-8e8f-d87dd62a3efe",
-    "fullName": "Dr. Kurt Haley",
-    "bio": "cashier junkie  🧦",
-    "gender": "Multigender",
-    "birthdate": "2003-09-20T08:59:10.292Z",
-    "registeredAt": "2025-09-18T01:05:18.385Z"
-  },
-  {
-    "userId": "c3a7fdc5-4a81-450b-a997-c482a262955f",
-    "fullName": "Kelly Mayert",
-    "bio": "ironclad enthusiast  🏔️",
-    "gender": "Cis man",
-    "birthdate": "1955-04-11T21:12:16.728Z",
-    "registeredAt": "2025-06-04T06:23:11.226Z"
-  },
-  {
-    "userId": "40cf5213-6196-4dec-89ee-a82686e263f7",
-    "fullName": "Marsha Howell",
-    "bio": "fate devotee, leader",
-    "gender": "Cis",
-    "birthdate": "1971-03-19T21:10:22.507Z",
-    "registeredAt": "2025-07-13T21:37:27.612Z"
-  },
-  {
-    "userId": "c4ec6609-dd6f-4e2e-a00e-ab7f2907c842",
-    "fullName": "Brandi Bogan",
-    "bio": "chiffonier fan, model",
-    "gender": "MTF",
-    "birthdate": "1990-08-05T06:23:05.313Z",
-    "registeredAt": "2025-11-24T02:16:25.645Z"
-  },
-  {
-    "userId": "98eb54a0-472e-4384-8463-814cbb5ba705",
-    "fullName": "Howard Homenick",
-    "bio": "developer, person, singer 🍕",
-    "gender": "Cis female",
-    "birthdate": "1955-10-29T05:31:08.192Z",
-    "registeredAt": "2025-05-11T23:27:53.077Z"
-  },
-  {
-    "userId": "e92846c4-8215-4fd2-903b-1e1abf2fb7d9",
-    "fullName": "Tony Reichel",
-    "bio": "embryo advocate, film lover 📆",
-    "gender": "Non-binary",
-    "birthdate": "2003-02-18T19:17:50.807Z",
-    "registeredAt": "2025-11-25T10:05:04.493Z"
-  },
-  {
-    "userId": "c3b15d8a-5469-42ed-9a67-cf9b2cae3299",
-    "fullName": "Jeannie Kuvalis DVM",
-    "bio": "gold lover, foodie 🇸🇰",
+    "userId": "9f4cba94-f1c0-4406-9c1c-6696bf3ab46c",
+    "fullName": "Edwin Carroll",
+    "bio": "inventor, person, veteran",
     "gender": "Gender neutral",
-    "birthdate": "1988-09-27T05:17:49.034Z",
-    "registeredAt": "2026-02-17T21:49:19.066Z"
+    "birthdate": "2004-09-01T12:28:30.683Z",
+    "registeredAt": "2025-07-03T17:23:53.906Z"
   },
   {
-    "userId": "7775d1c7-4818-4d36-8af5-fb30fbe900a9",
-    "fullName": "Ebony Dicki",
-    "bio": "hypothesis enthusiast  🌀",
-    "gender": "Two* person",
-    "birthdate": "1952-01-12T01:05:01.649Z",
-    "registeredAt": "2025-09-20T00:19:15.156Z"
+    "userId": "df293ec5-b955-402a-97cc-f513c9345bc6",
+    "fullName": "Gene Haag",
+    "bio": "bronco devotee, developer",
+    "gender": "Transexual man",
+    "birthdate": "1960-12-10T08:36:13.070Z",
+    "registeredAt": "2025-04-13T18:35:03.398Z"
+  },
+  {
+    "userId": "e691e10f-4574-4369-9fc7-ba92e130cb80",
+    "fullName": "Cynthia Haag",
+    "bio": "gamer",
+    "gender": "Demiflux",
+    "birthdate": "1996-02-23T14:36:46.632Z",
+    "registeredAt": "2026-01-05T11:51:52.847Z"
+  },
+  {
+    "userId": "3118e974-4160-4608-9766-a2098101681f",
+    "fullName": "Evelyn Harvey",
+    "bio": "linen devotee",
+    "gender": "Demiflux",
+    "birthdate": "2001-05-08T06:45:54.030Z",
+    "registeredAt": "2025-10-05T04:14:29.921Z"
+  },
+  {
+    "userId": "b79fe13c-70a9-4a05-a1b7-ededc054cd5d",
+    "fullName": "June Rau",
+    "bio": "shame devotee, geek",
+    "gender": "Transgender female",
+    "birthdate": "2000-08-12T04:16:00.608Z",
+    "registeredAt": "2026-02-18T02:24:34.873Z"
+  },
+  {
+    "userId": "1aa87340-1494-4cda-bcf4-afb75294e017",
+    "fullName": "Larry Brakus",
+    "bio": "questionnaire junkie  🍩",
+    "gender": "Intersex woman",
+    "birthdate": "2001-08-23T18:26:52.605Z",
+    "registeredAt": "2026-02-21T11:51:48.135Z"
+  },
+  {
+    "userId": "121a9f72-1521-475c-af07-7e3a76186ad1",
+    "fullName": "Diane Robel",
+    "bio": "baseboard lover, inventor 🕹️",
+    "gender": "Cisgender male",
+    "birthdate": "1972-06-06T09:35:59.753Z",
+    "registeredAt": "2025-06-02T09:49:56.081Z"
+  },
+  {
+    "userId": "f23ad4a5-190e-49d9-b103-e833da3cab0f",
+    "fullName": "Hannah Bailey Sr.",
+    "bio": "email devotee, parent 👇🏾",
+    "gender": "Gender variant",
+    "birthdate": "1960-06-21T20:28:13.377Z",
+    "registeredAt": "2025-05-08T03:00:17.202Z"
+  },
+  {
+    "userId": "4607b92c-a384-4afb-aaf0-38be6bc18b74",
+    "fullName": "Ruben Cartwright",
+    "bio": "dreamer",
+    "gender": "Trans",
+    "birthdate": "2003-08-19T10:45:21.959Z",
+    "registeredAt": "2026-01-26T01:26:41.946Z"
+  },
+  {
+    "userId": "44ed4763-be4e-4066-88e8-f67a0d4bf5c6",
+    "fullName": "Lynette Torp",
+    "bio": "chain supporter",
+    "gender": "Cisgender man",
+    "birthdate": "1977-11-13T23:05:56.210Z",
+    "registeredAt": "2025-06-10T00:19:02.185Z"
+  },
+  {
+    "userId": "a20cc59e-ff82-4ff3-9dc1-321127260ab5",
+    "fullName": "Sara Kohler",
+    "bio": "drink supporter, creator ♌",
+    "gender": "FTM",
+    "birthdate": "1975-03-13T17:03:45.863Z",
+    "registeredAt": "2025-08-11T01:02:49.615Z"
+  },
+  {
+    "userId": "8e8e41db-f3ac-40b7-9f77-537132ccadbb",
+    "fullName": "Raul O'Hara I",
+    "bio": "writer, entrepreneur, environmentalist ⛑️",
+    "gender": "Multigender",
+    "birthdate": "1956-06-25T02:40:58.646Z",
+    "registeredAt": "2026-01-22T00:48:37.498Z"
+  },
+  {
+    "userId": "608937e0-06ed-4669-a5bb-5150287773ed",
+    "fullName": "Ms. Betsy Wilkinson",
+    "bio": "pith advocate, film lover ⬅️",
+    "gender": "Female to male",
+    "birthdate": "1980-12-21T20:57:59.411Z",
+    "registeredAt": "2025-10-15T11:08:28.277Z"
   }
 ]
