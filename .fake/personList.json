@@ -1,162 +1,26 @@
 [
   {
-    "userId": "4b21e783-089f-44ed-b8f8-5a7de7150d74",
-    "fullName": "Johnny Schoen",
-    "bio": "foodie",
-    "gender": "Cisgender male",
-    "birthdate": "1972-10-01T18:21:47.782Z",
-    "registeredAt": "2025-08-21T11:38:54.493Z"
-  },
-  {
-    "userId": "a447ca46-affe-40ca-ab40-8f08f6d00b64",
-    "fullName": "Sylvia Connelly",
-    "bio": "teacher, patriot",
-    "gender": "Cisgender male",
-    "birthdate": "1980-01-24T14:38:14.337Z",
-    "registeredAt": "2025-05-17T03:38:06.175Z"
-  },
-  {
-    "userId": "a362fb60-0589-44ae-972a-f86163d00010",
-    "fullName": "Miss Mattie Williamson",
-    "bio": "marten fan  🍤",
+    "userId": "d721c4b4-a2c4-4973-847e-a9af8ed38ada",
+    "fullName": "Myron Wuckert",
+    "bio": "musician",
     "gender": "Cisgender man",
-    "birthdate": "1974-07-15T20:52:32.747Z",
-    "registeredAt": "2026-01-06T18:43:38.856Z"
+    "birthdate": "1968-01-08T02:00:29.349Z",
+    "registeredAt": "2026-02-02T08:55:15.054Z"
   },
   {
-    "userId": "054043b5-df84-493d-8cc6-9be0cdd2dc66",
-    "fullName": "Dr. Darin Macejkovic",
-    "bio": "filmmaker, designer, environmentalist 🌥️",
-    "gender": "T* woman",
-    "birthdate": "1957-09-25T04:31:38.861Z",
-    "registeredAt": "2026-01-25T14:27:32.703Z"
+    "userId": "c6f7e466-ca84-496d-8613-0e67f59b95b4",
+    "fullName": "Mona Altenwerth V",
+    "bio": "foodie, engineer, educator",
+    "gender": "Genderflux",
+    "birthdate": "1969-06-20T03:04:19.672Z",
+    "registeredAt": "2025-10-03T20:11:27.556Z"
   },
   {
-    "userId": "c509da48-841d-44fb-84c4-c261a13de577",
-    "fullName": "Thomas Casper",
-    "bio": "veteran, writer, streamer",
-    "gender": "Cis woman",
-    "birthdate": "1969-12-18T13:56:35.599Z",
-    "registeredAt": "2025-07-18T14:02:54.454Z"
-  },
-  {
-    "userId": "9eeac4eb-883d-46b7-9ed8-95d132441cfb",
-    "fullName": "Francis Kovacek",
-    "bio": "hard-hat supporter  🪤",
-    "gender": "Male to female",
-    "birthdate": "1957-08-07T10:29:33.193Z",
-    "registeredAt": "2025-07-14T12:09:20.197Z"
-  },
-  {
-    "userId": "b7a3a1c4-d816-47bd-a69f-d9d7146b3369",
-    "fullName": "Leticia Hettinger",
-    "bio": "slipper fan, coach",
-    "gender": "Male to female",
-    "birthdate": "1964-09-13T05:08:43.454Z",
-    "registeredAt": "2025-06-17T06:40:42.012Z"
-  },
-  {
-    "userId": "fce0d3d1-18e0-470d-9036-f9a9701614dd",
-    "fullName": "Shaun Emard",
-    "bio": "amazon fan",
-    "gender": "Gender neutral",
-    "birthdate": "1971-04-04T02:07:38.993Z",
-    "registeredAt": "2025-11-22T05:39:38.166Z"
-  },
-  {
-    "userId": "3a24df5a-272e-431d-b186-4fba3b9ba28b",
-    "fullName": "Teri Koepp IV",
-    "bio": "slump enthusiast, engineer 🧑🏻‍🎓",
-    "gender": "Trigender",
-    "birthdate": "2005-07-19T23:28:03.390Z",
-    "registeredAt": "2025-06-03T00:40:51.942Z"
-  },
-  {
-    "userId": "48e74258-5f4b-482b-a5be-af48b9140e00",
-    "fullName": "Phillip Watsica",
-    "bio": "observatory enthusiast, engineer",
-    "gender": "Neither",
-    "birthdate": "1970-04-23T19:34:06.143Z",
-    "registeredAt": "2026-02-23T07:57:29.004Z"
-  },
-  {
-    "userId": "f65e65cc-ab0b-4e05-9355-82d98b20ed1c",
-    "fullName": "Karen Hettinger",
-    "bio": "jail lover",
-    "gender": "Gender questioning",
-    "birthdate": "1952-04-20T20:27:06.599Z",
-    "registeredAt": "2025-12-08T09:38:35.326Z"
-  },
-  {
-    "userId": "2edd5d3b-fc07-4eed-9066-7a01f962dabe",
-    "fullName": "Eduardo Heaney",
-    "bio": "bunkhouse fan",
-    "gender": "Cis woman",
-    "birthdate": "1968-08-31T20:52:26.402Z",
-    "registeredAt": "2025-08-16T01:41:35.428Z"
-  },
-  {
-    "userId": "6391727d-8761-4477-a100-6b0b4ca81692",
-    "fullName": "Miss Tonya Medhurst DVM",
-    "bio": "business owner",
-    "gender": "F2M",
-    "birthdate": "1948-01-13T12:38:38.461Z",
-    "registeredAt": "2026-03-05T23:34:09.265Z"
-  },
-  {
-    "userId": "c34624b7-89cc-445a-8b6d-089acfecc977",
-    "fullName": "Cynthia Dietrich",
-    "bio": "veteran, musician, nerd",
-    "gender": "Female to male trans man",
-    "birthdate": "1960-01-31T13:28:09.252Z",
-    "registeredAt": "2025-09-20T15:38:36.994Z"
-  },
-  {
-    "userId": "6c5ae115-9658-4cd2-aeeb-e58591b17217",
-    "fullName": "Heidi Rosenbaum",
-    "bio": "author, patriot, leader ©️",
-    "gender": "Female to male transgender man",
-    "birthdate": "1992-01-21T14:40:26.971Z",
-    "registeredAt": "2025-09-25T11:19:04.522Z"
-  },
-  {
-    "userId": "7cb77452-5b57-4258-9988-22026344d3e3",
-    "fullName": "Megan Bosco Jr.",
-    "bio": "author, coach, nerd",
-    "gender": "Cisgender",
-    "birthdate": "1954-03-01T18:18:29.555Z",
-    "registeredAt": "2026-02-28T05:51:36.451Z"
-  },
-  {
-    "userId": "b3e9d4ad-9d7d-4a72-a3d6-71412f1871f4",
-    "fullName": "Jimmy Hudson",
-    "bio": "nerd, friend",
-    "gender": "Cisgender woman",
-    "birthdate": "2005-01-01T01:21:03.104Z",
-    "registeredAt": "2025-09-26T16:56:08.591Z"
-  },
-  {
-    "userId": "b2b74de5-c0ee-4811-ab29-654d46c6fe24",
-    "fullName": "Blanca Legros I",
-    "bio": "inventor, public speaker",
-    "gender": "Polygender",
-    "birthdate": "1977-02-09T23:49:08.466Z",
-    "registeredAt": "2025-07-28T01:31:52.916Z"
-  },
-  {
-    "userId": "f2d78b8f-d158-4414-bc30-7eaf13b95cb6",
-    "fullName": "Ron Nienow",
-    "bio": "developer, designer, film lover ™️",
-    "gender": "Trans male",
-    "birthdate": "1976-01-01T19:55:09.670Z",
-    "registeredAt": "2025-05-04T16:52:54.026Z"
-  },
-  {
-    "userId": "dc0fd9a9-f792-42e5-a5b9-0da19f4acc77",
-    "fullName": "Tyrone Anderson-Hartmann",
-    "bio": "geek, activist",
-    "gender": "Transgender female",
-    "birthdate": "2002-06-06T21:09:15.281Z",
-    "registeredAt": "2025-03-13T22:33:45.436Z"
+    "userId": "2decd7be-69d7-440e-a22f-495a3b84afcd",
+    "fullName": "Nettie Wiegand",
+    "bio": "acquisition devotee",
+    "gender": "Non-binary",
+    "birthdate": "1993-06-11T20:13:20.000Z",
+    "registeredAt": "2025-08-20T11:54:34.324Z"
   }
 ]
