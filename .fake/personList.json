@@ -1,162 +1,58 @@
 [
   {
-    "userId": "8f9f68bc-ea56-477d-8d75-fbbfd64ed93b",
-    "fullName": "Pam Lindgren",
-    "bio": "engineer, dreamer, person ❇️",
-    "gender": "Intersex man",
-    "birthdate": "1960-11-08T20:22:39.487Z",
-    "registeredAt": "2025-08-19T01:10:03.424Z"
+    "userId": "96c2cce4-97b3-4f19-95f9-24144934e121",
+    "fullName": "Jane Friesen",
+    "bio": "student, streamer",
+    "gender": "Androgyne",
+    "birthdate": "1954-05-26T17:16:10.075Z",
+    "registeredAt": "2025-12-27T21:11:33.080Z"
   },
   {
-    "userId": "59f6efd7-32c2-437c-8980-869c15bdb2ad",
-    "fullName": "Bernice Wiza",
-    "bio": "warm-up fan, gamer 🩺",
-    "gender": "Hermaphrodite",
-    "birthdate": "1981-10-07T00:59:21.095Z",
-    "registeredAt": "2026-01-29T20:25:32.730Z"
-  },
-  {
-    "userId": "9e43eca3-5394-4549-bfed-bfafe0cbb7b5",
-    "fullName": "Nelson Will",
-    "bio": "streamer",
-    "gender": "Two-spirit",
-    "birthdate": "1995-02-21T01:59:14.065Z",
-    "registeredAt": "2025-11-13T20:31:05.212Z"
-  },
-  {
-    "userId": "143f8668-e4c6-4c4f-8855-59b4685f02a2",
-    "fullName": "Miss Joyce Ledner",
-    "bio": "gamer, traveler",
-    "gender": "T* man",
-    "birthdate": "1987-10-30T03:33:12.023Z",
-    "registeredAt": "2025-05-18T11:10:01.741Z"
-  },
-  {
-    "userId": "1b60e54c-753f-491f-a2c9-febd5c008750",
-    "fullName": "Karl Fisher",
-    "bio": "coach",
-    "gender": "Trigender",
-    "birthdate": "2001-02-25T00:20:04.332Z",
-    "registeredAt": "2025-04-02T12:35:12.519Z"
-  },
-  {
-    "userId": "a151174d-fbf4-425e-b0a3-21c0953f0d51",
-    "fullName": "Emanuel Kunde",
-    "bio": "philosopher",
-    "gender": "Cisgender woman",
-    "birthdate": "1967-04-04T22:53:32.964Z",
-    "registeredAt": "2025-12-26T08:04:59.873Z"
-  },
-  {
-    "userId": "fe511c43-8876-4268-9730-d0a2ac887000",
-    "fullName": "Mable Torphy-Weissnat",
-    "bio": "philosopher, grad, geek 🧧",
-    "gender": "Cisgender female",
-    "birthdate": "1967-03-02T05:45:47.079Z",
-    "registeredAt": "2025-09-06T04:04:00.700Z"
-  },
-  {
-    "userId": "6909d5d4-f9f7-4168-9fcb-3d1e4039e803",
-    "fullName": "Ramon Breitenberg",
-    "bio": "educator, scientist, musician",
-    "gender": "Intersex",
-    "birthdate": "1960-10-30T05:30:49.097Z",
-    "registeredAt": "2025-05-05T13:01:22.201Z"
-  },
-  {
-    "userId": "32f7bc76-b1f3-43d0-b32f-99db3e44a437",
-    "fullName": "Mr. Ramon Hilll",
-    "bio": "author",
-    "gender": "Multigender",
-    "birthdate": "1995-03-07T08:30:12.660Z",
-    "registeredAt": "2025-08-04T07:55:42.681Z"
-  },
-  {
-    "userId": "e26136bf-b43b-4704-986b-578c3f11815d",
-    "fullName": "Emanuel Doyle III",
-    "bio": "friend, student, writer",
-    "gender": "Cis",
-    "birthdate": "1988-01-14T03:15:17.456Z",
-    "registeredAt": "2025-07-06T08:21:37.097Z"
-  },
-  {
-    "userId": "174441f3-821e-411e-9e3b-cae15c90c79b",
-    "fullName": "Miss Roberta Beer",
-    "bio": "category fan, business owner",
-    "gender": "Bigender",
-    "birthdate": "1955-03-28T19:48:29.104Z",
-    "registeredAt": "2025-12-24T05:26:31.576Z"
-  },
-  {
-    "userId": "9b9a0cf3-92e9-4fd3-8a4f-56ff2d4df815",
-    "fullName": "Amos Turner",
-    "bio": "ton advocate  💼",
-    "gender": "M2F",
-    "birthdate": "1961-04-25T14:19:18.487Z",
-    "registeredAt": "2025-11-28T07:45:30.849Z"
-  },
-  {
-    "userId": "792c7783-216a-45fe-801a-b4212af05530",
-    "fullName": "Brandon Schumm-Keebler",
-    "bio": "developer, educator",
-    "gender": "Hermaphrodite",
-    "birthdate": "1970-11-21T12:54:06.874Z",
-    "registeredAt": "2025-10-11T05:16:04.056Z"
-  },
-  {
-    "userId": "116f500b-9561-4dc6-9dc9-73144b0f5260",
-    "fullName": "Marjorie MacGyver",
-    "bio": "raincoat enthusiast, teacher 📜",
-    "gender": "T* woman",
-    "birthdate": "1987-09-03T20:13:15.913Z",
-    "registeredAt": "2025-04-13T18:16:13.946Z"
-  },
-  {
-    "userId": "9224921f-f566-4d74-892b-a189cb94bb95",
-    "fullName": "Violet Wilkinson",
-    "bio": "contact enthusiast, teacher",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1952-02-19T11:54:29.454Z",
-    "registeredAt": "2026-02-19T05:42:53.279Z"
-  },
-  {
-    "userId": "41a8e7a0-eecb-4547-aecf-122dd07cc3b0",
-    "fullName": "Barry Wintheiser-Kuhic MD",
-    "bio": "collard junkie, scientist 🧚🏻‍♀️",
-    "gender": "Trans woman",
-    "birthdate": "1947-07-10T18:16:00.948Z",
-    "registeredAt": "2025-12-18T20:29:21.138Z"
-  },
-  {
-    "userId": "7f24c885-54af-46cc-aadf-8ca811451231",
-    "fullName": "Teresa Roob",
-    "bio": "refuse advocate  😛",
-    "gender": "Demi-man",
-    "birthdate": "1992-12-02T14:37:15.146Z",
-    "registeredAt": "2025-09-13T05:04:46.271Z"
-  },
-  {
-    "userId": "7f4571f6-1be6-4e89-a99a-66d534d519ac",
-    "fullName": "Luke Wintheiser",
-    "bio": "philosopher, streamer, creator",
-    "gender": "Cisgender man",
-    "birthdate": "1957-03-03T02:19:04.126Z",
-    "registeredAt": "2025-04-09T09:52:22.303Z"
-  },
-  {
-    "userId": "cd28af7d-7da8-40d8-9b12-58c27a3febc4",
-    "fullName": "Bernadette Adams",
-    "bio": "spectrum fan  📏",
-    "gender": "Transexual man",
-    "birthdate": "1996-06-10T18:19:16.217Z",
-    "registeredAt": "2026-02-13T12:16:03.556Z"
-  },
-  {
-    "userId": "ff393017-3bd8-4dd6-9e3c-fcd3c04cf955",
-    "fullName": "Yvette Harvey",
-    "bio": "can advocate  🇬🇳",
+    "userId": "bce5de23-b2cf-4e79-a1fb-56f8e1170fb8",
+    "fullName": "Alexis Schumm Sr.",
+    "bio": "inventor, inventor, scientist",
     "gender": "Gender neutral",
-    "birthdate": "1968-07-25T23:49:31.059Z",
-    "registeredAt": "2025-06-05T20:38:40.478Z"
+    "birthdate": "1956-02-21T06:23:41.439Z",
+    "registeredAt": "2025-04-19T23:57:51.559Z"
+  },
+  {
+    "userId": "e7785800-ddc6-438c-8661-9cb8acf86b88",
+    "fullName": "Mrs. Sonja White",
+    "bio": "smock junkie",
+    "gender": "Gender fluid",
+    "birthdate": "1981-10-06T03:35:34.076Z",
+    "registeredAt": "2026-03-06T16:35:24.761Z"
+  },
+  {
+    "userId": "58b870f6-8910-41ac-be0f-da8a0481ae33",
+    "fullName": "Jana Stehr",
+    "bio": "cushion enthusiast, designer 🦾",
+    "gender": "FTM",
+    "birthdate": "1998-04-02T11:58:05.058Z",
+    "registeredAt": "2025-11-20T07:51:55.110Z"
+  },
+  {
+    "userId": "5f8fdaee-57a4-407d-aeb1-db6ea1a8e566",
+    "fullName": "Scott Kozey",
+    "bio": "creator, author, nerd 🚘",
+    "gender": "Intersex man",
+    "birthdate": "1978-07-11T10:37:41.459Z",
+    "registeredAt": "2025-07-17T16:31:31.062Z"
+  },
+  {
+    "userId": "15c7a713-ecf1-4729-a5a3-d2e45252070c",
+    "fullName": "Ivan Renner",
+    "bio": "rainy enthusiast, friend 🤦🏼‍♀️",
+    "gender": "MTF",
+    "birthdate": "1967-12-15T18:34:30.128Z",
+    "registeredAt": "2025-04-27T18:27:43.911Z"
+  },
+  {
+    "userId": "43308b01-84b5-4195-b29d-45df0cb9228c",
+    "fullName": "Kellie Schulist",
+    "bio": "story advocate  🐞",
+    "gender": "Intersex",
+    "birthdate": "1990-09-27T05:25:23.313Z",
+    "registeredAt": "2025-04-20T18:49:40.719Z"
   }
 ]
