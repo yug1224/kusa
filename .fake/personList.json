@@ -1,90 +1,122 @@
 [
   {
-    "userId": "ffcc9a05-9a56-48ef-926b-c2ca0442ab53",
-    "fullName": "Anna Graham",
-    "bio": "friend",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1982-07-08T15:59:02.942Z",
-    "registeredAt": "2025-08-23T10:46:09.652Z"
-  },
-  {
-    "userId": "1e09ba22-b9ae-48d4-8a39-2e4db5a11911",
-    "fullName": "Wayne Cruickshank",
-    "bio": "nerd, geek, blogger 🇬🇶",
-    "gender": "Gender variant",
-    "birthdate": "1974-03-23T13:29:04.921Z",
-    "registeredAt": "2025-11-24T20:06:06.602Z"
-  },
-  {
-    "userId": "9c7d7054-9233-4247-98fb-b02974ba91fb",
-    "fullName": "Edmond Borer",
-    "bio": "pruner enthusiast  👠",
-    "gender": "Hermaphrodite",
-    "birthdate": "2003-02-25T02:10:08.038Z",
-    "registeredAt": "2025-09-19T09:58:59.698Z"
-  },
-  {
-    "userId": "adc982ab-523d-42a1-a2e0-b146aaf8855b",
-    "fullName": "Ann Greenholt",
-    "bio": "leek fan, founder 🤘",
-    "gender": "Transexual man",
-    "birthdate": "1999-09-18T02:38:28.963Z",
-    "registeredAt": "2025-11-21T07:01:37.000Z"
-  },
-  {
-    "userId": "5623cab7-8e27-42d0-b027-5dcae38fdced",
-    "fullName": "Kristen Stamm Jr.",
-    "bio": "veteran, blogger, business owner",
-    "gender": "Non-binary",
-    "birthdate": "1971-02-28T01:33:40.160Z",
-    "registeredAt": "2025-09-05T01:24:55.089Z"
-  },
-  {
-    "userId": "f2522f8d-6eb2-4a3a-95cf-845028f014c5",
-    "fullName": "Jeanette O'Keefe",
-    "bio": "founder, photographer, geek",
-    "gender": "Cis male",
-    "birthdate": "1948-06-01T16:50:23.042Z",
-    "registeredAt": "2025-05-03T19:15:58.334Z"
-  },
-  {
-    "userId": "e043d6d0-d06c-474f-9634-5b457e025537",
-    "fullName": "Kenny Fay",
-    "bio": "creator, inventor, musician",
-    "gender": "Male to female trans woman",
-    "birthdate": "1953-04-15T12:17:44.843Z",
-    "registeredAt": "2025-08-25T12:21:34.238Z"
-  },
-  {
-    "userId": "83741335-147c-4571-8c3d-bed427028f75",
-    "fullName": "Angelo Schiller",
-    "bio": "developer",
-    "gender": "Man",
-    "birthdate": "1984-10-24T12:51:57.180Z",
-    "registeredAt": "2025-06-24T04:05:49.006Z"
-  },
-  {
-    "userId": "b8aa54ef-188b-4e71-94ed-09903d148c79",
-    "fullName": "Mr. Ismael Pfannerstill",
-    "bio": "geek, scientist, leader ◾",
-    "gender": "Gender questioning",
-    "birthdate": "1959-12-12T23:39:36.265Z",
-    "registeredAt": "2025-11-06T16:43:14.341Z"
-  },
-  {
-    "userId": "96d5102d-3b13-4595-aef6-db77804b1d63",
-    "fullName": "Carol Smith PhD",
-    "bio": "drake devotee, foodie 🔠",
-    "gender": "Other",
-    "birthdate": "1989-05-09T00:39:07.711Z",
-    "registeredAt": "2025-06-12T17:18:45.977Z"
-  },
-  {
-    "userId": "eb6165e5-b3dd-4d8c-89e2-090b8c0608d6",
-    "fullName": "Raymond Becker",
-    "bio": "designer, film lover",
+    "userId": "a0f43666-af90-47bb-b30f-1d4e4f0f310a",
+    "fullName": "Stacy Kuphal",
+    "bio": "film lover, blogger",
     "gender": "Two-spirit",
-    "birthdate": "1988-07-16T05:34:44.007Z",
-    "registeredAt": "2025-10-09T17:21:35.941Z"
+    "birthdate": "1974-07-24T04:52:19.391Z",
+    "registeredAt": "2026-03-04T01:24:43.823Z"
+  },
+  {
+    "userId": "166e40d3-807c-4e06-8729-c329d2188bab",
+    "fullName": "Martha Runolfsdottir",
+    "bio": "deployment junkie",
+    "gender": "Neutrois",
+    "birthdate": "2005-12-19T18:10:08.062Z",
+    "registeredAt": "2025-11-17T08:01:58.527Z"
+  },
+  {
+    "userId": "b55e6463-9b6d-4532-9d1b-55f4ee82d340",
+    "fullName": "Kara Beer",
+    "bio": "pin fan, business owner",
+    "gender": "Gender nonconforming",
+    "birthdate": "1992-07-17T05:45:45.443Z",
+    "registeredAt": "2025-11-03T21:16:45.402Z"
+  },
+  {
+    "userId": "29bd55a1-3a2a-42b7-bbe1-f6b83a41deae",
+    "fullName": "Edmund O'Connell",
+    "bio": "fabric supporter, blogger 🇮🇲",
+    "gender": "Cis",
+    "birthdate": "1974-12-15T08:52:12.460Z",
+    "registeredAt": "2025-10-28T01:52:12.428Z"
+  },
+  {
+    "userId": "58946cb0-badc-4eca-b6a2-a91db02fb782",
+    "fullName": "Delia Gorczany",
+    "bio": "public speaker, singer, teacher 🚲",
+    "gender": "Omnigender",
+    "birthdate": "1989-09-18T08:17:06.405Z",
+    "registeredAt": "2026-02-05T16:29:20.772Z"
+  },
+  {
+    "userId": "5447a01b-0142-4728-9001-0f6f8234d649",
+    "fullName": "Victor Blanda Sr.",
+    "bio": "short lover  🎚️",
+    "gender": "Genderqueer",
+    "birthdate": "1977-03-07T12:31:54.129Z",
+    "registeredAt": "2026-03-07T06:20:30.538Z"
+  },
+  {
+    "userId": "30832a30-2bb6-4a4c-9c30-ea96ca6e8faf",
+    "fullName": "Scott Reynolds Jr.",
+    "bio": "author, philosopher",
+    "gender": "Cisgender male",
+    "birthdate": "1974-09-16T06:42:15.158Z",
+    "registeredAt": "2025-03-19T17:19:41.734Z"
+  },
+  {
+    "userId": "17858a80-86c5-42f4-84ac-89209cf11a01",
+    "fullName": "Belinda Bode",
+    "bio": "engineer, grad, engineer 🇨🇺",
+    "gender": "Genderflux",
+    "birthdate": "1974-12-05T20:06:36.237Z",
+    "registeredAt": "2025-05-27T04:00:45.402Z"
+  },
+  {
+    "userId": "1034bcde-15c6-4f2f-900c-f5bfeeba75b4",
+    "fullName": "Lela Koepp",
+    "bio": "environmentalist, film lover",
+    "gender": "Two-spirit person",
+    "birthdate": "1959-01-18T11:35:06.911Z",
+    "registeredAt": "2025-03-29T17:49:35.199Z"
+  },
+  {
+    "userId": "1610d7fd-4211-4c8e-8ce3-3640e89408bd",
+    "fullName": "Ms. Elvira Haag",
+    "bio": "scallion lover, teacher",
+    "gender": "Intersex person",
+    "birthdate": "1963-12-02T18:06:42.241Z",
+    "registeredAt": "2025-11-20T13:49:18.253Z"
+  },
+  {
+    "userId": "6dcfbadd-7342-4063-a911-7840b151fab8",
+    "fullName": "Tammy Spencer",
+    "bio": "word advocate  🇹🇱",
+    "gender": "Hermaphrodite",
+    "birthdate": "1988-10-11T17:49:53.869Z",
+    "registeredAt": "2026-01-20T04:10:13.866Z"
+  },
+  {
+    "userId": "b6e0508b-86b2-4b02-a53b-8304bb64654c",
+    "fullName": "Dolores Marquardt",
+    "bio": "environmentalist, parent, inventor 👨🏾‍🚒",
+    "gender": "Male to female transgender woman",
+    "birthdate": "1947-11-16T12:37:34.776Z",
+    "registeredAt": "2025-03-24T15:01:19.096Z"
+  },
+  {
+    "userId": "f6b626df-c0ea-492e-88dc-7be4bd7ce8d0",
+    "fullName": "Frederick Cronin-Casper Jr.",
+    "bio": "veteran, filmmaker, designer 🐕",
+    "gender": "Intersex woman",
+    "birthdate": "1991-05-19T03:37:13.063Z",
+    "registeredAt": "2025-06-01T05:35:18.295Z"
+  },
+  {
+    "userId": "c1801cf7-afe1-4cdd-9db4-0a64bcdcb60c",
+    "fullName": "Johnnie Wunsch-Stamm",
+    "bio": "ride lover, coach 👨🏼‍❤️‍👨🏽",
+    "gender": "Demi-girl",
+    "birthdate": "1951-08-22T07:52:26.263Z",
+    "registeredAt": "2025-07-29T21:00:13.452Z"
+  },
+  {
+    "userId": "aeff6814-a814-4900-b623-ec086829345f",
+    "fullName": "Randall Breitenberg",
+    "bio": "peen enthusiast, author",
+    "gender": "Trans",
+    "birthdate": "1949-04-04T07:42:13.501Z",
+    "registeredAt": "2026-02-25T19:39:46.500Z"
   }
 ]
