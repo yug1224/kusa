@@ -1,138 +1,42 @@
 [
   {
-    "userId": "e68c4453-ce61-4710-abb4-57069c579c9d",
-    "fullName": "Dr. Javier Collins",
-    "bio": "entrepreneur",
-    "gender": "Transmasculine",
-    "birthdate": "1947-05-11T12:33:51.464Z",
-    "registeredAt": "2025-07-06T10:45:39.824Z"
-  },
-  {
-    "userId": "16105314-7a24-4548-ab20-3d1f8631dc52",
-    "fullName": "Jay Frami",
-    "bio": "artist, developer, entrepreneur",
-    "gender": "Xenogender",
-    "birthdate": "1968-11-06T19:42:34.768Z",
-    "registeredAt": "2025-11-19T08:25:10.505Z"
-  },
-  {
-    "userId": "946229da-f3ff-4c82-858a-465c7ce45b8a",
-    "fullName": "Mildred Wyman",
-    "bio": "taro advocate  💂",
-    "gender": "T* woman",
-    "birthdate": "1963-03-11T13:42:38.940Z",
-    "registeredAt": "2025-09-22T05:32:07.979Z"
-  },
-  {
-    "userId": "3ad61f7e-70c9-4699-8b6e-8ae3fe5122fd",
-    "fullName": "Edith Rowe",
-    "bio": "junker lover  🥻",
-    "gender": "Gender nonconforming",
-    "birthdate": "1988-06-01T12:28:18.317Z",
-    "registeredAt": "2025-07-29T10:03:58.509Z"
-  },
-  {
-    "userId": "92914b81-7309-4293-a261-50aacc0c33bf",
-    "fullName": "Laurie Jakubowski",
-    "bio": "founder, engineer, founder 🇹🇿",
-    "gender": "Cisgender woman",
-    "birthdate": "2001-09-14T01:57:20.357Z",
-    "registeredAt": "2025-10-16T16:13:46.439Z"
-  },
-  {
-    "userId": "e752f918-9caf-4963-a8a9-d7952f247bbd",
-    "fullName": "Maureen Runolfsson",
-    "bio": "season enthusiast",
-    "gender": "Androgynous",
-    "birthdate": "1998-07-04T07:12:52.726Z",
-    "registeredAt": "2025-11-27T03:40:47.311Z"
-  },
-  {
-    "userId": "b886cbdb-a4bc-4f24-af8a-80b12b8037a8",
-    "fullName": "Kay Hyatt",
-    "bio": "dark fan, veteran 🚺",
-    "gender": "Trans",
-    "birthdate": "1947-09-24T15:23:21.891Z",
-    "registeredAt": "2025-03-18T19:19:14.494Z"
-  },
-  {
-    "userId": "c69a8bfd-d6f5-4606-bfbe-7864d4f00be9",
-    "fullName": "Kellie Hackett",
-    "bio": "banana junkie, dreamer 🦮",
-    "gender": "Two-spirit person",
-    "birthdate": "1978-10-11T18:14:22.793Z",
-    "registeredAt": "2026-02-13T06:37:02.468Z"
-  },
-  {
-    "userId": "a776778c-6fca-4a7e-8279-de4e787572bb",
-    "fullName": "Mr. Alejandro Gusikowski",
-    "bio": "structure enthusiast",
-    "gender": "Pangender",
-    "birthdate": "1948-07-19T15:29:34.288Z",
-    "registeredAt": "2025-06-23T15:59:55.505Z"
-  },
-  {
-    "userId": "87b278ea-3421-47e5-ad5a-6fa48765fc03",
-    "fullName": "Reginald Ziemann MD",
-    "bio": "front junkie  🤯",
-    "gender": "Demi-girl",
-    "birthdate": "1965-04-19T01:37:51.691Z",
-    "registeredAt": "2025-08-31T23:59:10.996Z"
-  },
-  {
-    "userId": "e843ebdb-4048-4b3a-a4f2-816929273f2d",
-    "fullName": "Lorenzo Baumbach",
-    "bio": "model, singer, scientist 🧷",
-    "gender": "Intersex man",
-    "birthdate": "1995-02-02T23:53:03.553Z",
-    "registeredAt": "2025-04-01T07:24:39.865Z"
-  },
-  {
-    "userId": "4e35d3db-8e0b-4685-a2dd-665366bb169d",
-    "fullName": "Jeanne Mraz",
-    "bio": "stalk devotee, entrepreneur",
-    "gender": "Trigender",
-    "birthdate": "1966-01-28T05:29:29.630Z",
-    "registeredAt": "2025-08-04T09:32:49.557Z"
-  },
-  {
-    "userId": "af402c88-3e91-437a-9864-7b1cbe471ff6",
-    "fullName": "Leah Rice",
-    "bio": "pitcher enthusiast, entrepreneur 👍🏼",
-    "gender": "Cis woman",
-    "birthdate": "1974-03-15T17:43:05.820Z",
-    "registeredAt": "2025-11-02T14:37:52.658Z"
-  },
-  {
-    "userId": "91cfb86f-e3bf-4b1a-9477-38e237b8f4cf",
-    "fullName": "Angelina Bashirian",
-    "bio": "scientist, teacher, teacher 😺",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1987-09-21T17:09:53.345Z",
-    "registeredAt": "2025-04-18T01:39:04.432Z"
-  },
-  {
-    "userId": "44503363-61a8-4085-b030-93c14c36f018",
-    "fullName": "Laurence Homenick DVM",
-    "bio": "leader, activist, creator 🐷",
-    "gender": "Xenogender",
-    "birthdate": "1959-03-12T17:23:10.736Z",
-    "registeredAt": "2025-04-13T14:04:07.372Z"
-  },
-  {
-    "userId": "122a0a99-6241-46d0-97e0-8ccdfd4746d0",
-    "fullName": "Peggy Ondricka",
-    "bio": "morbidity junkie, student 😧",
+    "userId": "d79ec9f8-d1b5-413f-9b68-decb9d440da8",
+    "fullName": "Wilma Schuppe",
+    "bio": "creator",
     "gender": "F2M",
-    "birthdate": "1951-04-04T08:31:27.907Z",
-    "registeredAt": "2025-12-12T02:17:05.861Z"
+    "birthdate": "1989-08-07T11:24:58.933Z",
+    "registeredAt": "2025-12-08T00:30:42.591Z"
   },
   {
-    "userId": "6732fa34-2b67-45bf-a307-a72374c80ba2",
-    "fullName": "Hannah Swaniawski",
-    "bio": "pompom advocate, photographer 🇶🇦",
-    "gender": "Transexual male",
-    "birthdate": "1977-08-05T05:02:11.023Z",
-    "registeredAt": "2026-02-27T05:39:51.539Z"
+    "userId": "7cd4bfb1-a668-4547-864b-c617bd45e136",
+    "fullName": "Alvin Harvey",
+    "bio": "sculptural enthusiast, author",
+    "gender": "Non-binary",
+    "birthdate": "1969-10-10T19:15:03.525Z",
+    "registeredAt": "2025-08-09T21:36:19.074Z"
+  },
+  {
+    "userId": "0e4e1ec2-c66e-4841-a809-b39bc4c02573",
+    "fullName": "Donald Mante",
+    "bio": "streamer, traveler, activist 🐢",
+    "gender": "Polygender",
+    "birthdate": "1960-07-27T23:06:12.794Z",
+    "registeredAt": "2025-12-11T15:07:53.716Z"
+  },
+  {
+    "userId": "ad2a7f75-573d-4339-a0f8-a0291382c35a",
+    "fullName": "Angie Klein",
+    "bio": "antling lover, inventor",
+    "gender": "FTM",
+    "birthdate": "1986-06-20T20:32:57.763Z",
+    "registeredAt": "2025-06-08T15:25:52.397Z"
+  },
+  {
+    "userId": "5132d5eb-c195-4dc1-a8c5-9c65840004de",
+    "fullName": "Arnold Jast",
+    "bio": "writer, inventor",
+    "gender": "Trans",
+    "birthdate": "1988-03-22T18:08:35.545Z",
+    "registeredAt": "2025-08-04T05:10:47.027Z"
   }
 ]
