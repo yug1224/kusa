@@ -1,146 +1,66 @@
 [
   {
-    "userId": "1ca6f351-86c6-4762-ae7f-b3ce1a0b0d9e",
-    "fullName": "Grace Medhurst Sr.",
-    "bio": "foodie",
-    "gender": "Cis man",
-    "birthdate": "1948-07-08T10:44:24.736Z",
-    "registeredAt": "2023-09-13T02:20:05.268Z"
+    "userId": "97ec6a6a-8554-4da6-8a2e-802402c22f84",
+    "fullName": "Winifred Stokes",
+    "bio": "film lover, parent",
+    "gender": "Cisgender",
+    "birthdate": "1945-08-26T18:40:04.252Z",
+    "registeredAt": "2024-01-25T13:11:16.456Z"
   },
   {
-    "userId": "88bbab07-eb96-40d5-97c8-9b665897c520",
-    "fullName": "Arnold Feil",
-    "bio": "gamer, teacher, artist 🔺",
-    "gender": "Female to male transgender man",
-    "birthdate": "1979-08-19T08:56:54.127Z",
-    "registeredAt": "2023-09-02T08:59:00.185Z"
+    "userId": "265f9d5e-b394-4992-8ef3-fdc8d7032e21",
+    "fullName": "Darla Conroy",
+    "bio": "insectarium fan, foodie 🤿",
+    "gender": "Trigender",
+    "birthdate": "1949-03-04T01:46:51.987Z",
+    "registeredAt": "2024-03-09T05:30:06.107Z"
   },
   {
-    "userId": "139e2ce0-0eab-4e9d-a306-35d875de57a2",
-    "fullName": "Maria O'Reilly-Bahringer",
-    "bio": "fortune lover",
-    "gender": "Cis woman",
-    "birthdate": "1953-03-25T04:22:59.321Z",
-    "registeredAt": "2023-09-10T23:17:45.976Z"
+    "userId": "5b71e9ee-181e-426d-84ed-d10a447e64d4",
+    "fullName": "Mr. Victor Brown",
+    "bio": "salon fan, designer",
+    "gender": "Androgynous",
+    "birthdate": "1988-05-08T23:32:13.887Z",
+    "registeredAt": "2023-12-24T18:34:52.926Z"
   },
   {
-    "userId": "b93808e0-3139-4ff8-a562-6bca629dee11",
-    "fullName": "Christina Conn",
-    "bio": "news advocate",
-    "gender": "Female to male",
-    "birthdate": "1989-03-06T14:28:13.244Z",
-    "registeredAt": "2023-07-05T19:08:09.890Z"
+    "userId": "a0f9317b-2775-40d1-81e7-bcbb62ca5f03",
+    "fullName": "Glenda Ondricka",
+    "bio": "timbale supporter  🍆",
+    "gender": "Bigender",
+    "birthdate": "1991-04-17T20:59:49.751Z",
+    "registeredAt": "2023-12-10T04:55:35.608Z"
   },
   {
-    "userId": "3980d50b-674f-4c59-b74e-2a8ff46193f3",
-    "fullName": "Maggie Morar",
-    "bio": "inventor",
-    "gender": "Cis man",
-    "birthdate": "1991-07-16T17:09:56.552Z",
-    "registeredAt": "2023-09-06T22:35:45.266Z"
-  },
-  {
-    "userId": "cd95f20b-b84a-4de5-8c4a-292ebd3a6349",
-    "fullName": "Willie Sporer",
-    "bio": "philosopher, person, scientist 🥉",
-    "gender": "Gender variant",
-    "birthdate": "1954-03-01T13:01:18.789Z",
-    "registeredAt": "2023-08-26T13:00:48.392Z"
-  },
-  {
-    "userId": "b20fdebb-44f3-472e-b212-215133a6cc21",
-    "fullName": "Jamie Wehner",
-    "bio": "gamer, parent, foodie",
-    "gender": "Cisgender female",
-    "birthdate": "1996-04-28T08:41:38.761Z",
-    "registeredAt": "2023-05-03T15:32:01.416Z"
-  },
-  {
-    "userId": "3e9910c8-6a36-4520-9f41-00f16d083872",
-    "fullName": "Mrs. Leona Schroeder",
-    "bio": "leader, veteran, developer",
-    "gender": "Transexual man",
-    "birthdate": "1999-08-26T14:02:12.478Z",
-    "registeredAt": "2023-09-19T13:52:20.093Z"
-  },
-  {
-    "userId": "ecc7a3c6-cfd2-4fb4-8973-4c4b6cf2b5c4",
-    "fullName": "Ivan Abernathy",
-    "bio": "section junkie, photographer",
-    "gender": "Demi-boy",
-    "birthdate": "1978-11-30T04:51:45.037Z",
-    "registeredAt": "2023-08-20T22:29:57.648Z"
-  },
-  {
-    "userId": "0f7de7f3-fad2-47e0-be42-ad552f2ed473",
-    "fullName": "Merle Yundt",
-    "bio": "internet devotee  🔃",
-    "gender": "Intersex woman",
-    "birthdate": "1974-06-01T12:49:30.538Z",
-    "registeredAt": "2023-05-12T18:16:38.789Z"
-  },
-  {
-    "userId": "949eeae2-007e-4465-97e3-e39ae40386e6",
-    "fullName": "Dr. Earl Runte",
-    "bio": "photoreceptor supporter  🚟",
-    "gender": "Cisgender male",
-    "birthdate": "1960-10-13T09:23:28.464Z",
-    "registeredAt": "2023-04-02T21:56:13.458Z"
-  },
-  {
-    "userId": "39563f72-bca3-4203-9f59-768d6909f1b4",
-    "fullName": "Timothy MacGyver",
-    "bio": "developer, teacher, foodie",
-    "gender": "Gender variant",
-    "birthdate": "1988-04-15T10:25:18.873Z",
-    "registeredAt": "2023-11-16T17:57:26.976Z"
-  },
-  {
-    "userId": "fe1fd973-228d-45af-93ef-ae98d0c1a131",
-    "fullName": "Gail Conroy",
-    "bio": "grad, developer, business owner",
-    "gender": "Intersex man",
-    "birthdate": "1952-09-19T13:22:10.887Z",
-    "registeredAt": "2023-09-04T07:44:06.868Z"
-  },
-  {
-    "userId": "b124a288-6b9a-4f60-bd3b-fb83f43e2394",
-    "fullName": "Clint Toy",
-    "bio": "model, dreamer, dreamer",
-    "gender": "Transexual male",
-    "birthdate": "1956-06-18T03:52:44.595Z",
-    "registeredAt": "2024-03-16T23:08:40.209Z"
-  },
-  {
-    "userId": "64932a36-b0b3-4062-be27-54a2f9f8566c",
-    "fullName": "Lawrence Davis",
-    "bio": "sock lover  🎖️",
-    "gender": "Female to male trans man",
-    "birthdate": "1971-10-07T04:27:27.826Z",
-    "registeredAt": "2024-02-26T14:32:12.547Z"
-  },
-  {
-    "userId": "72bd6306-b1c5-444b-85be-519e4e075780",
-    "fullName": "Elbert Champlin",
-    "bio": "catacomb devotee, inventor",
+    "userId": "6550785d-cad4-47a5-97f5-db16060f79ff",
+    "fullName": "Percy Schumm",
+    "bio": "telescreen fan, public speaker",
     "gender": "Other",
-    "birthdate": "1991-09-15T01:11:00.891Z",
-    "registeredAt": "2023-07-10T06:33:30.794Z"
+    "birthdate": "1975-07-06T11:17:47.095Z",
+    "registeredAt": "2023-12-13T10:01:04.608Z"
   },
   {
-    "userId": "7fd6a4de-384e-484d-bf6f-a20761b012b9",
-    "fullName": "Dr. Michael Ward",
-    "bio": "buddy devotee, dreamer 🏮",
-    "gender": "Demigender",
-    "birthdate": "1955-04-10T19:52:34.082Z",
-    "registeredAt": "2023-07-25T21:56:04.685Z"
+    "userId": "42922382-5651-4da2-ae3a-f6a658b0efdf",
+    "fullName": "Francis Wolff PhD",
+    "bio": "dreamer, photographer, nerd",
+    "gender": "Hermaphrodite",
+    "birthdate": "1993-01-30T07:30:39.305Z",
+    "registeredAt": "2024-02-24T10:15:25.710Z"
   },
   {
-    "userId": "6703cda8-2b47-45ff-9b2f-97484b9125ed",
-    "fullName": "Lana Heller",
-    "bio": "public fan",
-    "gender": "Two-spirit person",
-    "birthdate": "1963-05-18T08:15:23.152Z",
-    "registeredAt": "2023-05-03T15:45:06.334Z"
+    "userId": "95536a13-cf81-4ed3-80d1-0c2502f7bfc0",
+    "fullName": "Al Waters",
+    "bio": "e-book devotee, public speaker 🐶",
+    "gender": "Omnigender",
+    "birthdate": "1978-05-16T11:47:44.816Z",
+    "registeredAt": "2024-01-02T11:43:51.406Z"
+  },
+  {
+    "userId": "5d97e876-7270-4b3d-8574-41381c79597d",
+    "fullName": "Francis Abbott",
+    "bio": "philosopher, grad, teacher",
+    "gender": "Transexual man",
+    "birthdate": "1984-05-14T03:14:55.681Z",
+    "registeredAt": "2024-01-28T03:04:55.346Z"
   }
 ]
