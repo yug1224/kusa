@@ -1,162 +1,138 @@
 [
   {
-    "userId": "aa5e663c-8d93-40cc-b1ac-f6fa6516b1e0",
-    "fullName": "Benjamin Bernhard",
-    "bio": "musician, scientist, public speaker 😗",
-    "gender": "Gender neutral",
-    "birthdate": "1992-04-18T09:48:13.045Z",
-    "registeredAt": "2026-01-06T02:18:15.578Z"
-  },
-  {
-    "userId": "ad37fcc3-d1e1-45d0-9a9d-2c1fcfac156f",
-    "fullName": "Willie Russel",
-    "bio": "size lover  🥩",
-    "gender": "Man",
-    "birthdate": "1964-11-21T06:53:10.281Z",
-    "registeredAt": "2025-03-16T12:24:23.168Z"
-  },
-  {
-    "userId": "7926d925-d087-43d4-b80e-2530c41c2354",
-    "fullName": "Terry Wisozk",
-    "bio": "yin enthusiast  👂",
-    "gender": "Genderflux",
-    "birthdate": "1951-04-30T20:40:59.810Z",
-    "registeredAt": "2025-08-08T08:49:55.554Z"
-  },
-  {
-    "userId": "2b58cd03-6e0a-42a5-98c6-00dc2618abfc",
-    "fullName": "Orville Jerde PhD",
-    "bio": "campaign junkie  🐸",
-    "gender": "Transexual person",
-    "birthdate": "1993-08-07T13:28:26.600Z",
-    "registeredAt": "2025-09-07T06:20:06.927Z"
-  },
-  {
-    "userId": "8c7519de-8610-4a3a-a6b2-de769f955d03",
-    "fullName": "Mrs. Rosemary Johnson",
-    "bio": "problem advocate",
-    "gender": "FTM",
-    "birthdate": "1980-11-25T01:41:40.460Z",
-    "registeredAt": "2026-02-02T13:23:47.126Z"
-  },
-  {
-    "userId": "8a55d4ef-d5f5-4c27-bc81-c77a61235bd4",
-    "fullName": "Gwendolyn Macejkovic-Feest",
-    "bio": "philosopher, photographer",
-    "gender": "Female to male",
-    "birthdate": "1984-10-21T21:20:57.905Z",
-    "registeredAt": "2025-05-09T09:09:53.516Z"
-  },
-  {
-    "userId": "3425ace7-aac3-4137-b707-8a2ee9f43ddd",
-    "fullName": "Doyle Johnston MD",
-    "bio": "mortal devotee",
-    "gender": "Intersex",
-    "birthdate": "1970-01-17T19:31:43.932Z",
-    "registeredAt": "2025-03-14T01:13:01.824Z"
-  },
-  {
-    "userId": "fcd52cd8-6089-4411-906a-572c3e27938e",
-    "fullName": "Freda Schumm DDS",
-    "bio": "man lover",
-    "gender": "Demi-man",
-    "birthdate": "1980-11-13T20:04:44.953Z",
-    "registeredAt": "2025-06-06T20:50:35.929Z"
-  },
-  {
-    "userId": "8e88771c-f04b-496e-a81a-8c4954eb499c",
-    "fullName": "Susan Hickle",
-    "bio": "shovel devotee, founder",
-    "gender": "Transexual person",
-    "birthdate": "1979-12-09T07:57:25.407Z",
-    "registeredAt": "2025-06-23T05:38:46.883Z"
-  },
-  {
-    "userId": "8591af91-7edb-4d09-8e76-48b30575c578",
-    "fullName": "Mark Breitenberg",
-    "bio": "friend, teacher",
-    "gender": "Female to male",
-    "birthdate": "1960-01-16T19:59:56.624Z",
-    "registeredAt": "2026-03-10T15:15:47.582Z"
-  },
-  {
-    "userId": "11ef68d8-e541-4d3d-bb94-4d9f200ed6ee",
-    "fullName": "Nadine MacGyver",
-    "bio": "person",
-    "gender": "Female to male trans man",
-    "birthdate": "1990-08-22T00:29:39.225Z",
-    "registeredAt": "2025-04-29T23:24:02.758Z"
-  },
-  {
-    "userId": "cabf88c0-c50d-4e73-9c68-7f0f798983c8",
-    "fullName": "Kay Friesen",
-    "bio": "writer, musician",
-    "gender": "Intersex man",
-    "birthdate": "2004-06-07T10:07:30.150Z",
-    "registeredAt": "2026-03-11T05:23:45.360Z"
-  },
-  {
-    "userId": "326dbcf1-2576-4a36-8b89-cdbe55c6c1d6",
-    "fullName": "Mamie Berge",
-    "bio": "length junkie, environmentalist 😭",
-    "gender": "Gender nonconforming",
-    "birthdate": "1991-11-06T08:35:28.072Z",
-    "registeredAt": "2025-07-14T14:39:27.157Z"
-  },
-  {
-    "userId": "7a0ff022-7dcb-48bb-a05b-10ffbd964767",
-    "fullName": "Mr. Terrence Flatley",
-    "bio": "creator, activist, engineer 🍷",
-    "gender": "Cisgender",
-    "birthdate": "1970-03-26T11:55:02.311Z",
-    "registeredAt": "2025-09-06T02:07:33.585Z"
-  },
-  {
-    "userId": "02469d84-caf3-4990-9a1b-3b993ceab2cf",
-    "fullName": "Sam Nolan",
-    "bio": "grad, writer",
-    "gender": "Male to female",
-    "birthdate": "2002-03-04T07:34:50.193Z",
-    "registeredAt": "2025-11-14T04:03:58.402Z"
-  },
-  {
-    "userId": "4b2a5e47-638e-4e34-b657-a14545d53eb6",
-    "fullName": "Edna Osinski",
-    "bio": "savior junkie, parent",
-    "gender": "Transexual female",
-    "birthdate": "1997-12-05T20:07:44.347Z",
-    "registeredAt": "2025-04-18T18:22:06.747Z"
-  },
-  {
-    "userId": "539f25dc-c6e7-43cb-8e00-958fb3709dd9",
-    "fullName": "Mrs. Ashley Crooks",
-    "bio": "avalanche supporter, student",
-    "gender": "Demi-man",
-    "birthdate": "1987-02-11T21:02:40.585Z",
-    "registeredAt": "2025-06-08T13:25:48.854Z"
-  },
-  {
-    "userId": "b293dfa9-0d22-40dd-9567-73f9c16265bd",
-    "fullName": "Clara Block",
-    "bio": "film lover, musician, inventor",
-    "gender": "Transmasculine",
-    "birthdate": "1991-11-30T03:17:41.846Z",
-    "registeredAt": "2025-10-22T17:21:45.452Z"
-  },
-  {
-    "userId": "2511afea-536f-48b9-9652-cb6f2735580c",
-    "fullName": "Miss Suzanne O'Conner",
-    "bio": "electrocardiogram devotee",
-    "gender": "Intersex",
-    "birthdate": "1989-07-08T10:03:11.767Z",
-    "registeredAt": "2025-12-28T20:54:19.926Z"
-  },
-  {
-    "userId": "986a2f4c-6eb8-434e-a064-538dd038a1c3",
-    "fullName": "Charlie Ritchie",
-    "bio": "teacher, business owner, coach",
+    "userId": "fe2cc719-763d-45ed-939b-159efaaa385a",
+    "fullName": "Wendy Fritsch",
+    "bio": "update devotee  🇱🇸",
     "gender": "Trans man",
-    "birthdate": "2004-11-18T10:15:17.587Z",
-    "registeredAt": "2026-03-01T19:12:21.522Z"
+    "birthdate": "1948-06-10T19:43:21.362Z",
+    "registeredAt": "2025-09-28T07:28:01.380Z"
+  },
+  {
+    "userId": "62901803-52ee-479c-a690-f5db5d5ba409",
+    "fullName": "Roman Harber",
+    "bio": "writer",
+    "gender": "Trans female",
+    "birthdate": "1997-06-30T17:00:42.737Z",
+    "registeredAt": "2025-11-03T01:45:25.177Z"
+  },
+  {
+    "userId": "01e5b437-55fb-42b2-a62b-ed2061de6d43",
+    "fullName": "Carla Larkin",
+    "bio": "scientist, scientist",
+    "gender": "Other",
+    "birthdate": "1992-08-15T17:28:09.993Z",
+    "registeredAt": "2025-05-20T23:11:26.307Z"
+  },
+  {
+    "userId": "2eb59894-af40-491b-9230-c3f25475e111",
+    "fullName": "Joann Wisozk Sr.",
+    "bio": "nerd, business owner, public speaker 🥋",
+    "gender": "Transgender female",
+    "birthdate": "1972-11-01T00:16:36.718Z",
+    "registeredAt": "2026-02-28T21:53:44.200Z"
+  },
+  {
+    "userId": "6a9dadfa-c9d6-4877-a4db-887c0a2aa041",
+    "fullName": "Lorene Cummings",
+    "bio": "legging advocate, gamer",
+    "gender": "Cisgender male",
+    "birthdate": "2001-07-26T00:17:14.839Z",
+    "registeredAt": "2025-05-09T07:33:00.754Z"
+  },
+  {
+    "userId": "c3248a5d-8f23-4708-a383-79382d72bfce",
+    "fullName": "Estelle Moore",
+    "bio": "armpit junkie, public speaker 🧚🏿",
+    "gender": "Two-spirit",
+    "birthdate": "1989-10-02T03:05:50.885Z",
+    "registeredAt": "2025-08-02T10:52:29.384Z"
+  },
+  {
+    "userId": "7fcb8ea4-0498-414f-9c68-7bde37b114fe",
+    "fullName": "Ernesto Murphy",
+    "bio": "model, creator",
+    "gender": "Two-spirit",
+    "birthdate": "1969-11-11T05:39:03.631Z",
+    "registeredAt": "2025-07-05T04:54:25.596Z"
+  },
+  {
+    "userId": "150eec0e-67ce-4ce8-8dbb-d29b24a97b1e",
+    "fullName": "Mona Altenwerth",
+    "bio": "fallacy advocate",
+    "gender": "Woman",
+    "birthdate": "1963-09-14T16:28:18.791Z",
+    "registeredAt": "2026-01-12T02:07:26.870Z"
+  },
+  {
+    "userId": "ebda92c4-52a9-441a-b2c7-37b88e8954c7",
+    "fullName": "Jeremiah Hagenes",
+    "bio": "buffer junkie, philosopher",
+    "gender": "Gender neutral",
+    "birthdate": "1949-06-21T09:07:45.952Z",
+    "registeredAt": "2026-01-26T08:41:04.313Z"
+  },
+  {
+    "userId": "ffc7d9fb-b6ee-48fc-a396-10a3dbdff610",
+    "fullName": "Nicolas D'Amore IV",
+    "bio": "foodie, developer",
+    "gender": "Genderqueer",
+    "birthdate": "1992-07-24T10:54:31.175Z",
+    "registeredAt": "2026-02-22T09:08:29.663Z"
+  },
+  {
+    "userId": "d657cc77-76e9-4263-9d00-54edca609540",
+    "fullName": "Carol McDermott",
+    "bio": "accounting supporter, student 🏳️",
+    "gender": "Gender questioning",
+    "birthdate": "1988-04-13T01:51:43.492Z",
+    "registeredAt": "2025-09-21T22:00:56.005Z"
+  },
+  {
+    "userId": "73efbe4d-ade3-49b5-a10f-9e56b3958f83",
+    "fullName": "Clifford Bradtke",
+    "bio": "business owner",
+    "gender": "Two-spirit",
+    "birthdate": "2007-09-02T11:31:25.602Z",
+    "registeredAt": "2025-12-01T11:23:33.236Z"
+  },
+  {
+    "userId": "46436e20-464e-4777-a418-7b43be8660d3",
+    "fullName": "Michele Rath-Feil",
+    "bio": "self junkie",
+    "gender": "Cisgender female",
+    "birthdate": "1994-12-17T23:37:21.217Z",
+    "registeredAt": "2025-10-03T05:05:10.959Z"
+  },
+  {
+    "userId": "1da0a376-84be-40a2-9e2f-ec256581271c",
+    "fullName": "Lee Carter II",
+    "bio": "coach, parent",
+    "gender": "Male to female transgender woman",
+    "birthdate": "1992-06-03T23:08:31.118Z",
+    "registeredAt": "2025-06-05T20:44:37.740Z"
+  },
+  {
+    "userId": "54584413-4675-41c9-bf77-ce270bc75cb2",
+    "fullName": "Gertrude Nolan",
+    "bio": "stock-in-trade devotee",
+    "gender": "Cisgender woman",
+    "birthdate": "1979-01-16T03:44:03.428Z",
+    "registeredAt": "2025-08-05T09:41:58.827Z"
+  },
+  {
+    "userId": "b72a8945-e66a-4768-b19b-eaee48e29364",
+    "fullName": "Mike Lemke",
+    "bio": "student, foodie, filmmaker 🍎",
+    "gender": "Gender variant",
+    "birthdate": "2006-10-29T08:00:10.941Z",
+    "registeredAt": "2025-08-28T22:47:56.927Z"
+  },
+  {
+    "userId": "c308e0b6-83cc-40fe-a3c0-785a08148c14",
+    "fullName": "Garry Ratke",
+    "bio": "foodie, singer, author",
+    "gender": "Androgyne",
+    "birthdate": "1966-09-17T01:01:01.733Z",
+    "registeredAt": "2025-12-09T15:43:48.620Z"
   }
 ]
