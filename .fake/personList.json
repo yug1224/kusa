@@ -1,74 +1,58 @@
 [
   {
-    "userId": "7d539ce4-8cf6-45e0-8b30-d752622fd4ac",
-    "fullName": "Wilbur Grimes",
-    "bio": "leader, creator",
+    "userId": "608ca788-e4ed-4efd-b9c8-fe34c2db3baa",
+    "fullName": "Dustin Gusikowski",
+    "bio": "person, writer",
+    "gender": "Transexual",
+    "birthdate": "1988-11-10T11:55:57.433Z",
+    "registeredAt": "2025-04-27T04:53:49.484Z"
+  },
+  {
+    "userId": "aadee636-4ec7-43d7-9aa3-46da1dbd9b72",
+    "fullName": "Simon Corkery",
+    "bio": "patriot, streamer, business owner",
+    "gender": "Demi-man",
+    "birthdate": "2004-10-07T17:38:53.392Z",
+    "registeredAt": "2025-09-23T12:42:37.973Z"
+  },
+  {
+    "userId": "f182c091-e2c2-4e93-8699-6f73264e16bd",
+    "fullName": "Vickie Nikolaus",
+    "bio": "desk lover, singer 🏐",
+    "gender": "Trans",
+    "birthdate": "1947-04-28T05:17:53.116Z",
+    "registeredAt": "2025-09-07T22:55:28.163Z"
+  },
+  {
+    "userId": "9f94f428-5edc-43a3-92c3-52283d031c4f",
+    "fullName": "Marsha Hilpert-Schuster",
+    "bio": "philosopher, developer, teacher 👋🏿",
+    "gender": "Neutrois",
+    "birthdate": "2000-06-20T23:33:25.621Z",
+    "registeredAt": "2025-08-22T00:39:43.008Z"
+  },
+  {
+    "userId": "0a13cd7f-1562-4ba3-9176-f3082a2038ae",
+    "fullName": "Mrs. Meredith Gutmann",
+    "bio": "environmentalist, activist",
+    "gender": "Non-binary",
+    "birthdate": "1984-01-19T06:35:23.505Z",
+    "registeredAt": "2025-12-17T00:25:44.172Z"
+  },
+  {
+    "userId": "4cb512cb-394f-4555-8f9a-81c366022237",
+    "fullName": "Kelly Boyle",
+    "bio": "artist, traveler, foodie",
+    "gender": "Cisgender woman",
+    "birthdate": "1946-01-28T02:48:49.289Z",
+    "registeredAt": "2026-01-01T19:59:59.876Z"
+  },
+  {
+    "userId": "9673f892-3cef-48e0-87c8-0a4f2acebdba",
+    "fullName": "Brad Gleason",
+    "bio": "artist, streamer, leader",
     "gender": "Cis woman",
-    "birthdate": "2004-05-11T10:20:39.282Z",
-    "registeredAt": "2025-07-27T08:06:11.139Z"
-  },
-  {
-    "userId": "9afa8c0d-ad1e-4e7d-a5cf-48f403493ff2",
-    "fullName": "Dr. Vivian VonRueden DDS",
-    "bio": "sock junkie, educator ⏯️",
-    "gender": "Gender neutral",
-    "birthdate": "2006-12-14T20:46:56.706Z",
-    "registeredAt": "2026-02-04T15:09:10.105Z"
-  },
-  {
-    "userId": "301aafdd-b9cc-4d4d-bb1a-a1769772432c",
-    "fullName": "Cary Kerluke",
-    "bio": "mycoplasma advocate, filmmaker",
-    "gender": "Cis male",
-    "birthdate": "1989-07-07T17:11:36.414Z",
-    "registeredAt": "2026-02-06T12:53:37.110Z"
-  },
-  {
-    "userId": "8a65732e-d991-4436-a859-cb07278501bc",
-    "fullName": "Rogelio Baumbach-Tillman",
-    "bio": "atrium devotee  👘",
-    "gender": "Trans female",
-    "birthdate": "1984-06-01T11:58:54.950Z",
-    "registeredAt": "2025-12-27T09:43:05.598Z"
-  },
-  {
-    "userId": "5b37588a-8ffe-4289-a87a-432eb9c9cb43",
-    "fullName": "Erica Schiller",
-    "bio": "entrepreneur, streamer, designer",
-    "gender": "Genderflux",
-    "birthdate": "1964-12-15T18:56:17.559Z",
-    "registeredAt": "2025-06-16T08:17:41.614Z"
-  },
-  {
-    "userId": "04c0da6e-96ce-43c6-9513-880b734a44d5",
-    "fullName": "Leah Morissette",
-    "bio": "bass junkie",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1980-12-25T11:55:12.131Z",
-    "registeredAt": "2025-05-29T22:25:59.673Z"
-  },
-  {
-    "userId": "6e6b61ac-9613-426c-a225-d9996e79f2cd",
-    "fullName": "Chad Tremblay",
-    "bio": "veteran, activist, artist ✏️",
-    "gender": "Bigender",
-    "birthdate": "1999-11-14T09:06:03.961Z",
-    "registeredAt": "2026-01-04T21:30:33.805Z"
-  },
-  {
-    "userId": "0f40823b-0226-4a48-ad88-d8504201a62a",
-    "fullName": "Ian Morar",
-    "bio": "inventor",
-    "gender": "Trans woman",
-    "birthdate": "1977-03-17T21:16:57.452Z",
-    "registeredAt": "2025-06-20T23:18:41.709Z"
-  },
-  {
-    "userId": "72f3b433-d7fd-4431-bbda-cdc31664cf2c",
-    "fullName": "Dr. Arthur Bruen",
-    "bio": "trust fan",
-    "gender": "Gender nonconforming",
-    "birthdate": "1952-10-06T08:31:46.262Z",
-    "registeredAt": "2025-12-07T20:39:05.146Z"
+    "birthdate": "1963-09-09T05:40:07.868Z",
+    "registeredAt": "2025-08-20T20:36:34.681Z"
   }
 ]
