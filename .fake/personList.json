@@ -1,162 +1,50 @@
 [
   {
-    "userId": "5693eb53-a3cf-4e3a-a73c-a589317af641",
-    "fullName": "Mamie Kuphal",
-    "bio": "teacher",
-    "gender": "Man",
-    "birthdate": "1956-11-03T13:25:23.128Z",
-    "registeredAt": "2026-02-24T09:47:09.797Z"
-  },
-  {
-    "userId": "1921c7bf-8244-426e-8c14-f8e1de4d17fa",
-    "fullName": "Armando Cassin",
-    "bio": "telephone enthusiast, developer 🚶🏻‍♂️",
-    "gender": "Bigender",
-    "birthdate": "1988-01-24T01:30:45.146Z",
-    "registeredAt": "2025-07-01T20:51:32.201Z"
-  },
-  {
-    "userId": "f898c0f9-6e8d-49ff-b005-1d256bcfc333",
-    "fullName": "Alejandro Anderson",
-    "bio": "cuticle supporter, business owner",
-    "gender": "Genderqueer",
-    "birthdate": "1967-03-02T15:48:48.534Z",
-    "registeredAt": "2026-02-12T21:19:08.924Z"
-  },
-  {
-    "userId": "ae5de408-33fd-44ba-a25a-c8e3b3aa052d",
-    "fullName": "Jimmy Grimes",
-    "bio": "text advocate, student",
-    "gender": "Omnigender",
-    "birthdate": "1964-01-23T18:33:02.069Z",
-    "registeredAt": "2025-03-27T14:32:24.923Z"
-  },
-  {
-    "userId": "dcbc61e8-d7b8-4ad6-b7bd-98c5226b1359",
-    "fullName": "Beth Cole I",
-    "bio": "fiddle fan, inventor",
-    "gender": "Transexual male",
-    "birthdate": "1968-04-30T00:56:33.975Z",
-    "registeredAt": "2026-02-23T14:35:52.790Z"
-  },
-  {
-    "userId": "049c1b3d-296c-48b4-978d-757368f229cf",
-    "fullName": "Wendell Funk",
-    "bio": "artist",
-    "gender": "Male to female",
-    "birthdate": "1958-01-07T04:52:29.146Z",
-    "registeredAt": "2026-02-13T03:06:23.629Z"
-  },
-  {
-    "userId": "5ae57ed5-4a8b-4116-b4d6-5ef33674f249",
-    "fullName": "Jaime Zemlak",
-    "bio": "traveler, grad, foodie 🏳️‍⚧️",
-    "gender": "Intersex man",
-    "birthdate": "1994-08-21T14:25:15.078Z",
-    "registeredAt": "2026-02-22T05:42:33.199Z"
-  },
-  {
-    "userId": "ae7cb860-3136-41de-adb4-d2be26b86b4b",
-    "fullName": "Whitney Jacobi",
-    "bio": "veteran, creator, grad 🔫",
-    "gender": "M2F",
-    "birthdate": "1982-05-05T08:18:00.249Z",
-    "registeredAt": "2025-11-02T13:07:31.653Z"
-  },
-  {
-    "userId": "165556ad-5781-46b7-9f3c-15079910b374",
-    "fullName": "Rosalie Wolf III",
-    "bio": "inventor enthusiast  🆕",
-    "gender": "Cisgender woman",
-    "birthdate": "1962-12-07T22:26:56.720Z",
-    "registeredAt": "2026-02-23T12:06:45.066Z"
-  },
-  {
-    "userId": "5a6e9af8-1fcb-4682-abf4-b6fa837886a5",
-    "fullName": "Wilma Kris",
-    "bio": "seal supporter",
-    "gender": "Woman",
-    "birthdate": "1946-03-05T00:12:49.625Z",
-    "registeredAt": "2025-04-23T08:12:53.441Z"
-  },
-  {
-    "userId": "88440841-b08d-44e2-813f-e9a0299b945b",
-    "fullName": "Geraldine Orn",
-    "bio": "uncle junkie, entrepreneur",
-    "gender": "Trans woman",
-    "birthdate": "1974-07-09T00:17:49.342Z",
-    "registeredAt": "2025-12-18T11:11:59.747Z"
-  },
-  {
-    "userId": "e5e17803-bf7d-4727-a431-8e0ceaebe390",
-    "fullName": "Phillip Gulgowski",
-    "bio": "theater enthusiast, photographer",
-    "gender": "Hermaphrodite",
-    "birthdate": "1974-03-20T09:39:33.884Z",
-    "registeredAt": "2025-12-25T05:28:05.711Z"
-  },
-  {
-    "userId": "22551f6d-6ea7-4dcb-816b-a87fa40ca458",
-    "fullName": "Rickey Heathcote",
-    "bio": "activist, founder, artist",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1950-10-31T18:34:55.888Z",
-    "registeredAt": "2025-06-17T22:10:54.150Z"
-  },
-  {
-    "userId": "c3907e39-f018-4b8a-ba26-11fdcbc448e1",
-    "fullName": "Genevieve Oberbrunner",
-    "bio": "leader, foodie, coach 👨🏿‍🍳",
-    "gender": "Man",
-    "birthdate": "1949-10-14T12:39:41.077Z",
-    "registeredAt": "2026-01-26T20:13:42.130Z"
-  },
-  {
-    "userId": "779e6980-73e7-4674-a391-47be95c6a8af",
-    "fullName": "Cody Kilback",
-    "bio": "writer, model",
-    "gender": "Demi-woman",
-    "birthdate": "1998-05-01T07:19:14.806Z",
-    "registeredAt": "2025-11-11T00:02:22.778Z"
-  },
-  {
-    "userId": "38bdc6b9-ab6f-4ab6-a232-b4664eb59f44",
-    "fullName": "Ira Swift PhD",
-    "bio": "panpipe supporter",
-    "gender": "Cis woman",
-    "birthdate": "1948-08-30T09:54:49.601Z",
-    "registeredAt": "2026-02-25T01:11:50.339Z"
-  },
-  {
-    "userId": "bacdb767-dca1-4765-94a2-cb9ac8ce7b68",
-    "fullName": "Casey Jast",
-    "bio": "founder, film lover",
-    "gender": "Non-binary",
-    "birthdate": "1977-01-10T05:31:43.176Z",
-    "registeredAt": "2025-09-18T07:31:53.079Z"
-  },
-  {
-    "userId": "33348315-32c9-43a6-824e-f1f74e854e5c",
-    "fullName": "Mr. Raymond Howe",
-    "bio": "lake devotee, entrepreneur",
+    "userId": "012a6d80-2df8-4bae-8301-741653aa0ded",
+    "fullName": "Blake VonRueden",
+    "bio": "leader, author, patriot",
     "gender": "Cisgender male",
-    "birthdate": "1951-12-28T16:55:11.347Z",
-    "registeredAt": "2025-04-14T19:20:02.154Z"
+    "birthdate": "1997-08-07T01:39:45.079Z",
+    "registeredAt": "2025-05-17T10:03:01.735Z"
   },
   {
-    "userId": "6c79e435-ae64-4672-a88d-a79258080a15",
-    "fullName": "Bridget Daugherty",
-    "bio": "gamer, filmmaker",
-    "gender": "Cis man",
-    "birthdate": "1961-04-17T07:19:12.366Z",
-    "registeredAt": "2025-06-04T03:41:02.446Z"
+    "userId": "fdea709e-ab75-4ff3-bc61-70c6e64c334b",
+    "fullName": "Dennis Kling",
+    "bio": "film lover, gamer",
+    "gender": "Demi-man",
+    "birthdate": "1963-04-06T18:09:12.981Z",
+    "registeredAt": "2025-11-22T07:49:01.937Z"
   },
   {
-    "userId": "9012d4d2-d149-4d43-b4f9-ea3d427c419e",
-    "fullName": "Carroll Mante",
-    "bio": "brush advocate",
-    "gender": "Demiflux",
-    "birthdate": "1974-04-01T21:29:46.094Z",
-    "registeredAt": "2025-05-10T03:21:42.511Z"
+    "userId": "79c78b7d-0bca-48fc-8788-c6464fe1b22c",
+    "fullName": "Jasmine Smith MD",
+    "bio": "public speaker, environmentalist, photographer 🍠",
+    "gender": "Bigender",
+    "birthdate": "1952-04-11T04:26:02.238Z",
+    "registeredAt": "2025-07-26T01:32:17.372Z"
+  },
+  {
+    "userId": "60e0f026-7f52-4c07-b2eb-7f930a1480de",
+    "fullName": "Raymond Daugherty",
+    "bio": "filmmaker, public speaker",
+    "gender": "Male to female transgender woman",
+    "birthdate": "1955-11-23T15:34:12.848Z",
+    "registeredAt": "2026-01-24T20:30:57.436Z"
+  },
+  {
+    "userId": "33623e06-0cf2-4839-bc19-8ee885acdc35",
+    "fullName": "Max Torphy",
+    "bio": "business owner, scientist, philosopher 🆚",
+    "gender": "Neither",
+    "birthdate": "1948-09-24T15:14:04.796Z",
+    "registeredAt": "2025-04-18T06:24:31.543Z"
+  },
+  {
+    "userId": "1b33c25d-2d55-4c42-b2e9-72a9c3213517",
+    "fullName": "Brooke McClure",
+    "bio": "whisper devotee",
+    "gender": "M2F",
+    "birthdate": "1966-03-03T04:00:34.380Z",
+    "registeredAt": "2025-07-16T08:12:57.785Z"
   }
 ]
