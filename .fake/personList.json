@@ -1,122 +1,42 @@
 [
   {
-    "userId": "44be67f9-8664-4e51-99d1-3dc5a26eb7ad",
-    "fullName": "Jody Turner",
-    "bio": "dose junkie",
+    "userId": "0279586e-8bf5-4f19-94b8-e6e369046dc0",
+    "fullName": "Stephanie Reilly I",
+    "bio": "top-hat supporter, inventor",
+    "gender": "Cisgender female",
+    "birthdate": "1975-02-24T12:11:30.703Z",
+    "registeredAt": "2025-10-28T00:20:21.321Z"
+  },
+  {
+    "userId": "e1e2c389-d4dc-453d-91b6-78dd9c15c2d8",
+    "fullName": "Arlene Kautzer",
+    "bio": "young devotee",
+    "gender": "Neutrois",
+    "birthdate": "1958-08-08T23:52:45.140Z",
+    "registeredAt": "2025-05-21T22:01:33.629Z"
+  },
+  {
+    "userId": "d7881581-b908-48f5-b9bb-5bb11928116d",
+    "fullName": "Joanne Green",
+    "bio": "wrong enthusiast, developer 🎏",
     "gender": "Demigender",
-    "birthdate": "1971-03-01T19:25:07.296Z",
-    "registeredAt": "2025-10-12T10:34:03.487Z"
+    "birthdate": "1955-05-06T23:50:44.871Z",
+    "registeredAt": "2025-04-28T22:20:13.921Z"
   },
   {
-    "userId": "88add437-5942-44c0-bae4-7e5385a06861",
-    "fullName": "Mr. Charlie Rempel",
-    "bio": "musician",
-    "gender": "Two-spirit person",
-    "birthdate": "1996-07-05T14:04:44.008Z",
-    "registeredAt": "2025-06-28T06:31:24.849Z"
+    "userId": "8f1ad770-af8c-49b6-9fca-33d23dae30b1",
+    "fullName": "Kate Green",
+    "bio": "geek, philosopher, business owner",
+    "gender": "Intersex woman",
+    "birthdate": "1997-03-13T15:58:42.111Z",
+    "registeredAt": "2025-05-27T20:53:21.948Z"
   },
   {
-    "userId": "f9829fa9-b8d7-4cca-b4b3-11d2e1e4c526",
-    "fullName": "Inez McKenzie",
-    "bio": "spending fan  ↩️",
-    "gender": "T* woman",
-    "birthdate": "1977-09-27T06:53:43.934Z",
-    "registeredAt": "2025-12-12T11:55:43.567Z"
-  },
-  {
-    "userId": "1f6fd500-1aee-42d1-9b7a-b008fbe4c4d3",
-    "fullName": "Dr. Keith Yost",
-    "bio": "nut lover, nerd",
-    "gender": "Gender questioning",
-    "birthdate": "1999-02-23T16:23:48.558Z",
-    "registeredAt": "2025-04-14T22:14:29.038Z"
-  },
-  {
-    "userId": "2cf1a8ea-bf49-45db-8e84-ad366916c62a",
-    "fullName": "Brent Yost I",
-    "bio": "coach",
-    "gender": "Bigender",
-    "birthdate": "1990-10-25T16:33:02.806Z",
-    "registeredAt": "2026-02-28T10:45:48.949Z"
-  },
-  {
-    "userId": "db73d7a3-4541-42e6-9b70-f33f80b97f15",
-    "fullName": "Sue Reinger",
-    "bio": "coach, scientist",
-    "gender": "Transmasculine",
-    "birthdate": "1970-05-26T09:53:40.555Z",
-    "registeredAt": "2025-05-02T23:16:20.952Z"
-  },
-  {
-    "userId": "5c88e8bd-d6af-43d6-a2e5-68dd6c90d3fe",
-    "fullName": "Kristopher Mosciski-Corkery",
-    "bio": "developer, veteran",
-    "gender": "Intersex person",
-    "birthdate": "1995-10-11T13:11:58.772Z",
-    "registeredAt": "2026-01-23T15:09:19.311Z"
-  },
-  {
-    "userId": "7ed10ab9-f469-486c-91ae-a6c6640415f1",
-    "fullName": "Calvin Wintheiser",
-    "bio": "ink enthusiast",
-    "gender": "Hermaphrodite",
-    "birthdate": "1963-02-12T14:24:05.644Z",
-    "registeredAt": "2025-12-11T14:20:51.946Z"
-  },
-  {
-    "userId": "b2492d55-2406-4e4d-9ee2-151357556e40",
-    "fullName": "Johnathan Schmidt",
-    "bio": "scientist, inventor, film lover 👂🏼",
-    "gender": "Cisgender",
-    "birthdate": "1979-04-26T20:20:19.671Z",
-    "registeredAt": "2025-03-14T16:34:58.830Z"
-  },
-  {
-    "userId": "3c002e22-f446-41ad-bf7d-51d798cd6ac1",
-    "fullName": "Larry Robel",
-    "bio": "wifi advocate, business owner 🍇",
-    "gender": "Demi-girl",
-    "birthdate": "1948-04-30T03:14:38.112Z",
-    "registeredAt": "2025-10-27T06:28:38.869Z"
-  },
-  {
-    "userId": "8bd368ef-1017-4d0e-8fc9-72a43ee4d8a6",
-    "fullName": "Lyle Barrows-Zemlak",
-    "bio": "photographer, veteran, grad",
-    "gender": "Trigender",
-    "birthdate": "1996-02-05T00:45:08.426Z",
-    "registeredAt": "2025-08-09T16:31:44.796Z"
-  },
-  {
-    "userId": "81bbc2f1-5086-4a7e-9f1c-906c1e0a18b7",
-    "fullName": "Chad Adams",
-    "bio": "blogger",
-    "gender": "Xenogender",
-    "birthdate": "1979-09-26T02:06:00.651Z",
-    "registeredAt": "2026-01-25T22:03:08.860Z"
-  },
-  {
-    "userId": "0aca9934-996e-4188-8b2b-31fb0613156b",
-    "fullName": "Kurt Keebler",
-    "bio": "inventor",
-    "gender": "Male to female transgender woman",
-    "birthdate": "2007-05-06T06:36:43.072Z",
-    "registeredAt": "2026-02-03T04:36:53.097Z"
-  },
-  {
-    "userId": "4f224835-d113-4474-b49e-b44689fd0017",
-    "fullName": "Philip Hand",
-    "bio": "engineer",
-    "gender": "Cis male",
-    "birthdate": "1995-03-07T22:27:18.820Z",
-    "registeredAt": "2026-02-13T18:15:55.827Z"
-  },
-  {
-    "userId": "f7a47f38-03d0-441a-9605-e0b7b1f942cc",
-    "fullName": "Sylvia Wyman",
-    "bio": "singer, educator",
-    "gender": "Gender variant",
-    "birthdate": "1966-05-01T19:20:27.790Z",
-    "registeredAt": "2025-11-01T16:26:55.918Z"
+    "userId": "3af65884-84cd-402d-b9ea-6fb3af4348f5",
+    "fullName": "Gustavo Schinner",
+    "bio": "bowtie junkie, nerd",
+    "gender": "Male to female transsexual woman",
+    "birthdate": "1993-10-31T23:02:04.571Z",
+    "registeredAt": "2025-12-24T13:14:53.656Z"
   }
 ]
