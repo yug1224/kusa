@@ -1,146 +1,58 @@
 [
   {
-    "userId": "534d8eb1-67e5-4d5c-b6c2-32573bb3c4c9",
-    "fullName": "Russell Boyle MD",
-    "bio": "grad, philosopher, singer 🤓",
-    "gender": "Cisgender woman",
-    "birthdate": "1978-03-28T08:18:11.703Z",
-    "registeredAt": "2025-08-12T13:58:07.523Z"
-  },
-  {
-    "userId": "1035cf2d-e310-4ed1-a078-9483448ae458",
-    "fullName": "Freddie Crona",
-    "bio": "signify enthusiast",
-    "gender": "Cisgender female",
-    "birthdate": "1966-09-18T20:44:39.942Z",
-    "registeredAt": "2025-09-15T21:15:22.663Z"
-  },
-  {
-    "userId": "2d85b32c-dbd9-4ac6-b130-ce5a42dddd3b",
-    "fullName": "Ms. Miriam Mertz",
-    "bio": "chop junkie, activist",
-    "gender": "Intersex",
-    "birthdate": "1974-07-19T09:25:54.134Z",
-    "registeredAt": "2025-05-02T02:06:15.143Z"
-  },
-  {
-    "userId": "f391d9fc-e16c-4a46-8a6d-0a7fe0b80e85",
-    "fullName": "Timmy Hickle",
-    "bio": "facelift junkie, gamer 🦎",
-    "gender": "Gender questioning",
-    "birthdate": "1956-08-28T09:09:16.025Z",
-    "registeredAt": "2025-05-26T11:59:33.166Z"
-  },
-  {
-    "userId": "cad23a08-33a9-491e-9a68-cc2a95cc02c4",
-    "fullName": "Amber Schinner",
-    "bio": "parent, creator",
-    "gender": "Gender fluid",
-    "birthdate": "1958-02-13T06:20:14.341Z",
-    "registeredAt": "2025-06-07T14:51:51.452Z"
-  },
-  {
-    "userId": "57c525a8-260f-4be1-a19c-8d1f67e84636",
-    "fullName": "Salvatore Stroman",
-    "bio": "drink advocate, coach",
-    "gender": "Male to female trans woman",
-    "birthdate": "2000-09-20T09:47:47.843Z",
-    "registeredAt": "2025-09-22T08:10:02.614Z"
-  },
-  {
-    "userId": "f70effa2-35c5-426c-ae1d-ff6b9239dfbc",
-    "fullName": "Dr. Joy Brown",
-    "bio": "scientist, educator, foodie",
-    "gender": "Intersex woman",
-    "birthdate": "1988-12-30T03:57:10.831Z",
-    "registeredAt": "2025-08-20T17:32:39.606Z"
-  },
-  {
-    "userId": "5f45dd86-762a-40e3-8ceb-8c9945cad7e4",
-    "fullName": "Salvador Witting",
-    "bio": "activist, author, model 👨🏼‍🚒",
-    "gender": "Two-spirit person",
-    "birthdate": "1991-02-04T11:06:45.643Z",
-    "registeredAt": "2026-02-18T13:38:17.476Z"
-  },
-  {
-    "userId": "1af408c4-f996-41b7-9cc4-63650384e55c",
-    "fullName": "Jorge Gottlieb",
-    "bio": "founder",
-    "gender": "Non-binary",
-    "birthdate": "1970-09-19T09:48:48.430Z",
-    "registeredAt": "2025-09-03T00:17:31.375Z"
-  },
-  {
-    "userId": "c57c9dd4-8fca-4741-9b0f-ebdbd5ab28f2",
-    "fullName": "Fernando Larkin",
-    "bio": "environmentalist, engineer, parent 🤒",
-    "gender": "Cis",
-    "birthdate": "1958-10-24T21:52:24.663Z",
-    "registeredAt": "2026-01-28T11:37:20.655Z"
-  },
-  {
-    "userId": "084e04a2-bda6-49fb-b8c0-8acf81e167a5",
-    "fullName": "Adrian Cole Sr.",
-    "bio": "buckwheat fan, educator",
-    "gender": "Transexual female",
-    "birthdate": "1999-08-11T04:36:07.344Z",
-    "registeredAt": "2025-08-16T16:50:33.875Z"
-  },
-  {
-    "userId": "a39f5587-4032-467c-9f5a-ef0a94b81c55",
-    "fullName": "Arthur Corwin I",
-    "bio": "filmmaker, engineer, model 🧚",
-    "gender": "Polygender",
-    "birthdate": "2007-12-03T08:46:36.388Z",
-    "registeredAt": "2025-09-21T13:44:33.738Z"
-  },
-  {
-    "userId": "0fe234aa-d42d-4dd1-99c6-7fb2f1fe48f6",
-    "fullName": "Terry VonRueden",
-    "bio": "citizen supporter  🥚",
-    "gender": "Demi-boy",
-    "birthdate": "1998-09-05T03:57:06.109Z",
-    "registeredAt": "2025-05-12T08:57:06.668Z"
-  },
-  {
-    "userId": "fa3c35db-8011-4175-9305-81eaf4482087",
-    "fullName": "Luis Kovacek",
-    "bio": "tussle fan",
-    "gender": "Woman",
-    "birthdate": "1968-10-31T04:13:17.117Z",
-    "registeredAt": "2026-02-06T16:41:45.200Z"
-  },
-  {
-    "userId": "94e90373-5bb0-4f85-a833-733db84f0a2a",
-    "fullName": "Mr. Derek Lueilwitz",
-    "bio": "inventor",
-    "gender": "Trans",
-    "birthdate": "1987-10-10T03:35:07.523Z",
-    "registeredAt": "2025-10-26T00:29:41.031Z"
-  },
-  {
-    "userId": "b995159f-75cf-4c53-a4e0-9b794980485d",
-    "fullName": "Geraldine Ferry",
-    "bio": "bear devotee",
-    "gender": "Agender",
-    "birthdate": "2006-01-18T13:03:11.954Z",
-    "registeredAt": "2026-01-23T18:37:09.742Z"
-  },
-  {
-    "userId": "6a473542-6fac-4b69-87bb-2909aadb126a",
-    "fullName": "Bill Mohr",
-    "bio": "nylon devotee  🌝",
+    "userId": "cb5ca105-0d47-4885-aec5-7250ca66c035",
+    "fullName": "Arturo Grant",
+    "bio": "association fan  🎖️",
     "gender": "Cisgender male",
-    "birthdate": "1980-02-04T02:51:56.054Z",
-    "registeredAt": "2025-09-09T19:13:21.500Z"
+    "birthdate": "1977-11-27T18:43:15.758Z",
+    "registeredAt": "2025-05-21T04:25:03.764Z"
   },
   {
-    "userId": "80dbae07-ce15-44f2-951c-a890c3dc75cc",
-    "fullName": "Matt Hermann-Watsica Sr.",
-    "bio": "turning fan  🎋",
-    "gender": "Demigender",
-    "birthdate": "1956-11-10T07:45:12.210Z",
-    "registeredAt": "2025-07-21T20:05:12.009Z"
+    "userId": "950a4bb0-5889-43c7-b8d3-b7a37de7632b",
+    "fullName": "Gerald Beatty",
+    "bio": "filmmaker, philosopher",
+    "gender": "Cisgender man",
+    "birthdate": "1948-10-06T06:49:39.858Z",
+    "registeredAt": "2025-12-10T12:31:40.695Z"
+  },
+  {
+    "userId": "4cc6c337-2a1b-4747-898c-e0af8f732fe8",
+    "fullName": "Beulah Becker",
+    "bio": "dreamer, traveler, foodie 👏🏿",
+    "gender": "Androgynous",
+    "birthdate": "2007-01-29T21:39:23.690Z",
+    "registeredAt": "2025-05-31T05:12:59.226Z"
+  },
+  {
+    "userId": "153bec21-06fe-4058-8a95-a6d945d0a27b",
+    "fullName": "Ella Brakus",
+    "bio": "grad, gamer",
+    "gender": "Gender nonconforming",
+    "birthdate": "1983-10-22T19:17:56.324Z",
+    "registeredAt": "2025-06-11T05:39:31.628Z"
+  },
+  {
+    "userId": "05457b10-89d6-490d-9244-691b7dfe8173",
+    "fullName": "Evelyn Blanda",
+    "bio": "artist, creator",
+    "gender": "Transgender female",
+    "birthdate": "1954-12-24T14:34:11.905Z",
+    "registeredAt": "2025-06-12T13:57:42.131Z"
+  },
+  {
+    "userId": "563a9947-346e-40f7-aa2e-11aa575f8282",
+    "fullName": "Nichole Zemlak",
+    "bio": "hourglass enthusiast  👮🏼",
+    "gender": "Female to male",
+    "birthdate": "1991-04-18T01:14:26.703Z",
+    "registeredAt": "2026-02-03T10:00:19.115Z"
+  },
+  {
+    "userId": "dc3f528a-7409-4c51-8aac-9249c6027e7d",
+    "fullName": "Terri Abbott",
+    "bio": "film lover, writer, blogger",
+    "gender": "Transgender female",
+    "birthdate": "1963-06-28T14:57:36.158Z",
+    "registeredAt": "2025-05-28T05:50:47.957Z"
   }
 ]
