@@ -1,138 +1,74 @@
 [
   {
-    "userId": "64d48079-dae2-4f11-a609-42ce0653aade",
-    "fullName": "Mr. Glen Hudson",
-    "bio": "dreamer, patriot",
+    "userId": "a92187fa-0194-43d3-93fa-15ef6a1bcb66",
+    "fullName": "Dr. Elijah Legros III",
+    "bio": "oyster supporter",
+    "gender": "Trans female",
+    "birthdate": "1989-06-24T21:15:03.466Z",
+    "registeredAt": "2025-11-05T22:11:13.715Z"
+  },
+  {
+    "userId": "08c43587-7706-492d-9743-4b83ad1463b5",
+    "fullName": "Robin Stroman",
+    "bio": "eavesdropper advocate, blogger",
+    "gender": "Trans woman",
+    "birthdate": "1976-02-11T00:35:50.491Z",
+    "registeredAt": "2025-12-10T15:07:44.215Z"
+  },
+  {
+    "userId": "73e8115a-7707-434e-b19a-1c8bfe06d511",
+    "fullName": "Verna Hayes-Rohan",
+    "bio": "shampoo junkie  🧑🏻‍🏫",
+    "gender": "FTM",
+    "birthdate": "1975-04-25T01:38:12.460Z",
+    "registeredAt": "2026-01-02T00:09:44.360Z"
+  },
+  {
+    "userId": "0f811b2d-4465-43c6-9245-754a320c857d",
+    "fullName": "Natalie Smith MD",
+    "bio": "writer",
+    "gender": "Man",
+    "birthdate": "2003-06-28T13:07:15.553Z",
+    "registeredAt": "2025-11-28T23:02:22.428Z"
+  },
+  {
+    "userId": "6e08b27d-0f99-4abf-91e3-8d1a607f2628",
+    "fullName": "Kristina Wehner I",
+    "bio": "grouper enthusiast",
+    "gender": "Intersex",
+    "birthdate": "1963-04-02T11:56:14.879Z",
+    "registeredAt": "2026-02-14T22:40:39.188Z"
+  },
+  {
+    "userId": "8b6c0d87-709b-41b1-a03c-3153b3679510",
+    "fullName": "Felicia Gleichner Jr.",
+    "bio": "artist, singer, patriot 🗯️",
+    "gender": "Genderqueer",
+    "birthdate": "2005-02-10T11:07:20.156Z",
+    "registeredAt": "2025-05-31T13:06:58.698Z"
+  },
+  {
+    "userId": "88494424-8aba-4d09-a18b-b072a28f66c6",
+    "fullName": "Ethel Hammes",
+    "bio": "patriot",
     "gender": "Transexual woman",
-    "birthdate": "1994-04-27T13:14:17.421Z",
-    "registeredAt": "2026-01-08T15:03:32.598Z"
+    "birthdate": "1986-02-24T00:14:48.981Z",
+    "registeredAt": "2025-11-18T17:29:45.384Z"
   },
   {
-    "userId": "3893dac6-93b4-409f-84b6-f45d1fa8c0f5",
-    "fullName": "Adam Schiller",
-    "bio": "patriot, artist, student 🌱",
-    "gender": "Transgender female",
-    "birthdate": "1964-07-20T14:21:20.227Z",
-    "registeredAt": "2025-09-14T14:37:21.374Z"
+    "userId": "34708386-4298-4863-811d-638a6c671670",
+    "fullName": "Clay Rau I",
+    "bio": "educator",
+    "gender": "Intersex",
+    "birthdate": "1984-03-29T07:09:07.415Z",
+    "registeredAt": "2025-03-24T05:24:33.850Z"
   },
   {
-    "userId": "401c4c2a-c3ae-426c-96d9-895d7580084d",
-    "fullName": "Marjorie Hilpert-Moore",
-    "bio": "investigation advocate, philosopher ㊙️",
-    "gender": "Male to female",
-    "birthdate": "1950-07-11T16:21:54.179Z",
-    "registeredAt": "2025-06-15T01:12:48.779Z"
-  },
-  {
-    "userId": "a8aa4f23-8eb9-4e6f-9719-18788e184c0d",
-    "fullName": "Levi Schiller",
-    "bio": "dart enthusiast, artist",
-    "gender": "Two-spirit person",
-    "birthdate": "2002-04-23T05:36:48.425Z",
-    "registeredAt": "2025-11-25T04:18:47.219Z"
-  },
-  {
-    "userId": "de615b85-e20f-495f-af2e-c46cbbb5e7d3",
-    "fullName": "Randy Towne",
-    "bio": "business owner, blogger, coach",
-    "gender": "Non-binary",
-    "birthdate": "2004-10-28T12:11:26.356Z",
-    "registeredAt": "2025-08-18T06:09:29.405Z"
-  },
-  {
-    "userId": "1e8fdedb-b396-457d-9dc7-3cb3f1b3db36",
-    "fullName": "Johnathan Baumbach",
-    "bio": "bean supporter  🎄",
-    "gender": "Gender fluid",
-    "birthdate": "1960-08-30T05:28:21.529Z",
-    "registeredAt": "2025-03-29T18:53:20.339Z"
-  },
-  {
-    "userId": "b299ab4e-1160-4791-a743-452ec808bd56",
-    "fullName": "Earl Beahan",
-    "bio": "scientist, philosopher",
-    "gender": "Bigender",
-    "birthdate": "1986-12-19T05:05:11.462Z",
-    "registeredAt": "2025-12-06T01:03:36.058Z"
-  },
-  {
-    "userId": "12e0eeaa-fa73-4bce-8276-5412de2af6c5",
-    "fullName": "Frederick Keebler",
-    "bio": "watcher supporter  🦠",
-    "gender": "Cis woman",
-    "birthdate": "1970-03-27T16:44:39.175Z",
-    "registeredAt": "2025-09-04T13:12:24.858Z"
-  },
-  {
-    "userId": "050a6918-ee54-41a7-a150-3f74c9cc4371",
-    "fullName": "Lorenzo Anderson",
-    "bio": "semantics supporter  🥭",
-    "gender": "Two* person",
-    "birthdate": "1957-01-19T06:19:42.818Z",
-    "registeredAt": "2025-10-30T19:15:09.493Z"
-  },
-  {
-    "userId": "e73b0e6b-7b50-4dc2-bfe9-0f2f5e20694f",
-    "fullName": "Evelyn Armstrong",
-    "bio": "midden fan  🐖",
-    "gender": "Androgynous",
-    "birthdate": "1991-02-04T16:32:40.737Z",
-    "registeredAt": "2025-10-21T04:16:43.197Z"
-  },
-  {
-    "userId": "5d26b71b-c699-4ba7-bfc5-33302cf752e7",
-    "fullName": "Jerome Reinger",
-    "bio": "eve advocate",
-    "gender": "Demi-girl",
-    "birthdate": "1957-05-08T05:50:14.918Z",
-    "registeredAt": "2025-07-29T16:49:51.141Z"
-  },
-  {
-    "userId": "00dd6582-c9ff-4752-a13a-b2adb41262ef",
-    "fullName": "Matthew Stracke",
-    "bio": "equinox devotee  🤘🏼",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1958-03-15T06:06:51.163Z",
-    "registeredAt": "2026-01-16T01:03:14.761Z"
-  },
-  {
-    "userId": "77cf6332-786a-4c16-9b59-daa6e9564570",
-    "fullName": "Dr. Lila Leuschke IV",
-    "bio": "artist",
-    "gender": "Omnigender",
-    "birthdate": "1963-05-13T04:14:41.082Z",
-    "registeredAt": "2025-04-23T22:05:57.864Z"
-  },
-  {
-    "userId": "3325df3b-66ef-4f5c-8fbd-e360bf913090",
-    "fullName": "Jon Moen",
-    "bio": "friend, dreamer, artist ☦️",
-    "gender": "Two-spirit person",
-    "birthdate": "1947-08-07T14:48:23.219Z",
-    "registeredAt": "2025-10-20T10:07:01.400Z"
-  },
-  {
-    "userId": "68ea47f1-25c6-4ca5-8ff3-cd973e8573e6",
-    "fullName": "Celia Yost",
-    "bio": "colonialism advocate",
-    "gender": "Demi-woman",
-    "birthdate": "1946-09-20T17:13:25.399Z",
-    "registeredAt": "2026-03-04T16:06:39.896Z"
-  },
-  {
-    "userId": "2564a5aa-59ab-4304-9c06-799bf8ed364a",
-    "fullName": "Becky Deckow",
-    "bio": "crib junkie  🟧",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1961-05-27T21:20:24.414Z",
-    "registeredAt": "2026-01-24T10:11:25.924Z"
-  },
-  {
-    "userId": "a258c853-3fa3-4f96-9027-7e66dd1bc911",
-    "fullName": "Rogelio Jenkins",
-    "bio": "snob lover, parent 🥙",
-    "gender": "F2M",
-    "birthdate": "1960-06-13T12:11:54.245Z",
-    "registeredAt": "2025-08-07T20:38:44.820Z"
+    "userId": "b4d67da8-df6e-46ca-9338-bfa4a66a7b8a",
+    "fullName": "Mr. Herbert Collier",
+    "bio": "founder, dreamer, singer 🕘",
+    "gender": "Other",
+    "birthdate": "1964-12-28T03:27:06.604Z",
+    "registeredAt": "2026-02-08T18:15:56.593Z"
   }
 ]
