@@ -1,138 +1,90 @@
 [
   {
-    "userId": "039670ab-7699-40d5-94ec-5a9d9a6660db",
-    "fullName": "Erik Hettinger",
-    "bio": "precedence supporter  👩🏾‍❤️‍💋‍👨🏾",
-    "gender": "Cis man",
-    "birthdate": "1995-07-21T10:19:52.543Z",
-    "registeredAt": "2025-08-30T22:45:40.725Z"
-  },
-  {
-    "userId": "613c4b7c-9cdc-4aab-9961-2255bffb02de",
-    "fullName": "Bessie Doyle",
-    "bio": "developer, public speaker",
-    "gender": "Woman",
-    "birthdate": "1959-06-05T16:13:33.212Z",
-    "registeredAt": "2025-10-23T12:21:51.517Z"
-  },
-  {
-    "userId": "257c1291-62d1-4fd5-bffb-12f6d992abe1",
-    "fullName": "Kurt Dibbert",
-    "bio": "tune-up fan, geek",
-    "gender": "Gender variant",
-    "birthdate": "1988-11-08T11:11:34.044Z",
-    "registeredAt": "2025-05-29T23:15:49.625Z"
-  },
-  {
-    "userId": "aaa24baa-3f72-45c2-bd6d-ca134ecbe2f5",
-    "fullName": "Cesar Bradtke V",
-    "bio": "veteran, creator, scientist 💱",
-    "gender": "Cis male",
-    "birthdate": "2006-08-11T12:12:30.635Z",
-    "registeredAt": "2025-03-27T16:23:53.773Z"
-  },
-  {
-    "userId": "dee19dcd-93e9-4c32-b2a1-e77d6629730f",
-    "fullName": "Stephen Runte",
-    "bio": "inventor, educator",
-    "gender": "FTM",
-    "birthdate": "1955-06-10T06:46:37.629Z",
-    "registeredAt": "2026-02-10T10:30:16.828Z"
-  },
-  {
-    "userId": "ce4b3c20-7000-4e73-9edd-7a00b4630112",
-    "fullName": "Curtis Runolfsson",
-    "bio": "blogger, leader, traveler",
-    "gender": "Demi-man",
-    "birthdate": "1991-01-05T07:42:59.835Z",
-    "registeredAt": "2025-09-23T04:05:58.165Z"
-  },
-  {
-    "userId": "4189b9ce-b947-42de-9245-e9072ab515eb",
-    "fullName": "Verna Medhurst",
-    "bio": "patriot, public speaker, developer",
-    "gender": "Non-binary",
-    "birthdate": "1989-11-03T00:55:06.653Z",
-    "registeredAt": "2025-05-06T23:19:56.146Z"
-  },
-  {
-    "userId": "36ba46f4-39dc-416a-bc71-6a4c23e12700",
-    "fullName": "Francis Abbott",
-    "bio": "patriot, singer, nerd 🔏",
-    "gender": "Intersex person",
-    "birthdate": "1955-08-04T23:08:15.049Z",
-    "registeredAt": "2026-02-11T08:53:31.450Z"
-  },
-  {
-    "userId": "ea302dd6-7c93-4600-94b6-d021abeedda7",
-    "fullName": "Alberto Koch PhD",
-    "bio": "typeface advocate, engineer 🇸🇿",
-    "gender": "Trans",
-    "birthdate": "1999-11-24T07:16:16.915Z",
-    "registeredAt": "2025-11-29T23:07:21.967Z"
-  },
-  {
-    "userId": "11301845-afcd-4808-81f4-da6a9b935e27",
-    "fullName": "Gwendolyn Stanton",
-    "bio": "coach, singer, traveler",
-    "gender": "Trans woman",
-    "birthdate": "1951-10-26T05:53:28.842Z",
-    "registeredAt": "2025-05-02T22:25:08.053Z"
-  },
-  {
-    "userId": "f8a04a36-55b6-422b-bc9d-206416d2877c",
-    "fullName": "Genevieve Funk",
-    "bio": "activist, film lover, singer",
-    "gender": "Demigender",
-    "birthdate": "1964-10-25T06:06:04.730Z",
-    "registeredAt": "2025-06-22T04:57:16.503Z"
-  },
-  {
-    "userId": "9e4e02e9-9757-4b75-9f17-5e32c61b7a61",
-    "fullName": "Bonnie Hills",
-    "bio": "koala supporter, business owner 🗨️",
-    "gender": "MTF",
-    "birthdate": "1978-01-31T22:57:06.926Z",
-    "registeredAt": "2025-05-07T00:22:35.031Z"
-  },
-  {
-    "userId": "67c7d9e8-6bad-4408-bb26-3b78e408a0da",
-    "fullName": "Elsa Davis",
-    "bio": "major-league lover  🇾🇪",
-    "gender": "Cis",
-    "birthdate": "2006-01-16T04:22:48.645Z",
-    "registeredAt": "2025-11-12T14:13:08.035Z"
-  },
-  {
-    "userId": "4394cbbe-aaee-4677-8dc8-fffe85c3561f",
-    "fullName": "Craig Fritsch",
-    "bio": "person, philosopher",
-    "gender": "Male to female",
-    "birthdate": "1972-05-07T12:58:08.424Z",
-    "registeredAt": "2025-11-07T04:32:46.728Z"
-  },
-  {
-    "userId": "840d8c07-f6bc-4cc3-8c65-a118ba0acf9b",
-    "fullName": "Sally McClure",
-    "bio": "maid fan  🔟",
-    "gender": "MTF",
-    "birthdate": "1963-09-23T09:20:40.497Z",
-    "registeredAt": "2025-11-08T15:58:42.445Z"
-  },
-  {
-    "userId": "b285e4b7-2dda-41df-8169-0aa9aacc9c21",
-    "fullName": "Francis Torp",
-    "bio": "nonsense lover  🍏",
-    "gender": "Trigender",
-    "birthdate": "1990-03-02T06:33:30.011Z",
-    "registeredAt": "2025-05-18T09:33:16.568Z"
-  },
-  {
-    "userId": "1caba8e5-caca-4b9f-a14f-c530868a142d",
-    "fullName": "Dr. Stephanie Daugherty",
-    "bio": "glance supporter",
+    "userId": "f5425993-d6a0-402b-90bb-05013a2bd881",
+    "fullName": "Wendy Maggio",
+    "bio": "inventor, developer, public speaker",
     "gender": "Cisgender man",
-    "birthdate": "2001-07-19T05:37:07.805Z",
-    "registeredAt": "2025-04-30T02:57:17.159Z"
+    "birthdate": "2003-01-14T00:18:11.866Z",
+    "registeredAt": "2026-03-01T00:00:27.180Z"
+  },
+  {
+    "userId": "ed7ae157-4e12-4ab8-b453-76e6beedc61b",
+    "fullName": "Gretchen Hayes",
+    "bio": "polarisation junkie  ⛳",
+    "gender": "Transgender person",
+    "birthdate": "1995-08-14T20:56:56.051Z",
+    "registeredAt": "2025-10-17T10:55:25.403Z"
+  },
+  {
+    "userId": "1e1aa3ff-4f72-4bfc-8f5e-0963edae2c3d",
+    "fullName": "Dr. Seth Becker",
+    "bio": "shoelace devotee, patriot 🤛🏾",
+    "gender": "Hermaphrodite",
+    "birthdate": "1996-04-13T03:08:35.177Z",
+    "registeredAt": "2025-12-18T01:56:24.445Z"
+  },
+  {
+    "userId": "b2eed65c-4099-48d5-8e52-fb36ec890bd6",
+    "fullName": "Kristy Rice-Schaefer",
+    "bio": "snowboarding supporter",
+    "gender": "Demi-man",
+    "birthdate": "1946-06-19T19:10:19.299Z",
+    "registeredAt": "2026-01-11T16:52:33.560Z"
+  },
+  {
+    "userId": "f829b6bf-06c9-4c4a-ab39-b7cf8ce5692f",
+    "fullName": "Marco Feeney",
+    "bio": "race junkie, patriot",
+    "gender": "Androgyne",
+    "birthdate": "1950-10-28T18:39:29.557Z",
+    "registeredAt": "2025-06-12T07:41:51.136Z"
+  },
+  {
+    "userId": "0312fc1a-2779-4a78-929e-d23abfa944ef",
+    "fullName": "Angie Boehm",
+    "bio": "chassis fan",
+    "gender": "T* woman",
+    "birthdate": "2005-05-14T19:05:30.825Z",
+    "registeredAt": "2026-02-16T12:16:16.621Z"
+  },
+  {
+    "userId": "4387e97e-e03c-44d7-8b47-6385fa24ac5a",
+    "fullName": "Pauline Runte",
+    "bio": "grad",
+    "gender": "Cis female",
+    "birthdate": "1979-09-27T12:18:50.003Z",
+    "registeredAt": "2025-12-09T01:28:02.366Z"
+  },
+  {
+    "userId": "d402137d-fc98-4037-9ac9-ca0031e5e773",
+    "fullName": "Ms. Naomi Kozey",
+    "bio": "historian junkie  🇷🇼",
+    "gender": "T* man",
+    "birthdate": "2005-05-07T18:37:12.777Z",
+    "registeredAt": "2025-05-29T12:59:30.508Z"
+  },
+  {
+    "userId": "f275838e-e98a-4ba0-adeb-4ca00551fe83",
+    "fullName": "Tim Gibson",
+    "bio": "communion fan, creator 🐈",
+    "gender": "Male to female transsexual woman",
+    "birthdate": "1979-11-20T20:23:05.911Z",
+    "registeredAt": "2025-10-31T22:52:27.040Z"
+  },
+  {
+    "userId": "6462365e-8116-40da-92bb-bcf3ad721748",
+    "fullName": "Dr. Jana Lebsack",
+    "bio": "mop lover  🇳🇺",
+    "gender": "Female to male",
+    "birthdate": "1952-01-17T20:08:48.994Z",
+    "registeredAt": "2025-07-26T02:11:41.976Z"
+  },
+  {
+    "userId": "db5af613-29ce-471e-be95-83480896d997",
+    "fullName": "Marianne Zboncak",
+    "bio": "step-daughter fan",
+    "gender": "Demi-man",
+    "birthdate": "1982-11-21T12:49:57.891Z",
+    "registeredAt": "2025-07-26T11:53:39.003Z"
   }
 ]
