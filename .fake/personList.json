@@ -1,98 +1,50 @@
 [
   {
-    "userId": "e5eda280-ae41-4838-94e5-e8149f9fc520",
-    "fullName": "Barry Berge",
-    "bio": "musician, coach",
-    "gender": "Man",
-    "birthdate": "1972-01-10T00:03:05.313Z",
-    "registeredAt": "2025-06-07T00:35:20.992Z"
+    "userId": "2f7836c2-c362-48a4-b446-7f0153c9dfb5",
+    "fullName": "Dr. Cary Kutch",
+    "bio": "nerd",
+    "gender": "Trans",
+    "birthdate": "1991-06-24T21:40:49.074Z",
+    "registeredAt": "2025-10-30T13:38:48.204Z"
   },
   {
-    "userId": "d2316789-d9f0-4817-ac3b-3f0005d3d376",
-    "fullName": "Beatrice Connelly",
-    "bio": "tofu advocate, friend",
-    "gender": "Hermaphrodite",
-    "birthdate": "2001-08-23T02:49:31.840Z",
-    "registeredAt": "2026-02-12T11:54:30.196Z"
+    "userId": "afdadaaf-08bd-4af6-bdee-f551820b8299",
+    "fullName": "Marsha Hoeger",
+    "bio": "gamer, educator, philosopher ⚾",
+    "gender": "Intersex person",
+    "birthdate": "1982-10-31T16:10:47.076Z",
+    "registeredAt": "2025-12-26T14:57:22.160Z"
   },
   {
-    "userId": "30d77a42-a245-49bc-9aa0-9063485bbfcd",
-    "fullName": "Mr. Dexter Kassulke",
-    "bio": "educator, founder, singer",
+    "userId": "ae81e256-48ba-4202-b34f-59beac9495a1",
+    "fullName": "Angela McLaughlin",
+    "bio": "fact junkie, geek 😸",
+    "gender": "Demi-woman",
+    "birthdate": "1989-10-27T01:01:25.591Z",
+    "registeredAt": "2025-06-09T04:50:02.429Z"
+  },
+  {
+    "userId": "60b8875e-96f4-4bd6-a3d3-831efc80a0da",
+    "fullName": "Zachary Wisoky",
+    "bio": "film lover",
+    "gender": "Cisgender male",
+    "birthdate": "1987-05-02T05:32:52.878Z",
+    "registeredAt": "2025-09-28T17:55:08.974Z"
+  },
+  {
+    "userId": "d39584ea-c6c8-44fa-8dec-083e722ef7ac",
+    "fullName": "David Stoltenberg",
+    "bio": "pimple supporter, parent 🌪️",
     "gender": "Transexual person",
-    "birthdate": "1992-05-11T12:52:56.945Z",
-    "registeredAt": "2025-06-23T18:32:37.316Z"
+    "birthdate": "2007-09-08T22:07:12.599Z",
+    "registeredAt": "2026-03-02T08:45:43.689Z"
   },
   {
-    "userId": "c333bd31-2bcd-4ece-8945-41c5eb27ccd5",
-    "fullName": "Dr. Wm Shanahan Jr.",
-    "bio": "macrame fan, streamer",
-    "gender": "Genderflux",
-    "birthdate": "1999-05-28T00:41:34.819Z",
-    "registeredAt": "2025-07-25T12:44:11.536Z"
-  },
-  {
-    "userId": "fe8fdb04-0bc5-491c-9933-d5df95486b58",
-    "fullName": "Gretchen Littel",
-    "bio": "developer, artist",
-    "gender": "Trans male",
-    "birthdate": "1989-08-27T21:43:20.193Z",
-    "registeredAt": "2025-12-14T09:15:06.805Z"
-  },
-  {
-    "userId": "872bf00b-6f66-4edd-9dea-388b439ed0b5",
-    "fullName": "Mr. Mack Schowalter",
-    "bio": "men lover  🎮",
-    "gender": "Cis man",
-    "birthdate": "1950-09-20T05:10:33.498Z",
-    "registeredAt": "2025-03-17T15:19:44.176Z"
-  },
-  {
-    "userId": "5244bcb8-b346-41f1-b867-04cf67086a9b",
-    "fullName": "Dale Effertz",
-    "bio": "singer, teacher, public speaker",
-    "gender": "Female to male trans man",
-    "birthdate": "2005-06-15T11:19:21.695Z",
-    "registeredAt": "2025-10-07T06:05:11.481Z"
-  },
-  {
-    "userId": "ff147d09-c5b3-4124-b7a1-eaf1ee4599f7",
-    "fullName": "Christopher Kerluke",
-    "bio": "skyline advocate",
-    "gender": "Demi-girl",
-    "birthdate": "1982-04-23T16:26:07.727Z",
-    "registeredAt": "2025-08-06T05:44:36.279Z"
-  },
-  {
-    "userId": "3d1a6e30-1d57-4bac-8741-74a09c0c47eb",
-    "fullName": "Marlon Bernhard",
-    "bio": "graffiti junkie, educator 🇨🇿",
-    "gender": "Cis woman",
-    "birthdate": "1957-04-27T20:34:13.694Z",
-    "registeredAt": "2025-06-28T23:26:42.276Z"
-  },
-  {
-    "userId": "f0487f85-099c-42a1-9ec3-ef56a9628108",
-    "fullName": "Courtney Hilll PhD",
-    "bio": "gamer, environmentalist",
-    "gender": "Trans woman",
-    "birthdate": "1969-10-15T20:39:20.077Z",
-    "registeredAt": "2025-11-27T16:32:55.450Z"
-  },
-  {
-    "userId": "1c2d1b20-15de-4c2a-bf4d-ad675f5df2f4",
-    "fullName": "Monica Balistreri",
-    "bio": "inventor, nerd, designer 😅",
-    "gender": "Non-binary",
-    "birthdate": "1955-07-28T06:04:50.949Z",
-    "registeredAt": "2025-08-19T00:00:58.754Z"
-  },
-  {
-    "userId": "a2b5641b-7577-4398-87aa-e6619f84fc59",
-    "fullName": "Toni Walker",
-    "bio": "streamer, activist, patriot 👨🏼‍❤️‍💋‍👨🏽",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1961-07-30T22:03:55.288Z",
-    "registeredAt": "2026-01-16T07:24:31.889Z"
+    "userId": "35187791-d009-4f22-807b-2f914a8d9bb6",
+    "fullName": "Cesar VonRueden",
+    "bio": "hospice supporter, friend",
+    "gender": "Cisgender woman",
+    "birthdate": "1956-08-07T04:14:59.305Z",
+    "registeredAt": "2026-02-27T20:40:44.496Z"
   }
 ]
