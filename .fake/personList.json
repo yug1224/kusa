@@ -1,146 +1,26 @@
 [
   {
-    "userId": "1e7acd95-5f03-4677-8bdc-e0b9f186530b",
-    "fullName": "Ismael Gerlach",
-    "bio": "parent, student, artist",
-    "gender": "Neutrois",
-    "birthdate": "1996-06-20T02:57:05.596Z",
-    "registeredAt": "2025-09-19T02:12:25.327Z"
-  },
-  {
-    "userId": "2984517f-52f1-47ad-9ab9-bf53abda8422",
-    "fullName": "Veronica Gleason DDS",
-    "bio": "familiar supporter, student 🥐",
-    "gender": "Male to female",
-    "birthdate": "1965-12-26T04:05:00.694Z",
-    "registeredAt": "2025-09-19T13:46:38.509Z"
-  },
-  {
-    "userId": "cd2c5fb9-15be-498b-a15c-7052cc961918",
-    "fullName": "Eric Schmidt",
-    "bio": "traveler",
-    "gender": "Cis",
-    "birthdate": "2002-05-22T17:55:43.830Z",
-    "registeredAt": "2025-11-29T14:27:47.828Z"
-  },
-  {
-    "userId": "eabd93d8-8acf-4992-bce7-d06e36a8c2b3",
-    "fullName": "Fred Brown V",
-    "bio": "writer, artist, activist",
-    "gender": "MTF",
-    "birthdate": "2002-04-01T04:55:15.649Z",
-    "registeredAt": "2025-07-07T01:41:51.008Z"
-  },
-  {
-    "userId": "9ab40100-90f2-4a61-a646-9be7d71112dc",
-    "fullName": "Whitney Kassulke-Cole",
-    "bio": "flag lover, patriot 🦚",
-    "gender": "Bigender",
-    "birthdate": "1948-06-15T14:05:10.489Z",
-    "registeredAt": "2026-02-17T21:23:55.117Z"
-  },
-  {
-    "userId": "5dd61788-2572-4fcf-a1a2-4c7771c84e26",
-    "fullName": "Dwayne Strosin",
-    "bio": "excuse devotee  🤏🏽",
-    "gender": "Female to male transgender man",
-    "birthdate": "1954-07-22T05:20:21.608Z",
-    "registeredAt": "2026-02-05T20:27:45.789Z"
-  },
-  {
-    "userId": "c40f037d-074d-4cb6-b62a-09a5a8005a20",
-    "fullName": "Frederick Marvin",
-    "bio": "engineering lover, artist",
-    "gender": "Cis",
-    "birthdate": "1995-07-25T23:35:24.446Z",
-    "registeredAt": "2025-07-18T05:38:38.905Z"
-  },
-  {
-    "userId": "c6776b08-0746-4737-babe-44e54ddbff0f",
-    "fullName": "Omar Kub",
-    "bio": "snakebite advocate, film lover",
-    "gender": "Gender neutral",
-    "birthdate": "1969-02-19T13:16:13.015Z",
-    "registeredAt": "2025-10-19T19:30:32.977Z"
-  },
-  {
-    "userId": "35545462-b277-43e3-9833-ceb761c6999f",
-    "fullName": "Dora Willms-Connelly Jr.",
-    "bio": "milepost junkie, inventor",
-    "gender": "Other",
-    "birthdate": "1956-09-08T07:41:13.800Z",
-    "registeredAt": "2025-08-02T21:14:40.432Z"
-  },
-  {
-    "userId": "f57d3565-fa5b-49d5-bf5c-a501cee47326",
-    "fullName": "Maureen Sanford",
-    "bio": "urge devotee, artist",
-    "gender": "FTM",
-    "birthdate": "1946-02-06T15:39:39.338Z",
-    "registeredAt": "2025-09-11T04:30:21.637Z"
-  },
-  {
-    "userId": "63b7928f-e06e-4590-b0ad-0459c3acc0a3",
-    "fullName": "Amy Lueilwitz",
-    "bio": "dreamer",
-    "gender": "F2M",
-    "birthdate": "1970-04-21T12:43:34.986Z",
-    "registeredAt": "2025-10-22T19:04:13.615Z"
-  },
-  {
-    "userId": "5f56b2b5-9ffa-41ce-8188-c5a33e732031",
-    "fullName": "Katie Wintheiser",
-    "bio": "business owner, founder",
-    "gender": "Gender nonconforming",
-    "birthdate": "1999-04-05T22:50:48.239Z",
-    "registeredAt": "2025-04-28T09:28:15.630Z"
-  },
-  {
-    "userId": "5114e820-3e3b-4c3f-8a00-d6f1c414de15",
-    "fullName": "Natalie Kessler",
-    "bio": "student, geek, dreamer 🏧",
-    "gender": "Female to male trans man",
-    "birthdate": "1973-09-26T10:16:10.578Z",
-    "registeredAt": "2025-11-01T23:46:08.291Z"
-  },
-  {
-    "userId": "cb2530aa-11a4-4bde-ba68-2298701d334e",
-    "fullName": "Angel Swift Jr.",
-    "bio": "leader",
-    "gender": "Androgynous",
-    "birthdate": "1988-06-02T06:12:57.015Z",
-    "registeredAt": "2025-07-30T11:46:31.558Z"
-  },
-  {
-    "userId": "8794b512-ec68-4b63-b90e-f454ba7cd2fc",
-    "fullName": "Ms. Sharon Konopelski",
-    "bio": "glutamate supporter, environmentalist",
-    "gender": "Gender fluid",
-    "birthdate": "1981-12-15T00:45:01.038Z",
-    "registeredAt": "2025-09-17T20:58:30.828Z"
-  },
-  {
-    "userId": "a5b66459-dc0c-4088-acb1-78f0da147f98",
-    "fullName": "Tami Herzog",
-    "bio": "surge devotee  🛼",
-    "gender": "Two-spirit person",
-    "birthdate": "1977-04-08T10:03:04.946Z",
-    "registeredAt": "2026-01-16T07:42:04.091Z"
-  },
-  {
-    "userId": "c625e3c8-543c-41ea-a0a2-624875f9d2b4",
-    "fullName": "Kayla Satterfield-Walter Jr.",
-    "bio": "leader, traveler",
-    "gender": "Omnigender",
-    "birthdate": "1996-07-29T17:29:55.297Z",
-    "registeredAt": "2025-09-05T00:27:53.366Z"
-  },
-  {
-    "userId": "ab23a047-ef96-4669-9636-767240e9c3b5",
-    "fullName": "Spencer Vandervort",
-    "bio": "handrail devotee",
+    "userId": "4d0d593c-4b8b-4bb8-a943-9f95e53a1460",
+    "fullName": "Reginald Stoltenberg",
+    "bio": "home enthusiast, founder",
     "gender": "Trans male",
-    "birthdate": "1998-11-08T04:42:30.853Z",
-    "registeredAt": "2025-05-01T18:06:47.865Z"
+    "birthdate": "1999-12-17T15:16:17.594Z",
+    "registeredAt": "2026-01-22T09:59:43.281Z"
+  },
+  {
+    "userId": "521638dd-5978-4813-99c5-b49ce3800d67",
+    "fullName": "Brendan Leuschke",
+    "bio": "teacher, parent, gamer",
+    "gender": "Transgender female",
+    "birthdate": "1964-10-16T23:34:13.903Z",
+    "registeredAt": "2025-09-18T20:59:25.414Z"
+  },
+  {
+    "userId": "8648d59d-bd14-4604-827a-804b3145c113",
+    "fullName": "Grant Kerluke",
+    "bio": "spiral lover  🧅",
+    "gender": "Hermaphrodite",
+    "birthdate": "1975-09-23T00:56:50.043Z",
+    "registeredAt": "2025-12-08T00:21:59.665Z"
   }
 ]
