@@ -1,130 +1,34 @@
 [
   {
-    "userId": "5d8f556d-7b62-49d0-bfd4-4a1d35053afe",
-    "fullName": "Patsy Senger",
-    "bio": "singer, founder, photographer",
-    "gender": "Intersex person",
-    "birthdate": "1967-02-05T16:48:25.402Z",
-    "registeredAt": "2025-07-04T19:54:30.308Z"
+    "userId": "287264c5-a43a-410c-91b4-e50117359fec",
+    "fullName": "Jerry West",
+    "bio": "nerd",
+    "gender": "Cis",
+    "birthdate": "1970-07-06T21:35:50.827Z",
+    "registeredAt": "2025-06-18T16:22:31.439Z"
   },
   {
-    "userId": "76feb15a-b5dc-44d5-ba37-4756f47b43b8",
-    "fullName": "Dixie Lehner",
-    "bio": "filmmaker",
-    "gender": "Transmasculine",
-    "birthdate": "1998-05-08T07:46:14.057Z",
-    "registeredAt": "2026-03-10T08:26:19.062Z"
+    "userId": "ca366c4c-6337-45c4-b1f1-d4daa4e457c9",
+    "fullName": "Estelle Rogahn",
+    "bio": "designer, author",
+    "gender": "Gender nonconforming",
+    "birthdate": "2007-07-07T17:28:24.471Z",
+    "registeredAt": "2025-07-26T17:17:56.752Z"
   },
   {
-    "userId": "e4e7ddf5-2c6d-4f79-922d-0fdcb24c70bf",
-    "fullName": "Elsa Kuphal",
-    "bio": "poker devotee, gamer",
-    "gender": "Transmasculine",
-    "birthdate": "1948-10-12T18:33:34.327Z",
-    "registeredAt": "2025-09-16T19:18:48.594Z"
+    "userId": "e0032e3c-379b-4a1d-8d5a-e87ec52f072b",
+    "fullName": "Marjorie Fahey",
+    "bio": "model, leader",
+    "gender": "Demiflux",
+    "birthdate": "1985-05-19T01:03:32.422Z",
+    "registeredAt": "2025-06-17T12:51:42.595Z"
   },
   {
-    "userId": "632045dd-28da-4948-8e6a-121f495ed93a",
-    "fullName": "Samuel Friesen II",
-    "bio": "dictaphone fan",
-    "gender": "Androgynous",
-    "birthdate": "1967-03-18T22:30:52.330Z",
-    "registeredAt": "2025-10-26T14:02:02.731Z"
-  },
-  {
-    "userId": "0884aec0-f839-4a8f-ab75-c289ed910672",
-    "fullName": "Arlene Balistreri",
-    "bio": "public speaker, streamer, film lover",
-    "gender": "Transexual",
-    "birthdate": "1969-06-05T14:59:46.861Z",
-    "registeredAt": "2025-07-02T07:15:56.857Z"
-  },
-  {
-    "userId": "2495e990-0a21-4b66-a464-98cfa0d6fa87",
-    "fullName": "Marcus Gottlieb",
-    "bio": "activist, coach, blogger",
-    "gender": "Demigender",
-    "birthdate": "2006-08-27T02:01:48.479Z",
-    "registeredAt": "2025-07-21T17:05:10.867Z"
-  },
-  {
-    "userId": "965a4e0e-be61-406f-be6e-91178cded42f",
-    "fullName": "Kevin Lubowitz",
-    "bio": "wrong junkie",
-    "gender": "Cis female",
-    "birthdate": "1974-10-02T17:23:08.789Z",
-    "registeredAt": "2025-06-07T04:32:55.582Z"
-  },
-  {
-    "userId": "3137467a-9eac-44e7-b9b7-d2b33cf77320",
-    "fullName": "April Zulauf",
-    "bio": "bob fan",
-    "gender": "Male to female trans woman",
-    "birthdate": "2003-01-05T00:13:01.462Z",
-    "registeredAt": "2026-02-14T22:53:16.062Z"
-  },
-  {
-    "userId": "11d0f534-18bc-4851-b227-4c5898c71dc7",
-    "fullName": "Kenny Bergnaum",
-    "bio": "parenting devotee, dreamer 🇰🇭",
-    "gender": "Female to male transgender man",
-    "birthdate": "1981-09-17T17:43:27.609Z",
-    "registeredAt": "2025-10-26T00:12:06.599Z"
-  },
-  {
-    "userId": "6e16e332-dbac-4da6-a8d4-107e9fedf964",
-    "fullName": "Clay Shanahan",
-    "bio": "entrepreneur, musician, patriot 🐘",
-    "gender": "Female to male trans man",
-    "birthdate": "1966-05-26T08:38:58.888Z",
-    "registeredAt": "2025-03-15T21:10:18.434Z"
-  },
-  {
-    "userId": "ca99fb5c-ed21-4010-a518-efa4f3dc2848",
-    "fullName": "Mike Lueilwitz V",
-    "bio": "environmentalist",
-    "gender": "Transmasculine",
-    "birthdate": "2004-01-06T00:06:34.716Z",
-    "registeredAt": "2025-10-18T14:47:45.470Z"
-  },
-  {
-    "userId": "f875920c-c399-4008-ad5e-525a58eabe86",
-    "fullName": "Adrian Nikolaus",
-    "bio": "philosopher, film lover, patriot",
-    "gender": "Cisgender female",
-    "birthdate": "1987-02-23T14:18:12.944Z",
-    "registeredAt": "2025-04-26T15:45:27.346Z"
-  },
-  {
-    "userId": "d92d340a-0f35-44f8-9af2-53d7c6aa15dc",
-    "fullName": "Paul Boehm",
-    "bio": "e-reader supporter",
-    "gender": "Cisgender man",
-    "birthdate": "1973-12-08T18:47:29.677Z",
-    "registeredAt": "2025-10-25T17:16:09.465Z"
-  },
-  {
-    "userId": "60e5b55c-d956-4e79-9a07-2106018462a9",
-    "fullName": "Josh Huel",
-    "bio": "grad, public speaker, dreamer 🫕",
-    "gender": "Cisgender female",
-    "birthdate": "1969-12-24T01:54:28.277Z",
-    "registeredAt": "2025-07-11T22:53:35.961Z"
-  },
-  {
-    "userId": "a97bda66-128d-4b81-ba01-69f4b2373bff",
-    "fullName": "Clyde Lakin",
-    "bio": "artist, veteran, photographer",
-    "gender": "T* man",
-    "birthdate": "1977-03-30T12:18:01.779Z",
-    "registeredAt": "2026-01-17T19:26:15.304Z"
-  },
-  {
-    "userId": "50ca220c-b9de-4c7a-b1eb-a8dfd6801763",
-    "fullName": "Ramiro Collier",
-    "bio": "streamer, veteran",
-    "gender": "Gender questioning",
-    "birthdate": "2002-05-30T12:24:27.518Z",
-    "registeredAt": "2025-08-19T14:17:57.535Z"
+    "userId": "cfbe6e87-63b2-4d14-8939-0dd1f878effe",
+    "fullName": "Dennis Towne",
+    "bio": "tap devotee  🥈",
+    "gender": "Male to female transsexual woman",
+    "birthdate": "1962-05-12T12:46:56.415Z",
+    "registeredAt": "2025-07-07T23:11:54.409Z"
   }
 ]
