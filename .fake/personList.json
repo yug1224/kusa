@@ -1,82 +1,74 @@
 [
   {
-    "userId": "a618260c-d6ee-4535-8058-4abfc375f717",
-    "fullName": "Arturo Corkery-Cummings",
-    "bio": "grad, author, patriot",
-    "gender": "Demi-girl",
-    "birthdate": "1973-07-13T23:52:42.809Z",
-    "registeredAt": "2025-08-19T16:10:22.547Z"
-  },
-  {
-    "userId": "b14553ef-d1a2-4b1c-8d27-19d31c402f68",
-    "fullName": "Janie Kerluke Sr.",
-    "bio": "developer, filmmaker",
-    "gender": "Gender neutral",
-    "birthdate": "1955-11-19T08:16:17.665Z",
-    "registeredAt": "2025-08-10T08:55:06.198Z"
-  },
-  {
-    "userId": "e218c28c-627c-46f0-b454-b5f17a185893",
-    "fullName": "Eleanor Luettgen",
-    "bio": "geek, photographer, scientist",
-    "gender": "Transexual",
-    "birthdate": "1995-10-24T15:57:16.549Z",
-    "registeredAt": "2025-08-08T20:00:19.528Z"
-  },
-  {
-    "userId": "95e35452-3192-4e77-bf62-30dde6465718",
-    "fullName": "Rafael Dooley",
-    "bio": "gamer, filmmaker, filmmaker",
-    "gender": "Two-spirit person",
-    "birthdate": "1960-08-30T22:33:49.043Z",
-    "registeredAt": "2025-12-13T16:55:34.612Z"
-  },
-  {
-    "userId": "6e9c73cf-2517-4e77-8b24-7eddc25fd46a",
-    "fullName": "Curtis Sauer MD",
-    "bio": "designer, artist, filmmaker 🦵🏾",
-    "gender": "Gender nonconforming",
-    "birthdate": "1990-08-07T13:53:27.737Z",
-    "registeredAt": "2026-01-09T06:33:25.114Z"
-  },
-  {
-    "userId": "0ca99594-dba4-470b-9c3c-6792592d6cb8",
-    "fullName": "Nicole Lind",
-    "bio": "crib enthusiast, person",
-    "gender": "Genderflux",
-    "birthdate": "1948-09-01T19:38:45.272Z",
-    "registeredAt": "2026-01-01T13:16:38.119Z"
-  },
-  {
-    "userId": "98d2c218-048c-4966-ab15-a23a6b32f30f",
-    "fullName": "Clay Bernier III",
-    "bio": "streamer",
-    "gender": "Intersex man",
-    "birthdate": "1966-12-05T19:52:35.464Z",
-    "registeredAt": "2025-06-04T08:41:04.941Z"
-  },
-  {
-    "userId": "641e1bc7-59f6-4461-82f1-b48b2816c5cd",
-    "fullName": "Angelo Smitham MD",
-    "bio": "cassock advocate  🔦",
-    "gender": "F2M",
-    "birthdate": "2006-08-25T10:49:45.953Z",
-    "registeredAt": "2025-08-12T03:11:56.374Z"
-  },
-  {
-    "userId": "85282249-52e7-42fa-b035-a8577bc840f0",
-    "fullName": "Miss Emily Wilkinson",
-    "bio": "traveler, teacher, geek",
-    "gender": "Demiflux",
-    "birthdate": "2002-06-09T00:24:43.164Z",
-    "registeredAt": "2025-10-28T01:15:12.027Z"
-  },
-  {
-    "userId": "d7a1fc00-6651-4e69-b1ab-348aa00d6f49",
-    "fullName": "Darrin Osinski",
-    "bio": "teacher",
+    "userId": "6f2eeec5-378e-435e-b7c4-480f997733cd",
+    "fullName": "Kyle Schowalter",
+    "bio": "coach",
     "gender": "Cisgender",
-    "birthdate": "2001-03-12T01:13:23.080Z",
-    "registeredAt": "2025-08-03T16:16:22.434Z"
+    "birthdate": "1982-06-30T22:40:55.667Z",
+    "registeredAt": "2025-04-18T06:58:35.326Z"
+  },
+  {
+    "userId": "c4537317-0ef5-4ff9-8d6d-6b02ad666435",
+    "fullName": "Cindy Halvorson",
+    "bio": "creator, singer, foodie",
+    "gender": "Cis woman",
+    "birthdate": "1982-11-30T14:05:31.500Z",
+    "registeredAt": "2025-07-06T13:44:36.372Z"
+  },
+  {
+    "userId": "c4d7413c-5d45-4f15-9823-8ef668a615dc",
+    "fullName": "Amber Thiel I",
+    "bio": "idea advocate, gamer",
+    "gender": "FTM",
+    "birthdate": "1950-04-09T19:03:50.893Z",
+    "registeredAt": "2025-08-13T15:20:22.617Z"
+  },
+  {
+    "userId": "597a6ad6-97d5-4917-aa37-09f82ebb24d3",
+    "fullName": "Andres Weimann",
+    "bio": "architect lover",
+    "gender": "Intersex person",
+    "birthdate": "1968-12-31T01:04:32.983Z",
+    "registeredAt": "2025-05-29T10:36:11.047Z"
+  },
+  {
+    "userId": "127cb6d0-338b-470d-ab2f-e4a8204e243e",
+    "fullName": "Kathryn Zboncak",
+    "bio": "wedding fan, activist",
+    "gender": "Two* person",
+    "birthdate": "1970-02-28T21:14:59.492Z",
+    "registeredAt": "2025-06-24T23:53:50.542Z"
+  },
+  {
+    "userId": "4ba79612-54f9-4940-9f30-04e365f586fb",
+    "fullName": "Alton Smith",
+    "bio": "traveler",
+    "gender": "Trans woman",
+    "birthdate": "1971-11-26T15:54:36.254Z",
+    "registeredAt": "2025-06-04T17:54:47.041Z"
+  },
+  {
+    "userId": "51717a99-5bf5-4e67-89c8-16fea45ec3e3",
+    "fullName": "Marilyn Schuppe",
+    "bio": "vase devotee, parent",
+    "gender": "Cis woman",
+    "birthdate": "1950-01-19T21:29:51.271Z",
+    "registeredAt": "2025-05-13T09:27:06.274Z"
+  },
+  {
+    "userId": "002dd302-3d05-45f5-bdad-69184586c0f7",
+    "fullName": "David Buckridge",
+    "bio": "designer, public speaker",
+    "gender": "T* man",
+    "birthdate": "1979-05-24T14:20:30.949Z",
+    "registeredAt": "2025-06-09T00:02:53.560Z"
+  },
+  {
+    "userId": "df1ffba4-ba9c-426e-a739-691a2d822760",
+    "fullName": "Minnie Kunze",
+    "bio": "site enthusiast, patriot",
+    "gender": "Trans female",
+    "birthdate": "1968-04-14T11:02:27.357Z",
+    "registeredAt": "2025-04-02T21:16:39.980Z"
   }
 ]
