@@ -1,130 +1,18 @@
 [
   {
-    "userId": "2223ae33-73b0-4be3-b83b-c163a5f233ef",
-    "fullName": "Nicole Champlin",
-    "bio": "scientist",
-    "gender": "Cisgender man",
-    "birthdate": "1990-03-13T16:41:42.528Z",
-    "registeredAt": "2026-02-15T12:23:05.867Z"
-  },
-  {
-    "userId": "ade7e69b-7007-4c5d-bc49-af3e32a95a1a",
-    "fullName": "Darren Trantow",
-    "bio": "liver supporter, educator 🖇️",
-    "gender": "Non-binary",
-    "birthdate": "1971-05-02T10:08:15.931Z",
-    "registeredAt": "2025-04-15T14:04:38.525Z"
-  },
-  {
-    "userId": "f0249415-78e8-4eed-afa9-a9a56bc58c2e",
-    "fullName": "Jaime Auer",
-    "bio": "writer",
-    "gender": "T* woman",
-    "birthdate": "1976-04-15T10:23:39.233Z",
-    "registeredAt": "2025-07-19T18:22:19.588Z"
-  },
-  {
-    "userId": "075745e1-4848-493d-a273-ce4b84cf02df",
-    "fullName": "Doreen Heller",
-    "bio": "inventor, person, teacher",
-    "gender": "Demi-man",
-    "birthdate": "1962-04-16T14:37:04.624Z",
-    "registeredAt": "2025-05-15T08:38:37.886Z"
-  },
-  {
-    "userId": "4db3d1e9-6018-4b82-9c9f-d6e0bdb32256",
-    "fullName": "Adrian Oberbrunner",
-    "bio": "parent, designer, coach",
-    "gender": "Transexual male",
-    "birthdate": "1983-04-25T21:58:48.027Z",
-    "registeredAt": "2025-05-31T21:12:56.677Z"
-  },
-  {
-    "userId": "c4ca4472-6f7b-4249-9df6-48ad55fb73af",
-    "fullName": "Judith Ritchie",
-    "bio": "founder",
-    "gender": "Pangender",
-    "birthdate": "1988-04-05T04:21:09.252Z",
-    "registeredAt": "2025-08-06T09:27:06.357Z"
-  },
-  {
-    "userId": "188c8541-9f23-4481-8a67-61b4519a7fbf",
-    "fullName": "Cedric Gleason",
-    "bio": "trait enthusiast  🤽",
+    "userId": "d838590b-0459-4f8a-9d48-1f1cacce91e2",
+    "fullName": "Carroll Nienow-Skiles",
+    "bio": "writer, inventor, dreamer",
     "gender": "Cis man",
-    "birthdate": "2001-10-13T09:36:44.559Z",
-    "registeredAt": "2025-05-20T16:22:01.216Z"
+    "birthdate": "1985-07-01T17:24:56.792Z",
+    "registeredAt": "2025-05-12T02:27:04.257Z"
   },
   {
-    "userId": "48e33b82-42bd-4139-ac36-2b083b6d703f",
-    "fullName": "Harold Morar",
-    "bio": "engineer",
-    "gender": "Transexual person",
-    "birthdate": "1986-06-09T14:06:58.492Z",
-    "registeredAt": "2025-04-11T22:28:58.462Z"
-  },
-  {
-    "userId": "deb2c25d-02bf-426c-ac29-92f2c6e2ce29",
-    "fullName": "Natasha Lang",
-    "bio": "subway advocate",
-    "gender": "Transexual male",
-    "birthdate": "2000-04-22T11:29:28.133Z",
-    "registeredAt": "2025-10-24T09:46:31.290Z"
-  },
-  {
-    "userId": "5c23117f-8930-4a6e-bd3d-f5995adb6f03",
-    "fullName": "Vanessa Lynch",
-    "bio": "veteran, traveler, developer",
-    "gender": "Demi-boy",
-    "birthdate": "2007-07-31T11:10:01.699Z",
-    "registeredAt": "2026-01-10T02:59:14.554Z"
-  },
-  {
-    "userId": "0c88798b-2466-47c4-b1d9-5c03bef24d3f",
-    "fullName": "Wilbert Breitenberg",
-    "bio": "leader, streamer",
-    "gender": "Gender nonconforming",
-    "birthdate": "1998-02-04T00:12:59.638Z",
-    "registeredAt": "2025-10-24T13:02:05.965Z"
-  },
-  {
-    "userId": "26afbade-865c-4716-aed0-f41d9f39f20d",
-    "fullName": "June Reynolds",
-    "bio": "dreamer, person",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1997-04-19T04:35:33.381Z",
-    "registeredAt": "2026-01-13T23:36:24.332Z"
-  },
-  {
-    "userId": "070bd877-5125-4582-b461-9260f324a3f0",
-    "fullName": "Rachael Sanford-Rolfson",
-    "bio": "teacher",
-    "gender": "Trans",
-    "birthdate": "1995-01-28T20:16:44.394Z",
-    "registeredAt": "2025-04-23T16:08:50.267Z"
-  },
-  {
-    "userId": "ebf6087b-3c87-49e4-86a1-365e2e84b55b",
-    "fullName": "Mrs. Holly Pollich",
-    "bio": "veteran, environmentalist, educator",
-    "gender": "Gender fluid",
-    "birthdate": "1994-05-13T11:12:14.469Z",
-    "registeredAt": "2025-08-22T11:50:55.935Z"
-  },
-  {
-    "userId": "eb5d698d-c0d3-44af-9db0-5d925104b8fe",
-    "fullName": "Mr. Maurice Ondricka",
-    "bio": "streamer, developer",
-    "gender": "Demi-man",
-    "birthdate": "1996-03-18T03:12:51.272Z",
-    "registeredAt": "2025-12-14T08:47:16.880Z"
-  },
-  {
-    "userId": "aae487d5-7de5-4e1e-8700-e702c97d7d78",
-    "fullName": "Benny Pacocha",
-    "bio": "bowl devotee",
-    "gender": "Polygender",
-    "birthdate": "1948-06-24T21:47:37.601Z",
-    "registeredAt": "2025-12-13T02:05:29.470Z"
+    "userId": "da511ce6-9c18-4303-850c-ac840b137e2f",
+    "fullName": "Dr. James Schuppe IV",
+    "bio": "person, writer",
+    "gender": "T* man",
+    "birthdate": "1997-04-19T16:39:47.019Z",
+    "registeredAt": "2025-11-07T09:57:11.960Z"
   }
 ]
