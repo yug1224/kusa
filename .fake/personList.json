@@ -1,138 +1,58 @@
 [
   {
-    "userId": "bb6fb14c-1ee4-466d-871b-a0635be98222",
-    "fullName": "Dr. Duane Mohr",
-    "bio": "grad, person, entrepreneur",
-    "gender": "Bigender",
-    "birthdate": "1951-02-04T15:22:55.095Z",
-    "registeredAt": "2025-07-11T03:45:10.477Z"
-  },
-  {
-    "userId": "c6a596db-1c2c-484f-a5e3-4180bc646d3a",
-    "fullName": "Eva O'Hara",
-    "bio": "clan junkie, engineer 🦌",
-    "gender": "Male to female trans woman",
-    "birthdate": "2005-07-03T14:34:41.169Z",
-    "registeredAt": "2025-06-01T08:19:19.716Z"
-  },
-  {
-    "userId": "5e157ed7-ca56-4bb5-b5e0-b0ddb368b7ba",
-    "fullName": "Roderick Luettgen",
-    "bio": "spatula enthusiast  💒",
-    "gender": "Cis man",
-    "birthdate": "1947-05-24T22:29:28.542Z",
-    "registeredAt": "2025-09-26T18:31:01.737Z"
-  },
-  {
-    "userId": "0f7eeecd-0f5c-4d02-b693-bfc87e215e7d",
-    "fullName": "Mr. Jean Toy",
-    "bio": "person, photographer, coach",
-    "gender": "Transexual person",
-    "birthdate": "1971-12-31T13:02:57.064Z",
-    "registeredAt": "2025-03-23T09:23:40.201Z"
-  },
-  {
-    "userId": "6b7ffc92-2cb9-4f9b-906a-1d9e601beb75",
-    "fullName": "Hector Haag",
-    "bio": "singer",
-    "gender": "Non-binary",
-    "birthdate": "1951-06-17T14:27:30.050Z",
-    "registeredAt": "2025-09-13T09:50:52.666Z"
-  },
-  {
-    "userId": "d4f75b4d-0a7a-49ac-ab86-21c8d6316383",
-    "fullName": "Lydia Daugherty",
-    "bio": "musician, singer, film lover 📙",
-    "gender": "Bigender",
-    "birthdate": "1964-10-02T22:54:21.683Z",
-    "registeredAt": "2025-12-15T06:02:28.032Z"
-  },
-  {
-    "userId": "d8d72187-0b2e-43f8-84f9-775cd12328e5",
-    "fullName": "Leroy Hintz-Monahan IV",
-    "bio": "roll devotee  🥦",
-    "gender": "Transmasculine",
-    "birthdate": "1981-01-01T16:46:20.240Z",
-    "registeredAt": "2025-06-29T23:08:36.017Z"
-  },
-  {
-    "userId": "d94ac40e-11cc-4ecc-8053-5cff6a8e0b7d",
-    "fullName": "Mattie Bayer",
-    "bio": "veteran",
-    "gender": "Genderflux",
-    "birthdate": "1977-10-20T02:46:12.842Z",
-    "registeredAt": "2026-02-03T16:36:42.691Z"
-  },
-  {
-    "userId": "dcc9aad1-8f6d-43a9-a284-681341673174",
-    "fullName": "Emmett Swaniawski",
-    "bio": "archeology devotee, teacher ☝🏼",
-    "gender": "Non-binary",
-    "birthdate": "1951-12-16T09:30:24.516Z",
-    "registeredAt": "2025-07-31T13:50:14.942Z"
-  },
-  {
-    "userId": "1883cc65-3e00-4097-90aa-e0a99def18e6",
-    "fullName": "Lindsey Pfeffer IV",
-    "bio": "blogger",
-    "gender": "Cisgender male",
-    "birthdate": "2003-12-30T02:07:45.056Z",
-    "registeredAt": "2025-08-11T07:08:27.212Z"
-  },
-  {
-    "userId": "f5ca6032-55bc-406d-8b30-891b09b47cb1",
-    "fullName": "Phillip Wolff",
-    "bio": "business owner, artist",
-    "gender": "Intersex woman",
-    "birthdate": "1999-08-17T06:01:10.683Z",
-    "registeredAt": "2025-05-11T02:32:25.962Z"
-  },
-  {
-    "userId": "6ff84b5e-5c54-496b-ba8a-6e59adaf5f31",
-    "fullName": "Steve Walsh-Hickle",
-    "bio": "inquiry junkie, geek 🍊",
-    "gender": "Cis woman",
-    "birthdate": "2003-05-27T11:29:25.758Z",
-    "registeredAt": "2025-08-14T15:23:07.782Z"
-  },
-  {
-    "userId": "5d203421-08d6-4a8b-b79a-59684003e21b",
-    "fullName": "Rex Champlin",
-    "bio": "photographer",
-    "gender": "Xenogender",
-    "birthdate": "1957-02-19T22:05:26.593Z",
-    "registeredAt": "2025-12-31T21:54:02.687Z"
-  },
-  {
-    "userId": "6905cc61-dca5-4492-8b58-0ce13c9af2e5",
-    "fullName": "Mrs. Meredith Quitzon",
-    "bio": "gamer, scientist",
-    "gender": "Gender neutral",
-    "birthdate": "1989-10-14T05:20:23.187Z",
-    "registeredAt": "2025-11-23T01:48:22.837Z"
-  },
-  {
-    "userId": "8484b1e4-4274-4e14-8718-79f0b0fe3323",
-    "fullName": "Dr. Lois Jones",
-    "bio": "model",
-    "gender": "Androgynous",
-    "birthdate": "2006-07-27T13:56:20.309Z",
-    "registeredAt": "2025-08-05T01:03:08.838Z"
-  },
-  {
-    "userId": "b16bced1-f305-405c-b0f5-fd7023bf8d43",
-    "fullName": "Verna Zboncak",
-    "bio": "sonar advocate, inventor 🤟🏾",
+    "userId": "3c207036-7e6e-4eb1-a3da-21557322eabe",
+    "fullName": "Eloise Sauer",
+    "bio": "teacher, teacher, philosopher 🦭",
     "gender": "Transgender female",
-    "birthdate": "1970-07-05T00:54:56.482Z",
-    "registeredAt": "2025-07-25T14:48:12.617Z"
+    "birthdate": "1968-03-28T20:02:06.810Z",
+    "registeredAt": "2025-10-08T11:07:41.385Z"
   },
   {
-    "userId": "8ad5c568-cfab-45af-8ee1-b512466e3ba8",
-    "fullName": "Joey Wisoky",
-    "bio": "virtue fan  🙏🏿",
-    "gender": "Transexual person",
-    "birthdate": "1947-12-05T14:03:07.891Z",
-    "registeredAt": "2025-04-15T22:36:30.680Z"
+    "userId": "fbe26be9-fab3-44ee-b1e3-5572b6f190a5",
+    "fullName": "Anthony Batz",
+    "bio": "horse supporter, dreamer ♎",
+    "gender": "Man",
+    "birthdate": "1947-09-19T04:10:47.969Z",
+    "registeredAt": "2025-10-30T17:55:09.185Z"
+  },
+  {
+    "userId": "01ab31da-2511-451d-9834-fdb8009edc49",
+    "fullName": "Winifred Weber",
+    "bio": "parent, blogger, founder ‼️",
+    "gender": "Trans man",
+    "birthdate": "1997-10-07T23:22:20.768Z",
+    "registeredAt": "2025-07-18T17:37:27.536Z"
+  },
+  {
+    "userId": "1039fc03-7707-4e3e-8820-013521f3e0d0",
+    "fullName": "Chris Simonis",
+    "bio": "business owner, coach, teacher",
+    "gender": "Cisgender female",
+    "birthdate": "1948-03-31T01:26:18.134Z",
+    "registeredAt": "2025-06-18T03:21:55.943Z"
+  },
+  {
+    "userId": "8065c44c-9c31-46e7-8d28-08766a8c340c",
+    "fullName": "Amanda Koch",
+    "bio": "screenwriting enthusiast",
+    "gender": "Neutrois",
+    "birthdate": "1962-10-29T04:35:35.779Z",
+    "registeredAt": "2025-12-18T16:35:55.121Z"
+  },
+  {
+    "userId": "15d24ace-27dc-490c-965d-0cc2c3082f2d",
+    "fullName": "Eddie Herzog",
+    "bio": "mess enthusiast, educator 🤦🏿‍♂️",
+    "gender": "Two-spirit",
+    "birthdate": "1948-12-09T03:03:45.316Z",
+    "registeredAt": "2026-02-15T12:48:52.424Z"
+  },
+  {
+    "userId": "5e6ddf66-f99b-4d05-abd1-813e896513f9",
+    "fullName": "Dr. Roberto Green",
+    "bio": "creator, developer, environmentalist 📻",
+    "gender": "Genderqueer",
+    "birthdate": "1959-09-15T17:07:17.343Z",
+    "registeredAt": "2025-12-14T21:36:22.735Z"
   }
 ]
