@@ -1,162 +1,18 @@
 [
   {
-    "userId": "62e539d8-d774-4f3c-8156-3192d2c5ed46",
-    "fullName": "Earnest Smith",
-    "bio": "alfalfa advocate, friend",
-    "gender": "Cisgender male",
-    "birthdate": "2002-08-15T18:31:48.855Z",
-    "registeredAt": "2025-07-17T05:16:39.828Z"
-  },
-  {
-    "userId": "421db7b4-569a-40d5-b992-b944056cff1b",
-    "fullName": "Kathy Price",
-    "bio": "xylophone lover, person 😪",
-    "gender": "Gender fluid",
-    "birthdate": "1946-09-17T09:35:19.881Z",
-    "registeredAt": "2026-02-27T14:00:07.355Z"
-  },
-  {
-    "userId": "2b19860c-6a6c-43b8-a025-ef023bdf4741",
-    "fullName": "Dr. Doyle Torp",
-    "bio": "coverall enthusiast  👂",
-    "gender": "Omnigender",
-    "birthdate": "1971-01-13T05:55:47.329Z",
-    "registeredAt": "2025-05-05T01:50:57.025Z"
-  },
-  {
-    "userId": "7c29f663-8790-46e3-b8b7-7c5515ea0cb2",
-    "fullName": "Cody Gusikowski II",
-    "bio": "innovation junkie  🏅",
-    "gender": "Female to male",
-    "birthdate": "1963-03-04T08:28:03.400Z",
-    "registeredAt": "2026-02-17T14:16:48.047Z"
-  },
-  {
-    "userId": "19666d6f-6353-4d01-af54-d2ff188878ad",
-    "fullName": "Ms. Amber Beier I",
-    "bio": "brink enthusiast, activist",
-    "gender": "Agender",
-    "birthdate": "1979-04-26T07:29:24.380Z",
-    "registeredAt": "2025-10-21T17:35:00.544Z"
-  },
-  {
-    "userId": "6c739016-5691-4945-9ebb-e2d97b1950c9",
-    "fullName": "Flora Graham",
-    "bio": "vest supporter",
-    "gender": "Agender",
-    "birthdate": "1958-08-13T04:04:16.028Z",
-    "registeredAt": "2026-01-07T04:59:51.700Z"
-  },
-  {
-    "userId": "49c81d47-4ba1-4dd2-8678-0ff03cd00d8b",
-    "fullName": "Bonnie Reichel-Bogan",
-    "bio": "student, dreamer, person 🪅",
-    "gender": "Transexual",
-    "birthdate": "2002-08-23T04:13:23.148Z",
-    "registeredAt": "2025-07-31T03:43:42.012Z"
-  },
-  {
-    "userId": "8dceeef4-3bf8-40e1-be31-961ce3fb3282",
-    "fullName": "Isaac Treutel",
-    "bio": "writer, patriot",
-    "gender": "Cisgender",
-    "birthdate": "1954-03-22T17:38:06.926Z",
-    "registeredAt": "2025-06-15T02:13:33.381Z"
-  },
-  {
-    "userId": "2c9d073e-002a-47cb-851b-fe680f95662a",
-    "fullName": "Derrick Gleason",
-    "bio": "filmmaker, student, engineer",
-    "gender": "M2F",
-    "birthdate": "1965-01-23T00:02:53.184Z",
-    "registeredAt": "2025-11-02T01:57:28.376Z"
-  },
-  {
-    "userId": "8a3a4c13-40c4-45f9-b7ea-274d1a82db97",
-    "fullName": "Jennie Jacobson-Heathcote",
-    "bio": "watcher fan",
-    "gender": "Genderqueer",
-    "birthdate": "1959-12-18T20:38:13.191Z",
-    "registeredAt": "2026-03-05T21:52:19.217Z"
-  },
-  {
-    "userId": "0a391418-abaf-41a3-9f07-135ea8252930",
-    "fullName": "Melvin Barton",
-    "bio": "piety devotee",
-    "gender": "MTF",
-    "birthdate": "2003-07-05T12:39:07.568Z",
-    "registeredAt": "2025-03-23T01:01:50.494Z"
-  },
-  {
-    "userId": "1719745e-8049-4b38-9eeb-4d63d1da6c15",
-    "fullName": "Patty Dicki",
-    "bio": "classification lover",
-    "gender": "Demigender",
-    "birthdate": "1976-05-19T15:07:33.939Z",
-    "registeredAt": "2025-07-07T05:06:15.393Z"
-  },
-  {
-    "userId": "dc890d45-8d53-40d4-8216-de4feb7036bc",
-    "fullName": "Kurt Swaniawski",
-    "bio": "photographer, inventor, developer 🥗",
-    "gender": "Demiflux",
-    "birthdate": "1994-06-23T16:09:02.145Z",
-    "registeredAt": "2026-02-03T15:19:22.789Z"
-  },
-  {
-    "userId": "97e56dea-fb15-4e10-b17a-2df35243f9d8",
-    "fullName": "Jermaine Christiansen",
-    "bio": "scientist, musician, coach",
-    "gender": "Cis woman",
-    "birthdate": "1977-06-20T15:37:04.504Z",
-    "registeredAt": "2025-04-20T10:56:37.933Z"
-  },
-  {
-    "userId": "cd2ba41b-693b-4c9f-a8a5-8a8a3fdb6b07",
-    "fullName": "Crystal Braun",
-    "bio": "vegetation devotee  🍉",
-    "gender": "Trans",
-    "birthdate": "1954-01-10T00:10:15.659Z",
-    "registeredAt": "2025-12-10T12:46:20.430Z"
-  },
-  {
-    "userId": "ea517f1c-2e22-47e3-98a2-50ef00f02664",
-    "fullName": "Miss Angelica Bayer",
-    "bio": "wound lover, coach 🍔",
-    "gender": "Demiflux",
-    "birthdate": "1947-09-06T22:17:09.623Z",
-    "registeredAt": "2025-06-05T21:47:10.628Z"
-  },
-  {
-    "userId": "7fd334db-8cbe-40eb-b6d6-b8b19ef62386",
-    "fullName": "Darryl Lehner",
-    "bio": "singer, veteran, activist 🤙🏾",
-    "gender": "Cis woman",
-    "birthdate": "1983-10-15T23:50:53.517Z",
-    "registeredAt": "2025-12-20T03:21:41.569Z"
-  },
-  {
-    "userId": "b9461a1e-d746-4330-8571-9b86b45a2f7d",
-    "fullName": "Christopher Medhurst",
-    "bio": "traveler, inventor, activist",
-    "gender": "Transexual man",
-    "birthdate": "1984-02-05T05:05:51.699Z",
-    "registeredAt": "2026-01-05T07:49:45.043Z"
-  },
-  {
-    "userId": "63340981-25ad-46b5-a38e-07d33262691f",
-    "fullName": "Dr. Francisco Morar DDS",
-    "bio": "public speaker",
+    "userId": "d6ae0421-2d18-43e6-af8e-0be7fdbb4fe4",
+    "fullName": "Thelma Beatty",
+    "bio": "beating enthusiast, veteran",
     "gender": "Other",
-    "birthdate": "1983-06-28T21:41:58.752Z",
-    "registeredAt": "2025-06-09T08:10:45.580Z"
+    "birthdate": "1946-11-20T03:58:24.864Z",
+    "registeredAt": "2025-07-17T00:59:35.739Z"
   },
   {
-    "userId": "4480bf5b-eae3-4b93-9cd3-4d78dd055525",
-    "fullName": "Rafael Schaefer",
-    "bio": "person, author",
-    "gender": "Demi-woman",
-    "birthdate": "1961-12-02T20:56:54.376Z",
-    "registeredAt": "2025-10-14T03:38:58.410Z"
+    "userId": "fdb07a8e-7115-4911-ae98-cd01e754d2e6",
+    "fullName": "Vanessa Kuvalis",
+    "bio": "ant junkie",
+    "gender": "Hermaphrodite",
+    "birthdate": "1969-04-21T20:33:01.288Z",
+    "registeredAt": "2026-02-23T03:55:56.383Z"
   }
 ]
