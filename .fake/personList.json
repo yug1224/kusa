@@ -1,130 +1,58 @@
 [
   {
-    "userId": "b7bb7bb3-9e7b-44f0-9635-b56fc0712003",
-    "fullName": "Irma Brown",
-    "bio": "filmmaker, designer, public speaker",
-    "gender": "Cis female",
-    "birthdate": "1952-08-02T22:09:36.020Z",
-    "registeredAt": "2025-08-14T07:00:53.815Z"
+    "userId": "4091cf23-8333-4653-aa8f-552c68d7db97",
+    "fullName": "Kirk Wehner",
+    "bio": "public speaker, activist",
+    "gender": "Trans person",
+    "birthdate": "1965-03-11T00:41:26.513Z",
+    "registeredAt": "2025-09-29T18:19:04.986Z"
   },
   {
-    "userId": "91b2033d-25a4-41ab-9285-b215bcca0171",
-    "fullName": "Shawna Cartwright",
-    "bio": "coach, filmmaker, public speaker",
-    "gender": "Neutrois",
-    "birthdate": "1994-09-04T05:18:35.600Z",
-    "registeredAt": "2025-12-27T21:11:10.021Z"
+    "userId": "0a50653f-7404-49d5-8687-aa7d07168129",
+    "fullName": "Cary Effertz",
+    "bio": "maternity enthusiast",
+    "gender": "Trigender",
+    "birthdate": "1965-12-15T11:36:08.951Z",
+    "registeredAt": "2026-01-02T15:01:54.830Z"
   },
   {
-    "userId": "21c81b3d-7a16-44ea-8b22-e7ac08502d2e",
-    "fullName": "Blake Mann",
-    "bio": "supervision enthusiast, creator 🦠",
-    "gender": "Cisgender man",
-    "birthdate": "1978-03-27T15:29:07.113Z",
-    "registeredAt": "2025-05-23T19:53:45.832Z"
-  },
-  {
-    "userId": "effade61-f0f0-4edf-85ab-d3e9b05c5288",
-    "fullName": "Rodolfo Sanford",
-    "bio": "scientist, coach",
-    "gender": "Multigender",
-    "birthdate": "1949-11-05T17:32:37.051Z",
-    "registeredAt": "2025-04-04T01:47:39.516Z"
-  },
-  {
-    "userId": "9e44752f-2054-4ef0-82af-65805fb0302b",
-    "fullName": "Milton Watsica",
-    "bio": "friend, developer",
-    "gender": "Male to female trans woman",
-    "birthdate": "1981-12-19T05:42:06.624Z",
-    "registeredAt": "2025-07-28T17:48:41.499Z"
-  },
-  {
-    "userId": "29a23663-3c27-4f52-9f28-3dda107eb623",
-    "fullName": "Phillip Lindgren",
-    "bio": "veteran, designer, activist ⬇️",
-    "gender": "Gender fluid",
-    "birthdate": "1968-06-29T10:53:54.397Z",
-    "registeredAt": "2025-05-23T16:10:48.453Z"
-  },
-  {
-    "userId": "908ebda9-1160-43ad-b455-79828c5785f9",
-    "fullName": "Rodolfo Bode",
-    "bio": "leptocephalus lover, entrepreneur",
-    "gender": "Gender variant",
-    "birthdate": "1967-04-13T23:10:00.667Z",
-    "registeredAt": "2025-09-27T18:20:43.112Z"
-  },
-  {
-    "userId": "a9a345b5-171f-4e1b-a232-335133e52db1",
-    "fullName": "Mattie Hessel",
-    "bio": "flair supporter, coach 🥜",
-    "gender": "Male to female",
-    "birthdate": "1983-10-31T09:17:26.311Z",
-    "registeredAt": "2025-06-12T18:41:26.679Z"
-  },
-  {
-    "userId": "8a8a99fc-9539-4fac-8ca0-6cd0c2be2fe2",
-    "fullName": "Lorene Conroy",
-    "bio": "creator, leader, designer",
-    "gender": "Xenogender",
-    "birthdate": "1951-07-26T03:37:07.369Z",
-    "registeredAt": "2026-02-05T02:35:50.089Z"
-  },
-  {
-    "userId": "b92c3c80-a523-43a0-b5c0-cbfded93bb76",
-    "fullName": "Lucia Lueilwitz",
-    "bio": "model, engineer",
-    "gender": "Trans male",
-    "birthdate": "1981-01-13T22:38:12.004Z",
-    "registeredAt": "2025-12-26T12:18:30.785Z"
-  },
-  {
-    "userId": "919e0cd4-6816-40e0-8a07-e3c160d5b622",
-    "fullName": "Opal Pouros",
-    "bio": "ravioli supporter",
-    "gender": "Gender questioning",
-    "birthdate": "1967-04-15T20:34:44.494Z",
-    "registeredAt": "2025-04-22T07:48:26.974Z"
-  },
-  {
-    "userId": "63cff977-8025-44ae-817a-f15a1ed2c3f7",
-    "fullName": "Amos Mills",
-    "bio": "occupation supporter, environmentalist",
-    "gender": "Hermaphrodite",
-    "birthdate": "1959-01-08T23:45:55.354Z",
-    "registeredAt": "2025-04-20T15:41:04.574Z"
-  },
-  {
-    "userId": "1bea5279-b11a-4d15-8766-0bae0851a2b0",
-    "fullName": "Brittany Krajcik",
-    "bio": "conception enthusiast, activist 🤿",
-    "gender": "Transexual female",
-    "birthdate": "1977-03-09T14:27:42.667Z",
-    "registeredAt": "2025-08-30T22:31:06.570Z"
-  },
-  {
-    "userId": "9c425a82-3b46-4ebd-8d1c-ece850fb0ff1",
-    "fullName": "Rick Pagac",
-    "bio": "streamer",
-    "gender": "Transexual male",
-    "birthdate": "1960-12-07T09:40:59.601Z",
-    "registeredAt": "2025-11-30T10:59:00.836Z"
-  },
-  {
-    "userId": "6b519dc8-3258-4210-b8c9-78e345801256",
-    "fullName": "Maureen Prosacco II",
-    "bio": "public speaker, coach, nerd",
-    "gender": "Male to female",
-    "birthdate": "1950-10-09T01:56:01.704Z",
-    "registeredAt": "2025-06-03T09:14:28.273Z"
-  },
-  {
-    "userId": "5faae86d-07dd-4ebb-bfca-434a1a7606ba",
-    "fullName": "Anne Hauck Sr.",
-    "bio": "environmentalist",
+    "userId": "c7c7ffed-7dc8-4b93-b736-b90b81d7b874",
+    "fullName": "Tyler Frami",
+    "bio": "macro enthusiast",
     "gender": "Transexual man",
-    "birthdate": "1946-03-04T16:02:37.048Z",
-    "registeredAt": "2025-10-06T17:33:56.229Z"
+    "birthdate": "1991-05-12T11:18:46.640Z",
+    "registeredAt": "2025-09-17T02:35:05.825Z"
+  },
+  {
+    "userId": "41a119c9-b4ba-4473-80ce-3173cd33cf39",
+    "fullName": "Yolanda Gislason Sr.",
+    "bio": "designer, model, streamer 🎊",
+    "gender": "Two-spirit",
+    "birthdate": "1999-10-21T06:41:31.495Z",
+    "registeredAt": "2025-05-06T10:39:37.707Z"
+  },
+  {
+    "userId": "98eec18f-c916-42ab-b152-7d5c0101538c",
+    "fullName": "Lamar White",
+    "bio": "deed fan, veteran 🆙",
+    "gender": "Man",
+    "birthdate": "1952-02-08T20:16:03.915Z",
+    "registeredAt": "2025-12-08T02:26:51.407Z"
+  },
+  {
+    "userId": "83a7ae3f-fa7a-4acd-aebb-76371cab0055",
+    "fullName": "Henrietta Armstrong-Borer",
+    "bio": "public speaker, leader",
+    "gender": "Hermaphrodite",
+    "birthdate": "1952-05-18T05:52:52.775Z",
+    "registeredAt": "2025-10-30T22:35:56.317Z"
+  },
+  {
+    "userId": "9f3b37e7-388a-47cd-b2ed-287c20bec101",
+    "fullName": "Ada Wilkinson PhD",
+    "bio": "model, designer, philosopher 🐒",
+    "gender": "Two-spirit",
+    "birthdate": "1961-04-15T08:52:05.410Z",
+    "registeredAt": "2025-05-09T15:59:05.535Z"
   }
 ]
