@@ -1,162 +1,18 @@
 [
   {
-    "userId": "1435a605-ba4f-4d6c-bbbf-ba2458302641",
-    "fullName": "Aaron Metz PhD",
-    "bio": "singer, geek",
-    "gender": "Neutrois",
-    "birthdate": "1974-04-07T21:23:38.216Z",
-    "registeredAt": "2025-05-25T03:57:56.454Z"
+    "userId": "7d76d790-0b98-42b5-9251-4f2af7642d7e",
+    "fullName": "Lorraine Reinger",
+    "bio": "gamer, engineer",
+    "gender": "Demigender",
+    "birthdate": "2003-10-08T23:55:24.627Z",
+    "registeredAt": "2025-07-10T04:51:38.328Z"
   },
   {
-    "userId": "9c2a3f9c-6760-46f8-ba62-c35861306170",
-    "fullName": "Heidi Hackett",
-    "bio": "nerd, traveler",
-    "gender": "Genderflux",
-    "birthdate": "1955-04-13T14:16:06.642Z",
-    "registeredAt": "2025-12-28T06:28:44.953Z"
-  },
-  {
-    "userId": "d21978c8-234f-4507-879b-435f940674e2",
-    "fullName": "Cynthia Lesch",
-    "bio": "nerd",
-    "gender": "Bigender",
-    "birthdate": "1959-10-19T11:05:45.831Z",
-    "registeredAt": "2025-07-23T07:38:45.019Z"
-  },
-  {
-    "userId": "154e5941-46c8-47e8-a61f-390561595a78",
-    "fullName": "Zachary Bins",
-    "bio": "educator, musician",
-    "gender": "Cisgender man",
-    "birthdate": "1982-04-10T20:04:59.026Z",
-    "registeredAt": "2026-01-01T20:55:12.342Z"
-  },
-  {
-    "userId": "2fd04d69-8441-475f-9dc7-21d9992394df",
-    "fullName": "Miss Violet Schaefer",
-    "bio": "photographer, coach",
-    "gender": "Two-spirit person",
-    "birthdate": "1956-12-25T09:38:19.056Z",
-    "registeredAt": "2025-06-15T13:28:35.079Z"
-  },
-  {
-    "userId": "5847a787-299d-4f69-ae3a-cf4268bfa830",
-    "fullName": "Lloyd D'Amore",
-    "bio": "friend, person, educator",
-    "gender": "Neither",
-    "birthdate": "1969-12-12T15:37:05.541Z",
-    "registeredAt": "2025-04-30T09:27:04.774Z"
-  },
-  {
-    "userId": "a59d16b4-90e7-453d-96c3-cc4b8bd29970",
-    "fullName": "Roxanne Reichel",
-    "bio": "automation lover  👩🏽‍🎤",
-    "gender": "Hermaphrodite",
-    "birthdate": "2006-01-28T09:33:47.653Z",
-    "registeredAt": "2025-04-26T16:31:32.906Z"
-  },
-  {
-    "userId": "1e1a3fb7-366c-4978-bf63-d2f3786cae0d",
-    "fullName": "Maria Reichert",
-    "bio": "musician",
-    "gender": "Polygender",
-    "birthdate": "1951-12-11T05:10:50.491Z",
-    "registeredAt": "2025-09-26T10:59:01.971Z"
-  },
-  {
-    "userId": "95535b88-7235-4a06-9507-aab967880e27",
-    "fullName": "Henry Quitzon",
-    "bio": "whistle fan, author 😣",
-    "gender": "Cisgender woman",
-    "birthdate": "2007-06-12T16:47:09.840Z",
-    "registeredAt": "2025-07-03T20:03:42.349Z"
-  },
-  {
-    "userId": "211e85cf-4e15-48ff-8be9-bbfc2b044441",
-    "fullName": "Inez Rowe",
-    "bio": "blogger, entrepreneur",
-    "gender": "Transexual female",
-    "birthdate": "1995-07-28T11:06:56.536Z",
-    "registeredAt": "2026-02-03T12:00:07.555Z"
-  },
-  {
-    "userId": "53b9ce52-fcd7-44fd-bdc0-08d90174c2cb",
-    "fullName": "Douglas Feil",
-    "bio": "engineer, film lover, educator",
-    "gender": "Intersex woman",
-    "birthdate": "1949-11-16T05:11:33.583Z",
-    "registeredAt": "2025-09-28T01:53:11.105Z"
-  },
-  {
-    "userId": "3b941286-c066-483a-b5e6-c540a5ea9b16",
-    "fullName": "Amos Jenkins",
-    "bio": "streamer, artist, veteran",
-    "gender": "Cis male",
-    "birthdate": "1946-07-26T19:33:49.317Z",
-    "registeredAt": "2025-10-27T23:52:02.726Z"
-  },
-  {
-    "userId": "2a80e9f8-6c2e-4db3-a5f0-00e8bc14c7ff",
-    "fullName": "Robyn Turner",
-    "bio": "gamer, educator",
-    "gender": "Transexual woman",
-    "birthdate": "2006-04-04T21:27:06.125Z",
-    "registeredAt": "2026-03-06T13:22:29.699Z"
-  },
-  {
-    "userId": "066a3efc-53b2-4121-b506-97788388140f",
-    "fullName": "Jermaine O'Reilly",
-    "bio": "writer, parent",
-    "gender": "Demiflux",
-    "birthdate": "1968-12-21T00:09:45.693Z",
-    "registeredAt": "2025-12-22T01:29:17.618Z"
-  },
-  {
-    "userId": "20d85937-fc87-4453-b9cc-7961aa4f97c8",
-    "fullName": "Nicolas Schimmel",
-    "bio": "slider lover, traveler 🐚",
-    "gender": "Cis male",
-    "birthdate": "1996-04-08T05:37:53.269Z",
-    "registeredAt": "2025-05-06T19:52:22.051Z"
-  },
-  {
-    "userId": "292af922-83af-485d-b95b-8a567dea6951",
-    "fullName": "Aaron Muller",
-    "bio": "author",
-    "gender": "Transexual",
-    "birthdate": "1995-09-08T12:14:39.086Z",
-    "registeredAt": "2025-06-30T12:58:13.298Z"
-  },
-  {
-    "userId": "d8b4a292-e1b0-4354-9d13-f6b5db95a821",
-    "fullName": "Guy Gutkowski",
-    "bio": "tussle supporter  🍩",
-    "gender": "Cis male",
-    "birthdate": "1995-09-09T21:26:14.997Z",
-    "registeredAt": "2025-04-03T02:39:58.621Z"
-  },
-  {
-    "userId": "6e1613e7-b960-48a7-bfa3-06d57abe935c",
-    "fullName": "Doyle Becker",
-    "bio": "filmmaker",
-    "gender": "Trans male",
-    "birthdate": "1995-02-12T09:08:22.544Z",
-    "registeredAt": "2025-09-03T06:49:51.880Z"
-  },
-  {
-    "userId": "752783bf-4b8f-4fc9-8d43-10cadbaa1074",
-    "fullName": "Levi Yundt",
-    "bio": "inbox enthusiast, musician 🎿",
-    "gender": "Two* person",
-    "birthdate": "1950-03-29T06:32:10.273Z",
-    "registeredAt": "2025-04-26T01:34:01.558Z"
-  },
-  {
-    "userId": "4efd56c7-f8a3-4d7a-b729-ba6201221e6e",
-    "fullName": "Ms. Meredith Mueller",
-    "bio": "antigen junkie",
-    "gender": "Transexual man",
-    "birthdate": "2002-03-18T16:59:31.977Z",
-    "registeredAt": "2025-09-19T12:02:27.058Z"
+    "userId": "26fc352f-b946-49c5-b128-5a80189a12d9",
+    "fullName": "Eddie Blick",
+    "bio": "student, gamer, parent 🤙🏻",
+    "gender": "Xenogender",
+    "birthdate": "1995-03-05T09:04:37.146Z",
+    "registeredAt": "2025-12-09T06:04:27.671Z"
   }
 ]
