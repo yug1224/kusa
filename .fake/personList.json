@@ -1,10 +1,138 @@
 [
   {
-    "userId": "653d9b98-8b24-4605-9ae4-62b2a018662c",
-    "fullName": "Mario Lind Sr.",
+    "userId": "2a454545-ed06-40ab-89cf-8c698b425895",
+    "fullName": "Jamie Upton",
+    "bio": "student, nerd, inventor 👍🏾",
+    "gender": "Cis female",
+    "birthdate": "1986-02-04T21:07:25.155Z",
+    "registeredAt": "2025-10-09T07:33:18.262Z"
+  },
+  {
+    "userId": "a01ea5fc-a69d-47ca-b96b-a384c1187b9f",
+    "fullName": "Tammy Rolfson",
+    "bio": "mallard enthusiast",
+    "gender": "Cisgender man",
+    "birthdate": "1987-11-13T03:40:49.368Z",
+    "registeredAt": "2025-05-12T11:09:45.524Z"
+  },
+  {
+    "userId": "4b15796a-2eae-4d85-b5a7-c837b1e3ea0b",
+    "fullName": "Conrad Wilkinson",
     "bio": "philosopher",
-    "gender": "Non-binary",
-    "birthdate": "2004-06-09T05:27:09.955Z",
-    "registeredAt": "2025-05-10T15:51:48.631Z"
+    "gender": "Bigender",
+    "birthdate": "1999-09-13T16:40:04.036Z",
+    "registeredAt": "2026-01-27T06:18:30.309Z"
+  },
+  {
+    "userId": "f6c5eac7-403a-475b-a49f-a570e8efeef1",
+    "fullName": "Daisy Dicki",
+    "bio": "singer",
+    "gender": "T* man",
+    "birthdate": "1950-12-17T18:50:25.471Z",
+    "registeredAt": "2025-08-30T22:14:36.696Z"
+  },
+  {
+    "userId": "6887addb-72b1-482a-9adb-aa5f71392877",
+    "fullName": "Cameron Harris",
+    "bio": "marketplace lover, leader",
+    "gender": "Demigender",
+    "birthdate": "1969-11-05T01:41:52.486Z",
+    "registeredAt": "2025-08-14T17:22:05.424Z"
+  },
+  {
+    "userId": "82635d30-82fc-4eae-86ae-caa105e3aa2d",
+    "fullName": "Tonya Wehner",
+    "bio": "exploration lover, educator 🇦🇬",
+    "gender": "Transexual man",
+    "birthdate": "1972-03-11T05:42:31.153Z",
+    "registeredAt": "2025-04-08T15:08:00.876Z"
+  },
+  {
+    "userId": "52a0773a-8b07-40a3-a844-89f9d05feeac",
+    "fullName": "Sherman Metz",
+    "bio": "leader, activist",
+    "gender": "Transexual female",
+    "birthdate": "1990-09-29T06:52:11.010Z",
+    "registeredAt": "2025-04-29T16:58:23.565Z"
+  },
+  {
+    "userId": "aa8452a5-0c66-4f25-bb9d-09757dab9bf3",
+    "fullName": "Cesar Leuschke",
+    "bio": "shopping advocate  🤌🏽",
+    "gender": "Man",
+    "birthdate": "1964-08-21T19:37:29.608Z",
+    "registeredAt": "2025-07-28T21:30:39.848Z"
+  },
+  {
+    "userId": "2655f349-aa30-4ab0-a016-e17d4ef1663e",
+    "fullName": "Cesar Lindgren",
+    "bio": "organ lover, activist 🇧🇮",
+    "gender": "Androgynous",
+    "birthdate": "1999-01-12T19:55:36.757Z",
+    "registeredAt": "2025-03-16T13:09:48.412Z"
+  },
+  {
+    "userId": "b3aeada8-5c3e-4ff2-8a4b-f0b8f4c01bac",
+    "fullName": "Jean Dickens",
+    "bio": "celebration lover",
+    "gender": "Male to female trans woman",
+    "birthdate": "1973-11-15T08:29:28.840Z",
+    "registeredAt": "2025-12-13T00:25:41.472Z"
+  },
+  {
+    "userId": "d8339507-fc6e-4cb4-b34f-f9f69edcabce",
+    "fullName": "Inez Jast",
+    "bio": "trance junkie",
+    "gender": "Transexual",
+    "birthdate": "1996-12-05T13:38:37.760Z",
+    "registeredAt": "2026-01-28T19:48:18.254Z"
+  },
+  {
+    "userId": "2149554a-a3e2-43be-8bf4-b15b77dc4b41",
+    "fullName": "Joanne Lebsack",
+    "bio": "nerd, traveler, designer",
+    "gender": "Bigender",
+    "birthdate": "1994-05-27T11:45:49.097Z",
+    "registeredAt": "2026-03-12T19:11:14.934Z"
+  },
+  {
+    "userId": "599a6da5-0178-4697-b682-56721d218aa0",
+    "fullName": "Everett D'Amore PhD",
+    "bio": "glen advocate",
+    "gender": "Female to male transgender man",
+    "birthdate": "1976-03-09T14:28:02.625Z",
+    "registeredAt": "2025-04-17T18:05:47.794Z"
+  },
+  {
+    "userId": "2d6f4c3a-32e1-4e23-84b7-45c8937a03c8",
+    "fullName": "Dr. Aaron Ernser",
+    "bio": "nestmate lover",
+    "gender": "Cisgender",
+    "birthdate": "2006-04-07T17:49:03.467Z",
+    "registeredAt": "2025-04-15T01:34:59.987Z"
+  },
+  {
+    "userId": "1e5b1e6b-f3a6-4ba4-beb9-c387993bc2e6",
+    "fullName": "Claire Metz",
+    "bio": "parent, foodie, business owner 🦾",
+    "gender": "Demiflux",
+    "birthdate": "1947-07-12T17:58:40.835Z",
+    "registeredAt": "2025-07-18T16:46:49.534Z"
+  },
+  {
+    "userId": "3f7d97c4-b72d-445b-ac4d-0b38a63b1b02",
+    "fullName": "Eugene Medhurst",
+    "bio": "film lover, musician",
+    "gender": "Genderflux",
+    "birthdate": "1988-04-02T19:48:58.316Z",
+    "registeredAt": "2026-03-07T17:57:54.423Z"
+  },
+  {
+    "userId": "1ecaaff6-811b-49ef-920e-0d7ff9e40b32",
+    "fullName": "Dr. Valerie McClure",
+    "bio": "horst junkie",
+    "gender": "Polygender",
+    "birthdate": "2005-07-23T13:08:26.204Z",
+    "registeredAt": "2026-02-26T00:55:15.640Z"
   }
 ]
