@@ -1,138 +1,90 @@
 [
   {
-    "userId": "65c64118-49e2-4930-8fd4-463636e5fdbf",
-    "fullName": "Heather DuBuque",
-    "bio": "environmentalist, musician, blogger",
-    "gender": "Hermaphrodite",
-    "birthdate": "1985-02-24T16:24:12.240Z",
-    "registeredAt": "2025-05-25T14:52:30.635Z"
-  },
-  {
-    "userId": "04c57f85-3186-4bbd-bccb-54398356502a",
-    "fullName": "Norman Hudson",
-    "bio": "repository lover, author ♠️",
-    "gender": "Cisgender woman",
-    "birthdate": "1953-09-25T23:33:15.912Z",
-    "registeredAt": "2025-10-31T02:04:43.139Z"
-  },
-  {
-    "userId": "673fa1cf-66dc-4e8e-8a68-362e4670ffbe",
-    "fullName": "May Murazik",
-    "bio": "environmentalist",
-    "gender": "Male to female trans woman",
-    "birthdate": "1990-09-07T18:28:32.646Z",
-    "registeredAt": "2025-05-17T07:31:28.210Z"
-  },
-  {
-    "userId": "8bedfa7e-7847-4e53-9e46-f7f89f4e2a47",
-    "fullName": "Mr. David Heaney DDS",
-    "bio": "veteran, entrepreneur, photographer 🥝",
-    "gender": "Demiflux",
-    "birthdate": "1950-05-11T21:40:23.821Z",
-    "registeredAt": "2025-12-06T04:42:22.967Z"
-  },
-  {
-    "userId": "27686a81-52e9-4c33-a831-bcee750c3081",
-    "fullName": "Mr. Alfred Langworth-Beer",
-    "bio": "gamer, activist, blogger",
-    "gender": "Demi-boy",
-    "birthdate": "1977-08-01T21:34:18.124Z",
-    "registeredAt": "2025-05-27T02:54:58.572Z"
-  },
-  {
-    "userId": "a085cc43-341d-4e6d-ba21-29fff4a9ba0e",
-    "fullName": "Harriet Zboncak",
-    "bio": "coach, author, coach",
-    "gender": "Transgender person",
-    "birthdate": "1999-07-24T16:44:50.180Z",
-    "registeredAt": "2025-06-22T06:01:30.570Z"
-  },
-  {
-    "userId": "d30dff26-9866-47b5-8ab2-fb2ad028df7e",
-    "fullName": "Jill Anderson PhD",
-    "bio": "teacher",
-    "gender": "Intersex",
-    "birthdate": "1999-02-09T14:30:41.417Z",
-    "registeredAt": "2025-11-20T06:41:37.361Z"
-  },
-  {
-    "userId": "2636dd9c-610e-402e-8cef-9e8b9c3b4c3a",
-    "fullName": "Stephanie Hahn-Kemmer",
-    "bio": "emotion advocate",
-    "gender": "Trans person",
-    "birthdate": "1964-01-08T00:45:22.174Z",
-    "registeredAt": "2025-07-25T02:24:49.027Z"
-  },
-  {
-    "userId": "a7cce097-1f63-4f38-b3d9-77bed48a60fa",
-    "fullName": "Juanita Willms",
-    "bio": "author, nerd, philosopher",
-    "gender": "Cis man",
-    "birthdate": "2002-04-26T13:29:22.543Z",
-    "registeredAt": "2025-10-27T19:19:20.616Z"
-  },
-  {
-    "userId": "fac48ff1-aa62-4231-9508-8df923085cfa",
-    "fullName": "William Barrows",
-    "bio": "straw junkie  🛋️",
-    "gender": "Intersex person",
-    "birthdate": "1987-10-17T09:04:13.940Z",
-    "registeredAt": "2025-04-29T19:50:52.415Z"
-  },
-  {
-    "userId": "50760faa-ec5c-49a2-a09a-d44e34cc8a09",
-    "fullName": "Katherine Rosenbaum",
-    "bio": "respect fan  🎴",
-    "gender": "Cisgender woman",
-    "birthdate": "1960-02-22T00:36:49.757Z",
-    "registeredAt": "2025-07-11T07:24:58.355Z"
-  },
-  {
-    "userId": "75bcfb5c-a129-4edc-886e-43636ab76af1",
-    "fullName": "Amanda Smith",
-    "bio": "twilight advocate",
-    "gender": "Gender fluid",
-    "birthdate": "1987-03-27T07:50:19.350Z",
-    "registeredAt": "2025-07-07T03:06:01.131Z"
-  },
-  {
-    "userId": "2d0c167e-3da6-404a-b9c0-6c02dd46dcc4",
-    "fullName": "Lucia Boehm",
-    "bio": "inventor, person, blogger",
-    "gender": "Two* person",
-    "birthdate": "1977-06-07T20:08:25.898Z",
-    "registeredAt": "2025-07-23T11:38:13.295Z"
-  },
-  {
-    "userId": "86b9bc07-4808-403f-b4eb-b7b86f85f035",
-    "fullName": "Theodore Thiel",
-    "bio": "drama lover, educator",
-    "gender": "Gender variant",
-    "birthdate": "1980-09-26T17:33:32.893Z",
-    "registeredAt": "2025-08-26T11:45:42.659Z"
-  },
-  {
-    "userId": "f3407ac9-d4db-4296-888e-5c0e6ce96829",
-    "fullName": "Ms. Betty Lindgren",
-    "bio": "public speaker, entrepreneur, film lover 🍓",
-    "gender": "Cis",
-    "birthdate": "1991-02-23T18:52:30.985Z",
-    "registeredAt": "2026-02-13T13:18:39.497Z"
-  },
-  {
-    "userId": "67aaa8b3-3dfb-4a40-b000-59b3ef8a938e",
-    "fullName": "Mr. Marc Kertzmann",
-    "bio": "resource supporter",
-    "gender": "Other",
-    "birthdate": "1950-05-14T12:51:21.541Z",
-    "registeredAt": "2025-05-04T05:25:03.196Z"
-  },
-  {
-    "userId": "e24494bf-e13f-4c5c-97b8-7b25d30811c9",
-    "fullName": "Sheri Boyer",
-    "bio": "coach, educator",
+    "userId": "cd2082ca-f2b1-4ca3-8fca-1c22a44902f1",
+    "fullName": "Mr. Francis Zemlak",
+    "bio": "inventor, environmentalist, friend ⏭️",
     "gender": "Bigender",
-    "birthdate": "1979-07-05T23:04:47.391Z",
-    "registeredAt": "2025-03-28T19:39:29.998Z"
+    "birthdate": "1971-10-28T11:59:23.268Z",
+    "registeredAt": "2026-02-06T03:42:23.200Z"
+  },
+  {
+    "userId": "3ce60a63-afe3-4b26-9c0e-d39ee3721968",
+    "fullName": "Whitney Walker Sr.",
+    "bio": "railroad junkie  ♥️",
+    "gender": "Transexual person",
+    "birthdate": "1960-12-20T06:43:16.089Z",
+    "registeredAt": "2026-01-14T00:47:07.890Z"
+  },
+  {
+    "userId": "4a0f2e17-0fce-4e6f-93a7-04d790384ce5",
+    "fullName": "Donald Reichert",
+    "bio": "bush advocate  🥅",
+    "gender": "M2F",
+    "birthdate": "1969-01-23T19:07:35.118Z",
+    "registeredAt": "2025-05-30T19:00:04.242Z"
+  },
+  {
+    "userId": "f9f3b04d-a4ef-4a10-9075-542e9f24b7f9",
+    "fullName": "Jamie Rohan",
+    "bio": "neighbour junkie, artist",
+    "gender": "Polygender",
+    "birthdate": "1952-09-23T17:10:41.292Z",
+    "registeredAt": "2025-08-01T09:11:16.989Z"
+  },
+  {
+    "userId": "baa7c5ab-aa59-4638-8e93-a300c2454f2b",
+    "fullName": "Maria Rippin",
+    "bio": "teacher, foodie",
+    "gender": "Neutrois",
+    "birthdate": "1993-07-28T05:49:26.858Z",
+    "registeredAt": "2025-12-31T03:35:30.941Z"
+  },
+  {
+    "userId": "8b22c75c-12c0-400d-9203-942e5086e891",
+    "fullName": "Ms. Ginger Lehner",
+    "bio": "proceedings enthusiast  🍍",
+    "gender": "Gender questioning",
+    "birthdate": "1971-01-15T21:29:49.251Z",
+    "registeredAt": "2025-12-24T13:21:10.105Z"
+  },
+  {
+    "userId": "941992ec-f792-43ea-bfda-318698d1bc75",
+    "fullName": "Miss Kay Beatty",
+    "bio": "author, geek, designer",
+    "gender": "Trans male",
+    "birthdate": "1987-12-15T20:39:03.298Z",
+    "registeredAt": "2025-12-21T02:23:41.252Z"
+  },
+  {
+    "userId": "34b81168-2d11-4ac2-adcc-1ddd8283a5a3",
+    "fullName": "Dr. Doug Kiehn",
+    "bio": "bough advocate, artist",
+    "gender": "Cis woman",
+    "birthdate": "1960-06-20T10:22:00.747Z",
+    "registeredAt": "2025-09-08T19:21:42.236Z"
+  },
+  {
+    "userId": "775672a3-7c6e-452c-8104-6cc7e3da487b",
+    "fullName": "Julio Kutch",
+    "bio": "educator, grad",
+    "gender": "Cis man",
+    "birthdate": "1973-10-03T00:17:46.531Z",
+    "registeredAt": "2025-09-07T07:04:29.052Z"
+  },
+  {
+    "userId": "8a008cf9-6490-4cc6-841c-ffdf25f52b7c",
+    "fullName": "Kelli Bauch",
+    "bio": "developer, business owner, creator",
+    "gender": "Trans male",
+    "birthdate": "1960-06-19T16:36:15.550Z",
+    "registeredAt": "2025-07-06T16:43:54.380Z"
+  },
+  {
+    "userId": "2b44e7b9-0950-4f82-b33d-2fc97b2cc8fe",
+    "fullName": "Tasha Crist",
+    "bio": "philosopher, filmmaker, grad 🫖",
+    "gender": "Trigender",
+    "birthdate": "2000-06-12T00:46:20.277Z",
+    "registeredAt": "2025-05-05T05:14:27.159Z"
   }
 ]
