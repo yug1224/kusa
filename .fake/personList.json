@@ -1,98 +1,82 @@
 [
   {
-    "userId": "55ada0db-2518-40a7-a589-05ff154a6c0d",
-    "fullName": "Marion Willms",
-    "bio": "blogger, scientist",
-    "gender": "Multigender",
-    "birthdate": "1992-04-16T13:08:10.624Z",
-    "registeredAt": "2025-09-08T06:51:46.765Z"
-  },
-  {
-    "userId": "142c64b1-7ae7-405f-b553-64574581eaf3",
-    "fullName": "Billie Smitham",
-    "bio": "geek",
-    "gender": "Cis male",
-    "birthdate": "2005-09-29T05:33:41.185Z",
-    "registeredAt": "2025-08-25T11:18:26.754Z"
-  },
-  {
-    "userId": "2e289466-fbe1-4002-8617-1a11be521abe",
-    "fullName": "Jorge Bruen",
-    "bio": "parent, traveler",
-    "gender": "Neither",
-    "birthdate": "1989-08-24T13:16:59.648Z",
-    "registeredAt": "2026-02-20T06:35:48.292Z"
-  },
-  {
-    "userId": "9cbcaeed-3d29-4fbe-91b2-bb1e596f1183",
-    "fullName": "Kim Predovic",
-    "bio": "spit devotee  ✌🏿",
-    "gender": "Intersex",
-    "birthdate": "1959-10-29T16:52:40.877Z",
-    "registeredAt": "2025-07-01T11:58:08.158Z"
-  },
-  {
-    "userId": "f8f704ac-c0b4-421b-94bd-681df7f8fc6e",
-    "fullName": "Harvey Homenick",
-    "bio": "writer, engineer, film lover 🥔",
-    "gender": "Gender neutral",
-    "birthdate": "2002-09-16T10:39:56.750Z",
-    "registeredAt": "2025-12-10T21:56:34.088Z"
-  },
-  {
-    "userId": "c062d5e5-703f-403d-a7bb-5338b4c21e66",
-    "fullName": "Desiree Stoltenberg PhD",
-    "bio": "slide enthusiast  🦇",
-    "gender": "Trans female",
-    "birthdate": "1978-03-11T03:01:47.207Z",
-    "registeredAt": "2025-04-02T09:30:12.865Z"
-  },
-  {
-    "userId": "bc4a84cd-0726-42f9-8df4-479277b6e93f",
-    "fullName": "Cecelia Gulgowski Jr.",
-    "bio": "nerd, business owner, activist",
-    "gender": "Two* person",
-    "birthdate": "1971-09-08T18:01:22.776Z",
-    "registeredAt": "2025-07-12T20:16:31.858Z"
-  },
-  {
-    "userId": "d5189e2b-a3af-4302-9f89-fc8f51a103fb",
-    "fullName": "Louise Willms DVM",
-    "bio": "singular supporter, model 🐛",
-    "gender": "Trans female",
-    "birthdate": "1997-05-12T14:19:38.681Z",
-    "registeredAt": "2025-10-05T11:17:03.149Z"
-  },
-  {
-    "userId": "cdde4a0d-9e0e-4700-ac45-941ad52f7a36",
-    "fullName": "Irvin Cruickshank Jr.",
-    "bio": "parking junkie  ⚖️",
-    "gender": "Demi-woman",
-    "birthdate": "1977-02-26T23:09:04.563Z",
-    "registeredAt": "2025-11-07T20:23:56.786Z"
-  },
-  {
-    "userId": "738d08c7-6a5a-494b-b961-f51883005a59",
-    "fullName": "Samantha Blick Sr.",
-    "bio": "business owner, artist",
-    "gender": "Cis",
-    "birthdate": "1974-07-30T07:50:00.944Z",
-    "registeredAt": "2026-01-01T05:47:06.568Z"
-  },
-  {
-    "userId": "28ffdea8-5fa6-41b1-a738-5a197c3795f8",
-    "fullName": "Guadalupe Kuphal",
-    "bio": "muskrat junkie, artist",
-    "gender": "Gender neutral",
-    "birthdate": "1946-08-22T18:09:02.737Z",
-    "registeredAt": "2025-09-13T21:51:02.640Z"
-  },
-  {
-    "userId": "719a2cb7-a3dd-48d7-bbbd-95881d728e40",
-    "fullName": "Yolanda Kirlin",
-    "bio": "bitter fan",
+    "userId": "a0fb0977-791b-4f3c-8367-d12b0845a110",
+    "fullName": "Charlotte Bradtke",
+    "bio": "friend, nerd",
     "gender": "Other",
-    "birthdate": "1978-07-22T06:53:26.113Z",
-    "registeredAt": "2025-05-16T07:42:31.022Z"
+    "birthdate": "1978-05-01T09:32:55.676Z",
+    "registeredAt": "2026-02-15T12:07:17.485Z"
+  },
+  {
+    "userId": "b3c3c2cc-e27e-4500-8031-2596ac1ff003",
+    "fullName": "Shirley Kuhic-Wyman",
+    "bio": "environmentalist, writer, leader",
+    "gender": "Neutrois",
+    "birthdate": "2003-03-25T12:46:59.651Z",
+    "registeredAt": "2025-03-20T08:55:48.867Z"
+  },
+  {
+    "userId": "e8152e36-b346-4d74-a9f2-f4ba95151761",
+    "fullName": "Earnest Spencer",
+    "bio": "wingman fan, entrepreneur 🤓",
+    "gender": "Male to female",
+    "birthdate": "1984-12-11T21:45:33.555Z",
+    "registeredAt": "2026-02-23T15:48:00.272Z"
+  },
+  {
+    "userId": "52295312-2cfc-4255-8f3a-32f997ed3fa6",
+    "fullName": "Mack Larson",
+    "bio": "simvastatin devotee",
+    "gender": "M2F",
+    "birthdate": "1970-12-20T10:19:47.850Z",
+    "registeredAt": "2025-07-22T00:23:56.069Z"
+  },
+  {
+    "userId": "f9539e85-988a-4b7c-8038-85799f6ae494",
+    "fullName": "Garrett Lynch",
+    "bio": "marimba advocate, streamer ☘️",
+    "gender": "Male to female",
+    "birthdate": "1964-09-21T04:23:32.791Z",
+    "registeredAt": "2025-10-11T20:43:49.654Z"
+  },
+  {
+    "userId": "e7b1f321-f29f-49fd-9cf0-d94c029bce88",
+    "fullName": "Henry Baumbach",
+    "bio": "screw lover, grad ♎",
+    "gender": "Genderqueer",
+    "birthdate": "1946-09-01T12:50:28.188Z",
+    "registeredAt": "2025-06-25T10:19:02.762Z"
+  },
+  {
+    "userId": "310a0a81-9ac9-4614-bba5-192eb4a04308",
+    "fullName": "Dr. Juan Hudson",
+    "bio": "trapezium enthusiast, photographer",
+    "gender": "Cis",
+    "birthdate": "1995-04-07T12:55:45.032Z",
+    "registeredAt": "2025-04-19T18:12:16.193Z"
+  },
+  {
+    "userId": "8324731f-57ae-457f-9473-35f70b8aee21",
+    "fullName": "Everett Thompson",
+    "bio": "affiliate junkie, patriot",
+    "gender": "Demi-girl",
+    "birthdate": "1982-10-21T07:29:58.822Z",
+    "registeredAt": "2026-01-21T17:12:21.710Z"
+  },
+  {
+    "userId": "3b0d8dcd-a9bd-4843-8284-fd9e45241db5",
+    "fullName": "Thomas Von",
+    "bio": "downstairs junkie, public speaker 🔛",
+    "gender": "Transgender female",
+    "birthdate": "1947-05-11T19:24:21.053Z",
+    "registeredAt": "2025-09-22T09:42:24.966Z"
+  },
+  {
+    "userId": "60baddf5-002e-4b60-bd48-37d660ad3ab9",
+    "fullName": "Deborah Conn",
+    "bio": "encouragement enthusiast, scientist 🍲",
+    "gender": "Woman",
+    "birthdate": "1988-09-07T11:21:34.500Z",
+    "registeredAt": "2025-12-31T00:40:42.124Z"
   }
 ]
