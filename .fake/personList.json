@@ -1,42 +1,106 @@
 [
   {
-    "userId": "7b20d7c5-05de-4144-a288-2eac7ba60eaf",
-    "fullName": "Marshall Auer",
-    "bio": "student, foodie",
-    "gender": "F2M",
-    "birthdate": "1995-06-26T11:07:51.616Z",
-    "registeredAt": "2025-06-16T23:46:56.086Z"
-  },
-  {
-    "userId": "c3498642-4b56-450a-be15-4a08b113516a",
-    "fullName": "Ms. Lindsey Weber",
-    "bio": "mailman enthusiast, geek",
-    "gender": "Female to male trans man",
-    "birthdate": "1961-01-06T07:45:49.356Z",
-    "registeredAt": "2025-12-13T20:59:29.412Z"
-  },
-  {
-    "userId": "9bd420dc-eb54-43b0-b5b6-d3ed021581c2",
-    "fullName": "Paulette Pacocha",
-    "bio": "environmentalist, streamer",
-    "gender": "Gender nonconforming",
-    "birthdate": "1979-03-06T10:00:10.758Z",
-    "registeredAt": "2025-10-01T16:23:12.823Z"
-  },
-  {
-    "userId": "44b95639-31b3-4e88-b03c-66a660aafbd0",
-    "fullName": "Austin Cummerata",
-    "bio": "publishing supporter, foodie",
+    "userId": "7e05ef25-7e3c-4f9f-abc0-784f28978b1e",
+    "fullName": "Claude Franey IV",
+    "bio": "octet supporter, foodie",
     "gender": "Cis",
-    "birthdate": "1986-04-15T07:56:00.740Z",
-    "registeredAt": "2025-03-23T18:11:26.671Z"
+    "birthdate": "1962-03-19T04:11:27.120Z",
+    "registeredAt": "2025-12-22T05:00:33.725Z"
   },
   {
-    "userId": "46de52ae-0c28-4d86-9cca-5c67e2570fb3",
-    "fullName": "Alberto Schoen",
-    "bio": "geek, parent, musician",
-    "gender": "Cis male",
-    "birthdate": "1992-12-09T13:42:19.775Z",
-    "registeredAt": "2026-01-19T21:13:36.116Z"
+    "userId": "8c3c7eab-2cc7-4684-b311-ef904d15c65b",
+    "fullName": "Alberto Olson",
+    "bio": "leader, business owner, founder 🇬🇲",
+    "gender": "Male to female trans woman",
+    "birthdate": "1973-01-21T20:08:44.465Z",
+    "registeredAt": "2025-04-30T17:56:09.990Z"
+  },
+  {
+    "userId": "39077d03-c5b9-4f35-9872-0b93441dfa65",
+    "fullName": "Mrs. Mandy Cole",
+    "bio": "primary devotee",
+    "gender": "Intersex",
+    "birthdate": "1979-12-26T15:45:10.339Z",
+    "registeredAt": "2025-12-11T07:03:15.654Z"
+  },
+  {
+    "userId": "1f6c2583-1615-481e-8a3c-ebf5bf53c205",
+    "fullName": "Kathy Rodriguez",
+    "bio": "subsection junkie  #️⃣",
+    "gender": "Cis man",
+    "birthdate": "1982-06-23T13:44:24.189Z",
+    "registeredAt": "2025-09-08T11:43:39.065Z"
+  },
+  {
+    "userId": "53f46c48-3f09-4227-9004-49ad950d44b9",
+    "fullName": "Timmy Powlowski",
+    "bio": "guy lover",
+    "gender": "Demiflux",
+    "birthdate": "2005-04-21T22:18:21.556Z",
+    "registeredAt": "2025-05-17T08:28:09.272Z"
+  },
+  {
+    "userId": "63c01b21-e6dc-4fd9-b6de-953e9dae3bcd",
+    "fullName": "Mr. Milton Reichert",
+    "bio": "lookout supporter, traveler 👃🏽",
+    "gender": "Gender neutral",
+    "birthdate": "2002-02-11T20:09:49.369Z",
+    "registeredAt": "2026-01-18T18:08:22.248Z"
+  },
+  {
+    "userId": "609c4281-831f-47e0-82a7-21ca4fd222a2",
+    "fullName": "Shane Rutherford",
+    "bio": "patriot",
+    "gender": "T* man",
+    "birthdate": "1951-01-20T23:38:44.811Z",
+    "registeredAt": "2025-12-23T06:51:14.633Z"
+  },
+  {
+    "userId": "a46c5619-2968-4d78-a767-40764c3be9a7",
+    "fullName": "Rochelle Cassin",
+    "bio": "patriot",
+    "gender": "Non-binary",
+    "birthdate": "1961-01-09T20:17:54.222Z",
+    "registeredAt": "2025-05-21T23:08:01.419Z"
+  },
+  {
+    "userId": "25d5645b-b14f-42ee-8747-f1d62198eafc",
+    "fullName": "Darnell Koepp",
+    "bio": "singer, person, philosopher 🎲",
+    "gender": "Cisgender female",
+    "birthdate": "1960-01-01T00:02:57.183Z",
+    "registeredAt": "2026-01-17T19:55:41.875Z"
+  },
+  {
+    "userId": "329907ba-11e8-4ea6-b795-1203be511002",
+    "fullName": "Kristina Jast IV",
+    "bio": "leader, philosopher, streamer ⏲️",
+    "gender": "Female to male transsexual man",
+    "birthdate": "2001-06-13T15:50:18.711Z",
+    "registeredAt": "2025-09-28T04:45:26.371Z"
+  },
+  {
+    "userId": "c5dc37ed-8101-4bd2-8a4c-3ce7fc814a49",
+    "fullName": "Edmund Reichert",
+    "bio": "designer",
+    "gender": "Trans",
+    "birthdate": "1949-04-05T23:07:28.105Z",
+    "registeredAt": "2025-09-27T09:50:43.714Z"
+  },
+  {
+    "userId": "43a2c6da-25d0-4452-8651-0d7b4b886bf2",
+    "fullName": "Ramona Robel",
+    "bio": "rock junkie",
+    "gender": "Two-spirit",
+    "birthdate": "1993-05-26T15:14:26.623Z",
+    "registeredAt": "2025-06-12T10:43:00.284Z"
+  },
+  {
+    "userId": "1ebafd8b-a9c4-43ad-9cc8-9cfaec739576",
+    "fullName": "Christie Ferry PhD",
+    "bio": "public speaker, leader, model 🐈‍⬛",
+    "gender": "Intersex woman",
+    "birthdate": "1992-04-30T23:33:45.807Z",
+    "registeredAt": "2025-04-23T02:29:42.632Z"
   }
 ]
