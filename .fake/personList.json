@@ -1,146 +1,50 @@
 [
   {
-    "userId": "f8645206-f59b-4470-96ef-975e64b7edb7",
-    "fullName": "Dr. Kellie Ward",
-    "bio": "bear fan",
-    "gender": "Other",
-    "birthdate": "2000-04-18T17:33:41.172Z",
-    "registeredAt": "2025-06-12T06:19:13.091Z"
-  },
-  {
-    "userId": "885e8fcd-e924-4832-b24a-4e7b9e9a2052",
-    "fullName": "Myron Marquardt",
-    "bio": "veteran",
-    "gender": "Gender nonconforming",
-    "birthdate": "1968-11-06T08:42:49.059Z",
-    "registeredAt": "2025-12-02T13:17:12.732Z"
-  },
-  {
-    "userId": "3989f788-9769-4f91-81a4-740532cb6a56",
-    "fullName": "Joanna Mann",
-    "bio": "sunrise advocate",
-    "gender": "Intersex woman",
-    "birthdate": "2006-04-25T07:49:29.700Z",
-    "registeredAt": "2026-01-08T02:52:08.183Z"
-  },
-  {
-    "userId": "beb441d9-5d7e-4518-bf5e-7e3f4b6062e1",
-    "fullName": "Sharon Olson",
-    "bio": "sand junkie, leader 🌷",
-    "gender": "Agender",
-    "birthdate": "1973-09-11T12:53:19.539Z",
-    "registeredAt": "2025-07-27T09:26:39.342Z"
-  },
-  {
-    "userId": "f03f5aa9-4bcf-4ca1-af26-0d99884b2433",
-    "fullName": "Darnell Rodriguez",
-    "bio": "twist advocate  🥲",
-    "gender": "Androgyne",
-    "birthdate": "1982-05-26T15:42:46.847Z",
-    "registeredAt": "2025-11-10T07:35:00.293Z"
-  },
-  {
-    "userId": "31479774-e390-401e-809d-f3d563db25e9",
-    "fullName": "George Murray",
-    "bio": "religion advocate",
-    "gender": "Transexual",
-    "birthdate": "1973-01-24T18:58:57.317Z",
-    "registeredAt": "2025-04-03T12:54:23.102Z"
-  },
-  {
-    "userId": "e6071260-6c9c-4b9a-aeee-460e6e8693fd",
-    "fullName": "Clay Abshire",
-    "bio": "person, activist",
-    "gender": "Transexual",
-    "birthdate": "1954-06-18T22:08:02.154Z",
-    "registeredAt": "2025-10-22T06:48:13.642Z"
-  },
-  {
-    "userId": "cb554716-d07d-4701-90d4-c82374009093",
-    "fullName": "Jacob Deckow",
-    "bio": "minion supporter  👁️‍🗨️",
-    "gender": "Trans female",
-    "birthdate": "1946-08-28T06:20:53.952Z",
-    "registeredAt": "2025-03-26T18:53:30.478Z"
-  },
-  {
-    "userId": "be8bb559-6de5-424a-a64a-4c22e6174898",
-    "fullName": "Charlene Murphy",
-    "bio": "streamer, streamer, artist 🤛🏻",
-    "gender": "Gender neutral",
-    "birthdate": "1973-03-24T18:07:25.315Z",
-    "registeredAt": "2025-08-02T15:59:06.051Z"
-  },
-  {
-    "userId": "5d5d6383-8c6c-4d78-92be-1859f0e4c483",
-    "fullName": "Silvia Pollich",
-    "bio": "model, environmentalist, patriot",
-    "gender": "FTM",
-    "birthdate": "1953-01-31T12:21:18.300Z",
-    "registeredAt": "2026-02-15T08:51:55.408Z"
-  },
-  {
-    "userId": "adda49a7-6055-4194-9503-5af08309f46a",
-    "fullName": "Lee Bosco",
-    "bio": "smock advocate",
-    "gender": "Female to male transsexual man",
-    "birthdate": "2000-05-25T14:37:54.858Z",
-    "registeredAt": "2025-10-07T04:53:41.172Z"
-  },
-  {
-    "userId": "3d663e0b-bee0-43d3-b7c3-faf90d2db543",
-    "fullName": "Jason O'Conner",
-    "bio": "engineer, inventor, artist 🎌",
-    "gender": "Trigender",
-    "birthdate": "1947-03-02T00:34:35.949Z",
-    "registeredAt": "2025-05-15T23:08:06.764Z"
-  },
-  {
-    "userId": "94cec75c-a990-4d9a-91ed-b3b2882b90bd",
-    "fullName": "Cheryl Lindgren",
-    "bio": "coach",
-    "gender": "Neutrois",
-    "birthdate": "1955-11-29T05:39:58.530Z",
-    "registeredAt": "2025-04-01T12:22:35.642Z"
-  },
-  {
-    "userId": "4b9fe779-e1bd-4f56-9fc7-8ea1e3b7957b",
-    "fullName": "Eileen Connelly",
-    "bio": "insurgence supporter, environmentalist",
-    "gender": "Transmasculine",
-    "birthdate": "1986-09-15T03:30:55.092Z",
-    "registeredAt": "2025-07-25T22:01:12.027Z"
-  },
-  {
-    "userId": "e3a3d42e-9ce2-4509-bcf9-1b10dc7c39ac",
-    "fullName": "Wanda Sipes",
-    "bio": "blessing advocate, artist",
-    "gender": "Intersex",
-    "birthdate": "1999-11-14T19:31:06.306Z",
-    "registeredAt": "2025-10-29T10:33:39.207Z"
-  },
-  {
-    "userId": "fd336933-6c96-4535-80f7-b76ca87c8e52",
-    "fullName": "Brenda Rath",
-    "bio": "weasel advocate",
-    "gender": "Cis man",
-    "birthdate": "2006-06-06T07:09:18.522Z",
-    "registeredAt": "2025-07-10T22:46:35.032Z"
-  },
-  {
-    "userId": "dfd6dc1c-363f-4b7c-a659-80f908d75c89",
-    "fullName": "Bertha Wolf",
-    "bio": "cantaloupe enthusiast",
+    "userId": "2a7863d5-5ea0-423a-ba8a-99927e08aadc",
+    "fullName": "Jean Lowe",
+    "bio": "business owner, founder, public speaker 🤭",
     "gender": "Cis male",
-    "birthdate": "1977-02-23T09:47:41.814Z",
-    "registeredAt": "2026-02-25T19:32:18.387Z"
+    "birthdate": "1988-03-18T10:27:29.783Z",
+    "registeredAt": "2025-07-30T08:37:24.066Z"
   },
   {
-    "userId": "c4482f93-5973-4c55-8aec-91de88352248",
-    "fullName": "Ms. Sandra Kohler I",
-    "bio": "inventor, coach, veteran",
-    "gender": "M2F",
-    "birthdate": "1979-05-04T14:30:53.397Z",
-    "registeredAt": "2025-11-24T11:57:49.333Z"
+    "userId": "d91df5bd-04a7-427f-ac15-a2cce7eabd94",
+    "fullName": "Dr. Shane Harvey",
+    "bio": "renaissance enthusiast, teacher",
+    "gender": "Androgyne",
+    "birthdate": "1985-10-04T11:21:19.560Z",
+    "registeredAt": "2026-02-09T23:39:50.491Z"
+  },
+  {
+    "userId": "b8f3aca4-95dd-4e8e-ba71-45922984f0a5",
+    "fullName": "Latoya Cronin",
+    "bio": "honoree supporter, model ⏫",
+    "gender": "Neutrois",
+    "birthdate": "2005-09-06T23:49:57.599Z",
+    "registeredAt": "2026-01-04T13:55:59.017Z"
+  },
+  {
+    "userId": "d450f934-74ad-4641-978b-aaef4a0336a8",
+    "fullName": "Jeff Schmidt",
+    "bio": "paranoia enthusiast  🫖",
+    "gender": "Female to male transsexual man",
+    "birthdate": "1993-01-24T12:59:42.335Z",
+    "registeredAt": "2026-02-01T20:35:00.539Z"
+  },
+  {
+    "userId": "50aeb399-3590-46b0-85cd-a78180b38bc0",
+    "fullName": "Carmen Monahan PhD",
+    "bio": "patriot, educator, author 🥅",
+    "gender": "F2M",
+    "birthdate": "1961-10-31T08:06:33.668Z",
+    "registeredAt": "2025-11-14T12:37:53.525Z"
+  },
+  {
+    "userId": "bb5a235b-c923-47b8-889d-145b9b0334c2",
+    "fullName": "Gayle Stoltenberg",
+    "bio": "parent, streamer, musician 👫🏿",
+    "gender": "Demi-boy",
+    "birthdate": "1968-09-08T10:28:31.818Z",
+    "registeredAt": "2025-03-27T10:12:37.790Z"
   }
 ]
