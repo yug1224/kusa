@@ -1,162 +1,66 @@
 [
   {
-    "userId": "f9dd2932-2e68-4192-b7c3-92f1956a7bf3",
-    "fullName": "Emma Anderson",
-    "bio": "pricing junkie",
-    "gender": "Intersex man",
-    "birthdate": "1974-08-27T11:17:28.824Z",
-    "registeredAt": "2025-08-06T14:14:49.357Z"
-  },
-  {
-    "userId": "d5ef25ec-c820-48b3-8e85-79d6c30b75d7",
-    "fullName": "Darin DuBuque",
-    "bio": "activist",
-    "gender": "Transgender person",
-    "birthdate": "1976-07-10T15:02:47.212Z",
-    "registeredAt": "2025-11-14T17:36:04.072Z"
-  },
-  {
-    "userId": "dc1fa5fd-00f3-4f97-a923-181d0736ddf9",
-    "fullName": "Theodore Leannon",
-    "bio": "quality advocate  🏩",
-    "gender": "Female to male transsexual man",
-    "birthdate": "2007-02-05T16:03:23.741Z",
-    "registeredAt": "2025-04-05T21:36:45.338Z"
-  },
-  {
-    "userId": "68352d7e-ea2f-420b-b0ac-5c43aeea250a",
-    "fullName": "Mr. Jordan Morar",
-    "bio": "sherbet supporter",
-    "gender": "Trans female",
-    "birthdate": "1951-05-12T09:09:09.999Z",
-    "registeredAt": "2025-12-14T01:50:59.001Z"
-  },
-  {
-    "userId": "48ce3103-36aa-4254-acef-e0113a02a475",
-    "fullName": "Mr. Jonathan Parisian",
-    "bio": "bolt lover, coach 🇿🇲",
-    "gender": "Transexual person",
-    "birthdate": "1960-10-22T14:08:06.020Z",
-    "registeredAt": "2025-06-19T13:00:40.969Z"
-  },
-  {
-    "userId": "c56243a4-8afd-4837-b064-e5314af7467f",
-    "fullName": "Miss Rochelle Franey",
-    "bio": "writer, grad, inventor 🤚",
-    "gender": "Trans male",
-    "birthdate": "1997-03-27T04:18:29.652Z",
-    "registeredAt": "2025-08-09T10:13:54.348Z"
-  },
-  {
-    "userId": "f1cdec00-cf57-4ec5-bf7d-b421ce9ef599",
-    "fullName": "Dr. Kelly Rogahn",
-    "bio": "photographer",
-    "gender": "Cisgender woman",
-    "birthdate": "1995-04-29T22:14:45.100Z",
-    "registeredAt": "2025-04-04T08:46:29.982Z"
-  },
-  {
-    "userId": "d834d791-908b-4786-883f-6cfbd1890bae",
-    "fullName": "Tyler Grimes PhD",
-    "bio": "quilt devotee  🇻🇨",
-    "gender": "Hermaphrodite",
-    "birthdate": "1992-09-10T18:22:37.031Z",
-    "registeredAt": "2026-02-07T20:24:27.166Z"
-  },
-  {
-    "userId": "1b5eb14e-8db4-437a-be85-39dca05d2857",
-    "fullName": "Clint Miller",
-    "bio": "philosopher, patriot",
-    "gender": "Gender nonconforming",
-    "birthdate": "1964-01-05T05:02:42.393Z",
-    "registeredAt": "2025-06-11T03:23:53.486Z"
-  },
-  {
-    "userId": "7c863cd6-95d8-4c91-b90d-2f9ebf82a8e3",
-    "fullName": "Shawn Kunde DDS",
-    "bio": "coach, writer, engineer",
-    "gender": "Intersex man",
-    "birthdate": "1971-10-25T06:59:11.720Z",
-    "registeredAt": "2025-07-03T07:30:18.803Z"
-  },
-  {
-    "userId": "fbc9635f-60d5-4723-8a33-f553a2426806",
-    "fullName": "Kim Kuhn V",
-    "bio": "lawyer junkie  🉑",
-    "gender": "Two-spirit person",
-    "birthdate": "1948-10-12T01:43:19.139Z",
-    "registeredAt": "2026-02-03T23:10:12.435Z"
-  },
-  {
-    "userId": "cb5c7dca-f09c-4d26-b6d0-9b282af013e5",
-    "fullName": "Dr. Homer Mayert",
-    "bio": "expansionism lover, model 🦆",
-    "gender": "Neutrois",
-    "birthdate": "1986-01-07T13:32:43.223Z",
-    "registeredAt": "2025-07-24T02:51:35.424Z"
-  },
-  {
-    "userId": "3564bd73-187e-4fc9-9838-443412bcfef5",
-    "fullName": "Patrick Halvorson",
-    "bio": "singer",
-    "gender": "T* woman",
-    "birthdate": "1993-07-23T08:54:48.021Z",
-    "registeredAt": "2025-10-21T10:46:16.911Z"
-  },
-  {
-    "userId": "aef78ed6-30f6-4939-a681-0fe85cb4bc71",
-    "fullName": "Lela Nienow",
-    "bio": "destination devotee  8️⃣",
-    "gender": "Transexual man",
-    "birthdate": "2000-10-21T01:54:45.265Z",
-    "registeredAt": "2025-04-03T05:03:24.814Z"
-  },
-  {
-    "userId": "b1a1340b-217f-49ee-8549-039df8391e16",
-    "fullName": "Janice Oberbrunner",
-    "bio": "inventor, developer, educator",
-    "gender": "FTM",
-    "birthdate": "1978-03-13T05:49:31.679Z",
-    "registeredAt": "2025-05-28T04:59:25.268Z"
-  },
-  {
-    "userId": "481fefa3-997f-476f-8eeb-714cbd9c221e",
-    "fullName": "Wm Graham",
-    "bio": "deer junkie  🏌🏼‍♂️",
-    "gender": "Male to female trans woman",
-    "birthdate": "2001-05-22T04:02:47.189Z",
-    "registeredAt": "2025-04-24T13:12:24.396Z"
-  },
-  {
-    "userId": "effb5198-03f2-49a4-a313-5f328802ebe7",
-    "fullName": "Ms. Sara Zemlak",
-    "bio": "pirate advocate  🌸",
-    "gender": "Transexual man",
-    "birthdate": "1982-06-14T19:39:02.593Z",
-    "registeredAt": "2025-08-07T15:28:39.240Z"
-  },
-  {
-    "userId": "0552646f-5f05-4941-b12f-ff46ccbd8c96",
-    "fullName": "Willis Ferry",
-    "bio": "coach",
-    "gender": "Demiflux",
-    "birthdate": "1974-03-03T22:06:15.169Z",
-    "registeredAt": "2025-05-17T14:20:46.806Z"
-  },
-  {
-    "userId": "bc196018-4178-4bc7-9895-51fc3d6167be",
-    "fullName": "Bobby Gottlieb",
-    "bio": "coach, coach, engineer",
+    "userId": "293a6bfc-635a-41d2-b170-eda91bc958a2",
+    "fullName": "Agnes Schiller",
+    "bio": "trophy enthusiast, photographer 🇲🇳",
     "gender": "F2M",
-    "birthdate": "2002-04-08T15:04:22.876Z",
-    "registeredAt": "2025-09-26T02:50:50.481Z"
+    "birthdate": "2006-08-14T08:06:39.556Z",
+    "registeredAt": "2025-12-27T12:59:51.572Z"
   },
   {
-    "userId": "78d97a7f-84b6-4625-8c53-cd46a78aaaf7",
-    "fullName": "Agnes Cruickshank",
-    "bio": "co-producer junkie  🇪🇸",
-    "gender": "Cisgender woman",
-    "birthdate": "1960-05-19T02:02:50.671Z",
-    "registeredAt": "2025-05-04T05:25:00.201Z"
+    "userId": "a15d3594-7132-4bf7-988a-7afff20f6864",
+    "fullName": "Harold Wyman",
+    "bio": "creator, business owner, gamer 🇦🇼",
+    "gender": "Intersex",
+    "birthdate": "1951-09-14T04:38:06.259Z",
+    "registeredAt": "2025-04-23T20:23:35.588Z"
+  },
+  {
+    "userId": "8a868871-34ed-4120-8b6f-3a4b72e4d8b0",
+    "fullName": "Paula Schultz",
+    "bio": "coffee advocate, film lover 😏",
+    "gender": "Cis",
+    "birthdate": "1959-08-06T10:45:12.686Z",
+    "registeredAt": "2025-09-21T12:35:34.457Z"
+  },
+  {
+    "userId": "0c576881-0f0c-49fa-999a-8234df981d78",
+    "fullName": "Dr. Spencer Farrell-Mraz",
+    "bio": "delight advocate  🧏🏿‍♀️",
+    "gender": "Gender neutral",
+    "birthdate": "1995-07-03T13:39:31.659Z",
+    "registeredAt": "2025-07-02T19:45:31.738Z"
+  },
+  {
+    "userId": "09e8da5d-5c79-429b-85d4-909eba992b99",
+    "fullName": "Ramiro Vandervort",
+    "bio": "streamer, student, friend",
+    "gender": "Xenogender",
+    "birthdate": "1975-02-21T22:53:46.912Z",
+    "registeredAt": "2025-07-16T09:18:56.210Z"
+  },
+  {
+    "userId": "63680947-71d0-4402-8b18-ad42879eb098",
+    "fullName": "Dr. Francis Lueilwitz",
+    "bio": "nerd, leader, artist",
+    "gender": "Transexual woman",
+    "birthdate": "1950-10-27T06:00:40.882Z",
+    "registeredAt": "2025-09-18T10:54:19.308Z"
+  },
+  {
+    "userId": "f75c0ddf-0b31-4bae-a8ea-0e668d403881",
+    "fullName": "Roderick Legros",
+    "bio": "teacher",
+    "gender": "Cis man",
+    "birthdate": "1954-01-14T21:56:14.903Z",
+    "registeredAt": "2026-01-05T17:20:21.045Z"
+  },
+  {
+    "userId": "75b6afc8-ca82-489c-b1e6-e7248b4f9837",
+    "fullName": "Mitchell Schultz",
+    "bio": "power junkie  🇳🇿",
+    "gender": "FTM",
+    "birthdate": "2006-10-12T15:46:41.394Z",
+    "registeredAt": "2025-11-09T01:36:05.890Z"
   }
 ]
