@@ -1,146 +1,130 @@
 [
   {
-    "userId": "51a5a1a8-2220-4443-946f-14a0959f880b",
-    "fullName": "Reginald Satterfield",
-    "bio": "consensus fan  🥒",
-    "gender": "Cisgender",
-    "birthdate": "2007-12-10T23:23:40.213Z",
-    "registeredAt": "2026-02-05T11:20:36.930Z"
-  },
-  {
-    "userId": "4b1c1a79-a871-46de-baef-59c123b4bf2b",
-    "fullName": "Dr. Andre Huel",
-    "bio": "island fan, dreamer 💱",
-    "gender": "Man",
-    "birthdate": "1959-06-17T14:10:50.230Z",
-    "registeredAt": "2026-02-20T17:07:21.942Z"
-  },
-  {
-    "userId": "e8b13267-9a6b-435f-a08e-936cd213ebde",
-    "fullName": "Hector Muller",
-    "bio": "radiator supporter",
-    "gender": "Cis male",
-    "birthdate": "1953-03-16T09:07:07.925Z",
-    "registeredAt": "2025-07-11T03:53:28.172Z"
-  },
-  {
-    "userId": "31478aac-369a-4ba3-90be-1b363f829601",
-    "fullName": "Clark Kreiger",
-    "bio": "friend, coach, leader",
-    "gender": "Cisgender male",
-    "birthdate": "1980-05-20T14:11:34.403Z",
-    "registeredAt": "2025-05-06T00:16:07.213Z"
-  },
-  {
-    "userId": "7608f21b-f17e-48c5-a7da-d45ffcd0d6bb",
-    "fullName": "Cassandra Sauer",
-    "bio": "educator",
-    "gender": "Demi-woman",
-    "birthdate": "1985-08-04T05:16:58.837Z",
-    "registeredAt": "2026-01-27T00:01:13.353Z"
-  },
-  {
-    "userId": "55caa1c2-eb20-4795-b8f6-692662e92842",
-    "fullName": "Clayton Rowe",
-    "bio": "singer, environmentalist, dreamer 🥛",
-    "gender": "Gender neutral",
-    "birthdate": "2005-07-08T03:05:55.350Z",
-    "registeredAt": "2025-09-09T18:41:22.251Z"
-  },
-  {
-    "userId": "9b1133d4-d27a-4ffc-b290-f0ec8cea499a",
-    "fullName": "Lonnie Osinski",
-    "bio": "traveler, designer, environmentalist 🔱",
-    "gender": "Transmasculine",
-    "birthdate": "2002-10-05T10:14:59.908Z",
-    "registeredAt": "2025-09-22T02:22:10.386Z"
-  },
-  {
-    "userId": "fd827ce4-23b9-4b57-9eb9-9af4b4e81be0",
-    "fullName": "Joe MacGyver",
-    "bio": "rudiment supporter, leader",
-    "gender": "Hermaphrodite",
-    "birthdate": "1998-05-21T04:15:16.001Z",
-    "registeredAt": "2025-08-21T08:46:29.133Z"
-  },
-  {
-    "userId": "86e5c1e8-e532-47eb-8515-a845057d5415",
-    "fullName": "Edgar Parker",
-    "bio": "mint devotee, designer 🍽️",
-    "gender": "Gender questioning",
-    "birthdate": "2006-02-12T07:54:04.393Z",
-    "registeredAt": "2025-03-27T06:04:14.501Z"
-  },
-  {
-    "userId": "5e8e4c9b-5947-4ab3-b331-c4d93f263a5d",
-    "fullName": "Mrs. Tami Pfannerstill",
-    "bio": "business owner",
-    "gender": "Transexual male",
-    "birthdate": "1948-12-22T10:01:01.818Z",
-    "registeredAt": "2026-01-25T23:49:30.635Z"
-  },
-  {
-    "userId": "1b7b09ca-3365-4284-96b0-ab59c86840ce",
-    "fullName": "Devin Beer DVM",
-    "bio": "founder",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1982-03-07T09:12:56.306Z",
-    "registeredAt": "2025-06-28T01:45:52.177Z"
-  },
-  {
-    "userId": "f43fe060-23b3-4901-8587-867cd9a44d4d",
-    "fullName": "Seth Zboncak",
-    "bio": "popsicle supporter",
-    "gender": "Neither",
-    "birthdate": "1996-08-17T15:40:46.734Z",
-    "registeredAt": "2025-12-17T03:40:16.127Z"
-  },
-  {
-    "userId": "e8913d95-ac6b-4a7a-8c90-44d860083dc1",
-    "fullName": "Mamie Emmerich DDS",
-    "bio": "friend",
-    "gender": "Transexual man",
-    "birthdate": "1980-06-02T12:33:47.089Z",
-    "registeredAt": "2025-05-30T03:38:58.319Z"
-  },
-  {
-    "userId": "8a8674e5-cfab-4c11-aa15-ffb7aeda07e7",
-    "fullName": "Heather Daniel",
-    "bio": "mutton enthusiast, student",
-    "gender": "Demi-woman",
-    "birthdate": "1983-02-17T16:07:52.899Z",
-    "registeredAt": "2025-05-31T03:29:01.567Z"
-  },
-  {
-    "userId": "d92fcbb3-e8eb-437d-b516-0ed30b16c711",
-    "fullName": "Joel Weber",
-    "bio": "model",
-    "gender": "Transexual woman",
-    "birthdate": "1963-12-21T05:22:59.063Z",
-    "registeredAt": "2025-08-19T04:59:06.645Z"
-  },
-  {
-    "userId": "43a60a09-ab50-4596-83d8-37b1d26abed6",
-    "fullName": "Melanie Barton",
-    "bio": "parent, filmmaker, teacher 👈🏾",
-    "gender": "FTM",
-    "birthdate": "1959-12-15T16:34:55.915Z",
-    "registeredAt": "2026-01-27T17:29:02.472Z"
-  },
-  {
-    "userId": "0808c2c1-663c-40d6-ae4c-f8b527a562e1",
-    "fullName": "Rosie Bernhard",
-    "bio": "truth junkie  🇨🇨",
-    "gender": "Transexual woman",
-    "birthdate": "1990-06-05T07:51:55.795Z",
-    "registeredAt": "2026-03-02T04:42:35.021Z"
-  },
-  {
-    "userId": "bd265696-e5a2-49bc-b02f-55158ea7bdd2",
-    "fullName": "Ms. Christie Price",
-    "bio": "ephemera junkie, creator ⛄",
+    "userId": "d06cb1c8-b0da-40d7-a0e3-8549f3d4342a",
+    "fullName": "Chris Berge",
+    "bio": "philosopher, author",
     "gender": "Omnigender",
-    "birthdate": "1976-09-15T18:46:04.367Z",
-    "registeredAt": "2025-12-28T08:46:50.648Z"
+    "birthdate": "1965-06-15T14:48:11.689Z",
+    "registeredAt": "2025-08-04T16:48:04.793Z"
+  },
+  {
+    "userId": "465c74ca-477b-4618-ba52-e5d385a3d0c8",
+    "fullName": "Bethany Frami",
+    "bio": "engineer",
+    "gender": "Gender fluid",
+    "birthdate": "1984-03-25T15:14:54.045Z",
+    "registeredAt": "2025-07-24T23:54:13.368Z"
+  },
+  {
+    "userId": "42d81b27-b69f-4013-8cbe-d57cf4c4698b",
+    "fullName": "Kevin Emmerich",
+    "bio": "sanction lover  🎊",
+    "gender": "Other",
+    "birthdate": "1952-05-04T15:09:53.072Z",
+    "registeredAt": "2025-11-01T07:00:51.131Z"
+  },
+  {
+    "userId": "9ca6c161-fc6e-4568-9929-b62c59c9ce80",
+    "fullName": "Brandy Harris",
+    "bio": "musician",
+    "gender": "MTF",
+    "birthdate": "1996-10-03T13:16:05.704Z",
+    "registeredAt": "2025-06-16T19:44:33.128Z"
+  },
+  {
+    "userId": "1c19c277-4f34-4628-9b68-c3c576660488",
+    "fullName": "Laverne Schroeder",
+    "bio": "aide advocate",
+    "gender": "Cisgender woman",
+    "birthdate": "1972-11-13T23:00:29.797Z",
+    "registeredAt": "2025-07-19T06:01:09.344Z"
+  },
+  {
+    "userId": "70eff4c6-853c-4396-bb72-ec062c8fb6cf",
+    "fullName": "Leo Rippin DDS",
+    "bio": "dough junkie  🌅",
+    "gender": "Demi-man",
+    "birthdate": "1948-07-11T12:35:18.410Z",
+    "registeredAt": "2026-03-04T18:52:49.200Z"
+  },
+  {
+    "userId": "067250da-41bd-41d3-9e38-f007b9017d55",
+    "fullName": "Paulette Zulauf",
+    "bio": "film lover, singer",
+    "gender": "Cisgender man",
+    "birthdate": "1955-10-20T12:03:12.565Z",
+    "registeredAt": "2026-02-01T09:03:37.714Z"
+  },
+  {
+    "userId": "544ee4ed-9909-47ad-93f0-2242c01cffd8",
+    "fullName": "Ms. Rhonda D'Amore II",
+    "bio": "veteran",
+    "gender": "Female to male trans man",
+    "birthdate": "2004-10-08T00:11:02.542Z",
+    "registeredAt": "2026-01-02T05:37:41.894Z"
+  },
+  {
+    "userId": "38e50f3a-37c5-4b5d-829b-c57087997f88",
+    "fullName": "Gerardo Kovacek",
+    "bio": "lifetime devotee",
+    "gender": "Two-spirit person",
+    "birthdate": "1995-11-27T16:16:03.640Z",
+    "registeredAt": "2025-12-24T04:37:25.151Z"
+  },
+  {
+    "userId": "ca645e36-d672-4db5-8449-0491adcbcd01",
+    "fullName": "Erik Gusikowski MD",
+    "bio": "geyser junkie  🍓",
+    "gender": "Androgynous",
+    "birthdate": "1990-06-02T07:02:07.777Z",
+    "registeredAt": "2026-02-24T05:43:20.737Z"
+  },
+  {
+    "userId": "1ea0e77c-a5a4-4a71-8691-d09afbf8a257",
+    "fullName": "Mr. Elias O'Conner",
+    "bio": "rush advocate",
+    "gender": "Woman",
+    "birthdate": "1994-06-08T04:15:46.758Z",
+    "registeredAt": "2026-01-04T11:46:15.604Z"
+  },
+  {
+    "userId": "1811a841-1b02-49cd-bfe3-e7c3435c4822",
+    "fullName": "April Stanton",
+    "bio": "philosopher",
+    "gender": "M2F",
+    "birthdate": "1965-08-06T20:38:50.504Z",
+    "registeredAt": "2025-09-03T01:09:36.902Z"
+  },
+  {
+    "userId": "37042a4b-9d8e-4bfd-8326-370e1f1a5b86",
+    "fullName": "Lela Goodwin",
+    "bio": "grad, educator, musician 🧎🏾‍♀️",
+    "gender": "Transexual",
+    "birthdate": "1971-11-03T08:40:31.225Z",
+    "registeredAt": "2025-07-22T14:36:16.436Z"
+  },
+  {
+    "userId": "d056d667-6013-4c2e-aeca-d2446ea03377",
+    "fullName": "Kim Pouros",
+    "bio": "grad",
+    "gender": "Pangender",
+    "birthdate": "1969-03-24T09:23:46.600Z",
+    "registeredAt": "2026-02-02T06:01:42.422Z"
+  },
+  {
+    "userId": "1ccabd97-9b8a-45a3-a14c-70f8a846c641",
+    "fullName": "Ollie Wiza",
+    "bio": "founder",
+    "gender": "Other",
+    "birthdate": "1998-09-13T11:58:10.183Z",
+    "registeredAt": "2025-10-08T21:41:30.826Z"
+  },
+  {
+    "userId": "f0624854-c2bd-48f3-8d32-c37dd8f19bf7",
+    "fullName": "Margaret Hudson",
+    "bio": "trellis enthusiast  🧙🏾‍♀️",
+    "gender": "Bigender",
+    "birthdate": "1982-10-06T06:30:51.632Z",
+    "registeredAt": "2025-11-05T13:54:14.635Z"
   }
 ]
