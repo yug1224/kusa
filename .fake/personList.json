@@ -1,138 +1,58 @@
 [
   {
-    "userId": "3f13a79f-50ff-4d85-9336-d6f858acdc81",
-    "fullName": "Cynthia Goldner Sr.",
-    "bio": "flatboat enthusiast",
-    "gender": "Cisgender male",
-    "birthdate": "1948-09-03T22:34:40.751Z",
-    "registeredAt": "2025-05-02T03:36:44.424Z"
-  },
-  {
-    "userId": "ae551359-9922-46b7-b762-c8561557d9a6",
-    "fullName": "Spencer Frami",
-    "bio": "hydraulics junkie, photographer 🦻🏾",
-    "gender": "Androgyne",
-    "birthdate": "1971-10-17T04:35:18.670Z",
-    "registeredAt": "2026-01-28T22:12:34.190Z"
-  },
-  {
-    "userId": "628d93a7-2752-4696-a682-3fbd7b417610",
-    "fullName": "Winston Ondricka",
-    "bio": "author, designer",
-    "gender": "Non-binary",
-    "birthdate": "1952-03-13T04:28:39.419Z",
-    "registeredAt": "2025-04-03T18:21:12.366Z"
-  },
-  {
-    "userId": "a2dbd865-af97-4c38-b048-8fa0fa861168",
-    "fullName": "Marcella Koepp",
-    "bio": "friend",
-    "gender": "Man",
-    "birthdate": "1982-08-27T22:51:50.565Z",
-    "registeredAt": "2025-05-01T08:55:31.056Z"
-  },
-  {
-    "userId": "6b22d9ed-f8d9-45b8-8694-e676cf1b24df",
-    "fullName": "Erick Jakubowski",
-    "bio": "quartz junkie, patriot 🍠",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1966-07-03T05:16:57.854Z",
-    "registeredAt": "2026-01-06T13:34:15.086Z"
-  },
-  {
-    "userId": "12098123-93e3-4320-b01b-ca820f4ac23c",
-    "fullName": "Mrs. Nicole Dickinson",
-    "bio": "musician",
-    "gender": "Male to female trans woman",
-    "birthdate": "1967-12-18T06:30:18.385Z",
-    "registeredAt": "2025-12-24T11:42:11.066Z"
-  },
-  {
-    "userId": "4a0d91e0-2607-485f-86ed-0e70c21b9256",
-    "fullName": "Ms. Sadie Feest",
-    "bio": "today fan, teacher",
-    "gender": "Cis female",
-    "birthdate": "1991-09-08T23:41:47.501Z",
-    "registeredAt": "2025-05-21T14:24:26.469Z"
-  },
-  {
-    "userId": "910fc58f-df19-4598-80aa-f8f0daf67d31",
-    "fullName": "Spencer D'Amore",
-    "bio": "designer, parent, streamer",
-    "gender": "Cisgender male",
-    "birthdate": "1949-07-27T11:57:26.351Z",
-    "registeredAt": "2025-11-14T21:48:39.711Z"
-  },
-  {
-    "userId": "2b5577d8-a712-4c67-ad9d-c92e55c6365a",
-    "fullName": "Robin Conn",
-    "bio": "gamer, educator, environmentalist",
-    "gender": "Demiflux",
-    "birthdate": "1961-10-16T03:29:04.160Z",
-    "registeredAt": "2025-04-23T17:19:42.749Z"
-  },
-  {
-    "userId": "27f53ee5-8936-485f-bed9-55e9d63f7d5e",
-    "fullName": "Al Murazik",
-    "bio": "person, nerd",
-    "gender": "T* man",
-    "birthdate": "1953-02-10T08:13:38.383Z",
-    "registeredAt": "2025-05-12T20:14:47.634Z"
-  },
-  {
-    "userId": "56afc2de-dab8-4aea-817d-3c20afa74a1a",
-    "fullName": "Wm Dibbert",
-    "bio": "daddy supporter  🤩",
-    "gender": "Intersex person",
-    "birthdate": "1976-08-20T21:40:22.287Z",
-    "registeredAt": "2025-11-02T18:04:43.237Z"
-  },
-  {
-    "userId": "33636142-129b-4794-9231-d84d26cadeb1",
-    "fullName": "Merle Spencer",
-    "bio": "activist, dreamer, educator 🥂",
-    "gender": "Intersex person",
-    "birthdate": "1964-03-06T12:27:11.156Z",
-    "registeredAt": "2025-09-17T15:40:37.622Z"
-  },
-  {
-    "userId": "277d6019-97e1-4b7a-8071-68109f10f1b9",
-    "fullName": "Rose Bauch",
-    "bio": "veal advocate",
-    "gender": "Multigender",
-    "birthdate": "1959-09-23T07:49:16.319Z",
-    "registeredAt": "2025-11-27T06:00:54.572Z"
-  },
-  {
-    "userId": "84e37a86-fe24-4333-902c-eeefd05b7932",
-    "fullName": "Oliver Yost-Sawayn",
-    "bio": "student, patriot, student 🔘",
-    "gender": "Genderqueer",
-    "birthdate": "1987-05-19T23:16:54.799Z",
-    "registeredAt": "2025-07-19T14:18:28.303Z"
-  },
-  {
-    "userId": "6838ba18-f59b-4e9b-8d42-afe90abeafb5",
-    "fullName": "Patricia Dicki",
-    "bio": "fighter devotee, student 🛻",
-    "gender": "Non-binary",
-    "birthdate": "1947-08-01T18:57:23.703Z",
-    "registeredAt": "2025-06-11T04:19:42.941Z"
-  },
-  {
-    "userId": "0e229d7d-23f0-4c77-b56b-77cb7672af31",
-    "fullName": "Ms. Leigh Ankunding",
-    "bio": "designer, founder",
-    "gender": "Two-spirit",
-    "birthdate": "1956-07-20T06:18:55.470Z",
-    "registeredAt": "2025-08-31T01:56:21.310Z"
-  },
-  {
-    "userId": "0b34d118-83ec-4c62-a0f9-edabd0d89afe",
-    "fullName": "Mrs. Gretchen Boehm",
-    "bio": "completion devotee  ♻️",
+    "userId": "b8b0d08a-e5f5-4669-9b1a-adb11c563ba5",
+    "fullName": "Julius Daugherty",
+    "bio": "vinegar junkie, activist",
     "gender": "Cis",
-    "birthdate": "1957-03-25T04:24:11.273Z",
-    "registeredAt": "2025-12-01T08:28:19.696Z"
+    "birthdate": "1975-10-22T03:50:52.776Z",
+    "registeredAt": "2025-03-17T16:01:42.796Z"
+  },
+  {
+    "userId": "d53c0621-7caa-400e-9535-cd70ac3b2f26",
+    "fullName": "Josephine Herzog",
+    "bio": "public speaker, patriot, gamer",
+    "gender": "Bigender",
+    "birthdate": "1949-02-05T13:27:24.227Z",
+    "registeredAt": "2025-06-02T11:00:39.714Z"
+  },
+  {
+    "userId": "7be5ec00-e01f-4265-b47e-1ae7c8c479df",
+    "fullName": "Gerald Muller",
+    "bio": "filmmaker, creator, scientist 👩🏽‍🍳",
+    "gender": "Gender nonconforming",
+    "birthdate": "1952-04-18T12:22:08.556Z",
+    "registeredAt": "2025-06-15T12:34:25.928Z"
+  },
+  {
+    "userId": "54646c64-4f21-4997-80d7-d4fd8d82b87f",
+    "fullName": "Hannah Hoppe-Goldner",
+    "bio": "mastication lover  ☑️",
+    "gender": "T* woman",
+    "birthdate": "1977-07-14T15:35:26.715Z",
+    "registeredAt": "2025-08-08T17:20:33.586Z"
+  },
+  {
+    "userId": "0baf9515-fb87-4330-8e9f-a08f82d74a01",
+    "fullName": "Devin Wyman PhD",
+    "bio": "parent, artist, gamer 🎃",
+    "gender": "Demi-woman",
+    "birthdate": "1949-11-28T17:07:50.632Z",
+    "registeredAt": "2025-04-23T06:32:45.832Z"
+  },
+  {
+    "userId": "b4a1207d-6c48-49fa-95a0-5f52431d71cf",
+    "fullName": "Wayne Dickinson",
+    "bio": "film lover",
+    "gender": "Gender variant",
+    "birthdate": "1958-01-01T21:22:38.988Z",
+    "registeredAt": "2025-05-16T09:35:23.105Z"
+  },
+  {
+    "userId": "a20bc692-82e6-45de-9a1f-e169df9efe9a",
+    "fullName": "Naomi Klein",
+    "bio": "blogger, environmentalist, public speaker 🇸🇮",
+    "gender": "Intersex woman",
+    "birthdate": "1974-05-28T21:38:54.537Z",
+    "registeredAt": "2026-02-04T22:57:26.341Z"
   }
 ]
