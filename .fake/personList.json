@@ -1,90 +1,154 @@
 [
   {
-    "userId": "f0293db2-7952-4520-b57f-f07591fc2944",
-    "fullName": "Diana McGlynn",
-    "bio": "fav supporter, educator",
-    "gender": "Trans male",
-    "birthdate": "1989-05-10T23:52:19.427Z",
-    "registeredAt": "2025-04-14T01:12:30.819Z"
-  },
-  {
-    "userId": "a6e56ed2-4a60-43a7-8b4d-8bf6f77f7049",
-    "fullName": "Ashley Kling",
-    "bio": "nerd, scientist, environmentalist",
-    "gender": "Cis man",
-    "birthdate": "1965-01-19T18:26:38.109Z",
-    "registeredAt": "2025-03-14T11:18:29.018Z"
-  },
-  {
-    "userId": "0b3d21bd-8840-4bd8-8f3b-f053af00bca2",
-    "fullName": "Mr. Blake Hilll",
-    "bio": "episode devotee, blogger 🥬",
-    "gender": "Intersex man",
-    "birthdate": "1964-08-31T18:14:26.305Z",
-    "registeredAt": "2026-01-28T16:59:01.224Z"
-  },
-  {
-    "userId": "564ec6da-2304-4398-b3ed-8aff77f3bf47",
-    "fullName": "Miss Ida Jacobson",
-    "bio": "blogger, dreamer",
-    "gender": "Demi-man",
-    "birthdate": "1976-12-09T02:43:27.899Z",
-    "registeredAt": "2025-04-11T14:14:07.543Z"
-  },
-  {
-    "userId": "10744427-4842-4dc3-9926-ec4f6b3f4381",
-    "fullName": "Rufus Kilback",
-    "bio": "teacher, friend",
-    "gender": "Demiflux",
-    "birthdate": "2005-09-10T08:46:59.192Z",
-    "registeredAt": "2026-01-01T21:55:39.166Z"
-  },
-  {
-    "userId": "13756c99-63ec-4e25-ab4d-a6841c2496f0",
-    "fullName": "Shawna Tremblay",
-    "bio": "detention fan",
-    "gender": "Trigender",
-    "birthdate": "1966-07-15T10:23:49.081Z",
-    "registeredAt": "2025-11-05T13:38:43.458Z"
-  },
-  {
-    "userId": "3fd93788-b91e-465b-a613-87537b37bab3",
-    "fullName": "Jill O'Conner",
-    "bio": "reason lover, parent",
-    "gender": "Hermaphrodite",
-    "birthdate": "1948-04-13T19:55:24.289Z",
-    "registeredAt": "2025-11-25T14:52:15.519Z"
-  },
-  {
-    "userId": "2a9ab06d-4e1b-4c6b-8798-7707ea718c30",
-    "fullName": "Ira Nicolas",
-    "bio": "action devotee, creator",
-    "gender": "Male to female trans woman",
-    "birthdate": "1991-09-15T20:33:17.060Z",
-    "registeredAt": "2026-02-11T19:24:32.248Z"
-  },
-  {
-    "userId": "8cf7e86c-4e60-4ed7-a05b-049be9cf7cd2",
-    "fullName": "Trevor Dickens",
-    "bio": "row enthusiast, scientist 💔",
-    "gender": "Two-spirit person",
-    "birthdate": "1990-12-21T21:06:49.258Z",
-    "registeredAt": "2025-10-31T15:01:31.515Z"
-  },
-  {
-    "userId": "a5586c07-f085-46c8-a64c-5a1296880cd4",
-    "fullName": "Sheila Friesen",
-    "bio": "beam enthusiast, blogger",
-    "gender": "Neutrois",
-    "birthdate": "1968-06-26T22:04:36.376Z",
-    "registeredAt": "2025-11-18T01:25:25.919Z"
-  },
-  {
-    "userId": "67bef350-7332-46ca-a951-5a732be1fc8b",
-    "fullName": "Opal Nicolas",
-    "bio": "writer, photographer, friend",
+    "userId": "867ffb12-31e8-4a58-88f3-9cb3a1e9846a",
+    "fullName": "Miss Patti Schmidt",
+    "bio": "altitude junkie, business owner",
     "gender": "Bigender",
-    "birthdate": "1981-09-18T09:26:17.686Z",
-    "registeredAt": "2025-04-26T14:13:54.327Z"
+    "birthdate": "1963-04-17T17:18:00.287Z",
+    "registeredAt": "2025-03-25T03:02:49.303Z"
+  },
+  {
+    "userId": "3c3ccd98-2f56-40c5-b312-ca1a2239bef4",
+    "fullName": "Camille Dickens",
+    "bio": "developer, engineer",
+    "gender": "Cis female",
+    "birthdate": "1948-06-16T03:39:37.044Z",
+    "registeredAt": "2025-07-24T18:35:14.053Z"
+  },
+  {
+    "userId": "6282154b-b9ea-4256-9254-97843bff763b",
+    "fullName": "Devin Larson",
+    "bio": "father-in-law devotee  🎧",
+    "gender": "Neither",
+    "birthdate": "1959-08-16T10:57:33.846Z",
+    "registeredAt": "2025-04-29T07:45:36.320Z"
+  },
+  {
+    "userId": "6fb28c9d-88fa-4002-b7a1-40e023cb291f",
+    "fullName": "Mrs. Sonja Turner I",
+    "bio": "veteran",
+    "gender": "Hermaphrodite",
+    "birthdate": "1953-07-19T19:13:35.317Z",
+    "registeredAt": "2025-05-31T20:36:47.333Z"
+  },
+  {
+    "userId": "d8b8500a-06bc-4515-a543-31e4eff9bb42",
+    "fullName": "Gertrude Heller",
+    "bio": "engineer, educator, grad 🙌",
+    "gender": "Androgyne",
+    "birthdate": "1955-09-13T09:04:50.769Z",
+    "registeredAt": "2025-04-16T22:48:14.893Z"
+  },
+  {
+    "userId": "7fe517f3-856d-452e-bbc2-af31c42812db",
+    "fullName": "Darrell Schuppe",
+    "bio": "nerd, streamer",
+    "gender": "T* woman",
+    "birthdate": "1975-12-21T10:26:07.427Z",
+    "registeredAt": "2025-06-11T12:02:07.058Z"
+  },
+  {
+    "userId": "b2b1a45c-895a-4a88-923a-345e18e30a4d",
+    "fullName": "Loretta Conroy",
+    "bio": "toast junkie  🍳",
+    "gender": "Trigender",
+    "birthdate": "1968-08-14T14:57:22.606Z",
+    "registeredAt": "2025-11-16T05:52:15.571Z"
+  },
+  {
+    "userId": "ce9c3b24-7c5e-4dc0-bde0-f57d906dd5f9",
+    "fullName": "Freda Lowe II",
+    "bio": "tote junkie, engineer 🧅",
+    "gender": "Non-binary",
+    "birthdate": "1997-12-27T23:10:49.535Z",
+    "registeredAt": "2026-01-13T00:41:32.885Z"
+  },
+  {
+    "userId": "4734dd69-526a-45ab-96c4-d89a8e83053a",
+    "fullName": "Georgia Zieme Jr.",
+    "bio": "business owner, photographer",
+    "gender": "Two* person",
+    "birthdate": "1961-09-02T04:29:34.911Z",
+    "registeredAt": "2025-12-13T22:55:25.933Z"
+  },
+  {
+    "userId": "f9299879-8917-42df-ad3c-89a729a432a5",
+    "fullName": "Marcia Jakubowski",
+    "bio": "impact junkie, educator 🏀",
+    "gender": "Transexual female",
+    "birthdate": "1977-10-09T01:11:53.998Z",
+    "registeredAt": "2025-10-15T06:00:09.554Z"
+  },
+  {
+    "userId": "0dfa40b3-167e-4913-a414-0c3c20cbc8d3",
+    "fullName": "Randal Hamill",
+    "bio": "max advocate  🪝",
+    "gender": "Trans",
+    "birthdate": "1986-11-04T17:46:12.605Z",
+    "registeredAt": "2025-10-02T04:13:58.175Z"
+  },
+  {
+    "userId": "2452211d-c242-40d4-bd62-1bd303edf737",
+    "fullName": "Sherry Schmitt",
+    "bio": "butane lover",
+    "gender": "Bigender",
+    "birthdate": "1948-12-18T19:51:06.734Z",
+    "registeredAt": "2026-02-08T20:40:09.596Z"
+  },
+  {
+    "userId": "faa02322-9ed9-45e8-a34e-e0cddd9c0500",
+    "fullName": "Edmund Hayes",
+    "bio": "mattress supporter",
+    "gender": "Cisgender male",
+    "birthdate": "1994-09-11T09:45:24.809Z",
+    "registeredAt": "2025-12-31T03:12:59.645Z"
+  },
+  {
+    "userId": "6fc177a5-e543-4534-b0f0-75c757f7fbc8",
+    "fullName": "Marta Marks",
+    "bio": "traveler",
+    "gender": "Intersex person",
+    "birthdate": "2003-01-08T03:52:44.930Z",
+    "registeredAt": "2025-05-05T03:10:04.250Z"
+  },
+  {
+    "userId": "bc43e331-2dce-41f2-a88f-71ee0be7f2c2",
+    "fullName": "Joanna O'Connell",
+    "bio": "caboose junkie, blogger",
+    "gender": "Gender questioning",
+    "birthdate": "1957-02-08T03:17:51.091Z",
+    "registeredAt": "2025-07-17T21:31:25.723Z"
+  },
+  {
+    "userId": "7cd75d7c-c7c2-4972-8125-820a44b589ff",
+    "fullName": "Justin Rath",
+    "bio": "settler fan, foodie 👐🏾",
+    "gender": "Trans woman",
+    "birthdate": "1957-08-04T18:31:09.183Z",
+    "registeredAt": "2026-01-11T09:33:54.140Z"
+  },
+  {
+    "userId": "b77a9a4f-30db-4133-9ac5-67b6c1d62e2a",
+    "fullName": "Toni Brekke",
+    "bio": "humour devotee, inventor",
+    "gender": "Pangender",
+    "birthdate": "1991-12-09T20:22:45.898Z",
+    "registeredAt": "2025-11-13T23:08:46.438Z"
+  },
+  {
+    "userId": "d19fccdb-1811-4f04-b941-537cf7ee923e",
+    "fullName": "Kim Ankunding",
+    "bio": "fiction junkie, public speaker",
+    "gender": "Two-spirit person",
+    "birthdate": "1958-10-30T21:30:29.843Z",
+    "registeredAt": "2025-10-03T16:35:22.400Z"
+  },
+  {
+    "userId": "7fe6d3c5-2daf-4db2-ba85-e2a588653be7",
+    "fullName": "Janice Toy",
+    "bio": "velodrome devotee, public speaker ✨",
+    "gender": "Two-spirit",
+    "birthdate": "1989-10-12T04:45:09.106Z",
+    "registeredAt": "2025-05-27T00:18:13.747Z"
   }
 ]
