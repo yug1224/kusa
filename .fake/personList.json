@@ -1,162 +1,106 @@
 [
   {
-    "userId": "042f0bb4-bdec-4546-81a1-df71f7ac4e01",
-    "fullName": "Jennie Hirthe Sr.",
-    "bio": "quicksand fan, educator",
-    "gender": "Male to female",
-    "birthdate": "1976-06-28T23:35:53.674Z",
-    "registeredAt": "2025-11-09T06:17:49.418Z"
-  },
-  {
-    "userId": "350f5811-873e-4c7a-b84c-4ea05cac9e94",
-    "fullName": "May Zemlak",
-    "bio": "atom devotee, coach",
-    "gender": "Gender questioning",
-    "birthdate": "1996-02-18T21:42:24.171Z",
-    "registeredAt": "2025-12-12T09:18:34.529Z"
-  },
-  {
-    "userId": "49bbdd32-8676-4ec4-8c19-e656e018fb1e",
-    "fullName": "Allen Towne",
-    "bio": "environmentalist",
-    "gender": "Cisgender female",
-    "birthdate": "1999-11-05T02:25:54.967Z",
-    "registeredAt": "2025-06-20T02:50:03.239Z"
-  },
-  {
-    "userId": "2c3c90a5-d114-41cb-ab9c-2de36d93e107",
-    "fullName": "Jorge Trantow",
-    "bio": "consulate fan, singer",
-    "gender": "Intersex",
-    "birthdate": "1948-03-23T16:21:19.252Z",
-    "registeredAt": "2025-11-18T02:12:30.941Z"
-  },
-  {
-    "userId": "891cfea6-99e0-4db6-a44d-ce9502d2b281",
-    "fullName": "Sidney Rolfson",
-    "bio": "patriot, creator, photographer",
-    "gender": "Cisgender male",
-    "birthdate": "1948-07-02T02:52:49.258Z",
-    "registeredAt": "2025-05-22T03:44:21.368Z"
-  },
-  {
-    "userId": "2d53f784-a382-40d0-b7fb-01923734216b",
-    "fullName": "Hugo Hansen",
-    "bio": "song fan  🦉",
-    "gender": "Non-binary",
-    "birthdate": "2001-06-13T01:12:32.548Z",
-    "registeredAt": "2025-08-27T21:15:18.009Z"
-  },
-  {
-    "userId": "9589d0af-56b7-4795-862d-d906e496453d",
-    "fullName": "Ivan Emmerich",
-    "bio": "founder, philosopher",
-    "gender": "Demi-girl",
-    "birthdate": "1968-07-28T10:18:09.959Z",
-    "registeredAt": "2025-08-20T06:34:14.119Z"
-  },
-  {
-    "userId": "d4b6db27-2d07-4034-8568-6645663b9bbb",
-    "fullName": "Sharon Senger",
-    "bio": "author, author",
-    "gender": "Hermaphrodite",
-    "birthdate": "1961-05-15T10:50:20.243Z",
-    "registeredAt": "2025-05-08T09:08:25.708Z"
-  },
-  {
-    "userId": "9d2cc977-c7f4-499c-8a24-2b197d2ce3b9",
-    "fullName": "Jenna Cremin",
-    "bio": "deck enthusiast  🎫",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1955-01-14T10:59:59.255Z",
-    "registeredAt": "2026-01-13T07:20:31.358Z"
-  },
-  {
-    "userId": "7b29bdfa-2318-4911-907c-e43ff3dcada9",
-    "fullName": "Rosie Fritsch",
-    "bio": "ink lover, gamer 🧑🏿‍🦼",
-    "gender": "T* woman",
-    "birthdate": "1979-07-01T02:57:02.505Z",
-    "registeredAt": "2026-01-03T16:21:30.229Z"
-  },
-  {
-    "userId": "42656f39-2925-4858-af3c-1ac0ebe43157",
-    "fullName": "Vincent Kulas",
-    "bio": "alley advocate, philosopher 🌍",
-    "gender": "Two-spirit",
-    "birthdate": "1963-10-23T10:08:45.790Z",
-    "registeredAt": "2025-08-31T00:42:22.919Z"
-  },
-  {
-    "userId": "586e4a55-a3a3-417a-8db9-5f1ca4809715",
-    "fullName": "Elizabeth Barrows",
-    "bio": "friend, foodie, dreamer",
-    "gender": "Agender",
-    "birthdate": "1966-10-20T17:24:58.592Z",
-    "registeredAt": "2025-08-11T10:43:48.080Z"
-  },
-  {
-    "userId": "1d20b811-ed7a-4e95-af6f-040fc93c1aa0",
-    "fullName": "Dr. Ernesto Crist MD",
-    "bio": "streamer, veteran, filmmaker",
-    "gender": "Xenogender",
-    "birthdate": "1998-04-25T03:17:08.056Z",
-    "registeredAt": "2025-04-28T02:45:55.466Z"
-  },
-  {
-    "userId": "c145fbb8-9885-4c34-84e2-32d0ada65031",
-    "fullName": "Perry Koepp",
-    "bio": "film lover, model, photographer",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1991-09-30T17:28:34.253Z",
-    "registeredAt": "2025-05-17T09:57:38.106Z"
-  },
-  {
-    "userId": "fb513929-6d83-4630-b4f9-3e38b0499804",
-    "fullName": "Teri Rau",
-    "bio": "setting lover",
-    "gender": "Cis male",
-    "birthdate": "2004-11-05T17:22:00.820Z",
-    "registeredAt": "2025-10-08T03:54:24.085Z"
-  },
-  {
-    "userId": "a7e15e74-210a-40ae-860c-530210f0323d",
-    "fullName": "Patrick Mohr",
-    "bio": "coach, creator",
-    "gender": "Demi-girl",
-    "birthdate": "1966-01-23T22:27:52.817Z",
-    "registeredAt": "2025-04-06T17:24:24.845Z"
-  },
-  {
-    "userId": "ccf3a084-bb0a-4b86-81fb-9795984ac7eb",
-    "fullName": "Laura Brakus",
-    "bio": "leader, grad, teacher",
-    "gender": "Male to female",
-    "birthdate": "1978-10-18T03:03:46.703Z",
-    "registeredAt": "2025-10-26T16:03:40.745Z"
-  },
-  {
-    "userId": "84ec7ce2-7ca5-4d60-b1ea-7d1fe27b0480",
-    "fullName": "Kristy Swift",
-    "bio": "model, creator, geek",
-    "gender": "Gender questioning",
-    "birthdate": "1985-02-01T10:37:46.631Z",
-    "registeredAt": "2026-01-18T21:53:35.913Z"
-  },
-  {
-    "userId": "e1ffadae-e0dd-4183-8707-287ea787ac5b",
-    "fullName": "Chester Emmerich",
-    "bio": "film lover, friend, blogger 🤘🏿",
+    "userId": "3dde3bca-933d-4cb4-a98d-5c5ab6dec595",
+    "fullName": "Alonzo Stanton",
+    "bio": "singer",
     "gender": "T* man",
-    "birthdate": "1984-06-23T08:18:21.391Z",
-    "registeredAt": "2025-04-22T16:11:51.699Z"
+    "birthdate": "2005-09-21T13:36:08.824Z",
+    "registeredAt": "2026-02-11T20:15:56.005Z"
   },
   {
-    "userId": "038e4322-67b9-4de7-8c52-36ef95205303",
-    "fullName": "Lena Sipes",
-    "bio": "conduct fan  🇧🇫",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1975-01-30T18:33:42.253Z",
-    "registeredAt": "2025-05-21T23:11:23.538Z"
+    "userId": "b0be6500-c977-4b5e-aa58-5acfe7d72ba6",
+    "fullName": "Ora Carroll",
+    "bio": "friend, singer, writer",
+    "gender": "Demi-man",
+    "birthdate": "1973-02-19T13:05:18.243Z",
+    "registeredAt": "2025-08-06T22:02:46.999Z"
+  },
+  {
+    "userId": "a912ba12-4292-4dbd-babf-85b091326f39",
+    "fullName": "Eloise Haley",
+    "bio": "educator",
+    "gender": "Neutrois",
+    "birthdate": "1981-03-23T17:27:23.202Z",
+    "registeredAt": "2025-06-10T19:13:59.956Z"
+  },
+  {
+    "userId": "800e3d68-2c9f-4f68-b996-26e1d6ca2513",
+    "fullName": "Salvatore Gulgowski",
+    "bio": "filmmaker, engineer, business owner",
+    "gender": "Neither",
+    "birthdate": "2001-02-04T06:37:46.641Z",
+    "registeredAt": "2025-07-31T17:08:44.888Z"
+  },
+  {
+    "userId": "7df1f207-0c6a-4ada-9ec4-ceceb1747a43",
+    "fullName": "Laverne Hilpert-Huel",
+    "bio": "eve supporter  🙉",
+    "gender": "Genderflux",
+    "birthdate": "1971-11-03T03:10:52.491Z",
+    "registeredAt": "2025-05-26T13:52:11.987Z"
+  },
+  {
+    "userId": "9e4aeee3-ff93-488e-8d7a-ae0904f86293",
+    "fullName": "Dr. Percy Reilly",
+    "bio": "creator, traveler, creator",
+    "gender": "Transexual man",
+    "birthdate": "1946-09-01T02:42:30.215Z",
+    "registeredAt": "2025-11-09T00:53:33.988Z"
+  },
+  {
+    "userId": "dd324ec9-c9af-4294-aac5-49fe0fcfbb62",
+    "fullName": "Brandon Ward",
+    "bio": "model, model, inventor",
+    "gender": "Transexual",
+    "birthdate": "1983-10-24T23:54:55.600Z",
+    "registeredAt": "2026-03-10T19:03:49.038Z"
+  },
+  {
+    "userId": "69980d1a-e630-44a2-8a92-e6d19d5e21d8",
+    "fullName": "Darrell Klocko",
+    "bio": "founder, entrepreneur, philosopher",
+    "gender": "Cis male",
+    "birthdate": "1974-06-24T13:15:16.885Z",
+    "registeredAt": "2025-05-08T06:21:44.880Z"
+  },
+  {
+    "userId": "2e14a8a4-3785-49c4-942d-286d355f8f91",
+    "fullName": "Kendra Medhurst",
+    "bio": "designer, nerd, author 👇🏿",
+    "gender": "Cisgender",
+    "birthdate": "1954-12-04T22:09:36.829Z",
+    "registeredAt": "2025-07-23T00:55:23.962Z"
+  },
+  {
+    "userId": "880b9d2a-73e8-46a6-aba8-b810b0da5e85",
+    "fullName": "Kelly Bode",
+    "bio": "transcript advocate, nerd",
+    "gender": "Androgynous",
+    "birthdate": "1981-02-10T07:58:59.842Z",
+    "registeredAt": "2025-11-26T07:29:38.215Z"
+  },
+  {
+    "userId": "3d6471eb-006f-404b-a429-19fccf62c5e6",
+    "fullName": "Jessica Kautzer",
+    "bio": "foxglove supporter, gamer",
+    "gender": "Female to male transgender man",
+    "birthdate": "1954-09-16T04:17:39.977Z",
+    "registeredAt": "2026-01-14T21:30:09.537Z"
+  },
+  {
+    "userId": "778fe775-c974-45c2-836a-02680770fff4",
+    "fullName": "Chad Okuneva",
+    "bio": "gamer, artist, filmmaker",
+    "gender": "Demi-man",
+    "birthdate": "2002-04-17T11:37:40.397Z",
+    "registeredAt": "2026-01-06T01:16:10.623Z"
+  },
+  {
+    "userId": "805846ef-5d00-42c5-b2e2-155499b59866",
+    "fullName": "Miss Tonya MacGyver",
+    "bio": "tuition junkie, engineer 👆🏼",
+    "gender": "Transexual female",
+    "birthdate": "1977-12-28T10:15:41.204Z",
+    "registeredAt": "2025-05-16T04:33:13.696Z"
   }
 ]
