@@ -1,138 +1,66 @@
 [
   {
-    "userId": "a01e3d1b-8277-4606-8380-06cdfc30fcd5",
-    "fullName": "Mitchell Rodriguez",
-    "bio": "adoption junkie, engineer",
-    "gender": "Transexual",
-    "birthdate": "1955-11-15T09:10:37.583Z",
-    "registeredAt": "2026-01-16T19:25:02.229Z"
+    "userId": "afd792ac-f5fb-49da-9150-57243880a1b1",
+    "fullName": "Francisco Crona-Ankunding",
+    "bio": "creator",
+    "gender": "Trans person",
+    "birthdate": "2000-03-21T23:58:27.967Z",
+    "registeredAt": "2025-09-25T10:38:38.620Z"
   },
   {
-    "userId": "d32d036c-1df7-4b57-959d-471cd16853be",
-    "fullName": "Marty Beatty",
-    "bio": "application lover  🏉",
-    "gender": "Cis man",
-    "birthdate": "1989-02-01T21:09:10.875Z",
-    "registeredAt": "2025-07-21T18:36:10.356Z"
+    "userId": "c2d681c9-9555-421b-819e-1a6f6554d70c",
+    "fullName": "Henrietta Crist",
+    "bio": "scientist",
+    "gender": "Hermaphrodite",
+    "birthdate": "1958-06-24T17:53:20.723Z",
+    "registeredAt": "2025-12-07T02:55:52.211Z"
   },
   {
-    "userId": "4ae00847-2cd9-46be-87ea-ae1144824bb2",
-    "fullName": "Alan Rice",
-    "bio": "codling supporter, traveler 🍬",
-    "gender": "MTF",
-    "birthdate": "1967-04-23T08:21:30.096Z",
-    "registeredAt": "2025-10-29T15:05:43.583Z"
-  },
-  {
-    "userId": "942a3ed1-8d18-47f9-a875-54eee7099a00",
-    "fullName": "Courtney Hermiston",
-    "bio": "tennis fan  🌿",
-    "gender": "Cisgender male",
-    "birthdate": "1963-08-01T22:17:38.707Z",
-    "registeredAt": "2025-06-05T09:33:58.701Z"
-  },
-  {
-    "userId": "18576890-7737-4bc2-8128-d1d24851d0a9",
-    "fullName": "Joanna Prohaska",
-    "bio": "parent, foodie",
-    "gender": "Cisgender man",
-    "birthdate": "1986-08-20T12:36:10.921Z",
-    "registeredAt": "2025-09-17T23:08:34.430Z"
-  },
-  {
-    "userId": "648ebdbf-7c49-407c-b5d6-3bd1ecf5c77a",
-    "fullName": "Lee Pollich",
-    "bio": "coach, patriot, entrepreneur",
-    "gender": "Demiflux",
-    "birthdate": "1958-02-12T09:31:27.992Z",
-    "registeredAt": "2025-12-28T11:23:11.349Z"
-  },
-  {
-    "userId": "8873302d-30cb-4516-a054-35d4a1817962",
-    "fullName": "Dr. Byron Brown",
-    "bio": "bakeware enthusiast, patriot 🌚",
-    "gender": "Omnigender",
-    "birthdate": "1985-01-06T17:42:25.804Z",
-    "registeredAt": "2026-02-25T19:53:02.628Z"
-  },
-  {
-    "userId": "2ea7ff0f-6c93-45e5-b588-54a47e7624b8",
-    "fullName": "Dr. Genevieve Kassulke",
-    "bio": "intestine advocate",
-    "gender": "Cis female",
-    "birthdate": "1965-10-14T21:20:01.366Z",
-    "registeredAt": "2025-10-24T12:50:11.929Z"
-  },
-  {
-    "userId": "1d563d37-9f5e-4604-bee9-90d5eca76b9f",
-    "fullName": "Jerald O'Reilly",
-    "bio": "ketch junkie",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1969-07-11T06:08:30.576Z",
-    "registeredAt": "2025-10-18T15:37:33.812Z"
-  },
-  {
-    "userId": "49250537-1a30-47ba-9a89-b0540ccd695f",
-    "fullName": "Shelley Heathcote",
-    "bio": "environmentalist, founder, person",
-    "gender": "Cis man",
-    "birthdate": "1992-12-13T13:50:32.095Z",
-    "registeredAt": "2025-05-11T05:51:30.389Z"
-  },
-  {
-    "userId": "c166d6d1-a889-41db-97d6-5e6b233cfe00",
-    "fullName": "Tara Jast",
-    "bio": "minor supporter, person",
-    "gender": "Two-spirit",
-    "birthdate": "1958-03-05T03:08:47.800Z",
-    "registeredAt": "2025-09-12T01:38:49.457Z"
-  },
-  {
-    "userId": "4f965228-93e4-4484-b9cf-d7ab8fe7d599",
-    "fullName": "Winifred Hayes",
-    "bio": "grandmother enthusiast, scientist",
-    "gender": "Intersex",
-    "birthdate": "1993-06-29T15:46:48.566Z",
-    "registeredAt": "2025-06-19T08:24:04.016Z"
-  },
-  {
-    "userId": "27c9d26f-1527-47f7-a548-ee12c9961a5f",
-    "fullName": "Sheryl Hettinger",
-    "bio": "writer, scientist",
-    "gender": "T* woman",
-    "birthdate": "2006-07-17T07:11:38.155Z",
-    "registeredAt": "2026-02-02T10:29:46.554Z"
-  },
-  {
-    "userId": "a22eab88-591e-4131-ba28-c5e23ba0cbaf",
-    "fullName": "Woodrow Krajcik",
-    "bio": "artist, person, musician 👩‍👩‍👧‍👦",
-    "gender": "Female to male transgender man",
-    "birthdate": "1980-01-13T08:37:19.970Z",
-    "registeredAt": "2025-07-31T12:45:02.926Z"
-  },
-  {
-    "userId": "90f857ea-edae-4c00-8119-c2985f71be00",
-    "fullName": "Megan Gerhold",
-    "bio": "tongue enthusiast, grad",
+    "userId": "4e722dbd-3366-4716-a8a4-bf9be444262b",
+    "fullName": "Patrick Dooley",
+    "bio": "singer, nerd, developer",
     "gender": "Genderflux",
-    "birthdate": "1988-12-23T23:50:11.208Z",
-    "registeredAt": "2025-05-19T00:34:47.829Z"
+    "birthdate": "1978-08-08T21:41:00.873Z",
+    "registeredAt": "2025-05-24T17:16:44.627Z"
   },
   {
-    "userId": "cbcdd412-5093-4cd6-a2b8-48775f52ff02",
-    "fullName": "Mr. Winston Hermann",
-    "bio": "photographer, designer, blogger 🅰️",
-    "gender": "Neutrois",
-    "birthdate": "1981-11-27T13:14:59.672Z",
-    "registeredAt": "2025-12-10T03:04:57.506Z"
+    "userId": "a464af0f-b38d-40d9-9c81-77050e83b580",
+    "fullName": "Delores Kassulke",
+    "bio": "flick fan  💣",
+    "gender": "Multigender",
+    "birthdate": "1992-08-20T02:56:09.814Z",
+    "registeredAt": "2025-09-24T16:05:57.724Z"
   },
   {
-    "userId": "85764963-8034-419e-91b2-61a87c649a46",
-    "fullName": "Kristina Steuber IV",
-    "bio": "photographer, engineer, geek",
-    "gender": "Neutrois",
-    "birthdate": "1971-01-11T15:10:00.762Z",
-    "registeredAt": "2025-07-26T01:40:17.325Z"
+    "userId": "d5e5d4c3-9e08-4fc1-9670-95b91d7225b4",
+    "fullName": "Gilberto Weber",
+    "bio": "wild junkie  🔄",
+    "gender": "Trigender",
+    "birthdate": "1982-04-25T10:41:22.791Z",
+    "registeredAt": "2025-08-18T00:42:51.756Z"
+  },
+  {
+    "userId": "32a71857-2f97-4893-ab3d-b984ad3e653b",
+    "fullName": "Cedric Greenfelder",
+    "bio": "artist, gamer, founder 🍣",
+    "gender": "Non-binary",
+    "birthdate": "2001-09-13T13:08:59.928Z",
+    "registeredAt": "2025-12-29T06:01:56.154Z"
+  },
+  {
+    "userId": "a1a5a068-ca7f-40d5-9193-04e80dfa8995",
+    "fullName": "Ellen VonRueden",
+    "bio": "coach, founder",
+    "gender": "Demiflux",
+    "birthdate": "1989-07-16T20:53:07.068Z",
+    "registeredAt": "2025-07-14T19:46:26.668Z"
+  },
+  {
+    "userId": "a14d1b7f-cc92-4903-8032-dc84d43bbab9",
+    "fullName": "Kim Grady",
+    "bio": "engineer, artist",
+    "gender": "Demi-girl",
+    "birthdate": "1949-05-09T10:52:50.239Z",
+    "registeredAt": "2025-11-05T00:29:14.987Z"
   }
 ]
