@@ -1,162 +1,74 @@
 [
   {
-    "userId": "a44cb68b-413f-40c2-b4be-ecf69a30ad8d",
-    "fullName": "Crystal Carter",
-    "bio": "educator",
-    "gender": "Other",
-    "birthdate": "1951-03-29T23:53:38.931Z",
-    "registeredAt": "2025-09-29T01:08:08.932Z"
-  },
-  {
-    "userId": "cfbb38a3-a6bc-45bf-8625-a6132ec4fa4d",
-    "fullName": "Victor Gleason",
-    "bio": "polenta supporter, artist",
-    "gender": "Transgender person",
-    "birthdate": "1951-06-25T00:19:46.568Z",
-    "registeredAt": "2025-04-01T02:47:44.238Z"
-  },
-  {
-    "userId": "126da6a6-ca69-4b86-b760-2c0624dfa903",
-    "fullName": "Mr. Johnny Hilll",
-    "bio": "founder, writer",
-    "gender": "Polygender",
-    "birthdate": "1986-03-22T02:19:04.607Z",
-    "registeredAt": "2025-09-27T06:24:04.775Z"
-  },
-  {
-    "userId": "ee0a55aa-dfb6-4c2f-9f37-f59348c25e98",
-    "fullName": "Mr. Michael Steuber",
-    "bio": "dreamer, designer, student",
-    "gender": "Multigender",
-    "birthdate": "2004-01-17T20:09:08.987Z",
-    "registeredAt": "2026-03-04T23:44:49.286Z"
-  },
-  {
-    "userId": "409ef695-37f4-4539-9431-9568dddc0873",
-    "fullName": "Annie Kutch",
-    "bio": "inventor, educator, coach",
-    "gender": "Gender nonconforming",
-    "birthdate": "1958-11-03T09:32:03.227Z",
-    "registeredAt": "2025-06-12T03:15:22.755Z"
-  },
-  {
-    "userId": "1b8c18e5-97f1-4201-8fc9-51bf174cf3e1",
-    "fullName": "Darryl West",
-    "bio": "saffron lover, author 🧛🏾‍♀️",
-    "gender": "MTF",
-    "birthdate": "1974-06-13T10:11:26.574Z",
-    "registeredAt": "2025-11-11T21:31:21.429Z"
-  },
-  {
-    "userId": "a90964c4-a0d4-4d89-89bb-b2f04ee16092",
-    "fullName": "Kerry Casper",
-    "bio": "developer, writer, environmentalist",
-    "gender": "T* woman",
-    "birthdate": "1995-01-17T23:44:56.857Z",
-    "registeredAt": "2025-11-06T15:45:36.725Z"
-  },
-  {
-    "userId": "c3a45e99-298b-4400-8817-aaea4bedf3b5",
-    "fullName": "Carol Johnson",
-    "bio": "publicity supporter, model 🏋🏽‍♂️",
-    "gender": "Gender questioning",
-    "birthdate": "1966-02-18T17:33:23.748Z",
-    "registeredAt": "2025-06-10T20:49:27.556Z"
-  },
-  {
-    "userId": "78d6f401-62db-4221-a11c-c3d9a255b9ca",
-    "fullName": "Miss Felicia Koepp IV",
-    "bio": "clam junkie, geek",
-    "gender": "Trans man",
-    "birthdate": "1951-03-31T14:57:55.501Z",
-    "registeredAt": "2025-10-27T15:40:38.365Z"
-  },
-  {
-    "userId": "74ece22e-150f-4c5f-9147-c335edf9bbd4",
-    "fullName": "Javier Abbott",
-    "bio": "battery fan",
-    "gender": "Hermaphrodite",
-    "birthdate": "1982-08-30T21:36:30.007Z",
-    "registeredAt": "2025-12-24T14:48:48.197Z"
-  },
-  {
-    "userId": "3c801d6e-3768-46b2-b83a-2b1af48f8071",
-    "fullName": "Edmond Daniel",
-    "bio": "elf lover",
-    "gender": "T* woman",
-    "birthdate": "1996-03-05T20:11:25.951Z",
-    "registeredAt": "2025-12-05T08:53:19.664Z"
-  },
-  {
-    "userId": "95202db9-9982-4c74-b4ec-5b919aa35537",
-    "fullName": "Roger Kiehn",
-    "bio": "debris devotee",
-    "gender": "Cisgender woman",
-    "birthdate": "1972-07-12T10:52:17.301Z",
-    "registeredAt": "2025-06-03T22:09:41.774Z"
-  },
-  {
-    "userId": "77ef9d08-9662-447a-9621-2be2ee81d8c8",
-    "fullName": "Ignacio Wisozk",
-    "bio": "environmentalist, coach, traveler",
-    "gender": "Gender neutral",
-    "birthdate": "1969-06-27T04:24:23.179Z",
-    "registeredAt": "2026-02-03T06:19:51.349Z"
-  },
-  {
-    "userId": "3338e19d-e4c7-4f68-a1be-caf2db57022c",
-    "fullName": "Jesus Berge PhD",
-    "bio": "creator, musician",
-    "gender": "Man",
-    "birthdate": "1958-10-01T07:39:57.257Z",
-    "registeredAt": "2025-11-09T20:40:10.667Z"
-  },
-  {
-    "userId": "c1e8f41a-ab27-4838-8c94-b5cc8f8e734c",
-    "fullName": "Jimmy Hegmann",
-    "bio": "normalization junkie",
-    "gender": "Pangender",
-    "birthdate": "2006-11-12T15:25:20.291Z",
-    "registeredAt": "2025-05-27T15:11:08.607Z"
-  },
-  {
-    "userId": "bf4ebf02-4e2f-416c-87db-53ce006793c5",
-    "fullName": "Ada Beatty III",
-    "bio": "grad, film lover, creator",
-    "gender": "T* woman",
-    "birthdate": "2006-05-11T07:11:51.223Z",
-    "registeredAt": "2025-08-30T21:17:04.168Z"
-  },
-  {
-    "userId": "a7f7fe5e-fc06-40a2-a8a4-5663a823fe49",
-    "fullName": "Patricia Stroman",
-    "bio": "designer, film lover, musician",
-    "gender": "Transexual",
-    "birthdate": "1956-10-18T23:33:08.558Z",
-    "registeredAt": "2026-02-14T04:39:26.513Z"
-  },
-  {
-    "userId": "80646605-e9c6-4402-b97f-1dedb40c4ca1",
-    "fullName": "Terrence Johnston",
-    "bio": "teacher, student",
-    "gender": "Polygender",
-    "birthdate": "1984-07-21T23:45:19.147Z",
-    "registeredAt": "2026-02-22T02:04:26.571Z"
-  },
-  {
-    "userId": "21c4e410-6471-44a7-a71f-6a702da7ace6",
-    "fullName": "Nathaniel Kunde",
-    "bio": "turtle enthusiast",
+    "userId": "ba06f9f3-087b-4907-a28f-94ff9acea97d",
+    "fullName": "Rochelle McKenzie",
+    "bio": "currency supporter, activist 🌍",
     "gender": "T* man",
-    "birthdate": "2001-11-06T09:19:29.849Z",
-    "registeredAt": "2026-02-05T01:51:43.637Z"
+    "birthdate": "1987-07-16T22:52:23.975Z",
+    "registeredAt": "2026-02-02T00:03:15.784Z"
   },
   {
-    "userId": "e4abc1b5-c419-4599-b0d8-7e01dee80c7b",
-    "fullName": "Clifford Jast-Christiansen",
-    "bio": "writer",
-    "gender": "MTF",
-    "birthdate": "1986-12-21T17:13:05.754Z",
-    "registeredAt": "2025-05-18T14:07:32.822Z"
+    "userId": "87245d77-5676-4048-9e9d-c7b4d39fb9a9",
+    "fullName": "Bob Denesik PhD",
+    "bio": "traveler",
+    "gender": "Female to male trans man",
+    "birthdate": "1999-09-18T00:33:40.427Z",
+    "registeredAt": "2025-07-05T19:50:00.946Z"
+  },
+  {
+    "userId": "07e70ca0-10dd-4fa1-a109-e62875965f22",
+    "fullName": "Blanca Jenkins",
+    "bio": "fraction junkie, blogger 🏑",
+    "gender": "Cis male",
+    "birthdate": "1996-06-11T01:46:25.772Z",
+    "registeredAt": "2026-02-22T03:46:34.227Z"
+  },
+  {
+    "userId": "e0e194da-778c-488d-864c-5fba1548470f",
+    "fullName": "Justin Rath",
+    "bio": "coach",
+    "gender": "Female to male transsexual man",
+    "birthdate": "1954-10-26T00:15:27.837Z",
+    "registeredAt": "2025-05-06T13:08:49.006Z"
+  },
+  {
+    "userId": "a8d9f4e3-f8ef-405d-9dd1-85e771b2f714",
+    "fullName": "Aaron Yost II",
+    "bio": "secretariat supporter, engineer",
+    "gender": "Transexual man",
+    "birthdate": "1961-12-23T02:57:24.370Z",
+    "registeredAt": "2025-08-14T10:40:14.639Z"
+  },
+  {
+    "userId": "7e0307b1-0ba0-400c-b1eb-3be31787244c",
+    "fullName": "Lloyd Wyman",
+    "bio": "marmalade enthusiast, founder",
+    "gender": "Gender neutral",
+    "birthdate": "1991-07-14T23:32:04.771Z",
+    "registeredAt": "2025-09-13T06:18:36.459Z"
+  },
+  {
+    "userId": "84c2c3ea-fc5c-45f2-ba78-1ee7c0dd3f6f",
+    "fullName": "Marta Stokes",
+    "bio": "vet lover, streamer",
+    "gender": "Transgender person",
+    "birthdate": "1968-04-12T19:12:14.227Z",
+    "registeredAt": "2025-12-24T18:41:42.649Z"
+  },
+  {
+    "userId": "3985e233-da2e-455f-b6ee-92119ef41153",
+    "fullName": "Sarah Homenick",
+    "bio": "founder, patriot, leader",
+    "gender": "Woman",
+    "birthdate": "2001-02-17T16:25:33.665Z",
+    "registeredAt": "2025-11-01T01:55:13.272Z"
+  },
+  {
+    "userId": "61797d25-dc3b-4f2a-944a-e9100a4b085f",
+    "fullName": "Victor Carroll",
+    "bio": "gamer, parent, dreamer",
+    "gender": "Intersex woman",
+    "birthdate": "1961-06-05T03:50:34.579Z",
+    "registeredAt": "2025-03-26T00:34:07.052Z"
   }
 ]
