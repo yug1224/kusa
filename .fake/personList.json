@@ -1,146 +1,106 @@
 [
   {
-    "userId": "95af8fa1-69f4-430e-916a-f7804dc73149",
-    "fullName": "Brian Wisozk II",
-    "bio": "entrepreneur, geek, person 🏧",
-    "gender": "Neither",
-    "birthdate": "1996-08-03T16:05:43.852Z",
-    "registeredAt": "2025-12-26T12:40:52.235Z"
-  },
-  {
-    "userId": "fed47d94-521a-40cc-8ee0-9ca99873883d",
-    "fullName": "Jo Goyette",
-    "bio": "stylus supporter",
-    "gender": "Omnigender",
-    "birthdate": "1989-10-09T14:28:17.587Z",
-    "registeredAt": "2025-07-08T08:20:20.873Z"
-  },
-  {
-    "userId": "1bac4b6c-01b0-4413-907e-e295f038db71",
-    "fullName": "Jeanne Shanahan",
-    "bio": "foodie, veteran",
-    "gender": "Gender questioning",
-    "birthdate": "1988-01-19T19:28:49.311Z",
-    "registeredAt": "2026-03-11T12:48:55.731Z"
-  },
-  {
-    "userId": "12f8eddf-8e4d-4a8d-bc9b-4260716e573d",
-    "fullName": "Angela Smitham",
-    "bio": "nerd, public speaker, model 👱🏽‍♂️",
-    "gender": "Cisgender male",
-    "birthdate": "1983-05-16T22:35:01.184Z",
-    "registeredAt": "2025-05-11T04:06:03.997Z"
-  },
-  {
-    "userId": "ee18c367-564b-4efd-95fc-43c40e7355ad",
-    "fullName": "Miss Amanda Ortiz",
-    "bio": "leader, artist, model",
-    "gender": "Female to male trans man",
-    "birthdate": "1946-10-06T06:08:29.754Z",
-    "registeredAt": "2025-08-18T19:29:31.378Z"
-  },
-  {
-    "userId": "a6334aba-b1f8-4151-9130-1c29f49fafc3",
-    "fullName": "Barry Wintheiser",
-    "bio": "nothing supporter  🖐🏽",
-    "gender": "Bigender",
-    "birthdate": "1962-12-01T12:23:52.383Z",
-    "registeredAt": "2026-03-06T15:11:48.773Z"
-  },
-  {
-    "userId": "ec5f2622-c0eb-4446-a67b-6f9afc49063f",
-    "fullName": "Natasha Batz",
-    "bio": "artist, gamer, author 📹",
-    "gender": "Male to female trans woman",
-    "birthdate": "1990-10-24T00:14:00.676Z",
-    "registeredAt": "2025-11-08T07:15:05.817Z"
-  },
-  {
-    "userId": "75b1d9dc-7d4e-44a6-817a-14cf98d32698",
-    "fullName": "Duane Pfeffer",
-    "bio": "nestling junkie  🎰",
-    "gender": "Demigender",
-    "birthdate": "1959-12-12T18:31:09.685Z",
-    "registeredAt": "2025-05-10T23:29:34.092Z"
-  },
-  {
-    "userId": "a0743b25-bf11-4336-9f51-f8c09976c246",
-    "fullName": "Mrs. Becky Treutel",
-    "bio": "student",
-    "gender": "Trans woman",
-    "birthdate": "1946-08-31T14:04:19.673Z",
-    "registeredAt": "2025-10-28T09:31:29.758Z"
-  },
-  {
-    "userId": "3e6d863a-8403-4fd7-a079-0c9571f3e11f",
-    "fullName": "Albert Mueller",
-    "bio": "tough-guy fan  🩺",
-    "gender": "Cis female",
-    "birthdate": "1955-11-20T20:27:21.563Z",
-    "registeredAt": "2025-08-28T17:42:34.031Z"
-  },
-  {
-    "userId": "32475c88-afc0-4b43-8548-28024eb8b1d7",
-    "fullName": "Priscilla Carter",
-    "bio": "run supporter",
-    "gender": "Man",
-    "birthdate": "1965-10-09T20:00:54.085Z",
-    "registeredAt": "2025-07-19T16:20:45.527Z"
-  },
-  {
-    "userId": "3aece699-756d-4f38-afad-2f3b80568de9",
-    "fullName": "Rolando Schmitt",
-    "bio": "gamer, parent, scientist",
-    "gender": "Woman",
-    "birthdate": "2000-05-24T20:58:47.749Z",
-    "registeredAt": "2025-05-06T16:27:16.330Z"
-  },
-  {
-    "userId": "4d3ed441-f87c-46ed-91c9-3fbf0797c646",
-    "fullName": "Ralph Bayer Jr.",
-    "bio": "engineer",
-    "gender": "Polygender",
-    "birthdate": "2003-03-24T02:01:18.529Z",
-    "registeredAt": "2026-02-02T03:26:15.370Z"
-  },
-  {
-    "userId": "d8af8c32-898d-46fd-8c31-b6595dfd42d1",
-    "fullName": "Tiffany Dibbert",
-    "bio": "scientist, artist, gamer 🦣",
-    "gender": "Gender neutral",
-    "birthdate": "1954-09-30T04:37:06.958Z",
-    "registeredAt": "2026-01-20T23:06:13.689Z"
-  },
-  {
-    "userId": "c32d842f-acee-4ebc-83b1-32d14e30bfa9",
-    "fullName": "Nicolas Corwin",
-    "bio": "teacher, blogger, filmmaker 💨",
-    "gender": "F2M",
-    "birthdate": "2004-02-11T08:07:36.600Z",
-    "registeredAt": "2025-04-02T18:14:20.259Z"
-  },
-  {
-    "userId": "64ce73ba-6e54-48fa-ab30-37b0165cc8e2",
-    "fullName": "Anita Rippin",
-    "bio": "vote enthusiast, teacher",
+    "userId": "4b45b11e-c9ca-494e-934e-c1c97cda5655",
+    "fullName": "Dr. Jon Cartwright",
+    "bio": "negligee lover, public speaker",
     "gender": "Cis",
-    "birthdate": "1984-01-03T22:23:21.697Z",
-    "registeredAt": "2026-01-29T08:15:50.878Z"
+    "birthdate": "1947-10-06T03:51:48.932Z",
+    "registeredAt": "2025-11-03T13:49:29.835Z"
   },
   {
-    "userId": "612cd5d4-e04a-4775-a580-d38999cca617",
-    "fullName": "Mercedes O'Hara III",
-    "bio": "friend, philosopher, student",
-    "gender": "Other",
-    "birthdate": "1985-08-18T05:24:28.893Z",
-    "registeredAt": "2026-01-11T22:37:19.016Z"
+    "userId": "6246220c-6e04-4e0f-b366-cb66f8e08050",
+    "fullName": "Rebecca Spencer",
+    "bio": "author",
+    "gender": "Trans woman",
+    "birthdate": "1969-12-08T05:39:27.984Z",
+    "registeredAt": "2026-01-27T01:02:24.481Z"
   },
   {
-    "userId": "197471cc-b491-4588-8fed-3a6aa40041d2",
-    "fullName": "Chris Gusikowski",
-    "bio": "enjoyment advocate",
-    "gender": "Demiflux",
-    "birthdate": "1952-04-14T11:32:25.219Z",
-    "registeredAt": "2025-09-04T20:22:57.728Z"
+    "userId": "d31c696a-05bf-435c-b208-511c74337767",
+    "fullName": "Orville VonRueden",
+    "bio": "author",
+    "gender": "T* man",
+    "birthdate": "1979-05-06T12:35:53.087Z",
+    "registeredAt": "2025-04-23T01:17:57.152Z"
+  },
+  {
+    "userId": "ded9b81e-3669-454d-9f3d-bce991118830",
+    "fullName": "Darin Franecki",
+    "bio": "film lover, grad, grad",
+    "gender": "Female to male transsexual man",
+    "birthdate": "1975-10-25T19:25:00.492Z",
+    "registeredAt": "2025-03-21T04:57:27.823Z"
+  },
+  {
+    "userId": "cbb97571-c4f3-4b36-b082-c811154dbeb5",
+    "fullName": "Ethel Kuhic Sr.",
+    "bio": "leader, artist",
+    "gender": "Omnigender",
+    "birthdate": "1985-06-22T07:19:33.459Z",
+    "registeredAt": "2025-04-18T13:59:25.910Z"
+  },
+  {
+    "userId": "3f648353-9dad-4421-9f24-284a0cad2ec7",
+    "fullName": "Ramon Yost",
+    "bio": "blogger, designer, creator",
+    "gender": "Transexual male",
+    "birthdate": "1968-08-03T16:41:01.752Z",
+    "registeredAt": "2025-05-20T11:28:51.061Z"
+  },
+  {
+    "userId": "d1be477f-865e-406b-8278-e5bb55db77d9",
+    "fullName": "Mr. Ivan Lemke",
+    "bio": "certificate supporter  😭",
+    "gender": "Trans",
+    "birthdate": "1990-07-11T17:22:51.920Z",
+    "registeredAt": "2025-04-26T09:12:35.469Z"
+  },
+  {
+    "userId": "1a6e9dc4-6e0b-4a42-9714-53dab81861ac",
+    "fullName": "Lamar Treutel",
+    "bio": "guerrilla lover, teacher",
+    "gender": "Non-binary",
+    "birthdate": "1994-01-10T13:28:54.149Z",
+    "registeredAt": "2025-05-27T20:21:57.483Z"
+  },
+  {
+    "userId": "3a49627a-8e57-4eb1-98de-3f12a45ee951",
+    "fullName": "Olga Langworth",
+    "bio": "founder",
+    "gender": "Two-spirit",
+    "birthdate": "1995-02-07T23:19:49.740Z",
+    "registeredAt": "2026-01-20T20:14:22.088Z"
+  },
+  {
+    "userId": "0516f08d-54dc-433a-8c7b-7081890e7b2c",
+    "fullName": "Gladys Crist I",
+    "bio": "making advocate  🪨",
+    "gender": "Polygender",
+    "birthdate": "1989-07-12T00:40:41.607Z",
+    "registeredAt": "2025-03-23T07:46:08.606Z"
+  },
+  {
+    "userId": "340f0bc5-3494-4d50-a853-bfac0cbfe570",
+    "fullName": "Noel Daniel",
+    "bio": "strip fan",
+    "gender": "Gender questioning",
+    "birthdate": "2003-05-12T12:51:40.049Z",
+    "registeredAt": "2025-08-31T15:38:03.943Z"
+  },
+  {
+    "userId": "4d607162-0d66-4c49-9d96-016158d30897",
+    "fullName": "Roberto Feeney",
+    "bio": "patriot, entrepreneur",
+    "gender": "Xenogender",
+    "birthdate": "2000-07-24T07:43:00.300Z",
+    "registeredAt": "2025-03-20T00:52:15.878Z"
+  },
+  {
+    "userId": "bc1b4bdc-dd93-4241-a43c-40ea57fcea89",
+    "fullName": "Rodolfo Hagenes",
+    "bio": "foodie, film lover, parent",
+    "gender": "Gender fluid",
+    "birthdate": "1960-05-05T23:22:44.897Z",
+    "registeredAt": "2026-02-27T06:50:37.677Z"
   }
 ]
