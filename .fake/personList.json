@@ -1,138 +1,34 @@
 [
   {
-    "userId": "fc24fddd-3490-4ffc-bf47-3650c8d93dbe",
-    "fullName": "Alexandra Ratke",
-    "bio": "scientist, person, nerd",
-    "gender": "Demiflux",
-    "birthdate": "1974-08-16T03:29:06.237Z",
-    "registeredAt": "2025-06-02T23:39:18.696Z"
-  },
-  {
-    "userId": "06d86a4e-6334-4e94-9d26-60da36d5d0e0",
-    "fullName": "Lance Mayert",
-    "bio": "correspondent supporter  🖐🏾",
-    "gender": "Two-spirit person",
-    "birthdate": "1990-02-19T04:31:16.369Z",
-    "registeredAt": "2025-12-24T02:22:01.880Z"
-  },
-  {
-    "userId": "05ab101e-fd4c-4739-8f45-f73ca52a96a2",
-    "fullName": "Harry Langworth",
-    "bio": "person, activist",
-    "gender": "T* woman",
-    "birthdate": "1998-10-09T10:17:54.097Z",
-    "registeredAt": "2025-11-18T01:03:01.606Z"
-  },
-  {
-    "userId": "a4e7ce63-c353-463b-b17e-1a8fe4996e8b",
-    "fullName": "Shari Dicki",
-    "bio": "business owner",
-    "gender": "Gender questioning",
-    "birthdate": "1962-09-12T14:35:14.597Z",
-    "registeredAt": "2025-05-18T03:58:30.768Z"
-  },
-  {
-    "userId": "016d1ccc-a735-449e-87da-e6360696ab4b",
-    "fullName": "Lucia Ledner",
-    "bio": "scientist, coach",
-    "gender": "Cisgender",
-    "birthdate": "1965-01-03T14:21:00.375Z",
-    "registeredAt": "2025-05-09T23:21:56.777Z"
-  },
-  {
-    "userId": "eda77c85-4a34-4b88-ad22-60db5e7d8ec6",
-    "fullName": "Dr. Cecelia Kshlerin",
-    "bio": "parent, coach, creator",
-    "gender": "MTF",
-    "birthdate": "1973-08-08T11:47:37.586Z",
-    "registeredAt": "2026-01-25T23:24:03.203Z"
-  },
-  {
-    "userId": "84b3bca4-1880-4612-bb05-04a63913443b",
-    "fullName": "Austin Gerlach",
-    "bio": "transportation supporter",
-    "gender": "T* woman",
-    "birthdate": "2004-08-30T08:55:12.424Z",
-    "registeredAt": "2025-04-16T05:16:29.145Z"
-  },
-  {
-    "userId": "7eeb76b1-2b88-44b1-8323-7353ba0d69c5",
-    "fullName": "Nichole Price",
-    "bio": "founder, founder",
-    "gender": "Trans male",
-    "birthdate": "1994-10-22T13:42:46.537Z",
-    "registeredAt": "2025-12-01T15:40:24.064Z"
-  },
-  {
-    "userId": "5916f5bd-7ae8-4bcd-a12f-21c4793513f1",
-    "fullName": "Marcia Hoppe",
-    "bio": "pupil supporter, scientist",
-    "gender": "Androgyne",
-    "birthdate": "1960-05-18T09:26:06.691Z",
-    "registeredAt": "2026-02-27T02:26:41.653Z"
-  },
-  {
-    "userId": "bb0580c5-2591-45e2-8ca2-b4de9ebefb42",
-    "fullName": "Jesse Parisian",
-    "bio": "id devotee",
-    "gender": "Two-spirit",
-    "birthdate": "1961-05-30T02:24:40.226Z",
-    "registeredAt": "2025-06-22T20:39:07.778Z"
-  },
-  {
-    "userId": "93affe58-7717-480a-b9b7-659d1da2d2e2",
-    "fullName": "Stacy Miller",
-    "bio": "grad, inventor, student 🤌🏿",
-    "gender": "Woman",
-    "birthdate": "1956-12-10T23:44:10.013Z",
-    "registeredAt": "2026-03-05T05:57:21.162Z"
-  },
-  {
-    "userId": "4d941321-c2fe-4c1e-b4d9-adbb7ac610c7",
-    "fullName": "Bessie McKenzie",
-    "bio": "patriot, foodie, student",
-    "gender": "Woman",
-    "birthdate": "1967-03-07T03:48:11.980Z",
-    "registeredAt": "2026-02-13T22:57:45.075Z"
-  },
-  {
-    "userId": "5867e8e9-6737-4a5a-98b8-df40647e049d",
-    "fullName": "Lynette Lakin",
-    "bio": "friend, patriot",
-    "gender": "Demi-woman",
-    "birthdate": "1996-08-03T16:42:12.430Z",
-    "registeredAt": "2025-12-22T21:44:18.029Z"
-  },
-  {
-    "userId": "6f2dc654-5f8b-4316-9589-7d0533341247",
-    "fullName": "Willie Rogahn",
-    "bio": "creator, coach, traveler",
-    "gender": "Non-binary",
-    "birthdate": "1956-12-28T11:25:15.012Z",
-    "registeredAt": "2025-07-03T21:48:17.083Z"
-  },
-  {
-    "userId": "dd98dcdf-867d-4da9-af01-1c48a773a0f5",
-    "fullName": "Rudy Conroy",
-    "bio": "acorn supporter  🍑",
-    "gender": "Cis",
-    "birthdate": "1956-09-14T21:05:56.579Z",
-    "registeredAt": "2025-06-17T08:27:58.962Z"
-  },
-  {
-    "userId": "6ac72782-4829-4008-97ad-3b066b2c078a",
-    "fullName": "Darlene Marks",
-    "bio": "fanny-pack lover  🏋🏿",
+    "userId": "bd0e905c-ab77-4a74-90b9-12dd6696004d",
+    "fullName": "Rosemary Wisozk",
+    "bio": "siding lover  🦟",
     "gender": "Transexual woman",
-    "birthdate": "1979-05-13T19:33:49.067Z",
-    "registeredAt": "2025-10-05T19:35:05.362Z"
+    "birthdate": "1982-02-10T00:09:54.036Z",
+    "registeredAt": "2025-08-14T11:40:18.303Z"
   },
   {
-    "userId": "d563326e-428e-41d1-8a9f-ab86d5c8c907",
-    "fullName": "Amanda Harvey",
-    "bio": "coach, musician",
-    "gender": "Genderqueer",
-    "birthdate": "1974-01-04T22:33:50.918Z",
-    "registeredAt": "2025-11-19T10:33:27.728Z"
+    "userId": "a47d67d3-de7e-4ac8-957c-c557418d027c",
+    "fullName": "Mrs. Catherine Gerhold-Waters V",
+    "bio": "center fan",
+    "gender": "Gender variant",
+    "birthdate": "1950-03-16T08:57:12.490Z",
+    "registeredAt": "2025-07-07T03:10:17.786Z"
+  },
+  {
+    "userId": "19279768-efb7-46b4-800b-148fb009fb92",
+    "fullName": "Laurie Dach",
+    "bio": "scientist, veteran, developer 🌻",
+    "gender": "Cis man",
+    "birthdate": "1951-10-26T09:56:51.509Z",
+    "registeredAt": "2025-08-21T06:16:21.631Z"
+  },
+  {
+    "userId": "da770b8c-cdb2-4265-887d-85754dc37372",
+    "fullName": "Paulette Boyle",
+    "bio": "income lover, environmentalist 🦡",
+    "gender": "Cis female",
+    "birthdate": "1961-05-29T01:09:25.642Z",
+    "registeredAt": "2025-04-12T07:45:57.425Z"
   }
 ]
