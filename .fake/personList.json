@@ -1,58 +1,114 @@
 [
   {
-    "userId": "ca17c482-c26e-4265-8fe6-f3c4c64a0428",
-    "fullName": "Ervin Conn",
-    "bio": "spork advocate, engineer 🧩",
-    "gender": "T* man",
-    "birthdate": "1980-12-05T04:28:20.149Z",
-    "registeredAt": "2025-08-18T11:01:23.608Z"
-  },
-  {
-    "userId": "63e93406-e6c6-45a1-95e6-f2241ad5e5a9",
-    "fullName": "Virginia Schneider IV",
-    "bio": "knowledge advocate",
-    "gender": "Gender neutral",
-    "birthdate": "1987-06-04T07:48:32.200Z",
-    "registeredAt": "2026-02-19T03:55:02.951Z"
-  },
-  {
-    "userId": "579e62f3-c7b6-4fcc-adfa-5ca46e4a0e7b",
-    "fullName": "Julie Fritsch",
-    "bio": "inventor, filmmaker, streamer",
-    "gender": "Gender fluid",
-    "birthdate": "1948-01-17T14:11:51.695Z",
-    "registeredAt": "2025-05-10T17:01:47.526Z"
-  },
-  {
-    "userId": "cf439818-477a-4355-a01c-865d6e5d1c74",
-    "fullName": "Teri Corwin",
-    "bio": "cohort devotee, artist",
-    "gender": "Hermaphrodite",
-    "birthdate": "1984-05-31T03:05:08.504Z",
-    "registeredAt": "2026-02-08T11:35:38.930Z"
-  },
-  {
-    "userId": "eb666e77-21ff-446a-80c6-38f9c9c6f6d1",
-    "fullName": "Beulah Donnelly V",
-    "bio": "coal devotee, entrepreneur",
-    "gender": "T* man",
-    "birthdate": "1953-09-01T12:32:07.168Z",
-    "registeredAt": "2025-12-10T17:16:05.283Z"
-  },
-  {
-    "userId": "cc012042-f466-4410-bb78-51b7f0ea194f",
-    "fullName": "Oscar Bechtelar",
-    "bio": "forelimb lover  🙏🏽",
-    "gender": "Demigender",
-    "birthdate": "1988-11-02T12:16:20.956Z",
-    "registeredAt": "2025-08-26T21:28:03.179Z"
-  },
-  {
-    "userId": "56e7a833-f140-4439-a7ff-8889e463d34d",
-    "fullName": "Dr. Leigh Lind",
-    "bio": "inventor, veteran, activist 🌶️",
+    "userId": "1502a3b0-b3c8-499f-8ee8-5e537101a0b2",
+    "fullName": "Jonathan Auer",
+    "bio": "chive advocate, developer",
     "gender": "F2M",
-    "birthdate": "2002-11-23T11:44:31.071Z",
-    "registeredAt": "2026-01-09T08:06:42.256Z"
+    "birthdate": "1959-10-04T09:51:47.269Z",
+    "registeredAt": "2025-04-15T23:12:38.336Z"
+  },
+  {
+    "userId": "554f0aa2-cf0a-4a6c-b1ea-87941e6e27c7",
+    "fullName": "Pam Beatty DDS",
+    "bio": "yoke supporter, friend",
+    "gender": "Two-spirit",
+    "birthdate": "1971-01-02T15:45:26.261Z",
+    "registeredAt": "2025-10-04T10:24:49.373Z"
+  },
+  {
+    "userId": "7b4fc56e-dedc-4c70-8baf-8ee501da8009",
+    "fullName": "Gary Wisozk",
+    "bio": "snow lover, streamer ❕",
+    "gender": "Trans person",
+    "birthdate": "1986-10-07T09:19:10.144Z",
+    "registeredAt": "2025-09-11T17:44:46.441Z"
+  },
+  {
+    "userId": "87f1d9be-3719-4200-abf5-1c833c23fab6",
+    "fullName": "Dr. Lowell Armstrong",
+    "bio": "veteran, grad, teacher 🙁",
+    "gender": "Neutrois",
+    "birthdate": "1990-05-10T00:14:33.737Z",
+    "registeredAt": "2025-04-23T03:18:14.017Z"
+  },
+  {
+    "userId": "d97e9707-fc38-4200-be24-0790a81dbea6",
+    "fullName": "Felicia Predovic",
+    "bio": "musician, grad",
+    "gender": "Male to female transgender woman",
+    "birthdate": "2005-06-17T07:48:47.356Z",
+    "registeredAt": "2025-12-07T13:45:26.665Z"
+  },
+  {
+    "userId": "61be5f69-6625-429d-bce7-1e575bff5143",
+    "fullName": "Loren Leffler",
+    "bio": "nerd, traveler",
+    "gender": "Bigender",
+    "birthdate": "1982-07-23T14:27:45.263Z",
+    "registeredAt": "2025-10-02T04:59:20.813Z"
+  },
+  {
+    "userId": "6b324c25-6dce-4d70-9d13-0bd9a58190a7",
+    "fullName": "Lana McGlynn",
+    "bio": "cloudburst lover, streamer 🍟",
+    "gender": "Gender nonconforming",
+    "birthdate": "1951-09-11T16:49:14.309Z",
+    "registeredAt": "2025-12-27T01:12:57.158Z"
+  },
+  {
+    "userId": "9bf52732-dc81-4ef3-b6fb-5e8bc8edda5b",
+    "fullName": "Terence Ortiz",
+    "bio": "rhyme enthusiast  🐐",
+    "gender": "Two-spirit",
+    "birthdate": "1955-07-29T17:52:13.297Z",
+    "registeredAt": "2025-11-20T05:20:01.821Z"
+  },
+  {
+    "userId": "0c447e45-1646-412b-bd8e-336db75f7490",
+    "fullName": "Kathryn Armstrong",
+    "bio": "diam advocate, film lover",
+    "gender": "Intersex",
+    "birthdate": "1966-12-22T00:54:40.142Z",
+    "registeredAt": "2025-06-27T22:29:50.703Z"
+  },
+  {
+    "userId": "2ed61ad1-cefe-468a-92a0-c4bcef4c7e6a",
+    "fullName": "Miss Jean Bogisich DDS",
+    "bio": "glory fan",
+    "gender": "Transexual woman",
+    "birthdate": "1983-02-14T03:01:18.790Z",
+    "registeredAt": "2025-06-17T02:14:58.527Z"
+  },
+  {
+    "userId": "9ba13f7b-c3aa-48c1-8219-52e86f229fa7",
+    "fullName": "Brittany Gottlieb",
+    "bio": "streamer, developer, foodie",
+    "gender": "Multigender",
+    "birthdate": "1951-05-31T00:18:53.721Z",
+    "registeredAt": "2026-01-30T00:46:37.284Z"
+  },
+  {
+    "userId": "19ac74bd-05fc-4404-a59f-31c6a592c3bf",
+    "fullName": "Jeremiah Sporer",
+    "bio": "inauguration junkie",
+    "gender": "Omnigender",
+    "birthdate": "1959-02-09T09:50:32.166Z",
+    "registeredAt": "2025-07-31T05:17:49.396Z"
+  },
+  {
+    "userId": "6d0c9cff-f2b1-45f8-9c4f-0e4bb94ab4af",
+    "fullName": "Shannon Romaguera",
+    "bio": "designer, blogger",
+    "gender": "Neutrois",
+    "birthdate": "1982-01-14T11:27:59.969Z",
+    "registeredAt": "2025-09-10T03:42:20.363Z"
+  },
+  {
+    "userId": "47b5884c-e391-4c97-9b23-89cf3a5d39ab",
+    "fullName": "Carmen Satterfield",
+    "bio": "respect advocate, entrepreneur ♀️",
+    "gender": "Male to female trans woman",
+    "birthdate": "1966-03-26T01:54:03.173Z",
+    "registeredAt": "2025-06-14T18:59:59.225Z"
   }
 ]
