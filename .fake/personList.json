@@ -1,154 +1,42 @@
 [
   {
-    "userId": "5b3d45b2-417a-4aef-9beb-e992dba6c6f6",
-    "fullName": "Katrina Blanda",
-    "bio": "detention junkie, geek 🇨🇭",
-    "gender": "Cisgender man",
-    "birthdate": "1960-06-19T03:49:14.830Z",
-    "registeredAt": "2025-09-08T18:58:48.286Z"
-  },
-  {
-    "userId": "b748f99b-9e46-4347-9d26-eb76aa5f2c8b",
-    "fullName": "Wilma Lockman",
-    "bio": "singer",
-    "gender": "Female to male transgender man",
-    "birthdate": "1990-04-29T22:34:19.492Z",
-    "registeredAt": "2026-03-09T11:30:08.938Z"
-  },
-  {
-    "userId": "2c5f3443-8851-41e4-88cd-bcf47ae81631",
-    "fullName": "Dr. Israel Lind",
-    "bio": "ceramics advocate",
-    "gender": "Intersex",
-    "birthdate": "1966-01-28T20:19:37.314Z",
-    "registeredAt": "2026-02-09T17:06:49.699Z"
-  },
-  {
-    "userId": "5d611a10-c668-43c3-b464-262b8400d8dc",
-    "fullName": "Kara Casper",
-    "bio": "nerd, developer",
-    "gender": "Trans female",
-    "birthdate": "1955-02-08T07:54:07.311Z",
-    "registeredAt": "2026-01-06T19:29:12.085Z"
-  },
-  {
-    "userId": "427c9c1d-776c-4cbd-8062-8f5b456834d3",
-    "fullName": "Madeline Erdman-Rau",
-    "bio": "indicator junkie, musician",
-    "gender": "Demiflux",
-    "birthdate": "1993-02-13T23:45:20.133Z",
-    "registeredAt": "2025-10-31T09:45:29.421Z"
-  },
-  {
-    "userId": "652641d7-e1c1-4a98-9e84-27a67e2b3b71",
-    "fullName": "Edmund McDermott",
-    "bio": "ethyl lover, person",
-    "gender": "Xenogender",
-    "birthdate": "1948-06-29T05:29:22.079Z",
-    "registeredAt": "2025-04-05T10:02:11.500Z"
-  },
-  {
-    "userId": "bc0c638b-8c8d-4791-82b9-432a8e59f6c2",
-    "fullName": "Raul Gulgowski",
-    "bio": "outback enthusiast, educator 🎮",
-    "gender": "Xenogender",
-    "birthdate": "1999-02-10T01:21:47.879Z",
-    "registeredAt": "2025-11-12T20:21:59.236Z"
-  },
-  {
-    "userId": "9735f76a-9efb-4cc4-9faf-cac36beee35d",
-    "fullName": "Joan Legros",
-    "bio": "paste junkie, traveler",
-    "gender": "Cisgender",
-    "birthdate": "1955-09-25T16:24:27.874Z",
-    "registeredAt": "2025-07-06T17:40:44.071Z"
-  },
-  {
-    "userId": "05ac24a8-f1d3-4904-98e6-fc0136a8508c",
-    "fullName": "Gerard Skiles",
-    "bio": "standard lover, coach",
-    "gender": "Woman",
-    "birthdate": "1997-07-01T20:52:10.630Z",
-    "registeredAt": "2025-08-08T20:10:58.075Z"
-  },
-  {
-    "userId": "07f7b71f-fef0-4f47-8b43-ca370d6fcb0a",
-    "fullName": "Tina Tremblay",
-    "bio": "gamer, developer, scientist",
-    "gender": "Gender variant",
-    "birthdate": "1946-02-28T20:42:44.288Z",
-    "registeredAt": "2025-11-06T19:05:15.337Z"
-  },
-  {
-    "userId": "91a141c1-d204-4848-aa06-7c74aeb1a6e0",
-    "fullName": "Jessie Cremin",
-    "bio": "filmmaker",
-    "gender": "Transexual woman",
-    "birthdate": "1991-03-24T22:20:08.759Z",
-    "registeredAt": "2026-02-25T20:32:36.361Z"
-  },
-  {
-    "userId": "bc5ea9b2-38d7-43a7-93cf-3e8a5c4bf95f",
-    "fullName": "Miss Gretchen Schultz",
-    "bio": "okra junkie",
-    "gender": "Transexual person",
-    "birthdate": "1992-08-30T08:36:52.733Z",
-    "registeredAt": "2025-03-13T15:02:43.109Z"
-  },
-  {
-    "userId": "7882ba65-b987-45a9-839d-b0ee923090f3",
-    "fullName": "Melvin Thompson",
-    "bio": "public speaker, teacher, veteran",
-    "gender": "Gender fluid",
-    "birthdate": "1953-10-18T07:01:46.024Z",
-    "registeredAt": "2025-09-18T08:03:51.014Z"
-  },
-  {
-    "userId": "adaaff1f-36c1-4329-8fa9-01e7b7da9055",
-    "fullName": "Jerry Welch",
-    "bio": "inventor, writer, engineer",
-    "gender": "Cisgender",
-    "birthdate": "1979-08-09T19:42:16.677Z",
-    "registeredAt": "2025-05-17T05:32:14.263Z"
-  },
-  {
-    "userId": "709260f7-e804-4982-9df1-7a86e0c7b4e7",
-    "fullName": "Penny Kihn",
-    "bio": "creator, blogger, nerd",
-    "gender": "Man",
-    "birthdate": "1957-08-20T19:30:03.947Z",
-    "registeredAt": "2025-05-27T23:12:27.090Z"
-  },
-  {
-    "userId": "988b4def-2319-4723-8c73-6e83ae26c7b7",
-    "fullName": "Alonzo Armstrong",
-    "bio": "filmmaker, artist, person 🍳",
-    "gender": "Trigender",
-    "birthdate": "1968-07-03T23:06:28.099Z",
-    "registeredAt": "2025-08-04T15:56:51.050Z"
-  },
-  {
-    "userId": "c59792f8-c96c-4a8e-93c7-fc8cb7b077d2",
-    "fullName": "Kathryn McGlynn",
-    "bio": "cockroach enthusiast  🥊",
+    "userId": "b81a43e9-4de9-4c24-a8ad-d0653a48a205",
+    "fullName": "Nicolas Bergnaum",
+    "bio": "veteran, person, traveler 🐏",
     "gender": "Transexual female",
-    "birthdate": "1957-03-26T22:34:44.395Z",
-    "registeredAt": "2025-03-27T03:14:09.771Z"
+    "birthdate": "1969-10-28T20:35:08.822Z",
+    "registeredAt": "2025-12-31T18:59:18.500Z"
   },
   {
-    "userId": "cfa7a011-2f19-401f-afdf-2338920afe12",
-    "fullName": "Curtis Gislason",
-    "bio": "bidding supporter, writer",
-    "gender": "Two-spirit",
-    "birthdate": "1953-11-29T20:05:59.445Z",
-    "registeredAt": "2025-10-23T03:16:38.709Z"
+    "userId": "22a8b6ef-5270-4cfb-bbc6-2294b506d3a6",
+    "fullName": "Duane White",
+    "bio": "boom advocate, musician",
+    "gender": "Genderqueer",
+    "birthdate": "1967-07-23T16:04:20.040Z",
+    "registeredAt": "2025-10-14T18:19:36.304Z"
   },
   {
-    "userId": "1429d8ba-9962-4cb9-b6a5-4dcd2b9cdafa",
-    "fullName": "Krista Turner",
-    "bio": "grad, blogger",
-    "gender": "Demi-boy",
-    "birthdate": "1978-06-07T20:20:09.697Z",
-    "registeredAt": "2025-09-18T14:33:23.663Z"
+    "userId": "1116eba1-5fae-4086-8fe4-95b834e38a0c",
+    "fullName": "Terrence Huels",
+    "bio": "teacher",
+    "gender": "Transexual woman",
+    "birthdate": "1966-09-28T03:54:44.435Z",
+    "registeredAt": "2025-05-17T02:46:06.740Z"
+  },
+  {
+    "userId": "e9afd192-5488-4ce4-bbb8-1d7402f28491",
+    "fullName": "Bridget Hilll",
+    "bio": "wardrobe lover, person",
+    "gender": "Xenogender",
+    "birthdate": "1999-08-25T20:28:10.415Z",
+    "registeredAt": "2025-08-23T18:24:20.814Z"
+  },
+  {
+    "userId": "edccf4dd-2986-4325-917c-540a5b825673",
+    "fullName": "Carlton Nikolaus",
+    "bio": "person",
+    "gender": "Trans woman",
+    "birthdate": "1985-11-04T10:46:02.197Z",
+    "registeredAt": "2025-12-05T10:54:53.348Z"
   }
 ]
