@@ -1,138 +1,50 @@
 [
   {
-    "userId": "ae527ef4-783d-4422-9f4e-20f8153cd426",
-    "fullName": "Rosie Hansen",
-    "bio": "veteran, business owner, coach",
-    "gender": "Trans female",
-    "birthdate": "1947-06-03T01:22:41.892Z",
-    "registeredAt": "2025-09-18T11:12:32.560Z"
-  },
-  {
-    "userId": "d0d95da6-b9f0-4d91-9a7e-513b2f41ee34",
-    "fullName": "Edwin Koelpin Sr.",
-    "bio": "singer",
-    "gender": "Other",
-    "birthdate": "1997-08-15T07:57:02.295Z",
-    "registeredAt": "2025-08-02T13:19:06.434Z"
-  },
-  {
-    "userId": "d8c323b6-c528-4763-b668-8e3e45910755",
-    "fullName": "Eunice Mills",
-    "bio": "philosopher devotee  🎸",
-    "gender": "F2M",
-    "birthdate": "1966-08-16T13:24:22.690Z",
-    "registeredAt": "2026-02-21T15:32:41.483Z"
-  },
-  {
-    "userId": "13a96ee2-6885-4860-8986-a2e79c41da17",
-    "fullName": "Fannie Mante",
-    "bio": "locust supporter",
-    "gender": "Trans female",
-    "birthdate": "2000-10-29T10:43:19.274Z",
-    "registeredAt": "2025-12-24T11:17:36.748Z"
-  },
-  {
-    "userId": "9466c944-8383-4205-a210-d43ecac308fa",
-    "fullName": "Lorraine Breitenberg",
-    "bio": "silica lover, leader",
-    "gender": "Cisgender woman",
-    "birthdate": "1985-04-10T06:32:56.071Z",
-    "registeredAt": "2025-07-28T15:05:48.308Z"
-  },
-  {
-    "userId": "43c2a03e-5362-4ce2-8a11-f9a738403fc5",
-    "fullName": "Shelley Steuber",
-    "bio": "romance supporter, scientist",
-    "gender": "Gender questioning",
-    "birthdate": "1996-11-11T11:15:11.339Z",
-    "registeredAt": "2026-01-16T15:31:31.172Z"
-  },
-  {
-    "userId": "67ede40d-7f15-432a-87f5-06b3a098f297",
-    "fullName": "Dr. Elmer Tillman",
-    "bio": "designer",
-    "gender": "Demiflux",
-    "birthdate": "1981-03-19T08:32:11.051Z",
-    "registeredAt": "2025-07-07T03:13:06.741Z"
-  },
-  {
-    "userId": "a41e598e-cd5d-4252-9318-74a1ef3094e6",
-    "fullName": "Mrs. Terri McGlynn",
-    "bio": "scientist",
-    "gender": "Gender variant",
-    "birthdate": "1967-06-03T00:22:59.669Z",
-    "registeredAt": "2025-10-05T13:17:15.203Z"
-  },
-  {
-    "userId": "dedcafe7-5e37-4997-96e8-c1f82539a8e9",
-    "fullName": "Marshall McGlynn-Hettinger",
-    "bio": "business owner",
-    "gender": "Androgyne",
-    "birthdate": "1949-11-24T14:17:34.739Z",
-    "registeredAt": "2025-04-04T12:57:49.494Z"
-  },
-  {
-    "userId": "ec7b058f-ec6c-45ea-a421-557e452a94d7",
-    "fullName": "Sally Hane",
-    "bio": "nerd",
-    "gender": "Gender variant",
-    "birthdate": "1967-08-08T22:05:33.812Z",
-    "registeredAt": "2025-09-13T04:23:12.999Z"
-  },
-  {
-    "userId": "208df4d1-1fb2-4ca1-8d7e-191508074b40",
-    "fullName": "Gwendolyn Gutkowski",
-    "bio": "frost junkie, veteran 🍭",
-    "gender": "F2M",
-    "birthdate": "1967-07-30T22:39:40.513Z",
-    "registeredAt": "2025-05-31T20:28:47.312Z"
-  },
-  {
-    "userId": "64357873-f93c-454d-9f00-a350c7163468",
-    "fullName": "Bobbie Stehr",
-    "bio": "reconsideration devotee, streamer",
-    "gender": "Cis woman",
-    "birthdate": "1946-10-30T08:28:23.466Z",
-    "registeredAt": "2025-06-21T00:23:39.824Z"
-  },
-  {
-    "userId": "dc943064-db58-428f-b10b-87faf993e141",
-    "fullName": "Cary Wuckert",
-    "bio": "test devotee, geek",
-    "gender": "Transmasculine",
-    "birthdate": "1987-09-10T17:30:50.043Z",
-    "registeredAt": "2025-08-23T07:43:10.546Z"
-  },
-  {
-    "userId": "c0f28d6f-9f9c-4424-ba70-635bed41fcb7",
-    "fullName": "Dr. Myra Langworth",
-    "bio": "cooperation devotee  🪄",
-    "gender": "Demi-boy",
-    "birthdate": "1968-10-24T11:11:45.394Z",
-    "registeredAt": "2025-09-08T17:08:29.178Z"
-  },
-  {
-    "userId": "3ee5f6cd-0322-4957-a6f9-f4855c07f93d",
-    "fullName": "Blanca Lubowitz II",
-    "bio": "leader, filmmaker",
-    "gender": "Androgyne",
-    "birthdate": "1998-07-04T15:05:44.078Z",
-    "registeredAt": "2025-10-09T06:34:59.633Z"
-  },
-  {
-    "userId": "a234c52c-9fcd-434e-ac30-d69df8eef78a",
-    "fullName": "Velma Becker",
-    "bio": "tavern devotee  👃🏽",
-    "gender": "Transexual male",
-    "birthdate": "1978-12-28T05:09:56.858Z",
-    "registeredAt": "2025-10-12T06:16:02.072Z"
-  },
-  {
-    "userId": "390e1f10-90f2-4b44-8284-70ba9a221dab",
-    "fullName": "Brendan McCullough",
-    "bio": "softdrink enthusiast, grad",
+    "userId": "1421f510-05cf-408a-ab23-2727a4837841",
+    "fullName": "Leslie West-Wuckert",
+    "bio": "incident fan, filmmaker 3️⃣",
     "gender": "Bigender",
-    "birthdate": "1972-05-19T06:16:59.372Z",
-    "registeredAt": "2025-09-30T20:46:41.869Z"
+    "birthdate": "2002-04-26T14:37:30.469Z",
+    "registeredAt": "2025-08-25T11:28:07.108Z"
+  },
+  {
+    "userId": "53c765b3-43c7-4b9a-b2dc-866591299698",
+    "fullName": "Gregg Boyle",
+    "bio": "technique lover, leader ⬜",
+    "gender": "Gender fluid",
+    "birthdate": "1969-08-24T16:16:16.126Z",
+    "registeredAt": "2026-02-22T09:11:35.506Z"
+  },
+  {
+    "userId": "2f2ac560-c88c-428d-ba45-0aefeb763276",
+    "fullName": "Ricky Satterfield",
+    "bio": "supporter junkie, dreamer 🚋",
+    "gender": "Female to male trans man",
+    "birthdate": "2003-04-17T20:00:32.797Z",
+    "registeredAt": "2025-12-03T04:13:54.745Z"
+  },
+  {
+    "userId": "d57d1e9c-dc91-4b2a-9433-31cb81e3411a",
+    "fullName": "Victor Corwin Sr.",
+    "bio": "hose lover",
+    "gender": "Man",
+    "birthdate": "1987-03-20T23:35:00.998Z",
+    "registeredAt": "2025-07-08T17:43:45.334Z"
+  },
+  {
+    "userId": "8ed9da76-c2f0-4893-adab-9bf145b01185",
+    "fullName": "Christopher Jaskolski-Keeling",
+    "bio": "industrialisation devotee  😱",
+    "gender": "Gender questioning",
+    "birthdate": "1964-09-16T12:40:59.164Z",
+    "registeredAt": "2025-07-13T18:44:13.674Z"
+  },
+  {
+    "userId": "6959982d-002e-4aff-99e4-cf0c50633369",
+    "fullName": "Rhonda Erdman",
+    "bio": "parent, business owner",
+    "gender": "Trans woman",
+    "birthdate": "1981-12-18T07:12:06.458Z",
+    "registeredAt": "2025-12-14T17:48:07.172Z"
   }
 ]
