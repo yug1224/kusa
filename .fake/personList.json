@@ -1,122 +1,74 @@
 [
   {
-    "userId": "25916813-32c6-4b64-b97f-f2f2b89facf4",
-    "fullName": "Charles Kulas",
-    "bio": "developer",
-    "gender": "Cisgender",
-    "birthdate": "1997-03-30T23:06:16.646Z",
-    "registeredAt": "2025-09-14T00:26:33.487Z"
+    "userId": "3e6f577f-09d9-40df-8091-d1f17db99673",
+    "fullName": "Patty Bergstrom",
+    "bio": "singer, geek, friend",
+    "gender": "Transexual man",
+    "birthdate": "1964-11-19T01:55:11.605Z",
+    "registeredAt": "2026-03-12T21:04:23.178Z"
   },
   {
-    "userId": "377e7e32-3e27-4a7d-b03c-cffde8df0d5d",
-    "fullName": "Ruth Cassin",
-    "bio": "business owner",
-    "gender": "Intersex person",
-    "birthdate": "1992-06-07T10:53:47.954Z",
-    "registeredAt": "2025-08-26T21:58:17.324Z"
+    "userId": "7374136a-3d0d-4f04-9deb-f38452d36dc6",
+    "fullName": "Wesley Lindgren",
+    "bio": "nerd, activist, scientist",
+    "gender": "Cisgender male",
+    "birthdate": "1975-10-31T08:34:04.655Z",
+    "registeredAt": "2025-03-27T11:09:27.196Z"
   },
   {
-    "userId": "d85ef7ec-7c89-4342-a67f-43e0b51f4ba6",
-    "fullName": "Blanche Abernathy",
-    "bio": "exclamation advocate",
-    "gender": "Transgender person",
-    "birthdate": "1946-07-26T13:16:15.597Z",
-    "registeredAt": "2025-12-14T09:27:06.747Z"
+    "userId": "6fc1a261-5b4a-41a6-8138-59f2d9ca9ed5",
+    "fullName": "Iris Hammes",
+    "bio": "infinite devotee, foodie 🦓",
+    "gender": "Cis woman",
+    "birthdate": "1975-11-14T04:00:57.008Z",
+    "registeredAt": "2025-05-09T13:50:36.180Z"
   },
   {
-    "userId": "713e53eb-4eab-4949-8596-78d2bdc5bdc0",
-    "fullName": "Ana Ortiz",
-    "bio": "ripple devotee, person 🚵",
-    "gender": "Trigender",
-    "birthdate": "1990-09-08T19:08:31.984Z",
-    "registeredAt": "2025-10-29T12:36:40.203Z"
-  },
-  {
-    "userId": "c3d6849d-d688-4e61-bf8e-37e4784ccf0d",
-    "fullName": "Whitney Cummerata",
-    "bio": "musician",
-    "gender": "Gender fluid",
-    "birthdate": "1960-01-17T13:56:39.989Z",
-    "registeredAt": "2026-01-10T02:55:12.463Z"
-  },
-  {
-    "userId": "fcac0feb-47fd-4676-b848-d671649f5546",
-    "fullName": "Desiree Balistreri",
-    "bio": "marxism enthusiast  🦩",
-    "gender": "Demi-woman",
-    "birthdate": "1996-10-24T09:36:13.721Z",
-    "registeredAt": "2025-10-29T16:14:50.357Z"
-  },
-  {
-    "userId": "24e43e62-137e-4979-ad6c-9470fd99b726",
-    "fullName": "Stewart Rutherford",
-    "bio": "abolishment advocate",
-    "gender": "Neutrois",
-    "birthdate": "1990-01-23T12:25:24.028Z",
-    "registeredAt": "2025-10-29T13:58:43.770Z"
-  },
-  {
-    "userId": "b91ced36-841e-40a1-a9cb-f4687b637e01",
-    "fullName": "Clara Bruen",
-    "bio": "model, inventor, leader",
-    "gender": "Intersex person",
-    "birthdate": "2003-10-19T21:50:46.992Z",
-    "registeredAt": "2025-08-24T02:19:55.668Z"
-  },
-  {
-    "userId": "48a38fa8-3d78-4811-a7bd-22473530b87d",
-    "fullName": "Clark Murphy",
-    "bio": "string lover  🛩️",
-    "gender": "Demi-boy",
-    "birthdate": "1969-05-15T09:19:39.956Z",
-    "registeredAt": "2026-02-05T04:26:55.294Z"
-  },
-  {
-    "userId": "ff2e5e9f-3f6b-4c5d-b234-14ad14cf6297",
-    "fullName": "Hazel Hamill",
-    "bio": "veteran, blogger",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1973-01-27T15:11:53.094Z",
-    "registeredAt": "2025-04-26T05:24:27.240Z"
-  },
-  {
-    "userId": "d937d8a0-45d0-4508-bed7-46b7e59f4fdc",
-    "fullName": "Laura Pollich-Langworth",
-    "bio": "photographer, parent, developer",
-    "gender": "Non-binary",
-    "birthdate": "2002-09-18T15:49:39.596Z",
-    "registeredAt": "2025-04-27T18:25:54.226Z"
-  },
-  {
-    "userId": "ef711469-7e90-42a4-afef-0665ee835525",
-    "fullName": "Ms. Louise Heidenreich",
-    "bio": "friend, author",
-    "gender": "Gender variant",
-    "birthdate": "1954-04-18T07:45:14.204Z",
-    "registeredAt": "2025-10-31T21:07:29.917Z"
-  },
-  {
-    "userId": "c1269463-d948-411e-b272-195ced8cd1cd",
-    "fullName": "Miss Kristie Crist DDS",
-    "bio": "scientist, public speaker",
-    "gender": "Female to male transgender man",
-    "birthdate": "1950-03-06T15:57:30.463Z",
-    "registeredAt": "2025-11-07T22:40:38.525Z"
-  },
-  {
-    "userId": "28d6bb4f-4142-4021-a2d3-a27f813eb1ce",
-    "fullName": "Brendan Hahn",
-    "bio": "admire junkie  🛳️",
-    "gender": "Transexual woman",
-    "birthdate": "1971-05-22T08:34:12.734Z",
-    "registeredAt": "2025-11-21T17:25:29.948Z"
-  },
-  {
-    "userId": "86b8b66c-d1b9-4126-a781-f3c59980a8b5",
-    "fullName": "Morris Harvey",
-    "bio": "palate fan, gamer",
+    "userId": "98bed6ae-4c16-4025-852d-216ebf341650",
+    "fullName": "Glenda Bahringer",
+    "bio": "scientist, parent",
     "gender": "Gender neutral",
-    "birthdate": "1963-01-14T05:40:32.187Z",
-    "registeredAt": "2025-06-07T01:40:03.303Z"
+    "birthdate": "1972-08-06T06:24:13.427Z",
+    "registeredAt": "2025-03-31T00:35:50.137Z"
+  },
+  {
+    "userId": "ce5601ab-9a69-4b34-832b-ca51381ad906",
+    "fullName": "Marguerite Steuber",
+    "bio": "gamer, creator, teacher",
+    "gender": "Demi-boy",
+    "birthdate": "1971-12-31T18:16:05.586Z",
+    "registeredAt": "2025-11-10T01:15:33.237Z"
+  },
+  {
+    "userId": "523c2003-6e89-4e85-bee9-a10a0fd38697",
+    "fullName": "Adrian Armstrong DVM",
+    "bio": "rat devotee, creator",
+    "gender": "Transexual female",
+    "birthdate": "1977-04-22T01:23:31.529Z",
+    "registeredAt": "2025-06-28T00:42:19.113Z"
+  },
+  {
+    "userId": "a3cc0a82-54f0-4c82-95bf-69fa91840aa6",
+    "fullName": "Bernard Littel-Mosciski",
+    "bio": "gamer, dreamer, film lover 😳",
+    "gender": "Two* person",
+    "birthdate": "1981-02-07T08:14:45.343Z",
+    "registeredAt": "2025-12-25T21:17:41.824Z"
+  },
+  {
+    "userId": "086aa013-6621-4802-93da-c447f8f8efc3",
+    "fullName": "Jake Rosenbaum",
+    "bio": "community fan",
+    "gender": "Female to male",
+    "birthdate": "1958-04-25T03:47:21.076Z",
+    "registeredAt": "2026-02-06T15:38:02.132Z"
+  },
+  {
+    "userId": "f1b19982-f5d4-4e54-8fc0-ebd319027bfa",
+    "fullName": "Clayton Haag",
+    "bio": "educator",
+    "gender": "Neither",
+    "birthdate": "1999-07-31T10:30:14.574Z",
+    "registeredAt": "2026-03-12T13:27:30.726Z"
   }
 ]
