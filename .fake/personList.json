@@ -1,146 +1,66 @@
 [
   {
-    "userId": "2b9b9856-7dce-4f55-8087-7a2d4928a773",
-    "fullName": "Ms. Lynette Brakus",
-    "bio": "past advocate",
-    "gender": "Transexual male",
-    "birthdate": "1992-01-06T20:11:31.419Z",
-    "registeredAt": "2025-11-10T00:46:30.133Z"
-  },
-  {
-    "userId": "c81946c0-2ce0-41e1-8986-ffb7e6b8a643",
-    "fullName": "Ted Wisozk",
-    "bio": "streamer",
-    "gender": "Transgender female",
-    "birthdate": "1954-10-07T17:26:48.029Z",
-    "registeredAt": "2025-06-08T23:47:44.986Z"
-  },
-  {
-    "userId": "dd853016-163b-4c68-aaf6-c7720e685472",
-    "fullName": "Phillip Windler",
-    "bio": "washer supporter, nerd 🤚🏽",
-    "gender": "Female to male",
-    "birthdate": "1956-11-10T12:47:26.209Z",
-    "registeredAt": "2025-11-26T20:15:05.678Z"
-  },
-  {
-    "userId": "d0372011-8aa4-40dc-bf38-940f69a21239",
-    "fullName": "Miss Clara Zieme",
-    "bio": "photographer, teacher",
-    "gender": "MTF",
-    "birthdate": "1967-11-19T04:52:57.359Z",
-    "registeredAt": "2025-11-16T21:47:23.358Z"
-  },
-  {
-    "userId": "96ddb131-5e7a-4bbc-9f44-0278d00c0149",
-    "fullName": "Lynette Metz-Schneider",
-    "bio": "philosopher",
-    "gender": "Trans person",
-    "birthdate": "1976-05-15T22:32:14.149Z",
-    "registeredAt": "2025-11-11T00:41:16.958Z"
-  },
-  {
-    "userId": "576cff79-79a2-4369-a717-f2151fd0fdf7",
-    "fullName": "Angelo Howell",
-    "bio": "developer",
-    "gender": "Intersex woman",
-    "birthdate": "1990-08-10T21:13:11.451Z",
-    "registeredAt": "2025-11-10T22:16:10.680Z"
-  },
-  {
-    "userId": "8eabb74b-a384-49f1-89f3-6697dbee168d",
-    "fullName": "Luis Stiedemann",
-    "bio": "environmentalist",
-    "gender": "Gender variant",
-    "birthdate": "1995-09-16T18:15:45.676Z",
-    "registeredAt": "2025-10-06T10:27:33.222Z"
-  },
-  {
-    "userId": "56dd5eb2-28d5-4ebd-aac8-37e8877bf008",
-    "fullName": "Roman Sanford",
-    "bio": "author, creator",
-    "gender": "Transexual",
-    "birthdate": "2002-12-05T14:55:31.228Z",
-    "registeredAt": "2025-06-05T09:11:06.762Z"
-  },
-  {
-    "userId": "48435fc4-fc2b-4956-a663-fc628f0a4491",
-    "fullName": "Cesar Vandervort",
-    "bio": "leader, person",
-    "gender": "Cis woman",
-    "birthdate": "1952-02-02T18:10:20.573Z",
-    "registeredAt": "2026-02-07T08:34:56.688Z"
-  },
-  {
-    "userId": "99a2907e-02db-4f8c-8a3c-53353616c9eb",
-    "fullName": "Mike West",
-    "bio": "clam supporter, streamer 🇨🇳",
-    "gender": "Agender",
-    "birthdate": "1980-09-06T13:31:39.308Z",
-    "registeredAt": "2025-04-17T02:58:07.354Z"
-  },
-  {
-    "userId": "36a74ce6-f515-40da-99dd-e6cf2b403701",
-    "fullName": "Alfredo Mohr DVM",
-    "bio": "posterior lover, parent",
-    "gender": "Male to female trans woman",
-    "birthdate": "1977-08-21T00:13:17.546Z",
-    "registeredAt": "2025-07-27T15:39:50.919Z"
-  },
-  {
-    "userId": "af7310ee-0800-457e-926f-de49f88b8c11",
-    "fullName": "Dr. Fernando Maggio",
-    "bio": "plywood devotee, blogger 🤷🏻",
-    "gender": "Other",
-    "birthdate": "1963-03-19T10:06:59.578Z",
-    "registeredAt": "2025-09-27T11:21:37.721Z"
-  },
-  {
-    "userId": "0458fa24-5c1d-4efc-b04d-310f09fb8a6d",
-    "fullName": "Jimmie Rau",
-    "bio": "circulation lover  🇵🇰",
-    "gender": "Two-spirit person",
-    "birthdate": "1988-08-23T15:11:50.638Z",
-    "registeredAt": "2026-02-22T01:50:02.315Z"
-  },
-  {
-    "userId": "ea18e606-9034-46e2-95f7-98ee20d96c0a",
-    "fullName": "Dr. Genevieve Corkery",
-    "bio": "moat lover",
-    "gender": "Demi-girl",
-    "birthdate": "1962-12-19T12:23:38.254Z",
-    "registeredAt": "2025-10-30T09:28:47.130Z"
-  },
-  {
-    "userId": "84abe34a-b477-4633-a856-6ae742ba37a7",
-    "fullName": "Antonio Effertz",
-    "bio": "offset supporter",
-    "gender": "T* man",
-    "birthdate": "1976-07-11T19:38:40.570Z",
-    "registeredAt": "2025-11-20T08:02:25.984Z"
-  },
-  {
-    "userId": "4c38058d-f214-45eb-8044-e2cceb7a4d23",
-    "fullName": "Dr. Boyd Kertzmann V",
-    "bio": "kilt devotee, coach 🤘",
-    "gender": "Agender",
-    "birthdate": "2005-02-15T12:49:04.766Z",
-    "registeredAt": "2025-04-18T22:51:34.008Z"
-  },
-  {
-    "userId": "c15de322-f73b-418d-868b-d63da4587bb2",
-    "fullName": "Mr. Rolando Tremblay",
-    "bio": "singer, designer, engineer 2️⃣",
+    "userId": "0c687f72-adc9-4c07-a6d8-60c4e4a662b0",
+    "fullName": "Rex Abbott",
+    "bio": "gastropod junkie, leader 🍬",
     "gender": "Intersex person",
-    "birthdate": "1994-08-09T01:03:55.294Z",
-    "registeredAt": "2025-12-11T05:54:03.078Z"
+    "birthdate": "1983-07-26T16:14:02.131Z",
+    "registeredAt": "2025-12-17T11:05:33.684Z"
   },
   {
-    "userId": "dbe97956-35b7-4692-bda4-efd75b4c5bfd",
-    "fullName": "Dr. Kristie Mayert DDS",
-    "bio": "parent, activist, parent 🕳️",
-    "gender": "Cisgender woman",
-    "birthdate": "1963-06-30T07:45:25.466Z",
-    "registeredAt": "2025-07-27T22:19:24.879Z"
+    "userId": "ef39c522-2748-4629-8c4d-8a96349d9d18",
+    "fullName": "Arlene Douglas II",
+    "bio": "appliance junkie, educator",
+    "gender": "T* man",
+    "birthdate": "1989-01-25T09:20:15.461Z",
+    "registeredAt": "2025-06-14T19:18:12.055Z"
+  },
+  {
+    "userId": "e7d36887-bb2e-4616-be3e-65814467c76c",
+    "fullName": "Seth Larson",
+    "bio": "major junkie",
+    "gender": "T* woman",
+    "birthdate": "1954-04-11T10:13:31.515Z",
+    "registeredAt": "2025-06-30T21:48:12.696Z"
+  },
+  {
+    "userId": "d564fb9f-2f13-45fd-8ea7-80d3e92a2c6d",
+    "fullName": "Erma Renner",
+    "bio": "singer, environmentalist, creator",
+    "gender": "Trans person",
+    "birthdate": "1961-04-06T01:07:38.962Z",
+    "registeredAt": "2025-12-28T23:31:40.593Z"
+  },
+  {
+    "userId": "15dd53b4-6e2b-42bf-8f70-5b9c803b6929",
+    "fullName": "Barry Murphy",
+    "bio": "nurture enthusiast, photographer 🕹️",
+    "gender": "Agender",
+    "birthdate": "1966-03-31T03:37:19.789Z",
+    "registeredAt": "2026-02-28T09:16:40.686Z"
+  },
+  {
+    "userId": "d8cb049a-2525-4ab1-bb3c-378fc455402e",
+    "fullName": "Dr. Roy Kutch",
+    "bio": "strand supporter, dreamer",
+    "gender": "Gender fluid",
+    "birthdate": "1954-02-07T20:19:17.205Z",
+    "registeredAt": "2025-04-15T00:20:09.802Z"
+  },
+  {
+    "userId": "5f47693c-aa8a-41c9-b067-020f2bd9b8e6",
+    "fullName": "Maureen Walker",
+    "bio": "orator fan  🇲🇨",
+    "gender": "Man",
+    "birthdate": "1999-01-23T19:17:01.524Z",
+    "registeredAt": "2025-08-14T04:42:23.799Z"
+  },
+  {
+    "userId": "cb929210-a637-4ffc-80eb-2151506c26d5",
+    "fullName": "Garrett Renner",
+    "bio": "dissonance lover, author",
+    "gender": "Gender fluid",
+    "birthdate": "1969-10-24T19:32:32.537Z",
+    "registeredAt": "2025-12-26T16:26:41.941Z"
   }
 ]
