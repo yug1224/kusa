@@ -1,154 +1,66 @@
 [
   {
-    "userId": "8ff9b796-8711-4b0f-b9e9-621fddac9e55",
-    "fullName": "Laura Bailey",
-    "bio": "artist, environmentalist, business owner 🍻",
-    "gender": "Trans",
-    "birthdate": "1998-01-01T16:05:59.366Z",
-    "registeredAt": "2025-07-31T16:05:26.432Z"
-  },
-  {
-    "userId": "e5920aa7-893e-427e-baec-209b6f341473",
-    "fullName": "Earl Osinski",
-    "bio": "independence enthusiast  💒",
-    "gender": "Demi-woman",
-    "birthdate": "1964-05-28T14:25:10.146Z",
-    "registeredAt": "2025-03-26T07:12:46.760Z"
-  },
-  {
-    "userId": "aaad0b00-7ad1-4758-8780-3c7cfcdfce6e",
-    "fullName": "Bobby Rowe",
-    "bio": "gamer, parent, traveler",
-    "gender": "Gender nonconforming",
-    "birthdate": "1992-01-08T06:53:11.593Z",
-    "registeredAt": "2025-08-23T23:20:40.873Z"
-  },
-  {
-    "userId": "fb4a9fdc-71cb-4f0b-a1db-f9902da76bea",
-    "fullName": "Levi Blanda-Treutel",
-    "bio": "revitalisation supporter, writer",
-    "gender": "Bigender",
-    "birthdate": "1999-06-10T18:19:41.974Z",
-    "registeredAt": "2025-07-31T12:24:50.404Z"
-  },
-  {
-    "userId": "325f218d-274e-43c3-9af6-fef327d35d19",
-    "fullName": "Ted Hansen",
-    "bio": "business owner, business owner, designer 🪐",
-    "gender": "Trans",
-    "birthdate": "1955-11-05T17:12:47.712Z",
-    "registeredAt": "2026-02-02T22:52:09.356Z"
-  },
-  {
-    "userId": "35e30665-fb9f-4cf9-944c-bac5a965b65a",
-    "fullName": "Dr. Karl Predovic",
-    "bio": "overflight supporter",
-    "gender": "Trans female",
-    "birthdate": "1993-01-21T13:27:56.644Z",
-    "registeredAt": "2025-10-16T13:54:09.666Z"
-  },
-  {
-    "userId": "cedfcf48-1c2a-4f3e-9014-f588048841a7",
-    "fullName": "Lucas Balistreri",
-    "bio": "patriot, scientist, friend",
-    "gender": "Two* person",
-    "birthdate": "1978-08-30T11:20:54.526Z",
-    "registeredAt": "2025-09-16T00:57:14.433Z"
-  },
-  {
-    "userId": "60286fdd-3e83-497d-a36b-3da43a3c0e50",
-    "fullName": "Tommy Deckow-Beatty",
-    "bio": "designer",
-    "gender": "T* woman",
-    "birthdate": "1977-11-25T10:40:38.003Z",
-    "registeredAt": "2026-02-20T11:51:20.306Z"
-  },
-  {
-    "userId": "0a230d20-3def-42d3-8c5b-a37ade84c2c6",
-    "fullName": "Dale Crona",
-    "bio": "twister lover",
-    "gender": "Intersex man",
-    "birthdate": "1990-12-06T19:00:09.214Z",
-    "registeredAt": "2025-08-25T06:50:50.262Z"
-  },
-  {
-    "userId": "e5f69d3c-57a0-4e5d-8c36-b35fccb27511",
-    "fullName": "Frances Gulgowski",
-    "bio": "geek, developer, friend",
-    "gender": "Transmasculine",
-    "birthdate": "2002-09-26T10:21:07.257Z",
-    "registeredAt": "2026-02-05T10:54:03.179Z"
-  },
-  {
-    "userId": "14458dcb-6b57-40f6-bf6b-c3a6473a5050",
-    "fullName": "Amber Glover",
-    "bio": "handball devotee, teacher 🇦🇬",
-    "gender": "Male to female",
-    "birthdate": "2001-07-28T09:39:15.085Z",
-    "registeredAt": "2025-04-26T14:32:11.116Z"
-  },
-  {
-    "userId": "4f35bb78-1bad-4978-8856-2e1d6e8f85de",
-    "fullName": "Josephine Leffler",
-    "bio": "elongation enthusiast, photographer",
-    "gender": "Cisgender female",
-    "birthdate": "1983-06-14T09:42:01.050Z",
-    "registeredAt": "2025-09-09T13:50:13.223Z"
-  },
-  {
-    "userId": "6ef81ab7-ba1b-46e5-8d5a-6de679288b2c",
-    "fullName": "Essie Runolfsdottir",
-    "bio": "veteran",
-    "gender": "Demi-girl",
-    "birthdate": "1998-06-03T07:58:27.719Z",
-    "registeredAt": "2026-01-08T03:54:13.240Z"
-  },
-  {
-    "userId": "26236079-dac4-47b4-8f49-7d67f5d9f568",
-    "fullName": "Steve Ullrich",
-    "bio": "developer, business owner",
-    "gender": "M2F",
-    "birthdate": "1961-10-21T11:48:09.013Z",
-    "registeredAt": "2025-03-18T05:41:03.496Z"
-  },
-  {
-    "userId": "2b123168-6c7f-44e8-b102-df508ae74f59",
-    "fullName": "Dave Friesen",
-    "bio": "variant enthusiast",
-    "gender": "Cis male",
-    "birthdate": "2002-11-10T11:12:49.730Z",
-    "registeredAt": "2025-04-12T21:14:10.508Z"
-  },
-  {
-    "userId": "0a003913-862e-477e-9fef-d2df2eac189a",
-    "fullName": "Hector Hane",
-    "bio": "author, activist, blogger",
-    "gender": "Cisgender female",
-    "birthdate": "1974-03-22T19:41:54.548Z",
-    "registeredAt": "2025-04-23T13:26:26.451Z"
-  },
-  {
-    "userId": "397c8012-0456-4024-b7e6-850d75bc5e57",
-    "fullName": "Brenda Kemmer I",
-    "bio": "scientist, teacher",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1952-06-09T14:29:00.297Z",
-    "registeredAt": "2025-08-17T04:59:30.839Z"
-  },
-  {
-    "userId": "8a888f67-c0f4-4404-8405-b3c75e4ff710",
-    "fullName": "Ismael Rolfson-Weber DDS",
-    "bio": "teacher, coach, grad 🪄",
+    "userId": "a589c417-5238-4fe5-82c9-c1a56a03dae5",
+    "fullName": "Erma Macejkovic",
+    "bio": "housing fan  🎉",
     "gender": "MTF",
-    "birthdate": "1976-04-16T23:09:10.096Z",
-    "registeredAt": "2025-08-29T03:50:02.183Z"
+    "birthdate": "1949-11-25T06:20:36.846Z",
+    "registeredAt": "2026-01-21T18:26:09.904Z"
   },
   {
-    "userId": "17892756-4355-492c-be87-87956f385539",
-    "fullName": "Cody Bergnaum",
-    "bio": "activist, entrepreneur, singer",
+    "userId": "76a6c9de-060f-4d66-9db9-433d48054fa0",
+    "fullName": "Roman Armstrong",
+    "bio": "shovel fan, engineer 😴",
+    "gender": "Bigender",
+    "birthdate": "1963-12-03T18:15:41.857Z",
+    "registeredAt": "2025-09-11T17:00:24.173Z"
+  },
+  {
+    "userId": "27c4eb32-1355-4643-8fb7-c33504216a08",
+    "fullName": "Jaime Ondricka",
+    "bio": "structure enthusiast  😰",
+    "gender": "Gender nonconforming",
+    "birthdate": "1970-07-08T09:41:41.356Z",
+    "registeredAt": "2025-08-22T22:47:55.922Z"
+  },
+  {
+    "userId": "0fbce47f-85d4-427b-bc21-fcdc5cd3fea9",
+    "fullName": "Israel Kihn",
+    "bio": "person, activist",
+    "gender": "Two-spirit person",
+    "birthdate": "1964-10-22T14:12:37.692Z",
+    "registeredAt": "2026-02-06T04:10:09.361Z"
+  },
+  {
+    "userId": "03674cba-603c-4d0c-8161-9240b3f7f385",
+    "fullName": "Jan McLaughlin",
+    "bio": "friend, parent, scientist",
+    "gender": "Transgender female",
+    "birthdate": "1974-09-02T05:23:45.458Z",
+    "registeredAt": "2026-01-18T22:19:38.442Z"
+  },
+  {
+    "userId": "a67faa97-cf2c-4391-8b5d-311121559c37",
+    "fullName": "Ira Turcotte",
+    "bio": "scientist, designer, streamer",
     "gender": "Trans man",
-    "birthdate": "1972-12-27T09:22:05.813Z",
-    "registeredAt": "2025-11-06T02:47:51.361Z"
+    "birthdate": "1983-01-08T14:52:21.407Z",
+    "registeredAt": "2026-02-18T08:46:01.490Z"
+  },
+  {
+    "userId": "bca3f559-5e98-4a12-a522-74e876803d7c",
+    "fullName": "Erma Maggio",
+    "bio": "abolishment fan  ✌🏽",
+    "gender": "Trigender",
+    "birthdate": "1992-04-25T18:07:14.911Z",
+    "registeredAt": "2025-06-01T16:26:04.179Z"
+  },
+  {
+    "userId": "64201a5a-1737-4b40-83ce-4dc669ce45f0",
+    "fullName": "Luther Kovacek",
+    "bio": "blogger, geek",
+    "gender": "Transexual person",
+    "birthdate": "1992-12-03T04:55:16.608Z",
+    "registeredAt": "2025-10-05T09:09:45.087Z"
   }
 ]
