@@ -1,162 +1,98 @@
 [
   {
-    "userId": "2736c8cb-03ad-4a41-a26f-b6234618329e",
-    "fullName": "Christine Effertz-Osinski",
-    "bio": "scientist",
-    "gender": "Polygender",
-    "birthdate": "1982-07-12T13:04:57.837Z",
-    "registeredAt": "2025-09-17T19:20:14.207Z"
-  },
-  {
-    "userId": "1f14cf00-10c4-4d9c-98a7-8ca6db03c57f",
-    "fullName": "Tim Baumbach",
-    "bio": "gamer, educator, business owner 🤙🏿",
-    "gender": "Cisgender",
-    "birthdate": "1950-12-11T12:02:23.764Z",
-    "registeredAt": "2025-05-07T19:08:49.060Z"
-  },
-  {
-    "userId": "1d62e875-a66f-48af-95a4-2398e36a714c",
-    "fullName": "William Konopelski",
-    "bio": "wild lover  🖖🏿",
-    "gender": "Omnigender",
-    "birthdate": "1998-06-10T23:52:07.331Z",
-    "registeredAt": "2026-01-24T08:33:27.607Z"
-  },
-  {
-    "userId": "3e1db08c-b42f-43d9-a1e2-ce124f1a564b",
-    "fullName": "Brett Franecki-Kautzer",
-    "bio": "business owner, photographer, filmmaker",
-    "gender": "Agender",
-    "birthdate": "1994-04-04T11:48:55.745Z",
-    "registeredAt": "2025-08-22T16:25:44.246Z"
-  },
-  {
-    "userId": "4eb11c70-9c63-4db4-b975-df37626f08a3",
-    "fullName": "Gene Schuppe III",
-    "bio": "smith fan, dreamer",
-    "gender": "Trans man",
-    "birthdate": "1970-12-18T07:34:30.953Z",
-    "registeredAt": "2025-04-24T02:09:50.511Z"
-  },
-  {
-    "userId": "c6f6ad5b-b2e5-48f5-be33-401ed5df0f6f",
-    "fullName": "Suzanne Harris",
-    "bio": "model, author, creator 👱🏻‍♀️",
-    "gender": "Intersex",
-    "birthdate": "1996-09-07T01:50:18.728Z",
-    "registeredAt": "2025-06-07T15:24:10.788Z"
-  },
-  {
-    "userId": "9995f293-431b-49e9-a806-09d3fdb8b016",
-    "fullName": "Whitney Pollich",
-    "bio": "friend, model",
-    "gender": "Omnigender",
-    "birthdate": "1974-08-25T04:25:44.791Z",
-    "registeredAt": "2025-09-25T20:56:50.410Z"
-  },
-  {
-    "userId": "d97ae6ba-4a50-46d1-864b-9383cb8f39ea",
-    "fullName": "Archie Collins",
-    "bio": "log enthusiast, veteran",
-    "gender": "Two-spirit",
-    "birthdate": "1989-03-11T21:07:10.355Z",
-    "registeredAt": "2025-06-16T01:48:25.902Z"
-  },
-  {
-    "userId": "b76bc8bc-5871-4599-8ea8-698c52eb2262",
-    "fullName": "Nicole Conroy",
-    "bio": "developer, developer, filmmaker 🎫",
-    "gender": "Demigender",
-    "birthdate": "2005-05-27T13:07:32.412Z",
-    "registeredAt": "2025-04-23T00:59:41.353Z"
-  },
-  {
-    "userId": "062cd534-4936-4710-901d-cf34766d9bde",
-    "fullName": "Philip Balistreri",
-    "bio": "sock enthusiast",
-    "gender": "Demi-man",
-    "birthdate": "1952-11-07T08:40:07.322Z",
-    "registeredAt": "2025-09-28T02:18:58.607Z"
-  },
-  {
-    "userId": "d90de4e0-8ebc-43fa-a97a-0c4cb8ab0d50",
-    "fullName": "Mindy McCullough",
-    "bio": "entrepreneur",
-    "gender": "Two* person",
-    "birthdate": "1993-05-28T07:33:05.980Z",
-    "registeredAt": "2026-01-05T11:09:05.845Z"
-  },
-  {
-    "userId": "b664a39c-755a-47bf-a658-9be995c71e14",
-    "fullName": "Greg Hagenes",
-    "bio": "friend, student",
-    "gender": "Genderqueer",
-    "birthdate": "2002-07-03T15:13:51.774Z",
-    "registeredAt": "2025-12-12T19:29:59.297Z"
-  },
-  {
-    "userId": "402566a5-a5bf-4dc6-bade-f7714e613b57",
-    "fullName": "Agnes Lebsack",
-    "bio": "obi fan, author ™️",
-    "gender": "Transgender person",
-    "birthdate": "1956-01-20T23:21:16.132Z",
-    "registeredAt": "2025-12-15T02:03:26.487Z"
-  },
-  {
-    "userId": "69716169-55f4-4e4c-9128-64e66091a9c8",
-    "fullName": "Miss Christy Jaskolski",
-    "bio": "snowman enthusiast",
-    "gender": "Cis woman",
-    "birthdate": "2000-05-19T23:34:18.423Z",
-    "registeredAt": "2025-06-28T17:06:11.342Z"
-  },
-  {
-    "userId": "c6e73b87-e540-43ff-99be-b73a40356a66",
-    "fullName": "Jon Cummings",
-    "bio": "guava lover, grad 🚐",
-    "gender": "Cis",
-    "birthdate": "1953-11-16T03:52:26.329Z",
-    "registeredAt": "2025-08-30T07:58:36.875Z"
-  },
-  {
-    "userId": "b7fb85a4-c475-48da-bf11-7cafe4f77982",
-    "fullName": "Mack Pagac",
-    "bio": "ingredient fan",
+    "userId": "a329ebaa-6ba4-4426-9eb9-9d04619d2997",
+    "fullName": "Kurt Schuster",
+    "bio": "inventor, coach, author 🧍🏿‍♀️",
     "gender": "FTM",
-    "birthdate": "2003-11-27T02:19:20.211Z",
-    "registeredAt": "2025-09-16T14:31:45.299Z"
+    "birthdate": "1975-06-25T22:43:28.103Z",
+    "registeredAt": "2025-04-28T13:14:12.717Z"
   },
   {
-    "userId": "f7416829-0f23-4fa8-a5d0-86c98dee56f7",
-    "fullName": "Matthew Cronin",
-    "bio": "pest advocate  😢",
-    "gender": "Gender fluid",
-    "birthdate": "1996-08-27T04:27:39.479Z",
-    "registeredAt": "2025-07-19T12:29:27.499Z"
+    "userId": "88f6645c-3cec-4ae0-838d-9ac82fd67dd3",
+    "fullName": "Lee Gulgowski I",
+    "bio": "verse enthusiast, film lover 🎫",
+    "gender": "Trigender",
+    "birthdate": "1962-07-12T01:26:28.608Z",
+    "registeredAt": "2025-07-15T08:05:06.907Z"
   },
   {
-    "userId": "ef35e88c-565b-4c82-b5d9-ddf1c1ae3e4d",
-    "fullName": "Emily Kris",
-    "bio": "leader, artist, teacher ⌨️",
-    "gender": "Genderflux",
-    "birthdate": "1964-01-30T12:09:28.087Z",
-    "registeredAt": "2026-02-24T02:33:37.936Z"
+    "userId": "711f4e42-eadd-4af7-9e8c-092e2658eb6c",
+    "fullName": "Saul Fisher",
+    "bio": "cleft advocate",
+    "gender": "Female to male transsexual man",
+    "birthdate": "1949-01-01T19:22:02.292Z",
+    "registeredAt": "2025-06-10T12:47:53.434Z"
   },
   {
-    "userId": "7179ccef-695e-44af-bab6-d146a98c8634",
-    "fullName": "Fredrick Yost",
-    "bio": "bear fan  👩🏼‍🦯",
-    "gender": "Intersex person",
-    "birthdate": "1964-04-16T07:25:47.061Z",
-    "registeredAt": "2026-03-06T14:51:33.732Z"
+    "userId": "d96e0d25-dba3-4441-a4e7-e81de7d105d4",
+    "fullName": "Eileen Murazik",
+    "bio": "potential devotee, patriot 🤾🏾‍♂️",
+    "gender": "M2F",
+    "birthdate": "1958-04-30T19:33:58.713Z",
+    "registeredAt": "2026-03-08T07:50:42.416Z"
   },
   {
-    "userId": "5409dd93-2bae-454c-a09f-772cb6b29e63",
-    "fullName": "Walter Bahringer",
-    "bio": "borrowing fan, activist 🖐🏻",
-    "gender": "Cis man",
-    "birthdate": "1991-09-24T14:57:40.542Z",
-    "registeredAt": "2025-07-02T06:52:09.149Z"
+    "userId": "fa502502-29d0-485a-92de-a8b6d390099b",
+    "fullName": "Garrett Johnston",
+    "bio": "surgery fan, model",
+    "gender": "Transgender female",
+    "birthdate": "1965-03-31T03:01:18.456Z",
+    "registeredAt": "2026-02-23T16:24:03.202Z"
+  },
+  {
+    "userId": "04a225a2-8032-47a9-a094-ced39bc2f6d0",
+    "fullName": "Stella Schmeler",
+    "bio": "grandpa fan, activist 🏖️",
+    "gender": "Transexual person",
+    "birthdate": "1989-01-18T00:50:46.400Z",
+    "registeredAt": "2025-09-12T19:10:09.497Z"
+  },
+  {
+    "userId": "f6a4bd16-d2c1-47f3-844a-604afec2d136",
+    "fullName": "Alexandra Klein",
+    "bio": "major-league advocate",
+    "gender": "Xenogender",
+    "birthdate": "1993-10-04T21:02:16.439Z",
+    "registeredAt": "2025-07-29T10:28:26.007Z"
+  },
+  {
+    "userId": "d3f5b2fb-f599-461c-82a2-414fe04d50d5",
+    "fullName": "Sandra Sanford",
+    "bio": "phrase lover, gamer 🇵🇲",
+    "gender": "Androgyne",
+    "birthdate": "1975-05-04T02:28:28.867Z",
+    "registeredAt": "2025-04-26T09:32:00.415Z"
+  },
+  {
+    "userId": "8a2459a8-87a7-4328-bb16-9cffa6d19a08",
+    "fullName": "Roland Ondricka",
+    "bio": "student",
+    "gender": "Trans person",
+    "birthdate": "1961-07-22T10:10:03.940Z",
+    "registeredAt": "2025-07-02T05:10:59.232Z"
+  },
+  {
+    "userId": "34a10966-bd49-424e-b897-430e26a368f8",
+    "fullName": "Mary Swaniawski",
+    "bio": "warming devotee  💂🏼",
+    "gender": "Demi-girl",
+    "birthdate": "1991-06-03T09:02:03.395Z",
+    "registeredAt": "2025-12-30T04:49:50.617Z"
+  },
+  {
+    "userId": "4b35326f-66de-483e-b6d9-f913a0d91d29",
+    "fullName": "Mario Carroll",
+    "bio": "listening advocate, veteran 👨🏽‍❤️‍💋‍👨🏾",
+    "gender": "Man",
+    "birthdate": "1962-01-12T13:28:35.390Z",
+    "registeredAt": "2025-08-10T09:19:15.569Z"
+  },
+  {
+    "userId": "4e3b8a00-ea41-4910-97ea-c9b5df9c1a9f",
+    "fullName": "Roy Waters IV",
+    "bio": "storyboard enthusiast  💩",
+    "gender": "F2M",
+    "birthdate": "2002-07-28T11:44:04.160Z",
+    "registeredAt": "2025-06-20T06:07:47.839Z"
   }
 ]
