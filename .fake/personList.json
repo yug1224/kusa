@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "userId": "86f1b2c4-b769-41e0-a9c1-ce4933cc55dc",
+    "fullName": "Dennis Ryan",
+    "bio": "geek",
+    "gender": "Transexual person",
+    "birthdate": "2001-02-13T22:10:44.818Z",
+    "registeredAt": "2025-10-15T21:05:14.050Z"
+  },
+  {
+    "userId": "bcf53ad6-69d2-4736-b39e-00e3f398bbd1",
+    "fullName": "Ms. Kendra Hermiston",
+    "bio": "founder, friend, activist",
+    "gender": "Trans",
+    "birthdate": "1983-05-10T15:59:20.997Z",
+    "registeredAt": "2025-04-02T13:02:53.503Z"
+  },
+  {
+    "userId": "2ef9b001-bd1e-4c00-9a67-fd314d8e117d",
+    "fullName": "Carol Johnston",
+    "bio": "creator, leader, friend",
+    "gender": "Woman",
+    "birthdate": "1976-04-16T06:40:52.610Z",
+    "registeredAt": "2025-10-24T01:04:54.359Z"
+  },
+  {
+    "userId": "d813c62b-3a32-4f70-83ec-0d235af22840",
+    "fullName": "Stanley Hodkiewicz",
+    "bio": "musician",
+    "gender": "Intersex",
+    "birthdate": "1982-01-27T14:43:30.098Z",
+    "registeredAt": "2025-03-14T19:48:05.235Z"
+  },
+  {
+    "userId": "9578f908-7498-4868-bf0a-03d0277ffd98",
+    "fullName": "Enrique Schaefer",
+    "bio": "magnet advocate",
+    "gender": "F2M",
+    "birthdate": "1976-01-11T13:38:28.882Z",
+    "registeredAt": "2025-05-03T13:33:08.604Z"
+  },
+  {
+    "userId": "e32ef41f-c7f4-491a-92eb-798b5ac9edf9",
+    "fullName": "Clarence Frami",
+    "bio": "differential junkie",
+    "gender": "Gender neutral",
+    "birthdate": "1965-07-06T01:07:22.596Z",
+    "registeredAt": "2025-09-20T11:26:03.608Z"
+  },
+  {
+    "userId": "f8e04381-69ed-4c7f-b39e-06e0dc215409",
+    "fullName": "Frank Renner",
+    "bio": "designer, parent",
+    "gender": "Demigender",
+    "birthdate": "1970-04-01T02:11:01.979Z",
+    "registeredAt": "2026-01-25T22:49:25.574Z"
+  },
+  {
+    "userId": "c082190d-ae1d-4f18-baf1-344dd782f186",
+    "fullName": "Matt McDermott",
+    "bio": "dreamer",
+    "gender": "Gender fluid",
+    "birthdate": "1966-07-01T12:43:15.738Z",
+    "registeredAt": "2025-11-12T16:49:29.657Z"
+  }
+]
