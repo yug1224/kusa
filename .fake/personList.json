@@ -1,10 +1,98 @@
 [
   {
-    "userId": "a807b9b4-6cff-4449-afe3-9b47d5446f98",
-    "fullName": "Gayle Schiller",
-    "bio": "dividend junkie",
+    "userId": "05a7b548-2cd3-41e3-9361-d998376673fc",
+    "fullName": "Crystal Roob",
+    "bio": "approach junkie, nerd 🍢",
+    "gender": "Demi-woman",
+    "birthdate": "1998-05-25T06:22:12.929Z",
+    "registeredAt": "2025-05-30T04:19:41.447Z"
+  },
+  {
+    "userId": "849e4816-dd53-4b7e-884b-6cb81f0272e9",
+    "fullName": "Ron White",
+    "bio": "photographer, creator, designer 🤕",
+    "gender": "Cis",
+    "birthdate": "1956-01-26T07:07:10.540Z",
+    "registeredAt": "2025-05-03T11:33:37.557Z"
+  },
+  {
+    "userId": "1365f5c2-40e9-495b-97ad-515a7cb27804",
+    "fullName": "Doug Harber",
+    "bio": "film lover, public speaker, student",
+    "gender": "Genderflux",
+    "birthdate": "1995-08-05T23:07:18.230Z",
+    "registeredAt": "2025-03-19T15:10:40.458Z"
+  },
+  {
+    "userId": "8ee9b6ab-e410-4fba-a46a-5b3f3ecfb2a7",
+    "fullName": "Helen Runolfsson",
+    "bio": "musician",
+    "gender": "MTF",
+    "birthdate": "1996-05-09T20:29:18.545Z",
+    "registeredAt": "2025-06-12T05:26:53.571Z"
+  },
+  {
+    "userId": "32b0f43f-35d6-4fed-9a8c-89adce02576f",
+    "fullName": "Alfred Stehr",
+    "bio": "cursor advocate, creator ⏏️",
+    "gender": "Gender neutral",
+    "birthdate": "1977-04-13T15:15:28.196Z",
+    "registeredAt": "2025-10-24T01:53:21.487Z"
+  },
+  {
+    "userId": "fe679455-bbf5-4b17-b4ae-20a6410230b8",
+    "fullName": "Luke Goyette",
+    "bio": "business owner, student, philosopher",
+    "gender": "Androgynous",
+    "birthdate": "1964-02-24T09:26:49.454Z",
+    "registeredAt": "2025-05-14T19:58:44.451Z"
+  },
+  {
+    "userId": "ed2075a0-c008-4fd8-b916-ec6091d15e1e",
+    "fullName": "Renee Quigley",
+    "bio": "toque supporter, parent 🌤️",
+    "gender": "Female to male",
+    "birthdate": "1979-02-12T23:27:04.173Z",
+    "registeredAt": "2025-12-30T22:28:43.815Z"
+  },
+  {
+    "userId": "2009bb30-bdd5-4e31-ac6f-12e85286ae45",
+    "fullName": "Gwendolyn Cartwright",
+    "bio": "founder",
+    "gender": "Trans",
+    "birthdate": "1948-12-15T21:32:07.723Z",
+    "registeredAt": "2026-01-29T05:33:50.533Z"
+  },
+  {
+    "userId": "10963e7a-dae7-4205-ac8e-7f943a3adcfd",
+    "fullName": "Stella Dickens III",
+    "bio": "philosopher, founder",
+    "gender": "T* man",
+    "birthdate": "1951-09-19T09:01:24.835Z",
+    "registeredAt": "2025-08-05T15:09:04.723Z"
+  },
+  {
+    "userId": "592c4b52-335d-4aa3-9195-f62ed01a082e",
+    "fullName": "Tiffany Denesik",
+    "bio": "parade lover",
     "gender": "Two-spirit person",
-    "birthdate": "1983-05-20T22:41:24.645Z",
-    "registeredAt": "2025-04-12T17:07:46.102Z"
+    "birthdate": "1963-01-07T04:44:10.231Z",
+    "registeredAt": "2025-09-18T00:45:51.310Z"
+  },
+  {
+    "userId": "f49e9618-eb1f-467c-8fac-520c05652e03",
+    "fullName": "Elvira Franecki",
+    "bio": "descendant advocate",
+    "gender": "Demiflux",
+    "birthdate": "2006-08-24T22:11:08.993Z",
+    "registeredAt": "2025-03-31T04:18:39.642Z"
+  },
+  {
+    "userId": "f5807bce-ea73-4713-a11a-146a98492883",
+    "fullName": "Ruben Conn",
+    "bio": "filmmaker",
+    "gender": "T* man",
+    "birthdate": "1969-03-20T03:38:22.344Z",
+    "registeredAt": "2025-03-22T02:10:35.443Z"
   }
 ]
