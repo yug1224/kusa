@@ -1,146 +1,18 @@
 [
   {
-    "userId": "2a2a4662-4951-43e1-9324-e6a6ad78b0cb",
-    "fullName": "Leon Fadel",
-    "bio": "sideboard devotee, philosopher",
-    "gender": "Cis",
-    "birthdate": "1963-07-14T17:23:49.845Z",
-    "registeredAt": "2025-10-01T01:09:52.759Z"
-  },
-  {
-    "userId": "2691b26c-3aa9-4d04-a0fb-724fcb182755",
-    "fullName": "Clayton Yost",
-    "bio": "veteran, writer",
-    "gender": "Transexual man",
-    "birthdate": "2003-04-20T07:56:28.343Z",
-    "registeredAt": "2026-01-23T16:43:38.573Z"
-  },
-  {
-    "userId": "29c4fb16-0f97-41a2-8891-159ee5694e76",
-    "fullName": "Erin Dickens",
-    "bio": "celsius enthusiast, geek",
+    "userId": "3fa0c569-ace4-4999-b6b2-490d0cd603eb",
+    "fullName": "Becky Schneider",
+    "bio": "designer, philosopher, public speaker 🟨",
     "gender": "Female to male trans man",
-    "birthdate": "1958-02-16T15:13:45.047Z",
-    "registeredAt": "2026-02-13T08:53:27.441Z"
+    "birthdate": "1997-09-12T12:18:47.309Z",
+    "registeredAt": "2025-03-20T01:27:15.336Z"
   },
   {
-    "userId": "7b11602e-3e9a-4f85-866a-9a93541b58f6",
-    "fullName": "Roland Howe",
-    "bio": "inventor",
-    "gender": "Woman",
-    "birthdate": "1951-05-08T11:27:47.104Z",
-    "registeredAt": "2025-11-01T05:42:44.488Z"
-  },
-  {
-    "userId": "a432f50d-d384-4946-9d41-fdc7f9e4a32f",
-    "fullName": "Cornelius Schaden",
-    "bio": "coach",
-    "gender": "Two-spirit person",
-    "birthdate": "1968-08-11T05:37:58.716Z",
-    "registeredAt": "2025-05-04T22:15:27.133Z"
-  },
-  {
-    "userId": "48eb7c76-ea62-4410-a74f-dcfa7a8a7206",
-    "fullName": "Michelle Brown",
-    "bio": "leader",
-    "gender": "MTF",
-    "birthdate": "1969-11-29T07:35:51.626Z",
-    "registeredAt": "2025-12-25T02:49:55.796Z"
-  },
-  {
-    "userId": "940dcb86-738f-4c56-85f4-5fb01f9bc8d4",
-    "fullName": "Lucille Johns",
-    "bio": "foodie, writer, blogger",
-    "gender": "Cisgender female",
-    "birthdate": "1962-01-27T05:35:35.756Z",
-    "registeredAt": "2025-12-07T13:58:26.817Z"
-  },
-  {
-    "userId": "ffd39a50-547e-4382-8acd-d8c528d4e617",
-    "fullName": "Ms. Josefina Corwin",
-    "bio": "actor devotee, dreamer 🇮🇶",
-    "gender": "Two-spirit",
-    "birthdate": "1969-08-03T21:38:44.368Z",
-    "registeredAt": "2025-10-17T10:33:43.265Z"
-  },
-  {
-    "userId": "bacac99b-9798-437e-bcba-1cf5a7a3872b",
-    "fullName": "Luke Beatty-Frami",
-    "bio": "prestige devotee",
-    "gender": "Transexual",
-    "birthdate": "1975-02-28T18:33:34.014Z",
-    "registeredAt": "2025-03-12T18:21:03.161Z"
-  },
-  {
-    "userId": "e244bd20-b47e-4d7a-92ee-342c2cb758e4",
-    "fullName": "Glen Rodriguez",
-    "bio": "writer, traveler, model 🎚️",
-    "gender": "Transgender female",
-    "birthdate": "1998-07-14T05:39:25.872Z",
-    "registeredAt": "2025-05-18T22:04:39.639Z"
-  },
-  {
-    "userId": "61889022-0026-404d-800f-25b71eb584e3",
-    "fullName": "Santiago Barton",
-    "bio": "musician, creator, leader",
-    "gender": "Cisgender woman",
-    "birthdate": "1993-07-17T00:18:59.418Z",
-    "registeredAt": "2025-12-24T05:30:49.227Z"
-  },
-  {
-    "userId": "1b6bc886-3294-4e2e-88b0-2a2a3e670995",
-    "fullName": "Saul Swaniawski",
-    "bio": "blogger, photographer, environmentalist",
-    "gender": "Gender fluid",
-    "birthdate": "1958-07-06T11:42:40.420Z",
-    "registeredAt": "2026-03-11T16:09:13.395Z"
-  },
-  {
-    "userId": "c4f2cea5-0d30-49b9-9e43-47d1c9183b3f",
-    "fullName": "Kirk Rutherford",
-    "bio": "type supporter, grad",
-    "gender": "Demi-man",
-    "birthdate": "1946-02-22T23:06:27.729Z",
-    "registeredAt": "2026-02-14T14:23:40.225Z"
-  },
-  {
-    "userId": "9c4e18b3-8026-46de-8d2f-a1c4b8704cc8",
-    "fullName": "Joanne Armstrong",
-    "bio": "oncology advocate",
-    "gender": "Cisgender male",
-    "birthdate": "1961-02-09T13:34:41.143Z",
-    "registeredAt": "2025-03-27T23:36:55.480Z"
-  },
-  {
-    "userId": "3b6b99b5-9a6d-41af-a71a-796d00b86a9f",
-    "fullName": "Mr. Sherman Dibbert IV",
-    "bio": "lark junkie  🍙",
-    "gender": "Androgynous",
-    "birthdate": "1994-02-02T20:17:57.463Z",
-    "registeredAt": "2025-04-18T20:22:45.506Z"
-  },
-  {
-    "userId": "8908bc9b-6bf2-4ab4-ab31-9c93fb42c12b",
-    "fullName": "Milton Effertz",
-    "bio": "coach, founder",
-    "gender": "Transexual",
-    "birthdate": "1972-05-17T08:34:01.939Z",
-    "registeredAt": "2026-01-13T21:04:55.202Z"
-  },
-  {
-    "userId": "a04ce163-36ea-422b-b1ba-b550cf4ef5fa",
-    "fullName": "Mrs. Christie Lockman",
-    "bio": "training fan",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1951-01-04T11:52:42.256Z",
-    "registeredAt": "2025-10-21T11:57:55.333Z"
-  },
-  {
-    "userId": "27760fff-66dd-4b16-9298-8362e771fcb0",
-    "fullName": "Marcos Leffler",
-    "bio": "nerd, traveler, musician",
-    "gender": "Male to female trans woman",
-    "birthdate": "1978-08-11T14:34:58.992Z",
-    "registeredAt": "2025-05-23T17:04:49.450Z"
+    "userId": "b0e3fbc1-d0fc-4f76-8dcb-efa22dcd5d0e",
+    "fullName": "Dennis Ritchie",
+    "bio": "environmentalist, veteran, photographer 🌠",
+    "gender": "Multigender",
+    "birthdate": "1979-10-02T09:21:41.213Z",
+    "registeredAt": "2025-05-28T18:01:13.417Z"
   }
 ]
