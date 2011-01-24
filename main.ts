@@ -66,14 +66,14 @@ const diff = () => {
 
 // dateがendの日時を過ぎるまで続ける
 while (diff()) {
-  // 月-金判定
-  const isWeekday = +date.format("d") > 0 && +date.format("d") < 6;
+  // // 月-金判定
+  // const isWeekday = +date.format("d") > 0 && +date.format("d") < 6;
 
-  // 21-4時判定
-  const isWorkTime = +date.format("h") >= 21 && +date.format("h") <= 4;
+  // 21-3時判定
+  const isWorkTime = +date.format("h") >= 21 && +date.format("h") <= 3;
 
   // 1/n判定
-  const n = isWeekday && isWorkTime ? wd : hd;
+  const n = isWorkTime ? wd : hd;
 
   // 月-金で21-4時の間で1/5の確率でgit commitを行う
   // 土日もしくは日中帯の間で1/50の確率でgit commitを行う
