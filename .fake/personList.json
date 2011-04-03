@@ -1,162 +1,66 @@
 [
   {
-    "userId": "43e19f14-02ac-4fa8-a243-fcc9760beb83",
-    "fullName": "Ramona Medhurst",
-    "bio": "filmmaker, scientist, artist 7️⃣",
-    "gender": "Transgender person",
-    "birthdate": "2005-06-17T20:23:20.232Z",
-    "registeredAt": "2024-01-18T00:30:50.692Z"
-  },
-  {
-    "userId": "b846ff44-176b-4136-9141-2d4c4341d343",
-    "fullName": "Emanuel Gutkowski",
-    "bio": "scientist, filmmaker, patriot 🎉",
-    "gender": "Woman",
-    "birthdate": "1953-12-02T10:01:58.786Z",
-    "registeredAt": "2023-04-14T15:24:38.620Z"
-  },
-  {
-    "userId": "47c3a22d-0a48-446d-a6ee-7b9297ddb77f",
-    "fullName": "Shelia Hintz",
-    "bio": "mechanism advocate",
-    "gender": "M2F",
-    "birthdate": "1991-01-25T15:09:42.217Z",
-    "registeredAt": "2023-11-16T09:58:52.899Z"
-  },
-  {
-    "userId": "69ca3a6d-9eba-48c2-b3b5-d32e7bc26c6d",
-    "fullName": "Joy Jaskolski-Harber",
-    "bio": "hyacinth enthusiast  😨",
-    "gender": "Intersex man",
-    "birthdate": "1945-02-01T04:45:15.235Z",
-    "registeredAt": "2024-02-03T05:20:42.315Z"
-  },
-  {
-    "userId": "0f6547ac-d6a1-4f89-988c-9e21ed85806a",
-    "fullName": "Barry Bogan",
-    "bio": "target supporter  🇨🇼",
-    "gender": "Two-spirit person",
-    "birthdate": "1957-08-19T14:46:51.016Z",
-    "registeredAt": "2024-01-13T10:29:20.066Z"
-  },
-  {
-    "userId": "8faf31be-28ba-4a52-8886-5807fcaa1774",
-    "fullName": "Orlando Bruen",
-    "bio": "shallows enthusiast  1️⃣",
-    "gender": "Woman",
-    "birthdate": "1977-01-03T22:53:31.723Z",
-    "registeredAt": "2023-11-20T11:12:54.845Z"
-  },
-  {
-    "userId": "260be77c-8aa9-45fd-96e7-62790a927145",
-    "fullName": "Jerry Anderson",
-    "bio": "educator, educator, model 🇲🇸",
-    "gender": "Agender",
-    "birthdate": "1975-03-01T08:35:28.397Z",
-    "registeredAt": "2024-02-10T15:40:25.389Z"
-  },
-  {
-    "userId": "2ec59e28-0f13-4aa3-b009-04905e379b0d",
-    "fullName": "Hector Wuckert",
-    "bio": "inventor",
-    "gender": "Cis",
-    "birthdate": "1980-11-05T04:03:54.086Z",
-    "registeredAt": "2024-03-22T05:48:23.788Z"
-  },
-  {
-    "userId": "85b02b27-e132-4fa2-956b-a92e4163dc12",
-    "fullName": "Guadalupe Bosco",
-    "bio": "engineer",
-    "gender": "Trans male",
-    "birthdate": "2003-11-07T13:44:57.669Z",
-    "registeredAt": "2024-03-07T05:08:16.306Z"
-  },
-  {
-    "userId": "60a65565-09d6-441f-a6cd-3079c6c22257",
-    "fullName": "Damon Sporer",
-    "bio": "inventor, friend, photographer 😠",
-    "gender": "MTF",
-    "birthdate": "1998-09-27T12:41:28.540Z",
-    "registeredAt": "2024-02-27T15:00:01.842Z"
-  },
-  {
-    "userId": "e1240afe-7b28-4421-90ff-ac487a0662a9",
-    "fullName": "Joy Carroll",
-    "bio": "business owner, business owner, founder",
-    "gender": "Transgender female",
-    "birthdate": "1991-10-14T21:14:26.747Z",
-    "registeredAt": "2023-08-04T04:13:51.920Z"
-  },
-  {
-    "userId": "8a55279f-b047-49d3-a960-02bc3d674da4",
-    "fullName": "Mr. Jake Brekke-Ward",
-    "bio": "qualification fan, friend 🇵🇼",
-    "gender": "Agender",
-    "birthdate": "1984-09-04T14:39:25.034Z",
-    "registeredAt": "2023-08-20T07:35:16.424Z"
-  },
-  {
-    "userId": "6d888673-01ab-4a6d-b575-fcd8b6f7bb01",
-    "fullName": "Heidi Hermann",
-    "bio": "malnutrition junkie  🉐",
-    "gender": "Gender fluid",
-    "birthdate": "2006-01-22T07:44:21.871Z",
-    "registeredAt": "2023-07-07T06:38:44.392Z"
-  },
-  {
-    "userId": "696e2698-2711-4b18-9981-261aa9c99732",
-    "fullName": "Israel Marquardt",
-    "bio": "stitch enthusiast, musician 🍱",
-    "gender": "Trans woman",
-    "birthdate": "1963-12-25T03:52:04.907Z",
-    "registeredAt": "2023-09-19T23:03:53.037Z"
-  },
-  {
-    "userId": "410490c1-e45f-41ac-81a1-be2c20823663",
-    "fullName": "Dr. Max Goldner",
-    "bio": "artist, developer, foodie",
-    "gender": "Trans",
-    "birthdate": "2002-06-28T17:46:07.079Z",
-    "registeredAt": "2024-01-01T12:36:54.729Z"
-  },
-  {
-    "userId": "e464f510-809c-4d20-ae63-61f34f727df0",
-    "fullName": "Elena Schultz",
-    "bio": "miscommunication fan",
-    "gender": "Transexual man",
-    "birthdate": "1996-05-16T00:05:58.691Z",
-    "registeredAt": "2023-11-02T15:56:40.179Z"
-  },
-  {
-    "userId": "d8a22628-44ea-4a9e-b09d-04d5e8c94fe6",
-    "fullName": "Miss Karla Satterfield",
-    "bio": "oeuvre enthusiast, author",
-    "gender": "Transexual man",
-    "birthdate": "1968-02-07T00:23:15.690Z",
-    "registeredAt": "2024-02-10T07:51:20.195Z"
-  },
-  {
-    "userId": "5b7b55ff-f811-44ad-b64a-3540d5f80ec8",
-    "fullName": "Dr. Jesse Kautzer",
-    "bio": "go-kart junkie, traveler 🐈‍⬛",
-    "gender": "Xenogender",
-    "birthdate": "1988-06-09T15:22:31.324Z",
-    "registeredAt": "2023-09-25T07:01:53.155Z"
-  },
-  {
-    "userId": "f79f3f97-5f06-4e91-844c-3dd50c371b93",
-    "fullName": "Miss Edna Harris",
-    "bio": "dahlia lover",
+    "userId": "4b842638-3b36-40f2-91a7-c738f7f5bf99",
+    "fullName": "Clark Durgan I",
+    "bio": "coach",
     "gender": "Multigender",
-    "birthdate": "1949-05-12T23:04:13.649Z",
-    "registeredAt": "2023-03-27T16:10:51.887Z"
+    "birthdate": "1952-06-05T17:30:20.310Z",
+    "registeredAt": "2023-07-18T09:47:50.987Z"
   },
   {
-    "userId": "976d4490-cdf7-4a08-a631-57fffba04cf0",
-    "fullName": "Ian Smitham",
-    "bio": "author, entrepreneur, entrepreneur 🤴🏽",
-    "gender": "Transmasculine",
-    "birthdate": "1963-11-13T08:19:45.391Z",
-    "registeredAt": "2023-04-13T16:45:48.617Z"
+    "userId": "50373d53-8696-4e09-8f72-d93ad3f8208b",
+    "fullName": "Paula Beer",
+    "bio": "scientist, geek, author 🀄",
+    "gender": "Cisgender woman",
+    "birthdate": "1977-02-27T18:31:34.147Z",
+    "registeredAt": "2023-06-25T13:41:53.699Z"
+  },
+  {
+    "userId": "ee3a5fa0-ce30-449f-96d0-31b97abf2f95",
+    "fullName": "Anita Emmerich",
+    "bio": "ramen devotee, leader 🧍🏿‍♂️",
+    "gender": "Transexual woman",
+    "birthdate": "1994-04-10T12:25:00.983Z",
+    "registeredAt": "2023-11-13T09:36:04.361Z"
+  },
+  {
+    "userId": "973bb7cf-bc76-472d-a3aa-c3cc4e033208",
+    "fullName": "Salvatore Mayert",
+    "bio": "leader",
+    "gender": "Cisgender male",
+    "birthdate": "1954-06-16T20:29:57.986Z",
+    "registeredAt": "2023-11-18T20:35:03.857Z"
+  },
+  {
+    "userId": "0d79b044-7bc3-4230-85ad-fe6001493f4d",
+    "fullName": "Jodi Schamberger-Kautzer",
+    "bio": "writer, environmentalist, public speaker",
+    "gender": "Cisgender man",
+    "birthdate": "1995-09-07T14:55:46.252Z",
+    "registeredAt": "2023-11-16T11:06:32.257Z"
+  },
+  {
+    "userId": "441d4970-f712-4683-be47-a6463d77a1d7",
+    "fullName": "Judy Simonis DDS",
+    "bio": "eyelash fan  🇱🇹",
+    "gender": "Demi-girl",
+    "birthdate": "2001-07-02T18:47:41.098Z",
+    "registeredAt": "2023-12-30T04:48:34.627Z"
+  },
+  {
+    "userId": "02c7b10e-6965-4bdc-9d5b-eb96ad9510ef",
+    "fullName": "Aaron Jacobi DDS",
+    "bio": "friend, developer, author",
+    "gender": "Gender questioning",
+    "birthdate": "1995-01-21T18:46:42.519Z",
+    "registeredAt": "2023-11-24T14:10:07.410Z"
+  },
+  {
+    "userId": "b890e7cc-7524-4b1e-885e-205de22172a7",
+    "fullName": "Tricia Kshlerin",
+    "bio": "streamer, entrepreneur",
+    "gender": "Hermaphrodite",
+    "birthdate": "1972-05-14T22:50:20.183Z",
+    "registeredAt": "2024-03-16T10:11:23.416Z"
   }
 ]
