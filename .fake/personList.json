@@ -1,162 +1,98 @@
 [
   {
-    "userId": "ba491e84-88e8-4c8a-a114-990433a85362",
-    "fullName": "Peter Fritsch",
-    "bio": "activist, student",
-    "gender": "FTM",
-    "birthdate": "1985-08-28T18:36:49.644Z",
-    "registeredAt": "2025-05-30T22:20:04.052Z"
-  },
-  {
-    "userId": "74c5ec70-6ae2-4834-866b-a10924ab4504",
-    "fullName": "Ms. Megan Robel",
-    "bio": "business owner",
-    "gender": "Trigender",
-    "birthdate": "1992-08-13T02:02:08.601Z",
-    "registeredAt": "2025-09-15T19:43:58.784Z"
-  },
-  {
-    "userId": "dcf8d604-a7a6-42cd-8a12-136603c923e0",
-    "fullName": "Marty Schmitt",
-    "bio": "founder, activist",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1985-02-06T13:30:43.181Z",
-    "registeredAt": "2025-11-03T04:10:34.749Z"
-  },
-  {
-    "userId": "a772e27d-d0fd-4349-a94a-6c3ec73e2de1",
-    "fullName": "Beulah Kuhic",
-    "bio": "noodle fan  🏯",
-    "gender": "Two-spirit",
-    "birthdate": "1980-07-10T09:52:31.523Z",
-    "registeredAt": "2025-09-24T18:40:13.144Z"
-  },
-  {
-    "userId": "d06dbba8-6a18-4413-82ca-b670d42c890f",
-    "fullName": "Freddie Grimes",
-    "bio": "mink advocate  ☂️",
-    "gender": "Cisgender female",
-    "birthdate": "1990-12-13T22:48:57.838Z",
-    "registeredAt": "2025-08-28T13:19:28.414Z"
-  },
-  {
-    "userId": "b51359cf-a8bc-4b6b-a2cb-9c2778299ebd",
-    "fullName": "Iris Rodriguez",
-    "bio": "writer, gamer",
-    "gender": "Transexual person",
-    "birthdate": "2004-12-23T07:50:43.091Z",
-    "registeredAt": "2025-05-01T14:50:25.947Z"
-  },
-  {
-    "userId": "ad879079-d279-4307-a07c-a8df7f262d17",
-    "fullName": "Miss Miranda Pfeffer",
-    "bio": "confidence advocate",
-    "gender": "Trans male",
-    "birthdate": "2007-07-18T21:42:12.936Z",
-    "registeredAt": "2026-03-11T04:23:06.737Z"
-  },
-  {
-    "userId": "588f7845-832b-4265-85cb-b0411b9c9ac9",
-    "fullName": "Bennie Bosco",
-    "bio": "foodie, business owner, environmentalist 👩🏿‍✈️",
-    "gender": "Transgender person",
-    "birthdate": "1972-11-29T04:08:01.180Z",
-    "registeredAt": "2025-07-19T09:46:35.998Z"
-  },
-  {
-    "userId": "51de7e53-8e0e-48a3-872d-0b5e50f29b81",
-    "fullName": "Winston Fahey",
-    "bio": "depot junkie, philosopher 🤲",
-    "gender": "Demi-woman",
-    "birthdate": "1948-08-03T19:20:18.953Z",
-    "registeredAt": "2025-11-24T15:03:58.837Z"
-  },
-  {
-    "userId": "0b335a86-a512-4e09-a672-9fce7420606b",
-    "fullName": "Dr. Timmy Boyle-Schmidt",
-    "bio": "underwire junkie",
-    "gender": "Man",
-    "birthdate": "1996-04-22T15:04:59.440Z",
-    "registeredAt": "2025-07-24T16:27:31.986Z"
-  },
-  {
-    "userId": "d4537fb8-29ee-467a-b9ba-9d340905fa9e",
-    "fullName": "Arlene Wuckert",
-    "bio": "friend, creator, author",
-    "gender": "Androgyne",
-    "birthdate": "1993-12-22T01:19:27.277Z",
-    "registeredAt": "2025-04-14T13:29:35.035Z"
-  },
-  {
-    "userId": "78bf2e06-075f-40ab-9f84-c825056dc23b",
-    "fullName": "Jeanette Reichel",
-    "bio": "developer, entrepreneur",
-    "gender": "Cisgender man",
-    "birthdate": "1955-09-01T05:23:15.486Z",
-    "registeredAt": "2025-07-22T13:39:31.500Z"
-  },
-  {
-    "userId": "e214340f-60b2-4c46-942e-d6c7639029c7",
-    "fullName": "Darnell Mosciski",
-    "bio": "teacher, artist, blogger 🙎🏾",
-    "gender": "Gender fluid",
-    "birthdate": "1953-09-28T18:21:13.054Z",
-    "registeredAt": "2025-08-11T16:24:44.553Z"
-  },
-  {
-    "userId": "27b9f49c-f3d8-4f67-993a-152c98ae77e0",
-    "fullName": "Tracy Emard",
-    "bio": "educator, student, parent 📼",
-    "gender": "Trans",
-    "birthdate": "1991-02-08T07:03:33.399Z",
-    "registeredAt": "2025-11-03T08:50:54.306Z"
-  },
-  {
-    "userId": "9a07f735-4c6b-4cc1-bdd1-d8577c6d3e57",
-    "fullName": "Clara Armstrong",
-    "bio": "anarchist enthusiast, author",
-    "gender": "F2M",
-    "birthdate": "1949-03-28T17:02:26.032Z",
-    "registeredAt": "2025-10-15T14:22:40.106Z"
-  },
-  {
-    "userId": "62e233fe-1143-4913-a94c-f241fb0d9330",
-    "fullName": "Joann Okuneva PhD",
-    "bio": "photographer, singer, developer",
-    "gender": "Transmasculine",
-    "birthdate": "1952-09-12T15:28:12.352Z",
-    "registeredAt": "2025-05-15T14:13:12.529Z"
-  },
-  {
-    "userId": "a7a12318-752b-4f52-88d6-e1ef4fe84e71",
-    "fullName": "Gladys Emmerich",
-    "bio": "business owner",
-    "gender": "Trans",
-    "birthdate": "1995-10-24T06:58:45.301Z",
-    "registeredAt": "2025-05-25T02:54:56.627Z"
-  },
-  {
-    "userId": "ba3ecc4d-d492-4771-af1a-285f6ab05d4e",
-    "fullName": "Jan Borer",
-    "bio": "photographer, person, teacher 👺",
-    "gender": "MTF",
-    "birthdate": "1964-12-26T15:23:17.689Z",
-    "registeredAt": "2025-11-25T17:30:56.736Z"
-  },
-  {
-    "userId": "85b42d7a-8113-41f0-ac68-56cc7f0330c7",
-    "fullName": "Billy Bahringer",
-    "bio": "swordfish advocate",
+    "userId": "efb32eab-78c5-443d-9e7b-fb0115492b01",
+    "fullName": "Mary Kilback",
+    "bio": "entrepreneur, veteran, writer 🌿",
     "gender": "Hermaphrodite",
-    "birthdate": "1948-07-12T15:02:20.462Z",
-    "registeredAt": "2025-08-02T03:18:55.714Z"
+    "birthdate": "1950-08-09T14:31:53.332Z",
+    "registeredAt": "2025-11-08T12:55:40.383Z"
   },
   {
-    "userId": "ee6c18d0-aadc-4f34-bf82-8b36fccf439d",
-    "fullName": "Darrel Wisozk",
-    "bio": "upstairs lover, environmentalist 🍒",
-    "gender": "Man",
-    "birthdate": "1983-09-17T19:26:30.452Z",
-    "registeredAt": "2025-06-16T01:31:59.912Z"
+    "userId": "dacbf19c-c923-4fa5-a3d2-6b03a627b494",
+    "fullName": "Beth Rempel MD",
+    "bio": "geek, veteran",
+    "gender": "Two* person",
+    "birthdate": "1963-03-14T01:03:21.517Z",
+    "registeredAt": "2025-11-15T12:19:51.701Z"
+  },
+  {
+    "userId": "de9062ce-2753-4330-b5ce-6021f8bee75f",
+    "fullName": "Yvette Frami",
+    "bio": "philosopher, artist",
+    "gender": "Trans",
+    "birthdate": "1946-01-30T09:09:58.652Z",
+    "registeredAt": "2026-02-01T15:44:36.364Z"
+  },
+  {
+    "userId": "3d1cd276-67c3-4c80-98e9-0a9278a1a515",
+    "fullName": "Erma Franecki",
+    "bio": "gamer",
+    "gender": "Demi-woman",
+    "birthdate": "1951-03-09T03:48:36.862Z",
+    "registeredAt": "2025-12-30T16:26:58.089Z"
+  },
+  {
+    "userId": "a991646b-7b22-4a1e-a67a-cd08f7f6f0f8",
+    "fullName": "Jennie Herzog",
+    "bio": "fine junkie, founder",
+    "gender": "Demi-boy",
+    "birthdate": "1993-06-22T02:30:05.990Z",
+    "registeredAt": "2025-05-01T08:37:48.010Z"
+  },
+  {
+    "userId": "12170037-0bd0-48bf-ae9d-f3a349689770",
+    "fullName": "Jan Frami",
+    "bio": "environmentalist",
+    "gender": "Two-spirit person",
+    "birthdate": "1953-08-16T04:46:50.140Z",
+    "registeredAt": "2026-02-17T10:44:20.471Z"
+  },
+  {
+    "userId": "90204bd1-0a98-4e33-8353-02c2b1d0cbd5",
+    "fullName": "Stella Blick",
+    "bio": "well-being junkie",
+    "gender": "Female to male trans man",
+    "birthdate": "1972-03-25T22:08:45.248Z",
+    "registeredAt": "2026-02-13T07:20:48.481Z"
+  },
+  {
+    "userId": "7bb5bc80-ba51-4598-8b6f-545d470bf044",
+    "fullName": "Rachael Denesik",
+    "bio": "hike devotee, business owner 🇧🇪",
+    "gender": "Demiflux",
+    "birthdate": "2002-12-22T18:18:46.804Z",
+    "registeredAt": "2025-09-16T21:30:55.503Z"
+  },
+  {
+    "userId": "3061bb0a-313f-4370-bf74-ad0e6fac1d2c",
+    "fullName": "Jake Kassulke",
+    "bio": "grad, parent, philosopher",
+    "gender": "Genderqueer",
+    "birthdate": "1962-12-15T03:04:40.908Z",
+    "registeredAt": "2025-04-18T21:37:08.424Z"
+  },
+  {
+    "userId": "82957d52-650a-459a-8a2b-08358c508e3e",
+    "fullName": "Mrs. Laura Harvey",
+    "bio": "developer",
+    "gender": "Transexual man",
+    "birthdate": "1979-11-30T18:19:03.020Z",
+    "registeredAt": "2025-04-30T13:35:04.658Z"
+  },
+  {
+    "userId": "8317f8cf-64d1-4908-810e-fa76a7bb9e32",
+    "fullName": "Mary Boehm",
+    "bio": "friend, person, developer 😄",
+    "gender": "Cis woman",
+    "birthdate": "1963-03-11T23:10:55.211Z",
+    "registeredAt": "2025-09-29T02:42:45.328Z"
+  },
+  {
+    "userId": "4e948b0b-5d03-4cee-8fff-1cc0ca25a480",
+    "fullName": "Devin Kozey DVM",
+    "bio": "business owner, inventor, inventor",
+    "gender": "F2M",
+    "birthdate": "1987-04-11T00:48:31.924Z",
+    "registeredAt": "2025-07-15T10:42:14.804Z"
   }
 ]
