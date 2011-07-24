@@ -1,90 +1,74 @@
 [
   {
-    "userId": "23fcebdf-511b-4cdb-8038-7aa43781b49c",
-    "fullName": "Owen Shields",
-    "bio": "teen supporter, scientist",
-    "gender": "M2F",
-    "birthdate": "1967-10-31T13:12:56.275Z",
-    "registeredAt": "2025-07-15T10:00:44.881Z"
-  },
-  {
-    "userId": "5290a275-e1f0-4bc3-9086-b0ec7e8d2b65",
-    "fullName": "Dr. Mack Stoltenberg I",
-    "bio": "vacation fan, foodie",
-    "gender": "Demi-woman",
-    "birthdate": "1987-04-29T23:09:54.656Z",
-    "registeredAt": "2026-01-14T04:29:50.560Z"
-  },
-  {
-    "userId": "169642a0-2266-4576-9214-320b68a90da7",
-    "fullName": "Bonnie Will",
-    "bio": "affidavit devotee",
-    "gender": "Female to male",
-    "birthdate": "1984-03-25T18:46:27.799Z",
-    "registeredAt": "2025-06-24T01:51:45.578Z"
-  },
-  {
-    "userId": "a39bb8be-a2c0-4160-80f8-ee74e175db1e",
-    "fullName": "Natalie Schroeder",
-    "bio": "scientist, streamer, filmmaker",
-    "gender": "Transexual",
-    "birthdate": "1959-11-09T19:38:32.158Z",
-    "registeredAt": "2025-09-24T22:15:29.729Z"
-  },
-  {
-    "userId": "5aa7fa57-36ba-4c54-a397-d7e0c9ef9ce7",
-    "fullName": "Isaac Greenholt",
-    "bio": "filmmaker, designer, nerd 🎾",
-    "gender": "Intersex woman",
-    "birthdate": "1997-06-16T08:48:30.326Z",
-    "registeredAt": "2025-11-14T08:14:02.258Z"
-  },
-  {
-    "userId": "0deafed5-5a9c-4cc7-a43b-f8dc27024a34",
-    "fullName": "Ms. Sonia Wisozk",
-    "bio": "streamer",
-    "gender": "Woman",
-    "birthdate": "1982-08-17T05:58:34.000Z",
-    "registeredAt": "2025-10-04T11:47:09.307Z"
-  },
-  {
-    "userId": "aa56cea7-ce19-4538-8ca6-9fb5d8ef067b",
-    "fullName": "Denise Boehm",
-    "bio": "hay junkie  🍝",
-    "gender": "Multigender",
-    "birthdate": "1973-02-03T09:20:13.036Z",
-    "registeredAt": "2025-09-17T16:18:02.527Z"
-  },
-  {
-    "userId": "d53d09c3-b374-4426-b66c-eaefab651bbb",
-    "fullName": "Antoinette Schiller",
-    "bio": "patriot, engineer, student",
-    "gender": "Cisgender male",
-    "birthdate": "2001-12-01T15:43:53.967Z",
-    "registeredAt": "2025-12-01T08:25:54.294Z"
-  },
-  {
-    "userId": "2bab9123-755a-4124-a8e6-d9f22c131caa",
-    "fullName": "Jay Schroeder",
-    "bio": "fabric lover",
-    "gender": "Demi-woman",
-    "birthdate": "2006-08-13T20:40:54.742Z",
-    "registeredAt": "2025-07-27T00:47:18.802Z"
-  },
-  {
-    "userId": "edca8733-85a2-4115-a042-88d540608d88",
-    "fullName": "Shari Gutkowski",
-    "bio": "scientist, foodie, patriot",
-    "gender": "Cis female",
-    "birthdate": "1989-07-13T17:06:44.600Z",
-    "registeredAt": "2026-01-21T01:30:18.894Z"
-  },
-  {
-    "userId": "054549cc-908b-4826-b91d-744b902e030c",
-    "fullName": "Francis Zulauf",
-    "bio": "pita junkie",
+    "userId": "6daaa9a8-4bfd-4002-80a9-52eef9554e02",
+    "fullName": "Rex Kunde",
+    "bio": "advice fan",
     "gender": "Neither",
-    "birthdate": "1953-11-23T14:54:23.692Z",
-    "registeredAt": "2026-01-02T05:54:44.509Z"
+    "birthdate": "2006-10-21T19:46:58.449Z",
+    "registeredAt": "2026-01-18T20:23:58.736Z"
+  },
+  {
+    "userId": "9d913b1c-cd15-4035-bb49-7ef8b4579b35",
+    "fullName": "Elsa Larson",
+    "bio": "writer, designer, founder 👨🏾‍⚖️",
+    "gender": "Cisgender woman",
+    "birthdate": "1959-08-06T23:00:29.502Z",
+    "registeredAt": "2025-07-14T11:35:05.367Z"
+  },
+  {
+    "userId": "d35ca6e8-2b18-4028-a11f-6036bc6e472f",
+    "fullName": "Alfred Farrell",
+    "bio": "penguin junkie  🀄",
+    "gender": "Intersex man",
+    "birthdate": "1999-05-21T06:27:52.397Z",
+    "registeredAt": "2025-06-24T22:27:13.852Z"
+  },
+  {
+    "userId": "6e38b83b-1aae-47d1-b513-c5b1c42bb7f4",
+    "fullName": "Antonia Bernhard",
+    "bio": "environmentalist, film lover, blogger 🥦",
+    "gender": "Cisgender male",
+    "birthdate": "1972-05-06T10:05:45.071Z",
+    "registeredAt": "2025-10-05T02:32:36.267Z"
+  },
+  {
+    "userId": "d5f4d1b9-7452-4039-8f99-63bab38a8804",
+    "fullName": "Rachael Dare",
+    "bio": "photographer",
+    "gender": "Cisgender female",
+    "birthdate": "1995-09-20T10:14:16.392Z",
+    "registeredAt": "2025-05-06T08:00:16.261Z"
+  },
+  {
+    "userId": "82374f54-a875-4ab5-8aa9-a98a21240cba",
+    "fullName": "Shelley Blanda-Ullrich",
+    "bio": "conservative junkie, entrepreneur 🌲",
+    "gender": "F2M",
+    "birthdate": "2007-03-12T10:22:51.046Z",
+    "registeredAt": "2025-04-23T13:44:01.210Z"
+  },
+  {
+    "userId": "4eed627d-7df4-4688-83de-8eca9b671bee",
+    "fullName": "Kimberly Hermiston",
+    "bio": "environmentalist, creator, entrepreneur",
+    "gender": "T* woman",
+    "birthdate": "1974-12-09T17:36:30.902Z",
+    "registeredAt": "2026-01-12T18:05:53.827Z"
+  },
+  {
+    "userId": "4e55cb95-306f-4b4f-8f63-f0d1794b2469",
+    "fullName": "Iris Bashirian V",
+    "bio": "biplane advocate",
+    "gender": "Non-binary",
+    "birthdate": "1974-01-16T23:37:21.300Z",
+    "registeredAt": "2026-01-22T00:06:37.324Z"
+  },
+  {
+    "userId": "fb945f4f-c21f-437f-84dc-36ea85519efe",
+    "fullName": "Myrtle Goyette",
+    "bio": "volcano enthusiast  🤷🏽‍♀️",
+    "gender": "Male to female trans woman",
+    "birthdate": "1996-09-08T20:08:04.099Z",
+    "registeredAt": "2025-06-17T08:21:50.065Z"
   }
 ]
