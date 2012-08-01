@@ -1,162 +1,58 @@
 [
   {
-    "userId": "45edea3e-3ead-4b48-8f10-5b8bb52da035",
-    "fullName": "Luis Schumm",
-    "bio": "curio advocate, writer",
-    "gender": "Man",
-    "birthdate": "1997-03-17T13:13:43.126Z",
-    "registeredAt": "2025-03-26T01:00:53.773Z"
-  },
-  {
-    "userId": "a108f8e4-d58c-4177-a7bb-9f0a80d0c70e",
-    "fullName": "Willie Ferry",
-    "bio": "recording supporter, patriot 🌪️",
-    "gender": "Intersex woman",
-    "birthdate": "1970-05-20T14:30:35.382Z",
-    "registeredAt": "2025-11-11T04:53:26.757Z"
-  },
-  {
-    "userId": "c125b9a8-6f1b-4d54-b273-0804c531a920",
-    "fullName": "Elsa Cassin",
-    "bio": "model, dreamer, film lover",
-    "gender": "Trans male",
-    "birthdate": "1950-05-02T00:10:25.819Z",
-    "registeredAt": "2025-11-20T20:22:43.800Z"
-  },
-  {
-    "userId": "a8dc211e-11b5-4927-956b-aac7c73dcdc5",
-    "fullName": "Mamie DuBuque",
-    "bio": "llama enthusiast  🪡",
-    "gender": "Trans person",
-    "birthdate": "1947-07-14T17:41:48.961Z",
-    "registeredAt": "2025-10-30T06:21:43.874Z"
-  },
-  {
-    "userId": "28159ae6-918b-49ab-bdbd-c99352d4f6a6",
-    "fullName": "Brandy Gislason",
-    "bio": "musician, foodie, developer",
-    "gender": "Man",
-    "birthdate": "1959-04-07T16:06:30.280Z",
-    "registeredAt": "2026-02-21T04:33:56.281Z"
-  },
-  {
-    "userId": "5da62216-2a03-47a8-8a84-2fe34a61e2c0",
-    "fullName": "Anthony Ondricka",
-    "bio": "educator",
-    "gender": "Genderflux",
-    "birthdate": "1997-01-06T07:22:26.060Z",
-    "registeredAt": "2026-01-07T23:34:21.664Z"
-  },
-  {
-    "userId": "f3aaacaf-58c1-482f-bc7f-de84d7eb33b3",
-    "fullName": "Verna Rogahn",
-    "bio": "grad, geek, designer 👨🏾‍💻",
-    "gender": "Multigender",
-    "birthdate": "1949-12-29T02:30:40.612Z",
-    "registeredAt": "2025-04-13T07:58:28.878Z"
-  },
-  {
-    "userId": "a2843f37-eb33-4644-87a2-b4644367fd91",
-    "fullName": "Roger Thompson DVM",
-    "bio": "altar junkie",
-    "gender": "Trans person",
-    "birthdate": "1949-07-29T00:29:01.410Z",
-    "registeredAt": "2025-08-24T12:56:59.023Z"
-  },
-  {
-    "userId": "e383cdb6-e52e-4756-8e70-92f1e1e24424",
-    "fullName": "Guadalupe Kreiger",
-    "bio": "educator, geek",
-    "gender": "Intersex person",
-    "birthdate": "1993-01-16T13:23:44.033Z",
-    "registeredAt": "2026-01-18T22:52:27.403Z"
-  },
-  {
-    "userId": "54f21c48-6105-45a8-85b5-a1c853def824",
-    "fullName": "Beulah Wiza",
-    "bio": "creator, engineer, filmmaker",
-    "gender": "Female to male transsexual man",
-    "birthdate": "2002-02-03T10:39:34.779Z",
-    "registeredAt": "2025-06-22T05:06:09.101Z"
-  },
-  {
-    "userId": "65bbd162-537b-425b-b8b7-23c19f894af5",
-    "fullName": "Maurice Boyle MD",
-    "bio": "photographer",
-    "gender": "Multigender",
-    "birthdate": "1988-11-21T04:45:39.467Z",
-    "registeredAt": "2025-12-08T06:05:37.350Z"
-  },
-  {
-    "userId": "3ccb2b09-3c11-4244-a3c2-abcfed877bab",
-    "fullName": "Dr. Earl Jenkins",
-    "bio": "vegetation enthusiast, traveler 🎃",
-    "gender": "Gender questioning",
-    "birthdate": "1983-08-10T10:32:41.420Z",
-    "registeredAt": "2026-02-21T07:14:34.328Z"
-  },
-  {
-    "userId": "c785e523-39b0-467a-add5-01b72805e966",
-    "fullName": "Darin Labadie Jr.",
-    "bio": "photographer",
-    "gender": "Demiflux",
-    "birthdate": "1962-04-30T08:15:02.215Z",
-    "registeredAt": "2025-09-13T07:51:17.369Z"
-  },
-  {
-    "userId": "864c9d72-155b-45c8-b382-4999efb314f6",
-    "fullName": "Luther Schmitt",
-    "bio": "environmentalist, filmmaker, designer ♀️",
-    "gender": "Androgyne",
-    "birthdate": "1984-06-26T20:39:57.241Z",
-    "registeredAt": "2025-04-29T19:30:38.345Z"
-  },
-  {
-    "userId": "23bd8d10-1a3e-42eb-a8a0-0d1cf6fa8a7a",
-    "fullName": "Kirk Fay",
-    "bio": "jazz fan",
-    "gender": "Male to female",
-    "birthdate": "1971-01-09T10:20:00.340Z",
-    "registeredAt": "2025-08-28T05:29:34.795Z"
-  },
-  {
-    "userId": "e15aa6f9-f575-475c-9fb9-48e4fb0db96d",
-    "fullName": "Elsie Bogisich",
-    "bio": "amenity supporter",
-    "gender": "Two* person",
-    "birthdate": "1989-09-22T23:33:20.429Z",
-    "registeredAt": "2026-03-07T07:14:46.606Z"
-  },
-  {
-    "userId": "3f8d69d8-05d3-4b2b-b5ac-4948329f975e",
-    "fullName": "Manuel Hamill",
-    "bio": "business owner, author, patriot",
-    "gender": "Intersex woman",
-    "birthdate": "1996-03-05T03:34:31.951Z",
-    "registeredAt": "2025-06-17T14:45:26.437Z"
-  },
-  {
-    "userId": "c5247605-1139-4b7e-ac82-6ee22093b672",
-    "fullName": "Dr. Ramiro Rath",
-    "bio": "crate devotee",
-    "gender": "Gender neutral",
-    "birthdate": "1948-06-14T21:34:30.437Z",
-    "registeredAt": "2025-07-19T15:29:21.707Z"
-  },
-  {
-    "userId": "8664305f-d766-4538-ae3a-975cbe3336f3",
-    "fullName": "Ray Konopelski",
-    "bio": "engineer",
+    "userId": "f30582fe-1b68-4ab0-96e2-6bab99fa8f06",
+    "fullName": "Barry Trantow",
+    "bio": "creator",
     "gender": "Trans man",
-    "birthdate": "1953-04-17T13:15:00.269Z",
-    "registeredAt": "2025-05-18T21:12:09.949Z"
+    "birthdate": "1951-09-06T00:53:36.474Z",
+    "registeredAt": "2025-04-05T00:56:30.397Z"
   },
   {
-    "userId": "25fb5e3d-75a6-46c0-b1eb-f35408b3294f",
-    "fullName": "Dora Sanford",
-    "bio": "ping devotee, business owner 🐙",
-    "gender": "Cisgender male",
-    "birthdate": "1959-03-26T11:41:29.200Z",
-    "registeredAt": "2026-01-22T08:50:42.749Z"
+    "userId": "d8b2d721-24bd-4e95-a1f5-089cc879c162",
+    "fullName": "Darlene Bartoletti",
+    "bio": "sting fan",
+    "gender": "T* woman",
+    "birthdate": "1960-02-17T18:43:56.398Z",
+    "registeredAt": "2025-11-11T16:58:08.356Z"
+  },
+  {
+    "userId": "a9429c11-9ea7-4bde-ae42-99b88b49c1f5",
+    "fullName": "Melba Collier",
+    "bio": "tinderbox supporter  🎴",
+    "gender": "Omnigender",
+    "birthdate": "1965-11-22T06:59:52.881Z",
+    "registeredAt": "2025-05-25T12:28:12.227Z"
+  },
+  {
+    "userId": "c22a8d47-eb9e-4cef-a480-be38af5366f8",
+    "fullName": "Ms. Emma Homenick",
+    "bio": "business owner, veteran",
+    "gender": "MTF",
+    "birthdate": "1982-01-07T06:08:31.100Z",
+    "registeredAt": "2025-11-28T09:09:28.075Z"
+  },
+  {
+    "userId": "90a7bf36-f79f-469f-a7f6-798e36f18b7c",
+    "fullName": "George Cassin PhD",
+    "bio": "entrepreneur, engineer, geek 📧",
+    "gender": "Androgyne",
+    "birthdate": "1979-05-30T23:03:27.246Z",
+    "registeredAt": "2025-11-07T13:17:48.814Z"
+  },
+  {
+    "userId": "572746f5-e3fa-414a-aea6-4c44b67690a8",
+    "fullName": "Lori Collier",
+    "bio": "likeness devotee, author",
+    "gender": "FTM",
+    "birthdate": "1952-11-06T18:58:55.847Z",
+    "registeredAt": "2025-07-19T04:37:24.374Z"
+  },
+  {
+    "userId": "5c31c8a4-1d30-4fd0-b946-7ddd202039c4",
+    "fullName": "Ramon Bergstrom",
+    "bio": "context devotee",
+    "gender": "Trans woman",
+    "birthdate": "1982-04-23T15:27:07.742Z",
+    "registeredAt": "2025-10-24T00:11:26.568Z"
   }
 ]
