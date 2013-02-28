@@ -1,138 +1,66 @@
 [
   {
-    "userId": "e3995c6f-90f2-4aab-a9fa-1f144170f079",
-    "fullName": "Angela Hartmann",
-    "bio": "philosopher, writer",
-    "gender": "Intersex",
-    "birthdate": "2005-03-08T01:50:04.573Z",
-    "registeredAt": "2023-06-23T23:17:09.700Z"
-  },
-  {
-    "userId": "37d9c76f-0025-4c26-aa1d-75c491a0fbc2",
-    "fullName": "Carroll Kuvalis",
-    "bio": "volatility fan, person 🧵",
-    "gender": "Intersex",
-    "birthdate": "1957-11-01T18:33:01.249Z",
-    "registeredAt": "2023-08-05T09:08:12.560Z"
-  },
-  {
-    "userId": "a7281a60-9e61-4701-ac66-dc25cc0ffed0",
-    "fullName": "Dexter Turcotte-Graham",
-    "bio": "student, foodie",
-    "gender": "F2M",
-    "birthdate": "1974-01-31T16:17:14.985Z",
-    "registeredAt": "2023-06-27T18:55:05.054Z"
-  },
-  {
-    "userId": "acd07023-8885-480f-bc15-42d8311591e2",
-    "fullName": "Ms. Eula Friesen",
-    "bio": "beach advocate, writer 😙",
-    "gender": "Intersex man",
-    "birthdate": "1995-04-03T04:38:48.280Z",
-    "registeredAt": "2024-02-28T06:38:51.609Z"
-  },
-  {
-    "userId": "e0c65be9-4aad-4983-9f33-8025eaaecab3",
-    "fullName": "Katie Oberbrunner DDS",
-    "bio": "geek, writer",
-    "gender": "Cisgender",
-    "birthdate": "1981-06-21T12:40:37.288Z",
-    "registeredAt": "2023-12-10T01:20:13.268Z"
-  },
-  {
-    "userId": "7ebd8974-4c7d-4885-a894-f94c6554ccd3",
-    "fullName": "John Strosin",
-    "bio": "presentation supporter, environmentalist 🌹",
-    "gender": "Transexual man",
-    "birthdate": "1947-12-24T23:03:30.292Z",
-    "registeredAt": "2023-07-04T15:25:51.278Z"
-  },
-  {
-    "userId": "2a1a57e9-74d2-4b94-a215-25d0dda725d9",
-    "fullName": "Tony Dicki",
-    "bio": "coach, dreamer, traveler 🚍",
-    "gender": "F2M",
-    "birthdate": "2005-05-30T07:06:49.492Z",
-    "registeredAt": "2024-02-29T22:42:38.131Z"
-  },
-  {
-    "userId": "90e4fd82-c3a2-4ef6-916e-63ccba446450",
-    "fullName": "Grace Reinger",
-    "bio": "shoulder advocate, author 🪧",
-    "gender": "Polygender",
-    "birthdate": "1999-05-15T06:55:32.790Z",
-    "registeredAt": "2023-12-22T10:56:52.232Z"
-  },
-  {
-    "userId": "aeab6174-5cb5-4c13-8e6c-edcacba9ec50",
-    "fullName": "Ernesto Renner",
-    "bio": "testing enthusiast, scientist 🍞",
-    "gender": "Male to female",
-    "birthdate": "1983-04-13T10:10:08.247Z",
-    "registeredAt": "2024-01-23T07:52:55.350Z"
-  },
-  {
-    "userId": "fb77f00c-0f67-4249-82a0-dadc450e1b48",
-    "fullName": "Sabrina Vandervort",
-    "bio": "creator, business owner, nerd 🖖🏻",
-    "gender": "Cis female",
-    "birthdate": "1959-11-01T04:48:07.904Z",
-    "registeredAt": "2023-04-08T23:32:18.300Z"
-  },
-  {
-    "userId": "7466a9ee-d730-4dc9-9c80-c9f57fc99931",
-    "fullName": "Jose Pfannerstill",
-    "bio": "writer, traveler, leader",
-    "gender": "Pangender",
-    "birthdate": "2001-02-21T14:24:54.400Z",
-    "registeredAt": "2024-02-06T06:57:32.878Z"
-  },
-  {
-    "userId": "11bc2b4f-8066-471a-8338-3fa95f4aa341",
-    "fullName": "Jerald Greenholt",
-    "bio": "lending junkie, model",
-    "gender": "Neither",
-    "birthdate": "1953-10-17T21:00:19.030Z",
-    "registeredAt": "2023-07-08T06:56:15.780Z"
-  },
-  {
-    "userId": "ba3e5371-28fd-43c2-ae15-d8a49be54c4a",
-    "fullName": "Lillie Turcotte",
-    "bio": "gamer, entrepreneur, student",
-    "gender": "Demi-boy",
-    "birthdate": "1982-08-21T01:55:06.766Z",
-    "registeredAt": "2024-03-14T04:44:17.488Z"
-  },
-  {
-    "userId": "0eef5516-3013-49d2-bfd0-542fdc3d4b90",
-    "fullName": "Alfredo Bogan",
-    "bio": "interviewer advocate, founder",
-    "gender": "Woman",
-    "birthdate": "1985-01-17T15:35:53.433Z",
-    "registeredAt": "2023-10-30T06:47:47.441Z"
-  },
-  {
-    "userId": "2a745cc3-05e2-42f5-a5a7-517b9c757f6f",
-    "fullName": "Andrew Bashirian",
-    "bio": "supervisor supporter, veteran",
-    "gender": "Polygender",
-    "birthdate": "1993-12-03T09:49:39.204Z",
-    "registeredAt": "2023-10-15T09:30:17.337Z"
-  },
-  {
-    "userId": "52cd2ccf-b5b4-48c2-96c6-d1313a3e99f1",
-    "fullName": "Alfredo Kunze",
-    "bio": "artist, developer, leader",
-    "gender": "Gender nonconforming",
-    "birthdate": "1970-09-21T14:05:34.938Z",
-    "registeredAt": "2023-08-27T16:16:16.200Z"
-  },
-  {
-    "userId": "66b71981-b6fd-4661-92c7-0eb73d498f3c",
-    "fullName": "Tommie Halvorson",
-    "bio": "dealer enthusiast, entrepreneur 🧑🏼‍💼",
+    "userId": "edcce7dd-a774-494b-9c1d-c26bb363eb14",
+    "fullName": "Darlene Kirlin",
+    "bio": "disagreement devotee, business owner",
     "gender": "Non-binary",
-    "birthdate": "1968-10-25T13:59:20.076Z",
-    "registeredAt": "2024-02-13T16:13:58.651Z"
+    "birthdate": "2001-05-02T12:35:34.300Z",
+    "registeredAt": "2023-05-24T18:29:36.322Z"
+  },
+  {
+    "userId": "d0bb9479-c7b0-4acb-8584-643f78a67acc",
+    "fullName": "Sheila Bernhard",
+    "bio": "business owner, business owner, patriot 🦠",
+    "gender": "Androgyne",
+    "birthdate": "1976-05-01T06:30:20.835Z",
+    "registeredAt": "2024-01-19T12:22:43.429Z"
+  },
+  {
+    "userId": "8813cf66-1aeb-4977-ad75-06d364200fdb",
+    "fullName": "Dr. Leticia Casper I",
+    "bio": "engineer",
+    "gender": "Trans woman",
+    "birthdate": "1961-12-04T02:02:46.864Z",
+    "registeredAt": "2023-12-11T15:11:36.381Z"
+  },
+  {
+    "userId": "f0786116-43cd-4bab-902c-042b5d321bbe",
+    "fullName": "Dr. Jimmy Gottlieb-Dach",
+    "bio": "diamond lover  🇨🇮",
+    "gender": "Bigender",
+    "birthdate": "1968-07-29T18:51:31.855Z",
+    "registeredAt": "2023-05-07T04:46:15.314Z"
+  },
+  {
+    "userId": "5e1a1a77-d266-4c79-ae3f-231bf65ef3fd",
+    "fullName": "Holly Strosin",
+    "bio": "streamer, coach, foodie",
+    "gender": "Two-spirit person",
+    "birthdate": "1963-08-04T06:47:31.034Z",
+    "registeredAt": "2023-05-18T22:21:41.575Z"
+  },
+  {
+    "userId": "420f2546-d771-4e8d-bf8f-0555e56cccaf",
+    "fullName": "Guadalupe Steuber V",
+    "bio": "traveler, photographer, film lover 🧑🏽‍🚒",
+    "gender": "Cisgender woman",
+    "birthdate": "2002-03-10T00:44:52.203Z",
+    "registeredAt": "2023-09-07T15:48:09.114Z"
+  },
+  {
+    "userId": "1330f58b-06d7-4777-aa0e-49024d493aac",
+    "fullName": "Nathan Rogahn",
+    "bio": "rubric advocate, photographer 🪱",
+    "gender": "Cis female",
+    "birthdate": "1989-10-29T20:50:46.231Z",
+    "registeredAt": "2023-12-25T06:32:15.869Z"
+  },
+  {
+    "userId": "90e50ddc-4ea1-44fe-8fd8-11cb6ff62ee6",
+    "fullName": "Ramiro Hilpert",
+    "bio": "entrepreneur, writer, blogger",
+    "gender": "Two* person",
+    "birthdate": "2003-03-22T14:05:44.629Z",
+    "registeredAt": "2023-12-15T11:13:42.204Z"
   }
 ]
