@@ -1,162 +1,58 @@
 [
   {
-    "userId": "f17fa531-2a3e-4cac-92ca-c3b5a168cf82",
-    "fullName": "Dr. Manuel Bednar",
-    "bio": "organization devotee, student",
+    "userId": "04c7ac15-2da8-4762-b8ed-80ff69181161",
+    "fullName": "Tricia Willms PhD",
+    "bio": "inventor, business owner, streamer",
+    "gender": "Androgynous",
+    "birthdate": "1947-07-18T00:03:50.577Z",
+    "registeredAt": "2025-12-16T04:40:02.364Z"
+  },
+  {
+    "userId": "b5928360-d46d-472f-9539-fca6fb33bba7",
+    "fullName": "Elizabeth Funk",
+    "bio": "creator, singer, founder",
+    "gender": "Cis woman",
+    "birthdate": "1992-05-17T09:52:53.124Z",
+    "registeredAt": "2025-06-19T06:01:55.885Z"
+  },
+  {
+    "userId": "b2f92738-9090-4463-9c29-797d50f21044",
+    "fullName": "Jan Wilkinson",
+    "bio": "discrimination lover, singer 🤳",
+    "gender": "Cisgender",
+    "birthdate": "1972-04-24T23:56:49.739Z",
+    "registeredAt": "2025-10-14T08:04:58.441Z"
+  },
+  {
+    "userId": "393b0529-c076-4d57-ae20-1560f1120613",
+    "fullName": "Felipe Friesen V",
+    "bio": "dreamer, photographer, person 🦪",
+    "gender": "Demi-boy",
+    "birthdate": "2007-11-05T16:46:45.824Z",
+    "registeredAt": "2025-07-27T23:15:45.448Z"
+  },
+  {
+    "userId": "76c04c55-7325-45e7-8f04-c637c90c5675",
+    "fullName": "Dr. Olga Blick",
+    "bio": "finer junkie, person",
+    "gender": "Transexual male",
+    "birthdate": "2007-02-15T19:19:26.590Z",
+    "registeredAt": "2025-04-19T06:37:44.664Z"
+  },
+  {
+    "userId": "8d383d77-2296-4205-b557-16e9af21fe2b",
+    "fullName": "Opal Jacobi",
+    "bio": "foodie, model, author",
     "gender": "Woman",
-    "birthdate": "2007-01-28T17:50:51.612Z",
-    "registeredAt": "2025-09-12T21:54:14.720Z"
+    "birthdate": "1979-07-23T00:43:23.274Z",
+    "registeredAt": "2025-09-10T04:48:47.737Z"
   },
   {
-    "userId": "930ad920-f2fa-4616-a663-ce5a9ed45e86",
-    "fullName": "Julius Larkin-Terry",
-    "bio": "evaluator fan, dreamer",
-    "gender": "Two* person",
-    "birthdate": "1975-12-26T04:00:34.363Z",
-    "registeredAt": "2025-10-03T01:14:19.658Z"
-  },
-  {
-    "userId": "541d5dc9-9ab0-4b69-bd20-86329ccc824d",
-    "fullName": "Mindy Steuber",
-    "bio": "environmentalist, creator, gamer",
-    "gender": "Trans man",
-    "birthdate": "1970-05-31T00:26:22.406Z",
-    "registeredAt": "2025-08-25T06:50:12.037Z"
-  },
-  {
-    "userId": "3d1f19ae-9a41-4820-89d3-46f8b36ba6e9",
-    "fullName": "Cornelius Pollich",
-    "bio": "nerd, founder, author 🇫🇴",
-    "gender": "Trans",
-    "birthdate": "1984-03-05T13:50:03.872Z",
-    "registeredAt": "2025-05-23T23:29:22.286Z"
-  },
-  {
-    "userId": "7e60ab25-1e15-4d33-ad4b-a608a45a4db5",
-    "fullName": "Mrs. Victoria DuBuque-Olson",
-    "bio": "author, public speaker, philosopher",
-    "gender": "Cis male",
-    "birthdate": "2003-02-27T09:50:52.191Z",
-    "registeredAt": "2025-06-13T21:25:07.756Z"
-  },
-  {
-    "userId": "66589d37-2db5-4bb9-9b20-3522ee4914db",
-    "fullName": "Erica Balistreri-Funk",
-    "bio": "footwear devotee, grad ⛎",
-    "gender": "Cis",
-    "birthdate": "1948-10-28T00:27:59.206Z",
-    "registeredAt": "2025-09-13T20:12:24.685Z"
-  },
-  {
-    "userId": "33a55504-9b6b-46a4-8191-e84d185df430",
-    "fullName": "Lynette Lakin IV",
-    "bio": "patriot",
-    "gender": "Demiflux",
-    "birthdate": "1979-04-02T12:07:42.113Z",
-    "registeredAt": "2025-06-07T12:44:00.389Z"
-  },
-  {
-    "userId": "b3580961-a1c2-42e2-96fa-9db5eb38c4fe",
-    "fullName": "Lester Bednar I",
-    "bio": "scanner lover  🤾🏻‍♂️",
-    "gender": "Cis man",
-    "birthdate": "1976-04-20T22:54:17.304Z",
-    "registeredAt": "2026-02-13T16:06:27.787Z"
-  },
-  {
-    "userId": "9a84c33b-ddec-49ae-bbe8-c86b574b20ee",
-    "fullName": "Lorraine Anderson",
-    "bio": "troop advocate",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1954-12-18T17:41:25.243Z",
-    "registeredAt": "2025-07-13T04:10:46.098Z"
-  },
-  {
-    "userId": "c2cdd019-4d9e-42cc-a790-813fe7a741dc",
-    "fullName": "Glenn Marquardt",
-    "bio": "activist",
-    "gender": "Pangender",
-    "birthdate": "1978-07-17T01:53:37.592Z",
-    "registeredAt": "2025-11-03T20:21:54.283Z"
-  },
-  {
-    "userId": "0d97ef26-b76a-4327-96d4-d4b6f85ebd00",
-    "fullName": "Gerardo Hoeger",
-    "bio": "founder, educator",
-    "gender": "Cis male",
-    "birthdate": "1951-11-20T12:02:32.892Z",
-    "registeredAt": "2025-12-09T14:46:36.907Z"
-  },
-  {
-    "userId": "aee081e5-0062-456c-b7ce-b7bccf4a6eac",
-    "fullName": "Philip Terry III",
-    "bio": "photographer, film lover, philosopher 👩🏿‍🤝‍👩🏻",
-    "gender": "Hermaphrodite",
-    "birthdate": "1993-06-12T18:17:41.556Z",
-    "registeredAt": "2025-11-04T20:41:28.679Z"
-  },
-  {
-    "userId": "dc61eedf-92ae-44d7-bb94-67509a2b62e5",
-    "fullName": "Janice Berge",
-    "bio": "teacher",
-    "gender": "Cisgender male",
-    "birthdate": "1970-11-22T02:53:40.155Z",
-    "registeredAt": "2025-10-19T10:22:03.254Z"
-  },
-  {
-    "userId": "b4bdce01-3a5d-4e37-8eac-8edabb719040",
-    "fullName": "Mrs. Kristy Kuvalis I",
-    "bio": "bicycle supporter",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1980-04-18T04:24:12.112Z",
-    "registeredAt": "2025-05-23T19:07:59.876Z"
-  },
-  {
-    "userId": "aa94bef1-c441-412f-8cfd-fc1f84b3f827",
-    "fullName": "Rick Kovacek",
-    "bio": "streamer, author, founder ⛄",
-    "gender": "Agender",
-    "birthdate": "1980-09-12T18:48:12.944Z",
-    "registeredAt": "2026-01-25T19:28:58.396Z"
-  },
-  {
-    "userId": "cf775644-a6cb-464e-8c50-7e50a0855bd1",
-    "fullName": "Mercedes Crist Jr.",
-    "bio": "coach, musician, musician",
-    "gender": "Omnigender",
-    "birthdate": "2004-04-17T05:43:37.336Z",
-    "registeredAt": "2025-07-22T02:11:09.378Z"
-  },
-  {
-    "userId": "0e89fb8f-b4bd-492c-9c99-1fa745428990",
-    "fullName": "Dr. Debra Wuckert",
-    "bio": "writer, musician",
-    "gender": "Genderqueer",
-    "birthdate": "1979-07-30T05:04:28.140Z",
-    "registeredAt": "2025-12-12T03:16:42.446Z"
-  },
-  {
-    "userId": "ac8b6e02-0ecb-4ac7-ab8b-dce048f4ae42",
-    "fullName": "Glen Leuschke",
-    "bio": "carter lover, educator",
-    "gender": "Trigender",
-    "birthdate": "2007-05-31T12:51:01.403Z",
-    "registeredAt": "2025-10-12T21:07:43.159Z"
-  },
-  {
-    "userId": "346852ee-8469-4431-9402-9ea2de7c5edd",
-    "fullName": "Ms. Marian Mueller",
-    "bio": "traveler, author, public speaker",
-    "gender": "Agender",
-    "birthdate": "2007-12-26T21:39:26.727Z",
-    "registeredAt": "2025-12-10T21:34:05.481Z"
-  },
-  {
-    "userId": "754e482a-5b5e-4a6b-beae-ffd3f941635a",
-    "fullName": "Jill Lang",
-    "bio": "philosopher",
-    "gender": "Female to male transsexual man",
-    "birthdate": "2001-07-05T13:05:26.549Z",
-    "registeredAt": "2025-11-25T02:11:59.971Z"
+    "userId": "be9e5835-5f3e-4e81-9b32-5b1ce61a90a0",
+    "fullName": "Bruce Strosin-Franey",
+    "bio": "dreamer",
+    "gender": "Intersex woman",
+    "birthdate": "1949-05-23T05:42:33.476Z",
+    "registeredAt": "2025-12-09T18:40:59.769Z"
   }
 ]
