@@ -1,10 +1,74 @@
 [
   {
-    "userId": "4dc86114-67a1-4424-86c4-d7120f61f3bd",
-    "fullName": "Lela Moore",
-    "bio": "angel advocate",
+    "userId": "1b95794d-97e7-4441-ad1f-39e867d64101",
+    "fullName": "Sandy Rogahn",
+    "bio": "traveler",
+    "gender": "Trans",
+    "birthdate": "1966-03-25T11:16:53.097Z",
+    "registeredAt": "2023-09-16T11:25:07.134Z"
+  },
+  {
+    "userId": "d4b3acb6-72dc-47cf-a763-a44168d4c616",
+    "fullName": "Don Ziemann",
+    "bio": "activist, grad, engineer 🔐",
+    "gender": "Cisgender woman",
+    "birthdate": "1988-08-12T17:52:57.277Z",
+    "registeredAt": "2024-03-21T02:29:40.096Z"
+  },
+  {
+    "userId": "e6396e94-48a9-4dea-b65a-e0a595ff2ab8",
+    "fullName": "Veronica Mitchell",
+    "bio": "gong advocate, veteran 🎹",
+    "gender": "Non-binary",
+    "birthdate": "1985-06-01T16:31:49.432Z",
+    "registeredAt": "2023-07-07T11:25:04.588Z"
+  },
+  {
+    "userId": "9612be9b-70b8-40f2-8477-d44b669e8291",
+    "fullName": "Dr. Ben Lynch",
+    "bio": "birdcage advocate, scientist",
+    "gender": "Gender neutral",
+    "birthdate": "1958-12-09T00:16:02.397Z",
+    "registeredAt": "2023-11-29T12:35:17.016Z"
+  },
+  {
+    "userId": "b6b03b20-74d0-4ad6-9d1c-3b21f142f9e0",
+    "fullName": "Reginald Spencer",
+    "bio": "leader, creator, filmmaker",
     "gender": "Male to female trans woman",
-    "birthdate": "2002-11-02T10:01:32.922Z",
-    "registeredAt": "2023-05-18T06:35:24.945Z"
+    "birthdate": "1983-03-07T13:48:39.088Z",
+    "registeredAt": "2023-12-08T20:15:07.785Z"
+  },
+  {
+    "userId": "a67b9413-b99f-454d-97da-c82352e52658",
+    "fullName": "Miguel Corwin",
+    "bio": "designer, entrepreneur, musician 🏖️",
+    "gender": "Demigender",
+    "birthdate": "2000-11-11T21:18:23.399Z",
+    "registeredAt": "2024-02-13T01:35:13.127Z"
+  },
+  {
+    "userId": "d76797c2-103b-44b0-a10f-2bb73fd9f27f",
+    "fullName": "Judy Friesen DDS",
+    "bio": "safety fan  💞",
+    "gender": "Neither",
+    "birthdate": "1971-07-16T12:28:17.529Z",
+    "registeredAt": "2023-11-16T20:38:33.452Z"
+  },
+  {
+    "userId": "8309e778-3a18-47dd-bb2b-dc298045bf67",
+    "fullName": "Joe Tromp-Willms",
+    "bio": "clay supporter, blogger",
+    "gender": "Cis male",
+    "birthdate": "1967-10-31T05:42:49.432Z",
+    "registeredAt": "2023-08-03T11:02:31.939Z"
+  },
+  {
+    "userId": "cf50bb3b-fda0-4180-8469-89b906f50f33",
+    "fullName": "Grace Moore",
+    "bio": "model, activist",
+    "gender": "Multigender",
+    "birthdate": "1970-02-11T09:14:54.083Z",
+    "registeredAt": "2023-06-20T19:27:42.323Z"
   }
 ]
