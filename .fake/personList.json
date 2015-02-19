@@ -1,162 +1,66 @@
 [
   {
-    "userId": "8e1649c8-d4a3-4c4c-a19b-24570707d98a",
-    "fullName": "Nicholas Gibson",
-    "bio": "empire advocate, business owner 🦞",
-    "gender": "Gender nonconforming",
-    "birthdate": "1974-12-04T13:14:33.401Z",
-    "registeredAt": "2025-07-10T08:07:23.277Z"
-  },
-  {
-    "userId": "32f813a3-d060-4054-ac18-218667237a88",
-    "fullName": "Sidney Schmidt",
-    "bio": "bat advocate, inventor",
-    "gender": "Female to male transgender man",
-    "birthdate": "1949-04-23T22:58:55.681Z",
-    "registeredAt": "2026-01-24T18:18:48.602Z"
-  },
-  {
-    "userId": "998e88bb-6251-4844-b6cc-23cd16872467",
-    "fullName": "Alex Ebert",
-    "bio": "public speaker",
-    "gender": "Omnigender",
-    "birthdate": "1964-09-04T16:49:33.082Z",
-    "registeredAt": "2025-07-19T03:16:41.559Z"
-  },
-  {
-    "userId": "22d5ff7a-d91f-4f9c-b8dd-f3b12808a4ac",
-    "fullName": "Carolyn Hirthe",
-    "bio": "photographer, photographer, geek 🐗",
-    "gender": "Gender variant",
-    "birthdate": "1948-11-25T14:24:20.361Z",
-    "registeredAt": "2025-07-13T16:51:30.854Z"
-  },
-  {
-    "userId": "45559d06-e1b8-4763-9d35-2a3566559475",
-    "fullName": "Roland Rowe",
-    "bio": "hanger devotee  🕵🏿‍♂️",
-    "gender": "Two* person",
-    "birthdate": "1968-01-19T17:30:50.130Z",
-    "registeredAt": "2026-02-17T19:43:26.345Z"
-  },
-  {
-    "userId": "f2b56b4c-e377-4810-9382-26b8192e51cc",
-    "fullName": "Rosie Franey",
-    "bio": "philosopher",
-    "gender": "Genderqueer",
-    "birthdate": "1957-10-15T23:19:35.992Z",
-    "registeredAt": "2026-02-18T07:13:47.627Z"
-  },
-  {
-    "userId": "b6661621-806f-4312-925a-4a398f922bb1",
-    "fullName": "Ralph Labadie",
-    "bio": "junior advocate",
-    "gender": "Demi-woman",
-    "birthdate": "1955-06-23T12:28:37.143Z",
-    "registeredAt": "2025-10-30T04:39:02.798Z"
-  },
-  {
-    "userId": "d29fc1c4-3d8a-472d-afd2-13deaec1f65c",
-    "fullName": "Brendan Morar PhD",
-    "bio": "crewman supporter  😁",
-    "gender": "Cisgender man",
-    "birthdate": "1978-09-28T17:07:09.808Z",
-    "registeredAt": "2025-03-28T19:24:10.589Z"
-  },
-  {
-    "userId": "8d9f18d6-344f-4c69-a767-b34642d21f37",
-    "fullName": "Ann Kuhlman-Greenfelder",
-    "bio": "veteran, artist, veteran",
-    "gender": "Gender nonconforming",
-    "birthdate": "1994-11-27T23:49:19.316Z",
-    "registeredAt": "2025-03-18T11:58:06.789Z"
-  },
-  {
-    "userId": "a542fc12-14dd-42de-a8ae-a31b62a8b9b5",
-    "fullName": "Sheri Batz II",
-    "bio": "trim junkie, public speaker 🍒",
-    "gender": "Non-binary",
-    "birthdate": "1946-05-15T01:15:57.024Z",
-    "registeredAt": "2025-07-24T12:04:10.431Z"
-  },
-  {
-    "userId": "88d3982c-efd9-44ad-bd63-b17d04438cc8",
-    "fullName": "Keith Hegmann",
-    "bio": "inn enthusiast, business owner 🟡",
-    "gender": "Man",
-    "birthdate": "1978-01-22T07:25:32.558Z",
-    "registeredAt": "2025-10-06T16:51:13.803Z"
-  },
-  {
-    "userId": "b09e6615-19b2-4f08-b96f-e9a996d353f8",
-    "fullName": "Melba Fay",
-    "bio": "inventor, geek, student 😣",
-    "gender": "Cisgender man",
-    "birthdate": "1967-07-01T17:16:35.810Z",
-    "registeredAt": "2025-06-23T20:43:11.860Z"
-  },
-  {
-    "userId": "0ffe593c-4f36-4d38-8364-70e50362f464",
-    "fullName": "Israel Volkman III",
-    "bio": "singer, film lover, educator",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1956-05-07T05:05:59.972Z",
-    "registeredAt": "2025-05-19T01:38:06.416Z"
-  },
-  {
-    "userId": "6feb489e-26cd-4e8b-ab0f-497280961faf",
-    "fullName": "Brad Balistreri Sr.",
-    "bio": "educator, entrepreneur, dreamer 🫕",
-    "gender": "Female to male trans man",
-    "birthdate": "1999-04-10T05:15:31.879Z",
-    "registeredAt": "2025-03-20T08:35:11.282Z"
-  },
-  {
-    "userId": "e4a30ed7-8dbb-464f-9028-8bb172a14653",
-    "fullName": "Zachary Berge",
-    "bio": "parsley fan  🤸🏼‍♂️",
-    "gender": "Transgender female",
-    "birthdate": "1950-09-22T14:20:29.988Z",
-    "registeredAt": "2026-02-10T16:24:21.360Z"
-  },
-  {
-    "userId": "30b70556-250a-4c88-9c85-794cf7681cb7",
-    "fullName": "Dr. Erma Moen",
-    "bio": "push devotee",
+    "userId": "f7e7d48a-8fff-4211-bcfe-ab546dc7a34e",
+    "fullName": "Alberta Kub",
+    "bio": "grad",
     "gender": "Gender neutral",
-    "birthdate": "1946-01-16T17:11:42.416Z",
-    "registeredAt": "2025-05-13T19:24:45.145Z"
+    "birthdate": "1965-01-26T09:07:10.671Z",
+    "registeredAt": "2025-07-06T02:20:03.623Z"
   },
   {
-    "userId": "5c0ebb83-7575-4c43-9b29-ec897257131a",
-    "fullName": "Laverne Hansen I",
-    "bio": "environmentalist, founder, environmentalist",
-    "gender": "Cis male",
-    "birthdate": "1986-11-12T19:22:21.601Z",
-    "registeredAt": "2025-11-10T12:11:05.684Z"
+    "userId": "6c580208-45d0-4c3b-9872-6e49816f023c",
+    "fullName": "Miss Leticia Brekke",
+    "bio": "raise supporter",
+    "gender": "Other",
+    "birthdate": "1999-04-01T01:12:29.941Z",
+    "registeredAt": "2025-06-24T09:00:17.215Z"
   },
   {
-    "userId": "6b03aa1a-abc1-48cb-866a-1c4d35ea1bbf",
-    "fullName": "Aubrey Wiza",
-    "bio": "musician",
-    "gender": "Transgender female",
-    "birthdate": "1970-04-25T01:10:26.482Z",
-    "registeredAt": "2026-01-01T14:11:43.863Z"
+    "userId": "69d00d35-64a8-4650-8329-97820b463d74",
+    "fullName": "Annie Kutch II",
+    "bio": "environmentalist",
+    "gender": "Non-binary",
+    "birthdate": "2003-11-10T23:56:05.527Z",
+    "registeredAt": "2025-11-21T18:31:29.390Z"
   },
   {
-    "userId": "98f45742-2030-4867-b0af-88ac8ad2c158",
-    "fullName": "Yvonne Pfeffer",
-    "bio": "nod advocate, environmentalist 🧑🏼‍❤️‍🧑🏿",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1964-07-21T14:47:56.100Z",
-    "registeredAt": "2025-04-21T07:37:30.909Z"
+    "userId": "fc043ee4-f909-4ec5-871f-2fc9b63cb903",
+    "fullName": "Cary Mohr",
+    "bio": "turban fan  🍔",
+    "gender": "Cisgender male",
+    "birthdate": "2000-12-07T05:11:34.882Z",
+    "registeredAt": "2025-12-07T19:12:55.833Z"
   },
   {
-    "userId": "0a6e6b15-9afc-4605-a044-95e01267bc2d",
-    "fullName": "Sylvester Cassin",
-    "bio": "activist",
-    "gender": "Cisgender female",
-    "birthdate": "1981-12-22T22:16:48.609Z",
-    "registeredAt": "2025-10-20T12:17:12.498Z"
+    "userId": "5fed0b45-ce7a-4171-962f-2a9dbe5a7612",
+    "fullName": "Fredrick Wunsch",
+    "bio": "filmmaker, designer, musician",
+    "gender": "Two* person",
+    "birthdate": "2006-04-03T06:54:07.496Z",
+    "registeredAt": "2026-03-03T07:52:33.452Z"
+  },
+  {
+    "userId": "e3d75284-4986-4291-9b0a-cea94532e61c",
+    "fullName": "Jay Beier",
+    "bio": "teepee advocate",
+    "gender": "Demi-boy",
+    "birthdate": "1990-10-01T22:11:15.182Z",
+    "registeredAt": "2025-06-15T02:06:33.904Z"
+  },
+  {
+    "userId": "57b961d0-bc0e-4a61-bfef-a5fccad8950d",
+    "fullName": "Jerald Willms",
+    "bio": "author",
+    "gender": "Polygender",
+    "birthdate": "1968-01-21T13:05:21.764Z",
+    "registeredAt": "2025-06-22T02:36:14.989Z"
+  },
+  {
+    "userId": "917b1555-2460-4331-aeaa-f7e059139070",
+    "fullName": "Andrea Brown",
+    "bio": "email junkie, photographer",
+    "gender": "Cis female",
+    "birthdate": "1997-06-21T00:40:56.075Z",
+    "registeredAt": "2026-03-10T03:29:59.015Z"
   }
 ]
