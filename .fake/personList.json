@@ -1,138 +1,42 @@
 [
   {
-    "userId": "1c294e4f-27dc-4074-99a3-7245add692f1",
-    "fullName": "Winston Beer",
-    "bio": "pulley fan  👩🏽‍⚖️",
-    "gender": "Genderflux",
-    "birthdate": "2006-10-31T04:24:15.488Z",
-    "registeredAt": "2025-11-11T21:03:13.417Z"
-  },
-  {
-    "userId": "2f6f894a-f318-4a1d-bb8e-a8e8565ef140",
-    "fullName": "Omar Borer",
-    "bio": "educator, traveler, veteran 🍽️",
-    "gender": "Androgyne",
-    "birthdate": "1963-09-01T15:01:27.026Z",
-    "registeredAt": "2025-09-04T20:44:57.653Z"
-  },
-  {
-    "userId": "6400f8c0-6349-4160-a806-ec3ab201d53f",
-    "fullName": "Kyle Reynolds",
-    "bio": "incompetence supporter",
-    "gender": "Other",
-    "birthdate": "1949-01-18T02:59:30.176Z",
-    "registeredAt": "2025-11-26T13:46:19.696Z"
-  },
-  {
-    "userId": "b27e0954-e5b0-4022-b0ea-433aa2458222",
-    "fullName": "Bill Schaden",
-    "bio": "environmentalist, business owner, entrepreneur",
-    "gender": "Female to male trans man",
-    "birthdate": "1959-01-08T22:20:48.520Z",
-    "registeredAt": "2025-11-11T21:13:11.791Z"
-  },
-  {
-    "userId": "93f244bf-6fea-46b7-a107-497a4db1c0c3",
-    "fullName": "Ignacio Heller",
-    "bio": "musician, author, blogger",
-    "gender": "Genderflux",
-    "birthdate": "1991-10-17T13:32:08.467Z",
-    "registeredAt": "2025-07-20T08:29:43.519Z"
-  },
-  {
-    "userId": "5adda1ce-4c8f-405c-b95a-5a91e0796eb2",
-    "fullName": "Marvin Weimann",
-    "bio": "artist",
-    "gender": "Trans man",
-    "birthdate": "2000-12-11T02:33:41.315Z",
-    "registeredAt": "2025-06-19T20:06:03.874Z"
-  },
-  {
-    "userId": "84eafd90-01da-4adf-800f-33f774d0d8aa",
-    "fullName": "Ida Medhurst",
-    "bio": "prompt fan",
-    "gender": "Transexual female",
-    "birthdate": "1994-07-14T21:32:01.033Z",
-    "registeredAt": "2025-11-20T21:59:30.449Z"
-  },
-  {
-    "userId": "ed31af29-02f0-4004-9f66-6019bb5072ea",
-    "fullName": "Samuel Erdman",
-    "bio": "working junkie, leader",
-    "gender": "Trans man",
-    "birthdate": "1966-08-01T04:06:29.143Z",
-    "registeredAt": "2025-04-02T04:10:43.001Z"
-  },
-  {
-    "userId": "c9ba4248-b7d8-4dec-bb6f-bd04ea4667d9",
-    "fullName": "Martin Beatty",
-    "bio": "environmentalist",
-    "gender": "Transgender female",
-    "birthdate": "1959-07-29T02:58:18.991Z",
-    "registeredAt": "2025-03-30T13:20:21.780Z"
-  },
-  {
-    "userId": "25b61130-d0b8-48c8-98d6-ee91dc9875a3",
-    "fullName": "Kate Larson",
-    "bio": "foodie, creator, musician 🪄",
-    "gender": "T* woman",
-    "birthdate": "1962-07-30T14:09:17.893Z",
-    "registeredAt": "2025-07-28T07:18:37.518Z"
-  },
-  {
-    "userId": "e33e1e4c-bbe4-468b-be74-4678e315c28a",
-    "fullName": "Maggie Murray DVM",
-    "bio": "blackberry junkie",
-    "gender": "Demi-boy",
-    "birthdate": "2006-12-04T11:35:08.729Z",
-    "registeredAt": "2025-04-01T10:58:46.019Z"
-  },
-  {
-    "userId": "fe97d338-b778-45cc-be53-7efd703955d0",
-    "fullName": "Terry Gislason DDS",
-    "bio": "gel junkie  👩🏿‍❤️‍💋‍👩🏿",
-    "gender": "Hermaphrodite",
-    "birthdate": "1976-11-09T21:42:28.640Z",
-    "registeredAt": "2025-07-23T10:26:09.313Z"
-  },
-  {
-    "userId": "57b02050-e8d4-45b7-bdfd-8de473713f00",
-    "fullName": "Derek Keebler",
-    "bio": "broom enthusiast",
-    "gender": "Male to female trans woman",
-    "birthdate": "1959-03-07T13:21:15.701Z",
-    "registeredAt": "2025-08-05T08:41:43.016Z"
-  },
-  {
-    "userId": "972f3212-2797-4d94-9d95-28c3f257a889",
-    "fullName": "Dr. Kellie Altenwerth",
-    "bio": "rebel enthusiast, streamer",
-    "gender": "Transexual male",
-    "birthdate": "1985-12-15T19:45:01.030Z",
-    "registeredAt": "2025-07-23T03:32:51.777Z"
-  },
-  {
-    "userId": "d764ac1b-abed-4cc1-a0b1-aa592a2b4554",
-    "fullName": "Everett Hamill",
-    "bio": "bag enthusiast, singer 🌡️",
-    "gender": "Demiflux",
-    "birthdate": "1956-01-04T11:06:16.379Z",
-    "registeredAt": "2025-06-21T15:48:40.095Z"
-  },
-  {
-    "userId": "bec526a9-1bb6-4c3e-80ef-487972cd913d",
-    "fullName": "Miss Sherry Brakus",
-    "bio": "blogger, streamer, leader 📤",
+    "userId": "b4d9a744-0cad-478c-9f7d-70bfe19c96f1",
+    "fullName": "Paula Carter",
+    "bio": "excerpt supporter, blogger",
     "gender": "Bigender",
-    "birthdate": "1957-10-29T02:23:58.844Z",
-    "registeredAt": "2025-10-15T14:00:37.353Z"
+    "birthdate": "1954-05-04T21:17:54.421Z",
+    "registeredAt": "2026-03-09T13:00:05.046Z"
   },
   {
-    "userId": "eb2484da-b37a-4cd0-89fe-9e0fb2848f65",
-    "fullName": "Norma Cassin",
-    "bio": "photographer, musician",
-    "gender": "Hermaphrodite",
-    "birthdate": "1979-08-28T12:05:25.339Z",
-    "registeredAt": "2025-07-18T10:41:52.612Z"
+    "userId": "ac394761-7165-444f-ab32-a9a0a75c0f08",
+    "fullName": "Dr. Otis Welch-Barton",
+    "bio": "educator, parent, inventor 🕌",
+    "gender": "Intersex man",
+    "birthdate": "1990-07-03T20:58:55.878Z",
+    "registeredAt": "2025-04-20T13:43:31.191Z"
+  },
+  {
+    "userId": "7124a9c7-7817-4a7b-936d-db1c5c86f317",
+    "fullName": "Ms. Lindsay Casper",
+    "bio": "coach, model, author 🤛",
+    "gender": "Cis female",
+    "birthdate": "1973-12-31T13:30:51.445Z",
+    "registeredAt": "2025-11-19T23:18:24.928Z"
+  },
+  {
+    "userId": "caeb31d7-8b39-47cf-812a-7a2268b70bda",
+    "fullName": "Christy Hintz-Rau III",
+    "bio": "friend, artist",
+    "gender": "Intersex woman",
+    "birthdate": "1973-11-06T11:00:44.042Z",
+    "registeredAt": "2025-06-25T00:16:57.999Z"
+  },
+  {
+    "userId": "d4eeb823-ece2-4d56-981f-d71e8fbea8db",
+    "fullName": "Brandy Williamson",
+    "bio": "gum devotee, geek 💘",
+    "gender": "Gender fluid",
+    "birthdate": "1978-11-06T01:40:35.424Z",
+    "registeredAt": "2025-08-31T12:47:49.187Z"
   }
 ]
