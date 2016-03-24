@@ -1,146 +1,50 @@
 [
   {
-    "userId": "77e65e7d-1437-4449-bd94-a236352ab9e8",
-    "fullName": "Annie Tremblay",
-    "bio": "dreamer, foodie, blogger 🕳️",
-    "gender": "Cisgender",
-    "birthdate": "1989-11-21T21:23:43.695Z",
-    "registeredAt": "2025-08-22T06:22:05.410Z"
-  },
-  {
-    "userId": "fed9594d-114a-4557-af72-17cfb54954b7",
-    "fullName": "Lena Herman",
-    "bio": "foodie, activist, singer 👩🏻",
-    "gender": "Cisgender",
-    "birthdate": "1993-07-29T21:10:45.068Z",
-    "registeredAt": "2025-04-02T18:44:58.140Z"
-  },
-  {
-    "userId": "1e14bce6-f598-4638-bba1-7df676a9aad2",
-    "fullName": "Irma Zieme",
-    "bio": "bonnet supporter, inventor",
-    "gender": "Trans",
-    "birthdate": "1994-06-09T16:03:47.821Z",
-    "registeredAt": "2025-03-24T12:24:47.289Z"
-  },
-  {
-    "userId": "e5ef053b-fb51-44a1-bda6-960252fe012b",
-    "fullName": "Jay Cartwright",
-    "bio": "cleat advocate, philosopher 🏣",
+    "userId": "52762ad8-d6a3-4c36-8ec3-006f32668a05",
+    "fullName": "Mr. Elbert Schaefer",
+    "bio": "environmentalist, traveler, scientist 📏",
     "gender": "Gender variant",
-    "birthdate": "1962-01-21T19:35:15.720Z",
-    "registeredAt": "2025-05-18T07:04:55.785Z"
+    "birthdate": "1959-12-04T10:06:58.220Z",
+    "registeredAt": "2025-05-12T03:16:18.939Z"
   },
   {
-    "userId": "667532d4-b3d5-4a70-8e00-5e41601fd8d5",
-    "fullName": "Dr. Marco Kshlerin",
-    "bio": "grad, grad",
-    "gender": "Omnigender",
-    "birthdate": "2005-08-14T16:01:01.464Z",
-    "registeredAt": "2025-05-26T04:29:32.289Z"
+    "userId": "ca80e2bc-c079-4f02-8a1d-037abe51e4f5",
+    "fullName": "Velma Grimes",
+    "bio": "gown devotee, environmentalist 🦁",
+    "gender": "Transgender person",
+    "birthdate": "1950-08-03T15:55:05.692Z",
+    "registeredAt": "2025-12-13T20:17:22.390Z"
   },
   {
-    "userId": "441b28ec-0239-421c-b4bf-de0f3c51f02f",
-    "fullName": "Lauren Goldner Jr.",
-    "bio": "inventor, scientist, film lover 😵",
-    "gender": "Bigender",
-    "birthdate": "2007-05-18T16:05:23.781Z",
-    "registeredAt": "2025-04-02T08:18:19.792Z"
+    "userId": "08aa1b48-f80d-4705-9232-451b77d2466b",
+    "fullName": "Kimberly Jaskolski",
+    "bio": "geek, author, streamer 🏋🏾‍♂️",
+    "gender": "Intersex",
+    "birthdate": "1974-02-06T11:14:23.147Z",
+    "registeredAt": "2025-05-22T22:57:57.892Z"
   },
   {
-    "userId": "7a2496c8-98b8-4375-afdc-d69cad1a60b3",
-    "fullName": "Hattie Pagac",
-    "bio": "musician, patriot, blogger",
-    "gender": "Female to male transsexual man",
-    "birthdate": "1961-03-08T06:16:20.614Z",
-    "registeredAt": "2026-01-10T19:47:14.967Z"
+    "userId": "d636c3f0-d0ab-4ccb-817c-7166ff2144ee",
+    "fullName": "Cary Trantow",
+    "bio": "activist, teacher",
+    "gender": "Non-binary",
+    "birthdate": "1950-09-22T04:32:30.837Z",
+    "registeredAt": "2025-12-28T22:53:19.578Z"
   },
   {
-    "userId": "13694f16-e0e1-41d8-aa2b-cf2cb4d79c58",
-    "fullName": "Ms. Ella Lang DDS",
-    "bio": "singer, writer, nerd",
-    "gender": "Cis female",
-    "birthdate": "1965-06-16T04:22:45.076Z",
-    "registeredAt": "2026-01-29T02:33:29.256Z"
+    "userId": "f9a27868-cdeb-40d7-95fc-e00fac246405",
+    "fullName": "Hilda Abbott",
+    "bio": "teacher",
+    "gender": "Demi-man",
+    "birthdate": "2003-02-22T16:58:15.856Z",
+    "registeredAt": "2026-02-04T05:39:02.154Z"
   },
   {
-    "userId": "f1695b6e-5568-414e-b32a-fc6522fb166e",
-    "fullName": "Eula Gorczany-Donnelly",
-    "bio": "robotics enthusiast",
-    "gender": "Cis man",
-    "birthdate": "1980-11-10T08:34:12.202Z",
-    "registeredAt": "2025-06-13T08:49:49.379Z"
-  },
-  {
-    "userId": "3601c6d1-5206-4455-b62a-9f32c0f9fc74",
-    "fullName": "Dawn Berge",
-    "bio": "elf supporter, film lover",
-    "gender": "MTF",
-    "birthdate": "1985-03-08T15:54:42.090Z",
-    "registeredAt": "2025-08-14T08:28:17.203Z"
-  },
-  {
-    "userId": "c35d9edc-bd1a-4704-9972-a80e7466146e",
-    "fullName": "Sandy Yundt",
-    "bio": "developer",
-    "gender": "Demi-woman",
-    "birthdate": "1963-06-16T15:23:57.285Z",
-    "registeredAt": "2025-12-18T14:24:59.533Z"
-  },
-  {
-    "userId": "418c974b-d8d7-4e0c-949e-8f337c4e4702",
-    "fullName": "Cynthia Dickinson",
-    "bio": "singer, designer, coach",
-    "gender": "Hermaphrodite",
-    "birthdate": "2003-02-27T06:26:42.985Z",
-    "registeredAt": "2025-09-05T16:31:46.854Z"
-  },
-  {
-    "userId": "6678fa1e-0959-43fc-ac73-06704fa2fbef",
-    "fullName": "Jay Boehm",
-    "bio": "dreamer",
-    "gender": "Gender fluid",
-    "birthdate": "1984-03-30T23:02:09.074Z",
-    "registeredAt": "2025-04-17T07:19:53.411Z"
-  },
-  {
-    "userId": "dcf81363-98bd-49f0-aa04-3d868130ecb4",
-    "fullName": "Ella Mayer",
-    "bio": "parent, entrepreneur, grad",
-    "gender": "Transmasculine",
-    "birthdate": "2003-10-07T11:01:13.606Z",
-    "registeredAt": "2025-10-08T09:43:35.767Z"
-  },
-  {
-    "userId": "17681efb-f709-443c-81eb-e5351fab5a41",
-    "fullName": "Tasha Lockman",
-    "bio": "teacher, engineer, streamer",
-    "gender": "T* man",
-    "birthdate": "1975-06-14T14:26:13.783Z",
-    "registeredAt": "2025-04-18T12:12:22.663Z"
-  },
-  {
-    "userId": "9aa955a5-2627-47db-b5c2-6df515f4f35e",
-    "fullName": "Roberto Hayes",
-    "bio": "developer",
-    "gender": "Cisgender woman",
-    "birthdate": "2001-08-24T19:29:50.679Z",
-    "registeredAt": "2025-08-20T01:24:56.305Z"
-  },
-  {
-    "userId": "47a642a9-3722-49bb-bd55-f7a423412e62",
-    "fullName": "Irma Bashirian",
-    "bio": "philosopher",
-    "gender": "Trans",
-    "birthdate": "1964-09-01T06:08:58.296Z",
-    "registeredAt": "2025-09-01T15:24:58.295Z"
-  },
-  {
-    "userId": "7abeb060-9a08-436f-ab6c-4966ad1fd5e5",
-    "fullName": "Brad Johns DVM",
-    "bio": "blogger, foodie",
-    "gender": "Cis woman",
-    "birthdate": "1992-06-05T02:03:04.283Z",
-    "registeredAt": "2026-02-19T01:22:10.312Z"
+    "userId": "267c635e-2a7a-4b3b-8f30-81f6f7e6b701",
+    "fullName": "Tami Langworth",
+    "bio": "anchovy junkie",
+    "gender": "Woman",
+    "birthdate": "1972-04-15T05:02:51.381Z",
+    "registeredAt": "2025-12-06T16:40:10.341Z"
   }
 ]
