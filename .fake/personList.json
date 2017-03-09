@@ -1,162 +1,90 @@
 [
   {
-    "userId": "962105b9-4b21-46dc-94f9-d383dcef8d33",
-    "fullName": "Vincent Mohr",
-    "bio": "gamer, activist",
-    "gender": "Cis woman",
-    "birthdate": "1986-10-30T07:19:17.936Z",
-    "registeredAt": "2025-07-10T20:04:11.783Z"
-  },
-  {
-    "userId": "eea872b5-191b-4892-a3eb-5ea8d69f40af",
-    "fullName": "Mrs. Elena Huel",
-    "bio": "cinnamon devotee, educator",
-    "gender": "Genderflux",
-    "birthdate": "1995-06-07T17:00:57.918Z",
-    "registeredAt": "2025-06-30T20:10:50.649Z"
-  },
-  {
-    "userId": "662d66ad-0c4c-460d-b3e2-8600e8079e17",
-    "fullName": "Roosevelt Zulauf",
-    "bio": "pile devotee",
-    "gender": "Trans female",
-    "birthdate": "1957-05-15T06:32:35.603Z",
-    "registeredAt": "2025-08-15T18:18:41.023Z"
-  },
-  {
-    "userId": "7cb14aa5-3462-4c8d-8e8a-79ad5d0c1000",
-    "fullName": "Santos Kub",
-    "bio": "student",
-    "gender": "Agender",
-    "birthdate": "1973-10-13T23:30:42.528Z",
-    "registeredAt": "2025-11-17T18:52:52.694Z"
-  },
-  {
-    "userId": "98fb62d5-ef7a-49e3-9d84-061e39c70441",
-    "fullName": "Bernice Lind",
-    "bio": "priority enthusiast  💐",
-    "gender": "Cis female",
-    "birthdate": "1964-10-06T02:02:24.891Z",
-    "registeredAt": "2025-11-13T01:36:06.234Z"
-  },
-  {
-    "userId": "01281e5c-2f92-4f5f-bfec-7743c03c2e4c",
-    "fullName": "Adam Bradtke",
-    "bio": "geek",
-    "gender": "Male to female trans woman",
-    "birthdate": "1985-10-25T23:20:00.307Z",
-    "registeredAt": "2025-09-02T02:47:05.722Z"
-  },
-  {
-    "userId": "d2588271-dda1-49bf-9bab-d8f5424e80a9",
-    "fullName": "Joanna Schultz",
-    "bio": "grip supporter, writer 🚖",
-    "gender": "Man",
-    "birthdate": "1984-12-24T05:16:38.434Z",
-    "registeredAt": "2025-06-12T08:03:12.989Z"
-  },
-  {
-    "userId": "3eafdcf2-a663-4dc7-8eca-8637a8f31764",
-    "fullName": "Teresa Reynolds",
-    "bio": "font lover, foodie 🥏",
-    "gender": "Transexual man",
-    "birthdate": "1955-04-10T06:58:32.739Z",
-    "registeredAt": "2025-10-21T14:09:06.162Z"
-  },
-  {
-    "userId": "b1c85dcf-b689-4724-9d30-3542104e9776",
-    "fullName": "Spencer Hagenes",
-    "bio": "pastry lover, photographer",
-    "gender": "Demi-girl",
-    "birthdate": "1998-07-18T06:38:41.291Z",
-    "registeredAt": "2026-01-26T03:10:14.566Z"
-  },
-  {
-    "userId": "5eb0f320-5078-44b8-92f5-a4031f0ea775",
-    "fullName": "Lonnie Wehner",
-    "bio": "environmentalist, inventor",
-    "gender": "Cis man",
-    "birthdate": "1966-05-31T05:50:40.276Z",
-    "registeredAt": "2026-03-02T17:41:51.210Z"
-  },
-  {
-    "userId": "daa97837-e56b-4667-a809-75b590b540a9",
-    "fullName": "Iris Hartmann",
-    "bio": "nerd",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1959-10-15T11:02:46.425Z",
-    "registeredAt": "2026-02-01T22:14:04.557Z"
-  },
-  {
-    "userId": "d29c9dfb-ae67-4e45-90c3-bbae5f7e8b99",
-    "fullName": "Terrence Boyer",
-    "bio": "streamer, patriot",
-    "gender": "Female to male trans man",
-    "birthdate": "1983-09-24T14:00:34.014Z",
-    "registeredAt": "2025-03-28T03:52:34.657Z"
-  },
-  {
-    "userId": "23b6f554-07e2-480e-a03a-e68ecb8a3fa7",
-    "fullName": "Brett Bartell",
-    "bio": "creator, student",
-    "gender": "Demi-girl",
-    "birthdate": "1991-10-15T08:30:58.946Z",
-    "registeredAt": "2025-03-20T16:38:26.419Z"
-  },
-  {
-    "userId": "37246cab-7b58-4f67-a91d-fc2c313e9860",
-    "fullName": "Bobby Douglas",
-    "bio": "author, designer, model 🌵",
-    "gender": "Male to female transgender woman",
-    "birthdate": "1993-10-27T20:05:55.226Z",
-    "registeredAt": "2025-06-24T05:41:38.259Z"
-  },
-  {
-    "userId": "bd349f29-19fa-4e3a-8476-f245807a3418",
-    "fullName": "Dr. Flora Halvorson",
-    "bio": "business owner",
-    "gender": "Demi-boy",
-    "birthdate": "1980-09-15T11:42:27.005Z",
-    "registeredAt": "2025-06-10T08:46:07.346Z"
-  },
-  {
-    "userId": "1d66368c-c0a5-4ce4-a056-47e17ae17699",
-    "fullName": "Jeremy Gutmann",
-    "bio": "writer",
-    "gender": "Neither",
-    "birthdate": "1982-04-02T01:46:42.205Z",
-    "registeredAt": "2025-08-28T01:03:58.792Z"
-  },
-  {
-    "userId": "62759f2e-105b-48df-bcfc-f1294ca55aa6",
-    "fullName": "Guadalupe Stanton",
-    "bio": "artist",
-    "gender": "Gender variant",
-    "birthdate": "1994-12-10T15:07:26.193Z",
-    "registeredAt": "2026-02-11T10:15:14.726Z"
-  },
-  {
-    "userId": "4166699a-2e70-43cc-9c67-44f3274a3a49",
-    "fullName": "Ivan Metz",
-    "bio": "photographer, geek, environmentalist",
-    "gender": "Female to male",
-    "birthdate": "1989-10-22T02:02:04.595Z",
-    "registeredAt": "2025-08-27T16:11:23.125Z"
-  },
-  {
-    "userId": "18eda566-090e-4f91-8d08-d066fbf1302c",
-    "fullName": "Stuart Mayert",
-    "bio": "parent, educator, geek",
-    "gender": "Transgender person",
-    "birthdate": "1971-05-30T13:46:16.017Z",
-    "registeredAt": "2025-07-04T12:37:54.604Z"
-  },
-  {
-    "userId": "51029a5e-4923-4e30-92ca-32a582fe3dd3",
-    "fullName": "Larry Keebler",
-    "bio": "gamer",
+    "userId": "aa5a6967-5b0d-423b-958f-c6cf402a2d8b",
+    "fullName": "Carlos Boehm",
+    "bio": "educator, public speaker",
     "gender": "Cisgender female",
-    "birthdate": "1958-06-05T05:20:28.242Z",
-    "registeredAt": "2025-07-29T23:50:33.563Z"
+    "birthdate": "1961-01-24T18:52:45.482Z",
+    "registeredAt": "2025-11-06T01:33:26.133Z"
+  },
+  {
+    "userId": "4b750435-6a6f-4906-b82a-c9e00c1ffd1b",
+    "fullName": "Dr. Brent Ziemann",
+    "bio": "founder, environmentalist, patriot",
+    "gender": "Non-binary",
+    "birthdate": "1976-08-19T20:37:00.529Z",
+    "registeredAt": "2025-03-26T11:02:40.347Z"
+  },
+  {
+    "userId": "234c19fa-f68f-4afa-8aa3-1f2ce11083ed",
+    "fullName": "Kerry Friesen",
+    "bio": "blogger, blogger, geek",
+    "gender": "Genderqueer",
+    "birthdate": "1958-09-07T08:00:26.002Z",
+    "registeredAt": "2025-08-27T15:53:39.394Z"
+  },
+  {
+    "userId": "0cc86c1e-070a-47c3-a54f-a97689d0a77d",
+    "fullName": "Blanche Bednar",
+    "bio": "parent, coach",
+    "gender": "T* man",
+    "birthdate": "1957-11-05T23:13:02.978Z",
+    "registeredAt": "2025-12-12T02:53:45.413Z"
+  },
+  {
+    "userId": "c75c71c2-31f4-4fc9-9275-01ccbce9707d",
+    "fullName": "Mae Stracke",
+    "bio": "student, model, foodie 🚒",
+    "gender": "Non-binary",
+    "birthdate": "1987-08-24T04:38:48.134Z",
+    "registeredAt": "2025-07-18T03:50:42.898Z"
+  },
+  {
+    "userId": "05e012f3-3e17-4300-b1ab-37a70d5cb3c6",
+    "fullName": "Stella Gleason-Cole",
+    "bio": "traveler",
+    "gender": "Genderflux",
+    "birthdate": "1964-07-21T15:08:44.569Z",
+    "registeredAt": "2026-02-27T09:24:30.887Z"
+  },
+  {
+    "userId": "643d9d76-83ae-4900-8898-1e3a37b1febf",
+    "fullName": "Kimberly Kovacek",
+    "bio": "measurement supporter, philosopher",
+    "gender": "Transexual woman",
+    "birthdate": "1948-09-02T05:09:18.642Z",
+    "registeredAt": "2025-05-27T11:55:07.636Z"
+  },
+  {
+    "userId": "46f1b675-fb6b-4eeb-82b4-b532459e10f5",
+    "fullName": "Felix Williamson",
+    "bio": "leader",
+    "gender": "Demiflux",
+    "birthdate": "1960-03-03T10:51:13.161Z",
+    "registeredAt": "2026-02-25T14:54:00.835Z"
+  },
+  {
+    "userId": "21304169-0e4f-4f15-a52a-5e48cc346975",
+    "fullName": "Rickey Kuhic",
+    "bio": "inhabitant enthusiast",
+    "gender": "Gender nonconforming",
+    "birthdate": "1960-12-21T07:59:30.796Z",
+    "registeredAt": "2025-10-11T06:00:21.444Z"
+  },
+  {
+    "userId": "e793a16c-6293-4935-98ca-ad7ff47ed194",
+    "fullName": "Betsy Greenfelder V",
+    "bio": "inventor, foodie, blogger",
+    "gender": "Androgyne",
+    "birthdate": "2004-07-22T19:29:27.211Z",
+    "registeredAt": "2025-04-26T06:48:53.132Z"
+  },
+  {
+    "userId": "0de609e8-6419-4a96-ab9f-4baf71432510",
+    "fullName": "Kenny Hettinger",
+    "bio": "inventor",
+    "gender": "Androgynous",
+    "birthdate": "2002-01-26T22:54:53.523Z",
+    "registeredAt": "2025-07-29T01:13:52.640Z"
   }
 ]
