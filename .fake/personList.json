@@ -1,10 +1,138 @@
 [
   {
-    "userId": "5fdc0654-632b-487a-981f-7ca0dae075a9",
-    "fullName": "Priscilla Kutch",
-    "bio": "foodie, artist, educator 🍣",
-    "gender": "Cisgender female",
-    "birthdate": "1982-01-23T16:45:05.105Z",
-    "registeredAt": "2023-06-15T14:49:46.173Z"
+    "userId": "dd289387-e3e7-430f-b28b-3514045ba3d3",
+    "fullName": "Janice Zieme",
+    "bio": "author",
+    "gender": "Trans person",
+    "birthdate": "1993-05-09T06:53:25.580Z",
+    "registeredAt": "2023-12-25T21:08:35.558Z"
+  },
+  {
+    "userId": "d05ff51e-7724-4122-9f00-595dfdf5be55",
+    "fullName": "Mrs. Elena Labadie",
+    "bio": "traveler",
+    "gender": "Gender neutral",
+    "birthdate": "1993-01-31T17:57:10.971Z",
+    "registeredAt": "2023-08-05T12:07:40.808Z"
+  },
+  {
+    "userId": "c73df27a-44c3-47ee-9581-7b96e36b98fd",
+    "fullName": "Leonard Bosco",
+    "bio": "sprag fan",
+    "gender": "Androgyne",
+    "birthdate": "1956-03-21T07:50:38.327Z",
+    "registeredAt": "2023-06-19T00:58:44.044Z"
+  },
+  {
+    "userId": "a61e342f-320c-4516-80c1-5bff7b981898",
+    "fullName": "Arlene Dickinson",
+    "bio": "contact fan, musician",
+    "gender": "Gender neutral",
+    "birthdate": "1958-10-17T20:19:28.191Z",
+    "registeredAt": "2023-09-22T13:55:01.228Z"
+  },
+  {
+    "userId": "6a5956a3-14bc-40e9-97e3-4d2df9a885b5",
+    "fullName": "Maria Jerde",
+    "bio": "traveler, streamer",
+    "gender": "Other",
+    "birthdate": "1951-08-30T08:09:01.650Z",
+    "registeredAt": "2024-03-08T14:32:08.728Z"
+  },
+  {
+    "userId": "e2acff7e-6d91-4be4-8abf-f4e6b3289df9",
+    "fullName": "Jeffrey Kihn",
+    "bio": "area supporter  🙇🏽",
+    "gender": "Agender",
+    "birthdate": "1994-03-05T21:58:26.823Z",
+    "registeredAt": "2023-08-08T04:18:02.189Z"
+  },
+  {
+    "userId": "5d548c5a-f023-41b3-814d-5001436a753e",
+    "fullName": "Tracey Graham",
+    "bio": "singer, teacher, person 🎊",
+    "gender": "Gender nonconforming",
+    "birthdate": "1949-07-11T06:12:25.567Z",
+    "registeredAt": "2024-03-22T08:54:37.082Z"
+  },
+  {
+    "userId": "beb1a348-ef01-4637-bd24-6e9cb7fb6501",
+    "fullName": "Amy Jakubowski-Hudson",
+    "bio": "business owner, person, public speaker",
+    "gender": "Genderqueer",
+    "birthdate": "1961-06-02T17:09:20.095Z",
+    "registeredAt": "2023-09-30T21:47:14.608Z"
+  },
+  {
+    "userId": "68d61e18-5f0f-4eb0-886a-09211a31dd14",
+    "fullName": "Milton Roberts",
+    "bio": "film lover, educator, streamer",
+    "gender": "Omnigender",
+    "birthdate": "1975-01-10T08:57:35.339Z",
+    "registeredAt": "2023-04-24T03:00:21.136Z"
+  },
+  {
+    "userId": "e920a15c-7c6e-45e3-9b32-59435408a6ed",
+    "fullName": "Archie Roberts Jr.",
+    "bio": "piano junkie, model 🦒",
+    "gender": "Cis man",
+    "birthdate": "1969-09-27T14:58:23.837Z",
+    "registeredAt": "2023-12-20T01:52:08.477Z"
+  },
+  {
+    "userId": "cc397d90-86c1-4ded-aa68-7723311b79fe",
+    "fullName": "Sue Kirlin MD",
+    "bio": "gallery devotee, streamer",
+    "gender": "Cisgender",
+    "birthdate": "1964-03-27T12:49:38.313Z",
+    "registeredAt": "2024-01-25T12:24:40.464Z"
+  },
+  {
+    "userId": "8b219453-60f5-4dac-9203-146300b22968",
+    "fullName": "Wallace Little",
+    "bio": "serial fan  🖖🏾",
+    "gender": "Androgyne",
+    "birthdate": "2006-01-26T20:45:55.579Z",
+    "registeredAt": "2023-12-16T17:41:20.328Z"
+  },
+  {
+    "userId": "a52736f1-8a5a-4159-ba38-e0159a56c1c7",
+    "fullName": "Lauren Sanford",
+    "bio": "syndrome advocate",
+    "gender": "Bigender",
+    "birthdate": "2003-03-24T17:17:03.315Z",
+    "registeredAt": "2023-12-02T08:27:08.186Z"
+  },
+  {
+    "userId": "d87367ab-ac13-4c3d-b4f3-35020fd71814",
+    "fullName": "Armando Ortiz",
+    "bio": "model, student, artist 😕",
+    "gender": "Gender questioning",
+    "birthdate": "1980-02-16T13:29:08.296Z",
+    "registeredAt": "2023-10-26T03:05:54.552Z"
+  },
+  {
+    "userId": "de68b1eb-1ee2-4d9c-bff4-90fde12b3433",
+    "fullName": "Kim Flatley",
+    "bio": "breastplate supporter",
+    "gender": "Demi-man",
+    "birthdate": "1998-10-04T21:40:36.357Z",
+    "registeredAt": "2023-09-10T22:34:28.972Z"
+  },
+  {
+    "userId": "0ae0a74a-848e-43e4-8a05-20cf9b55f76f",
+    "fullName": "Alvin Dach",
+    "bio": "ride junkie",
+    "gender": "Two-spirit",
+    "birthdate": "1964-07-05T11:20:45.038Z",
+    "registeredAt": "2023-07-01T09:58:03.385Z"
+  },
+  {
+    "userId": "102b912c-6c53-4917-8cd5-0ea5c5a88031",
+    "fullName": "Joann Lang",
+    "bio": "entrepreneur, gamer, artist",
+    "gender": "Intersex",
+    "birthdate": "2005-08-16T13:16:52.137Z",
+    "registeredAt": "2024-03-20T22:53:12.825Z"
   }
 ]
