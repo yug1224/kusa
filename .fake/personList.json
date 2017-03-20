@@ -1,66 +1,98 @@
 [
   {
-    "userId": "c89ad3e4-d6a9-40c0-be48-e55de8abff0e",
-    "fullName": "Matthew Wiza",
-    "bio": "pumpernickel supporter",
-    "gender": "MTF",
-    "birthdate": "2005-01-02T20:44:14.252Z",
-    "registeredAt": "2025-06-29T00:29:59.005Z"
-  },
-  {
-    "userId": "876c9902-8aa8-4f40-943b-2000a09d8339",
-    "fullName": "Alicia Wolff",
-    "bio": "film lover",
-    "gender": "T* woman",
-    "birthdate": "2000-06-09T04:20:01.945Z",
-    "registeredAt": "2025-07-13T01:53:05.138Z"
-  },
-  {
-    "userId": "a8703323-0253-4034-aa6d-4f02e04f5401",
-    "fullName": "Oscar Robel-Goldner",
-    "bio": "founder, entrepreneur, foodie",
-    "gender": "Other",
-    "birthdate": "1999-05-13T15:54:26.291Z",
-    "registeredAt": "2025-09-25T08:27:17.219Z"
-  },
-  {
-    "userId": "da5580c2-a4df-4f32-ac41-8ed705abe6ed",
-    "fullName": "Hubert Rempel",
-    "bio": "drawer advocate, veteran",
-    "gender": "Cisgender female",
-    "birthdate": "1949-06-13T21:07:17.754Z",
-    "registeredAt": "2025-12-05T08:23:01.659Z"
-  },
-  {
-    "userId": "e9146827-7948-48e8-948f-6d9982b01db1",
-    "fullName": "Pam D'Amore",
-    "bio": "public speaker, environmentalist, teacher 😗",
-    "gender": "T* man",
-    "birthdate": "1955-11-19T10:19:58.334Z",
-    "registeredAt": "2026-02-02T20:56:10.655Z"
-  },
-  {
-    "userId": "842cb594-b5c4-488e-a7f1-7def5cc21d2d",
-    "fullName": "Matthew Russel",
-    "bio": "codepage devotee, patriot 🇸🇩",
-    "gender": "Neutrois",
-    "birthdate": "1992-12-29T17:52:27.555Z",
-    "registeredAt": "2025-10-14T22:41:11.036Z"
-  },
-  {
-    "userId": "be382d33-bb26-4b9a-97e7-fd6ca95a8934",
-    "fullName": "Roosevelt Hamill",
-    "bio": "public speaker",
+    "userId": "f483b034-07d9-4322-9d63-f5a3eaf2e1aa",
+    "fullName": "Gustavo Cassin",
+    "bio": "educator, gamer",
     "gender": "Trans male",
-    "birthdate": "1970-07-08T12:10:29.662Z",
-    "registeredAt": "2025-09-24T22:10:28.653Z"
+    "birthdate": "1950-07-04T05:08:49.083Z",
+    "registeredAt": "2025-07-10T00:53:51.589Z"
   },
   {
-    "userId": "5d4870fe-03ab-45d1-9889-439c177bbfa5",
-    "fullName": "Dewey Gusikowski",
-    "bio": "foundation supporter, educator",
-    "gender": "Demi-girl",
-    "birthdate": "1973-03-07T09:11:01.484Z",
-    "registeredAt": "2025-10-18T06:23:51.310Z"
+    "userId": "e1361705-c069-492a-ba6b-5a602e427088",
+    "fullName": "Dana Zboncak",
+    "bio": "stepdaughter fan, singer 🦶",
+    "gender": "Demi-man",
+    "birthdate": "1961-07-04T22:42:19.218Z",
+    "registeredAt": "2026-01-18T05:47:18.587Z"
+  },
+  {
+    "userId": "8bfce6ce-c9f7-4258-878b-c05ed4cb827a",
+    "fullName": "Olive Pfannerstill III",
+    "bio": "business owner, singer, educator",
+    "gender": "T* man",
+    "birthdate": "1953-05-30T05:08:31.790Z",
+    "registeredAt": "2025-09-11T11:01:13.738Z"
+  },
+  {
+    "userId": "0c493302-4b21-459c-bb01-4778ccd0bdb9",
+    "fullName": "Judy Balistreri",
+    "bio": "shipyard fan",
+    "gender": "Androgyne",
+    "birthdate": "1956-01-24T05:39:55.970Z",
+    "registeredAt": "2025-12-03T04:55:48.415Z"
+  },
+  {
+    "userId": "43bb1f3a-ad18-44bf-b3e1-9a35eef1fd87",
+    "fullName": "Mr. Moses Gulgowski",
+    "bio": "swordfish junkie, person",
+    "gender": "Gender fluid",
+    "birthdate": "1975-06-15T08:48:03.874Z",
+    "registeredAt": "2025-10-20T09:17:57.984Z"
+  },
+  {
+    "userId": "ff42302f-49bf-421f-b855-9b8c7a1e5823",
+    "fullName": "Jared Leffler PhD",
+    "bio": "occupation fan",
+    "gender": "Trans",
+    "birthdate": "1962-01-21T22:20:29.228Z",
+    "registeredAt": "2025-09-12T21:47:41.160Z"
+  },
+  {
+    "userId": "dbbfa8ff-f771-47a4-a120-1332dcdc322d",
+    "fullName": "Lynette Schmidt",
+    "bio": "needle junkie  🙀",
+    "gender": "Cis man",
+    "birthdate": "1983-01-14T10:52:15.200Z",
+    "registeredAt": "2025-08-07T04:13:22.462Z"
+  },
+  {
+    "userId": "ec0bfc84-7d44-49d2-9f6d-42b37e491ceb",
+    "fullName": "Sandy Krajcik-Abbott",
+    "bio": "traveler",
+    "gender": "Genderqueer",
+    "birthdate": "2001-09-07T18:07:02.809Z",
+    "registeredAt": "2025-08-29T19:07:23.597Z"
+  },
+  {
+    "userId": "51c39eb8-ceb6-449d-9b92-50cca2f573b4",
+    "fullName": "Katherine Satterfield",
+    "bio": "philosopher, grad",
+    "gender": "Cisgender woman",
+    "birthdate": "1963-02-19T04:32:12.853Z",
+    "registeredAt": "2025-09-15T03:02:10.940Z"
+  },
+  {
+    "userId": "97e8127d-2da2-40a7-9ec8-ea9b1ed5e79c",
+    "fullName": "Dawn Simonis",
+    "bio": "nerd, creator, scientist",
+    "gender": "Genderflux",
+    "birthdate": "1950-04-25T13:37:34.636Z",
+    "registeredAt": "2025-06-27T02:56:03.708Z"
+  },
+  {
+    "userId": "6a6e74ab-b084-4139-bfb6-3020d7c17f1e",
+    "fullName": "Willie Denesik-Doyle",
+    "bio": "dreamer, coach",
+    "gender": "Xenogender",
+    "birthdate": "1978-10-30T05:47:05.727Z",
+    "registeredAt": "2025-06-27T13:46:12.663Z"
+  },
+  {
+    "userId": "c6ae751a-0916-4481-afd3-48ced303df85",
+    "fullName": "Frederick Marvin Sr.",
+    "bio": "philosopher, singer, filmmaker",
+    "gender": "Male to female transgender woman",
+    "birthdate": "1981-02-18T19:24:34.530Z",
+    "registeredAt": "2025-12-21T17:13:12.143Z"
   }
 ]
