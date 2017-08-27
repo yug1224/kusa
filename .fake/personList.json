@@ -1,82 +1,58 @@
 [
   {
-    "userId": "7764334e-7dc5-4a42-a19d-055f414a1b72",
-    "fullName": "Roman O'Conner",
-    "bio": "educator, film lover, photographer",
-    "gender": "Transexual female",
-    "birthdate": "1983-10-27T00:49:30.078Z",
-    "registeredAt": "2024-02-21T23:12:58.737Z"
-  },
-  {
-    "userId": "388433dd-2a6c-4aea-8156-21d92d755579",
-    "fullName": "Wilfred Kuvalis MD",
-    "bio": "validity supporter",
-    "gender": "Bigender",
-    "birthdate": "1974-04-16T21:13:50.142Z",
-    "registeredAt": "2024-02-09T07:44:26.609Z"
-  },
-  {
-    "userId": "8308a6d3-7ce5-4e2e-bf1d-7368397829fd",
-    "fullName": "Thomas Stehr MD",
-    "bio": "leader, philosopher, geek 🎳",
-    "gender": "Transexual male",
-    "birthdate": "1978-07-31T06:43:21.444Z",
-    "registeredAt": "2023-08-27T22:00:38.431Z"
-  },
-  {
-    "userId": "ee70c626-dae9-495f-89d0-68d27b3d1bb9",
-    "fullName": "Ruben Roberts I",
-    "bio": "scraper junkie  🚄",
-    "gender": "Intersex woman",
-    "birthdate": "1956-09-18T07:23:16.638Z",
-    "registeredAt": "2023-12-10T05:59:49.911Z"
-  },
-  {
-    "userId": "2c64f630-2ca1-416c-9836-230941b40f21",
-    "fullName": "Kristie Kohler",
-    "bio": "public speaker",
-    "gender": "Gender neutral",
-    "birthdate": "1970-04-28T18:33:04.314Z",
-    "registeredAt": "2024-02-20T00:23:55.755Z"
-  },
-  {
-    "userId": "5e7f97bf-73d6-4708-9559-e70057d6e225",
-    "fullName": "Dr. Natasha Lockman",
-    "bio": "activist, patriot, nerd 🌥️",
-    "gender": "Gender variant",
-    "birthdate": "1961-07-20T15:51:40.024Z",
-    "registeredAt": "2023-06-14T17:49:53.093Z"
-  },
-  {
-    "userId": "eb9e8881-7aad-49fc-a72a-230ebdf7ed99",
-    "fullName": "Velma Schamberger",
-    "bio": "moat junkie, entrepreneur 😠",
-    "gender": "Hermaphrodite",
-    "birthdate": "1997-04-26T17:43:54.366Z",
-    "registeredAt": "2023-10-13T09:00:48.675Z"
-  },
-  {
-    "userId": "2d1ecb16-c5f7-4ff4-a544-22e5c69fde00",
-    "fullName": "Kristopher Lubowitz IV",
-    "bio": "blogger, friend, developer 🚎",
-    "gender": "Woman",
-    "birthdate": "1983-10-24T00:05:14.447Z",
-    "registeredAt": "2023-08-02T17:50:15.759Z"
-  },
-  {
-    "userId": "cd0e9f53-fcfb-4f56-bf2d-4224d1fc9f49",
-    "fullName": "Edgar Denesik I",
-    "bio": "filmmaker",
-    "gender": "Trigender",
-    "birthdate": "1973-01-26T02:31:52.363Z",
-    "registeredAt": "2024-03-20T11:34:34.045Z"
-  },
-  {
-    "userId": "83a7e566-d8e6-41e8-a0dd-5b459e986ce6",
-    "fullName": "Mrs. Betsy Collins",
-    "bio": "traveler",
+    "userId": "0cbffc90-3de3-4846-aa04-86338b34e21c",
+    "fullName": "Johnathan Schaefer",
+    "bio": "leave supporter, writer",
     "gender": "Intersex",
-    "birthdate": "1982-06-07T03:39:06.993Z",
-    "registeredAt": "2023-11-20T10:30:25.371Z"
+    "birthdate": "1999-07-10T20:22:54.473Z",
+    "registeredAt": "2023-05-09T11:08:58.719Z"
+  },
+  {
+    "userId": "ffdec598-a25a-42a7-841b-2589e394f618",
+    "fullName": "Desiree Terry",
+    "bio": "engineer, photographer",
+    "gender": "Bigender",
+    "birthdate": "1948-02-02T12:19:37.262Z",
+    "registeredAt": "2023-08-06T19:51:54.660Z"
+  },
+  {
+    "userId": "5772c434-0884-43ac-88d1-6ca72588f6e6",
+    "fullName": "Rodolfo Harris",
+    "bio": "teacher, business owner, environmentalist 🏩",
+    "gender": "Man",
+    "birthdate": "1951-07-22T06:45:11.657Z",
+    "registeredAt": "2023-06-06T04:58:17.544Z"
+  },
+  {
+    "userId": "dfba8fab-f131-4639-a1d4-251c85b1df6f",
+    "fullName": "Hope Rodriguez",
+    "bio": "traveler, entrepreneur, student",
+    "gender": "Two* person",
+    "birthdate": "1963-05-19T18:11:15.947Z",
+    "registeredAt": "2023-09-02T15:53:34.634Z"
+  },
+  {
+    "userId": "21c92ab2-9f86-4829-9dbb-94447ec05848",
+    "fullName": "Sadie VonRueden",
+    "bio": "neurobiologist junkie",
+    "gender": "FTM",
+    "birthdate": "2002-02-05T07:46:34.711Z",
+    "registeredAt": "2023-11-27T12:11:17.909Z"
+  },
+  {
+    "userId": "6d18fd28-c443-45c2-a180-e0f4d6242509",
+    "fullName": "Jo Hahn",
+    "bio": "creator",
+    "gender": "Neither",
+    "birthdate": "1980-11-06T19:23:19.862Z",
+    "registeredAt": "2023-09-30T06:13:37.924Z"
+  },
+  {
+    "userId": "d12fa083-0986-4af5-8cb2-19d5044dbf7a",
+    "fullName": "Alan Hills",
+    "bio": "sanctuary lover  🙌🏽",
+    "gender": "Bigender",
+    "birthdate": "1951-06-30T06:52:36.511Z",
+    "registeredAt": "2023-10-07T08:34:03.384Z"
   }
 ]
