@@ -1,0 +1,20 @@
+{
+  "name": "kusa",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:YuG1224/kusa.git",
+  "author": "Yuji Yamaguchi <yuji.yamaguchi24@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "eslint": "eslint --fix ./*.js",
+    "prettier": "prettier --write ./*.{.js,json,md}"
+  },
+  "devDependencies": {
+    "commander": "^2.19.0",
+    "dayjs": "^1.7.8",
+    "eslint": "^5.10.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.15.3"
+  }
+}
