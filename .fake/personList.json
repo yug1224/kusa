@@ -1,138 +1,82 @@
 [
   {
-    "userId": "b2cacdfe-3ddf-44a3-8f96-9760ea13302f",
-    "fullName": "Meghan Kautzer",
-    "bio": "writer, developer, scientist",
-    "gender": "Bigender",
-    "birthdate": "1949-12-13T02:51:27.470Z",
-    "registeredAt": "2025-09-30T07:00:06.701Z"
-  },
-  {
-    "userId": "5a60980d-63f4-408e-99e8-cb6eb34dba83",
-    "fullName": "Joey MacGyver",
-    "bio": "locust devotee, foodie 🪗",
-    "gender": "Male to female trans woman",
-    "birthdate": "1956-02-14T03:38:25.633Z",
-    "registeredAt": "2026-02-04T12:42:06.368Z"
-  },
-  {
-    "userId": "48fbf30b-3e92-4587-9de9-46d5845a9261",
-    "fullName": "Jimmy Botsford",
-    "bio": "home junkie  🧘🏽‍♀️",
-    "gender": "Demi-man",
-    "birthdate": "1989-01-06T09:08:38.714Z",
-    "registeredAt": "2025-09-22T20:55:16.261Z"
-  },
-  {
-    "userId": "bd77b104-e493-43c2-9b75-ead40378df22",
-    "fullName": "Dr. June Ratke",
-    "bio": "jump junkie  ✊🏽",
-    "gender": "Transexual male",
-    "birthdate": "1964-06-23T21:36:49.952Z",
-    "registeredAt": "2025-10-11T12:03:16.277Z"
-  },
-  {
-    "userId": "7f98ad54-00cd-41ae-a8d3-04e717dfd567",
-    "fullName": "Muriel Quigley",
-    "bio": "disarmament devotee, model",
-    "gender": "T* woman",
-    "birthdate": "1974-10-14T14:27:33.394Z",
-    "registeredAt": "2025-10-04T05:33:56.745Z"
-  },
-  {
-    "userId": "a18b9338-9424-415c-9ded-430713acc81c",
-    "fullName": "Delores Hartmann",
-    "bio": "leader, artist, traveler 🖖🏼",
-    "gender": "Gender variant",
-    "birthdate": "1955-05-04T18:41:31.630Z",
-    "registeredAt": "2026-02-19T21:46:47.708Z"
-  },
-  {
-    "userId": "0e0d4973-dbd5-4736-afe2-4714b01203b5",
-    "fullName": "Duane Goyette",
-    "bio": "teacher, educator",
-    "gender": "Gender variant",
-    "birthdate": "1946-11-08T23:37:55.578Z",
-    "registeredAt": "2025-09-01T22:01:41.371Z"
-  },
-  {
-    "userId": "2962b968-a111-41e9-809e-6bd660d63124",
-    "fullName": "Julian Kunde",
-    "bio": "filmmaker, gamer, designer 🏉",
-    "gender": "FTM",
-    "birthdate": "1986-03-01T04:04:49.824Z",
-    "registeredAt": "2026-01-07T21:41:35.632Z"
-  },
-  {
-    "userId": "26013ea1-6a62-4727-b379-396befd5559a",
-    "fullName": "Eula Marvin",
-    "bio": "coal advocate",
-    "gender": "Two* person",
-    "birthdate": "1970-04-30T01:15:14.166Z",
-    "registeredAt": "2026-01-21T15:06:56.536Z"
-  },
-  {
-    "userId": "2124e5b8-d71a-4f3f-9c8e-b1c1c9849d2c",
-    "fullName": "Laura Kohler",
-    "bio": "camera junkie",
-    "gender": "Demi-woman",
-    "birthdate": "2000-01-06T04:41:13.296Z",
-    "registeredAt": "2025-06-17T07:55:26.981Z"
-  },
-  {
-    "userId": "24048904-11f4-49f7-8c92-887ac35f5000",
-    "fullName": "Carl Runolfsson",
-    "bio": "singer, streamer, gamer 🥰",
-    "gender": "Man",
-    "birthdate": "1962-12-03T16:23:47.553Z",
-    "registeredAt": "2025-05-27T18:32:12.942Z"
-  },
-  {
-    "userId": "2cdf6479-a0c6-4160-8291-381fb577a695",
-    "fullName": "Renee Stanton",
-    "bio": "remote junkie, teacher 9️⃣",
-    "gender": "Other",
-    "birthdate": "1964-10-16T10:06:43.657Z",
-    "registeredAt": "2025-11-19T05:56:18.032Z"
-  },
-  {
-    "userId": "b10e5547-b1d0-455b-aab5-a3fa5b7077be",
-    "fullName": "Kelley Larkin",
-    "bio": "thesis supporter",
-    "gender": "Androgynous",
-    "birthdate": "1946-05-12T08:53:31.422Z",
-    "registeredAt": "2025-06-12T02:33:28.881Z"
-  },
-  {
-    "userId": "56532734-63c6-457e-a5df-049e9b33da3a",
-    "fullName": "Estelle Baumbach",
-    "bio": "activist, traveler",
-    "gender": "Demigender",
-    "birthdate": "1962-11-26T04:33:46.550Z",
-    "registeredAt": "2025-07-01T07:35:44.714Z"
-  },
-  {
-    "userId": "e51b15e1-a31b-4755-98ab-e330e4e49af2",
-    "fullName": "Connie Johns",
-    "bio": "developer, musician, philosopher 🥵",
-    "gender": "Non-binary",
-    "birthdate": "1984-12-30T23:40:32.108Z",
-    "registeredAt": "2025-10-07T14:52:54.297Z"
-  },
-  {
-    "userId": "52adebc2-219d-4932-a4bd-4eb51b0a7cdc",
-    "fullName": "Jackie Kessler",
-    "bio": "creator, philosopher, business owner",
-    "gender": "T* man",
-    "birthdate": "1995-05-26T01:33:59.496Z",
-    "registeredAt": "2025-12-02T23:06:15.838Z"
-  },
-  {
-    "userId": "4cd92325-89a6-465d-9e49-247d7e3bef24",
-    "fullName": "Essie Senger IV",
-    "bio": "formula devotee, geek",
+    "userId": "7fe7f23a-7bf4-4cc4-bd0d-20446a392c8e",
+    "fullName": "Marcus Waters",
+    "bio": "parent",
     "gender": "Trigender",
-    "birthdate": "2003-10-17T14:50:01.394Z",
-    "registeredAt": "2025-11-16T03:09:33.960Z"
+    "birthdate": "1974-04-21T14:00:08.246Z",
+    "registeredAt": "2025-08-01T02:42:07.286Z"
+  },
+  {
+    "userId": "584e8920-8afb-4bda-950b-485dc3513e20",
+    "fullName": "Marta Wuckert",
+    "bio": "friend, public speaker",
+    "gender": "Cisgender woman",
+    "birthdate": "1963-06-23T04:21:48.123Z",
+    "registeredAt": "2025-11-12T06:46:50.345Z"
+  },
+  {
+    "userId": "01041c83-4b51-4945-ade7-452eff83bd3d",
+    "fullName": "Jackie Johnston",
+    "bio": "teacher, patriot",
+    "gender": "Male to female transsexual woman",
+    "birthdate": "1982-01-29T23:47:33.591Z",
+    "registeredAt": "2025-11-23T03:04:10.201Z"
+  },
+  {
+    "userId": "6be76a14-dfcf-4db6-8f07-c7a72efc8ddd",
+    "fullName": "Tonya Nicolas Jr.",
+    "bio": "trapezium devotee  💩",
+    "gender": "Bigender",
+    "birthdate": "2005-07-17T09:48:16.888Z",
+    "registeredAt": "2025-09-11T21:19:55.113Z"
+  },
+  {
+    "userId": "e4a01ef4-9a34-47c8-a4a6-d5e266eaa88d",
+    "fullName": "Denise Quigley",
+    "bio": "educator, activist, blogger 🥊",
+    "gender": "Transgender female",
+    "birthdate": "1952-03-30T21:00:23.355Z",
+    "registeredAt": "2025-04-27T19:00:43.063Z"
+  },
+  {
+    "userId": "9a5b05ad-9c0d-40f5-a91d-07076d73f042",
+    "fullName": "Beth Grady DDS",
+    "bio": "ripple junkie, philosopher",
+    "gender": "Gender questioning",
+    "birthdate": "1987-12-19T12:51:11.599Z",
+    "registeredAt": "2025-06-24T19:14:05.857Z"
+  },
+  {
+    "userId": "25bb45b4-6130-467f-9700-3f1f316357e0",
+    "fullName": "Maurice Paucek IV",
+    "bio": "eviction enthusiast, environmentalist ⏺️",
+    "gender": "Androgynous",
+    "birthdate": "1974-07-09T23:38:32.110Z",
+    "registeredAt": "2025-07-17T03:25:13.881Z"
+  },
+  {
+    "userId": "519ffbe8-8bbb-4bca-aa70-ae8c4f8e4d02",
+    "fullName": "Eunice Hand",
+    "bio": "inventor, student, artist 🇰🇲",
+    "gender": "Transexual woman",
+    "birthdate": "1946-12-18T11:33:01.330Z",
+    "registeredAt": "2025-11-19T18:23:51.198Z"
+  },
+  {
+    "userId": "12883ab6-7798-4194-b697-c94ceca12bbd",
+    "fullName": "Jimmy Hilpert",
+    "bio": "leader, leader, educator",
+    "gender": "Female to male transgender man",
+    "birthdate": "1959-04-27T08:02:10.891Z",
+    "registeredAt": "2025-04-12T11:28:20.192Z"
+  },
+  {
+    "userId": "1caf0ac1-94f1-4cbc-a6e0-25ffc6545748",
+    "fullName": "Frankie Prohaska",
+    "bio": "precedent enthusiast, geek",
+    "gender": "Cis female",
+    "birthdate": "1963-02-11T22:25:51.400Z",
+    "registeredAt": "2025-10-22T10:44:00.974Z"
   }
 ]
