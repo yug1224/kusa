@@ -1,154 +1,58 @@
 [
   {
-    "userId": "e9464417-07b6-43bb-92c0-d23dee3559b5",
-    "fullName": "Meghan Lang V",
-    "bio": "colorlessness fan  🐢",
-    "gender": "Transmasculine",
-    "birthdate": "1958-02-21T03:55:01.372Z",
-    "registeredAt": "2025-05-09T22:45:26.165Z"
-  },
-  {
-    "userId": "b04678f6-9aca-420b-a41e-98c4bfac470c",
-    "fullName": "Jerry Yost",
-    "bio": "teacher, artist, developer 🥗",
-    "gender": "Polygender",
-    "birthdate": "2000-02-23T12:32:38.840Z",
-    "registeredAt": "2025-11-13T12:01:43.837Z"
-  },
-  {
-    "userId": "596367eb-e65d-4c8e-968a-51e8ec0e1d43",
-    "fullName": "Mr. Frankie Simonis",
-    "bio": "go-kart enthusiast",
-    "gender": "Cisgender woman",
-    "birthdate": "1947-05-27T15:20:53.165Z",
-    "registeredAt": "2026-02-06T23:10:05.993Z"
-  },
-  {
-    "userId": "1c54c08f-73f9-4a2d-b7d1-c44adb288f1f",
-    "fullName": "Bridget Koelpin",
-    "bio": "blogger, singer",
-    "gender": "Demi-boy",
-    "birthdate": "1957-08-19T04:45:15.681Z",
-    "registeredAt": "2026-02-19T03:43:31.697Z"
-  },
-  {
-    "userId": "9b1b6187-0af6-4965-8b2a-dce2d131bc85",
-    "fullName": "Shane Turcotte",
-    "bio": "shelter supporter  🐤",
-    "gender": "Intersex man",
-    "birthdate": "1973-12-17T03:08:55.803Z",
-    "registeredAt": "2025-06-17T12:01:15.172Z"
-  },
-  {
-    "userId": "ab949bc4-996f-4f63-816b-3296f21c8adc",
-    "fullName": "Ralph Schneider",
-    "bio": "cheer supporter, photographer 💸",
-    "gender": "Cisgender woman",
-    "birthdate": "1960-07-29T15:59:08.639Z",
-    "registeredAt": "2025-09-26T10:24:13.214Z"
-  },
-  {
-    "userId": "9c511239-a43c-44df-b71c-6b80d25cb72f",
-    "fullName": "Stephen Bashirian",
-    "bio": "cone devotee, photographer 🐅",
-    "gender": "Xenogender",
-    "birthdate": "1992-11-05T23:47:36.729Z",
-    "registeredAt": "2025-04-15T01:57:18.467Z"
-  },
-  {
-    "userId": "002052a7-9bb8-4400-a352-310b328491ac",
-    "fullName": "Ellen Heathcote DDS",
-    "bio": "pegboard supporter, coach",
-    "gender": "Two-spirit",
-    "birthdate": "2007-08-07T12:26:49.805Z",
-    "registeredAt": "2025-06-29T03:27:06.116Z"
-  },
-  {
-    "userId": "b1b72e25-8c4e-4cb7-812e-e80776d5bf49",
-    "fullName": "Molly McLaughlin",
-    "bio": "model",
-    "gender": "Neither",
-    "birthdate": "1966-09-06T04:15:05.638Z",
-    "registeredAt": "2025-04-24T01:58:58.315Z"
-  },
-  {
-    "userId": "f65a2dfd-804b-46ea-9681-ee7b5b74c0b7",
-    "fullName": "Harold Dach",
-    "bio": "zephyr junkie",
-    "gender": "Transexual person",
-    "birthdate": "1996-07-05T11:42:35.613Z",
-    "registeredAt": "2025-09-29T20:57:25.085Z"
-  },
-  {
-    "userId": "d70f4faa-b26b-4973-bfc4-57a6053f581d",
-    "fullName": "Reginald Kub Jr.",
-    "bio": "parking fan, leader",
-    "gender": "Transexual person",
-    "birthdate": "2001-10-21T09:00:17.697Z",
-    "registeredAt": "2025-08-04T09:40:24.312Z"
-  },
-  {
-    "userId": "a2eb0014-3ce2-4d49-bb99-863009d20d96",
-    "fullName": "Kent Shanahan",
-    "bio": "singer, patriot",
-    "gender": "Cis woman",
-    "birthdate": "1946-11-06T05:45:19.336Z",
-    "registeredAt": "2025-11-22T00:23:18.684Z"
-  },
-  {
-    "userId": "4413a8f2-136e-455f-b424-07049db941d8",
-    "fullName": "Charlie Bins",
-    "bio": "flanker lover  🇸🇿",
-    "gender": "Trans man",
-    "birthdate": "1951-08-18T18:48:40.682Z",
-    "registeredAt": "2025-05-13T07:08:44.018Z"
-  },
-  {
-    "userId": "6f5260fa-9b82-4351-b808-3c6573375ce8",
-    "fullName": "Paula Okuneva",
-    "bio": "entrepreneur, filmmaker",
-    "gender": "Cisgender",
-    "birthdate": "1976-12-16T06:42:24.132Z",
-    "registeredAt": "2025-12-30T20:54:50.080Z"
-  },
-  {
-    "userId": "83de1a7f-e8e0-4643-8d76-dc12cb008e73",
-    "fullName": "Daisy Lindgren",
-    "bio": "priesthood lover  🇼🇸",
-    "gender": "Cisgender man",
-    "birthdate": "1986-04-10T19:15:35.429Z",
-    "registeredAt": "2025-05-21T05:24:19.170Z"
-  },
-  {
-    "userId": "e852aba3-78cf-42ac-8ff4-686ac54c16d5",
-    "fullName": "Wesley Kautzer",
-    "bio": "patriot, blogger, person 🐛",
+    "userId": "fe89535d-747c-4aa9-9fe4-7b50c76aad4a",
+    "fullName": "Teri Kuhic DDS",
+    "bio": "pickle supporter, environmentalist",
     "gender": "Gender fluid",
-    "birthdate": "1970-11-01T20:23:43.812Z",
-    "registeredAt": "2026-03-07T20:30:01.914Z"
+    "birthdate": "1964-05-16T19:25:42.275Z",
+    "registeredAt": "2025-09-15T06:17:43.614Z"
   },
   {
-    "userId": "a483f85e-5546-4c46-a993-bf5cebbc72c8",
-    "fullName": "Robyn Lubowitz",
-    "bio": "developer, musician, nerd 🈁",
-    "gender": "Trigender",
-    "birthdate": "1980-11-04T14:04:44.534Z",
-    "registeredAt": "2025-08-06T11:38:39.899Z"
+    "userId": "8425da60-4721-441e-a9cc-888134a2565b",
+    "fullName": "Curtis Pouros V",
+    "bio": "guilt advocate  🗽",
+    "gender": "Two-spirit person",
+    "birthdate": "1976-06-12T05:40:20.663Z",
+    "registeredAt": "2025-05-20T01:28:41.532Z"
   },
   {
-    "userId": "1a6bb713-ca19-4ae4-8cdd-1326a0117e2f",
-    "fullName": "Olga Frami",
-    "bio": "dreamer, nerd, environmentalist 🕹️",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "2003-02-25T10:24:41.150Z",
-    "registeredAt": "2025-09-16T03:37:50.764Z"
+    "userId": "810817a9-526a-4e86-9900-52cad274eb2a",
+    "fullName": "Melinda Abbott",
+    "bio": "patriot, photographer",
+    "gender": "Polygender",
+    "birthdate": "1969-09-05T11:42:48.236Z",
+    "registeredAt": "2026-02-09T14:02:51.042Z"
   },
   {
-    "userId": "67f675e3-1815-4577-8b2e-679d8c36a410",
-    "fullName": "Miss Gwen MacGyver V",
-    "bio": "person, designer, environmentalist",
-    "gender": "Hermaphrodite",
-    "birthdate": "1947-12-08T15:27:10.122Z",
-    "registeredAt": "2025-11-11T10:47:46.825Z"
+    "userId": "f1e28c11-c893-4f02-87a9-73dacc3fcdf1",
+    "fullName": "Erik Ruecker",
+    "bio": "film lover",
+    "gender": "Gender nonconforming",
+    "birthdate": "1995-02-05T06:51:01.079Z",
+    "registeredAt": "2026-02-23T05:16:53.173Z"
+  },
+  {
+    "userId": "2692c455-cefb-438c-9c88-6d398c0968a8",
+    "fullName": "Vera Harvey-Ward",
+    "bio": "photographer, blogger, scientist",
+    "gender": "Cisgender male",
+    "birthdate": "1971-07-31T08:36:17.295Z",
+    "registeredAt": "2025-12-20T10:43:27.302Z"
+  },
+  {
+    "userId": "a1f4c284-d01f-445b-9171-4c1965787ce3",
+    "fullName": "Jared Boehm",
+    "bio": "veteran, coach",
+    "gender": "Gender nonconforming",
+    "birthdate": "2001-07-26T19:26:18.011Z",
+    "registeredAt": "2025-08-14T16:42:49.938Z"
+  },
+  {
+    "userId": "7ca5e4bd-4f54-4270-998e-5dc7ecab2ead",
+    "fullName": "Shaun Becker",
+    "bio": "panther lover",
+    "gender": "Cisgender male",
+    "birthdate": "2002-06-08T11:01:02.479Z",
+    "registeredAt": "2025-05-04T13:54:00.653Z"
   }
 ]
