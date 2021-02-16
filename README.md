@@ -14,4 +14,4 @@ $ git push origin master
 
 `git commit --allow-empty --date='${date.format()}' -m 'update'`
 
-`--date` オプションで時間を操作し、あたかも過去と未来にコミットしたかのように見せかけています。
+`--date` オプションで時間を操作し、あたかも過去と未来にコミットしたかのように見せかけています。
