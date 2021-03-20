@@ -1,154 +1,58 @@
 [
   {
-    "userId": "3ae5ede7-05e2-4461-b14e-74a3a5945de1",
-    "fullName": "Holly Stiedemann",
-    "bio": "calibre enthusiast",
-    "gender": "Cisgender",
-    "birthdate": "1994-01-14T07:22:00.781Z",
-    "registeredAt": "2025-04-27T21:51:17.883Z"
-  },
-  {
-    "userId": "23f6a3d1-790e-4bf1-9309-231c202ecc8f",
-    "fullName": "Dr. Elmer Watsica I",
-    "bio": "leader, activist, scientist",
-    "gender": "Agender",
-    "birthdate": "1999-08-21T00:05:28.691Z",
-    "registeredAt": "2026-01-02T16:23:02.058Z"
-  },
-  {
-    "userId": "1791e31e-3a3e-4b11-9212-bd341641f0a6",
-    "fullName": "Dr. Gladys McKenzie",
-    "bio": "airman enthusiast  🚥",
-    "gender": "Gender questioning",
-    "birthdate": "1996-08-11T20:51:54.861Z",
-    "registeredAt": "2025-09-08T01:58:35.437Z"
-  },
-  {
-    "userId": "50fd209e-9ae5-4cd0-958e-390c61c39f96",
-    "fullName": "Gail Emard",
-    "bio": "sideburns enthusiast, nerd 🧔🏻‍♂️",
-    "gender": "Trans",
-    "birthdate": "1953-05-16T04:30:16.131Z",
-    "registeredAt": "2025-08-29T17:24:41.950Z"
-  },
-  {
-    "userId": "3088a3f6-8d68-436e-98cb-02e4bade8461",
-    "fullName": "Pamela Cummings",
-    "bio": "scientist, developer",
-    "gender": "Cis female",
-    "birthdate": "1949-02-11T02:55:12.058Z",
-    "registeredAt": "2026-03-01T08:39:15.997Z"
-  },
-  {
-    "userId": "86964698-21bd-4d8d-bc11-6269ef976263",
-    "fullName": "Marianne Wintheiser",
-    "bio": "developer, person, engineer 🤞",
-    "gender": "Trans female",
-    "birthdate": "2005-07-23T09:27:22.646Z",
-    "registeredAt": "2025-06-14T19:00:20.632Z"
-  },
-  {
-    "userId": "4ba9071f-0c5f-4afd-93f8-955b4dac71ea",
-    "fullName": "Angelina Kunze",
-    "bio": "designer, public speaker, designer 🟫",
-    "gender": "Trans male",
-    "birthdate": "1970-05-29T16:34:11.263Z",
-    "registeredAt": "2025-03-17T06:03:39.971Z"
-  },
-  {
-    "userId": "6c60b234-e3ab-485e-ac4f-f92e1a78428e",
-    "fullName": "Heidi Adams",
-    "bio": "musician, public speaker, nerd 🟧",
-    "gender": "Hermaphrodite",
-    "birthdate": "1950-12-02T20:55:56.906Z",
-    "registeredAt": "2025-10-06T13:41:00.499Z"
-  },
-  {
-    "userId": "1f5850cd-71a2-40b5-95d2-eb71c2600536",
-    "fullName": "Violet Corwin-Mann",
-    "bio": "friend, grad, gamer",
-    "gender": "Cisgender woman",
-    "birthdate": "2006-01-20T04:58:51.664Z",
-    "registeredAt": "2026-03-09T11:02:48.838Z"
-  },
-  {
-    "userId": "33c627b8-e655-44c9-9481-11e3798d92e1",
-    "fullName": "Byron Satterfield",
-    "bio": "philosopher, activist, patriot 👌",
-    "gender": "Cisgender woman",
-    "birthdate": "1991-01-30T21:31:40.425Z",
-    "registeredAt": "2025-06-04T23:59:26.379Z"
-  },
-  {
-    "userId": "2807e874-f6f0-44a4-b41c-ba6605dfe843",
-    "fullName": "Jessica Cummerata",
-    "bio": "artist, filmmaker, student 💰",
-    "gender": "Bigender",
-    "birthdate": "1982-06-10T18:01:32.925Z",
-    "registeredAt": "2025-12-22T04:46:51.760Z"
-  },
-  {
-    "userId": "b3a7e5f6-9368-43c9-9b27-10702469bc57",
-    "fullName": "Andres Runolfsdottir",
-    "bio": "neighborhood lover, teacher",
-    "gender": "Male to female transgender woman",
-    "birthdate": "2003-07-08T20:31:34.854Z",
-    "registeredAt": "2025-09-21T18:28:04.278Z"
-  },
-  {
-    "userId": "6d447227-7da4-4f9a-a345-e9d7a1726a37",
-    "fullName": "Ida Zieme",
-    "bio": "veteran, foodie, scientist",
-    "gender": "Trans male",
-    "birthdate": "1999-05-16T14:57:37.103Z",
-    "registeredAt": "2025-08-28T18:58:32.326Z"
-  },
-  {
-    "userId": "1d1eaedf-30e5-40ed-8374-d1f93f14d724",
-    "fullName": "Michelle Jenkins Jr.",
-    "bio": "howitzer advocate  🪳",
-    "gender": "Male to female trans woman",
-    "birthdate": "1950-03-08T11:42:23.826Z",
-    "registeredAt": "2026-03-09T14:54:24.799Z"
-  },
-  {
-    "userId": "2badbf17-fbb6-4509-843b-1664d9e06302",
-    "fullName": "Jill Rippin",
-    "bio": "film lover, filmmaker, friend 🔮",
-    "gender": "Genderflux",
-    "birthdate": "2007-10-05T08:02:33.905Z",
-    "registeredAt": "2025-03-14T14:28:29.388Z"
-  },
-  {
-    "userId": "777ecb50-a871-4a3d-83e1-7d447011f9ac",
-    "fullName": "Drew Deckow",
-    "bio": "filmmaker",
-    "gender": "Trans person",
-    "birthdate": "2005-03-18T04:57:13.242Z",
-    "registeredAt": "2026-01-29T01:17:08.159Z"
-  },
-  {
-    "userId": "b2e47390-e2a3-4c0c-8eda-9b59a855f56e",
-    "fullName": "Annette Little",
-    "bio": "public speaker",
+    "userId": "e6cb21ed-1300-4e41-b952-e12ef5523ede",
+    "fullName": "Jermaine Ortiz",
+    "bio": "squirrel fan",
     "gender": "Androgynous",
-    "birthdate": "1990-12-15T07:48:19.972Z",
-    "registeredAt": "2025-12-21T08:10:22.504Z"
+    "birthdate": "1978-01-11T01:21:49.208Z",
+    "registeredAt": "2025-12-14T08:05:05.980Z"
   },
   {
-    "userId": "673a4e0d-9524-4895-937a-20ecb068bd79",
-    "fullName": "Gerald Barrows",
-    "bio": "corporatism enthusiast  🍇",
-    "gender": "Trans person",
-    "birthdate": "1961-02-20T16:53:55.622Z",
-    "registeredAt": "2025-05-14T11:21:28.907Z"
+    "userId": "a5df9882-9998-4157-8e16-10306f708864",
+    "fullName": "Melody Cruickshank",
+    "bio": "leader, dreamer",
+    "gender": "Trans male",
+    "birthdate": "1982-02-02T09:42:17.282Z",
+    "registeredAt": "2025-05-23T13:09:49.160Z"
   },
   {
-    "userId": "fa6df905-d47e-4531-ac40-3896b3d23432",
-    "fullName": "Ellis Fisher",
-    "bio": "assistance enthusiast, inventor",
+    "userId": "8c2d8823-9a9b-4656-9ed5-b75af5cd4e20",
+    "fullName": "Kimberly Ullrich",
+    "bio": "dreamer, scientist, founder 🍤",
     "gender": "Transmasculine",
-    "birthdate": "1978-05-13T12:51:43.155Z",
-    "registeredAt": "2025-03-26T17:25:48.095Z"
+    "birthdate": "1979-12-05T16:02:52.452Z",
+    "registeredAt": "2025-07-21T16:57:58.872Z"
+  },
+  {
+    "userId": "0c6d3bb4-26ae-4eb4-ac8d-26d2ec79da09",
+    "fullName": "Agnes Schowalter-Mueller",
+    "bio": "lunge enthusiast",
+    "gender": "T* man",
+    "birthdate": "2000-12-24T23:01:53.485Z",
+    "registeredAt": "2025-12-05T08:45:25.889Z"
+  },
+  {
+    "userId": "cd48c01b-9adb-4bea-9e47-faf8233b601a",
+    "fullName": "Meredith Hudson",
+    "bio": "convection devotee  🚚",
+    "gender": "Cis woman",
+    "birthdate": "1980-11-30T06:48:39.864Z",
+    "registeredAt": "2025-05-06T03:40:34.135Z"
+  },
+  {
+    "userId": "566230f7-26e9-4f43-864b-740e2fa7fa50",
+    "fullName": "Shelia Rice II",
+    "bio": "singer, photographer, friend ✌🏼",
+    "gender": "Gender neutral",
+    "birthdate": "1962-01-15T05:21:48.764Z",
+    "registeredAt": "2025-12-26T15:56:48.453Z"
+  },
+  {
+    "userId": "54b7f7fb-4546-49f9-81d3-e2a10893e4fc",
+    "fullName": "Veronica Schmeler",
+    "bio": "writer, model, leader 🥘",
+    "gender": "Two-spirit person",
+    "birthdate": "2007-08-07T03:54:20.396Z",
+    "registeredAt": "2025-05-04T17:49:42.234Z"
   }
 ]
