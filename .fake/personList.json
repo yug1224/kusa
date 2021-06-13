@@ -1,154 +1,50 @@
 [
   {
-    "userId": "8906e9c1-8d83-4038-873c-f19cbfc444b7",
-    "fullName": "Blanca Kozey",
-    "bio": "proximal junkie, business owner 🍞",
-    "gender": "Cis female",
-    "birthdate": "1979-03-11T05:52:26.921Z",
-    "registeredAt": "2025-06-06T00:54:55.063Z"
-  },
-  {
-    "userId": "f0415398-9965-420f-b941-c930a9ee41ec",
-    "fullName": "Lewis Jakubowski Jr.",
-    "bio": "timber supporter  ☯️",
-    "gender": "Transexual person",
-    "birthdate": "1979-05-16T03:18:09.117Z",
-    "registeredAt": "2025-09-30T15:09:10.197Z"
-  },
-  {
-    "userId": "575282db-94ca-4c18-8e03-049acebd4a37",
-    "fullName": "Lonnie Becker-MacGyver",
-    "bio": "streamer, leader, business owner ⏩",
-    "gender": "Hermaphrodite",
-    "birthdate": "1972-10-06T23:34:34.262Z",
-    "registeredAt": "2025-03-13T09:31:00.743Z"
-  },
-  {
-    "userId": "e6e8fca4-93f4-4c33-9cae-7263a22cf44f",
-    "fullName": "Terrell Wintheiser",
-    "bio": "swath enthusiast, founder",
-    "gender": "Cis female",
-    "birthdate": "1970-07-14T03:45:57.743Z",
-    "registeredAt": "2025-04-08T09:20:12.341Z"
-  },
-  {
-    "userId": "12c3f95d-bf70-4395-bdaf-5963b4eeed79",
-    "fullName": "Mr. William Franey",
-    "bio": "veteran, designer, coach 😆",
-    "gender": "Trans man",
-    "birthdate": "1982-06-22T13:47:43.816Z",
-    "registeredAt": "2025-07-13T11:09:05.887Z"
-  },
-  {
-    "userId": "8dce296e-408a-4b29-b44c-82a8d9ad5b1b",
-    "fullName": "Moses Stark-Pfannerstill",
-    "bio": "traveler, inventor, author 🈴",
-    "gender": "Trans woman",
-    "birthdate": "1957-10-17T14:57:28.514Z",
-    "registeredAt": "2026-02-26T04:36:57.321Z"
-  },
-  {
-    "userId": "adb6c0b6-1a06-4a26-9a43-24e123d7cd2a",
-    "fullName": "Miss Gwendolyn Schoen-Howell",
-    "bio": "western junkie, gamer",
-    "gender": "Transgender person",
-    "birthdate": "1993-01-22T08:32:12.409Z",
-    "registeredAt": "2025-10-27T15:53:34.648Z"
-  },
-  {
-    "userId": "841c54d4-e7d5-46d1-aa41-a36ff7141c82",
-    "fullName": "Tina Herzog",
-    "bio": "choir advocate",
-    "gender": "Androgyne",
-    "birthdate": "1976-07-13T05:04:24.129Z",
-    "registeredAt": "2025-08-17T16:59:12.811Z"
-  },
-  {
-    "userId": "3820ae26-92f7-494d-8c3d-a1f41ac5664e",
-    "fullName": "Francisco Hoppe",
-    "bio": "sandbar advocate  🌓",
-    "gender": "Bigender",
-    "birthdate": "1985-10-10T04:52:24.136Z",
-    "registeredAt": "2025-10-25T17:09:33.218Z"
-  },
-  {
-    "userId": "c06697bc-288a-4c13-aa3e-ed2a28143742",
-    "fullName": "Walter Nitzsche",
-    "bio": "designer, person, philosopher",
-    "gender": "Neither",
-    "birthdate": "1974-06-12T02:29:37.161Z",
-    "registeredAt": "2026-02-25T12:50:40.739Z"
-  },
-  {
-    "userId": "7c6ec575-2fe2-48b0-ba3d-bf26b2e408c5",
-    "fullName": "Alyssa Bogisich",
-    "bio": "scientist",
-    "gender": "Transmasculine",
-    "birthdate": "1967-04-17T13:57:11.243Z",
-    "registeredAt": "2025-04-22T13:10:16.037Z"
-  },
-  {
-    "userId": "be2e59fd-a5ec-47ac-8893-c2178b01a988",
-    "fullName": "Brad Erdman",
-    "bio": "insurgence lover, business owner 🇹🇷",
-    "gender": "Transexual person",
-    "birthdate": "1960-12-26T11:06:49.113Z",
-    "registeredAt": "2025-07-06T22:39:35.734Z"
-  },
-  {
-    "userId": "e3d42223-cf40-492c-9a8d-17552ad8db3b",
-    "fullName": "Pat Durgan",
-    "bio": "employment fan, traveler",
-    "gender": "Demi-boy",
-    "birthdate": "1974-01-26T02:24:53.496Z",
-    "registeredAt": "2025-09-13T05:01:48.233Z"
-  },
-  {
-    "userId": "cee9ad4f-740d-48b4-9dcd-1149fd774d6c",
-    "fullName": "Mr. Dean Hills",
-    "bio": "chair devotee, philosopher",
-    "gender": "Cisgender female",
-    "birthdate": "1956-01-02T06:38:19.579Z",
-    "registeredAt": "2025-06-15T19:56:26.976Z"
-  },
-  {
-    "userId": "79faf8f0-45e8-4c5f-a433-198b6ac8a175",
-    "fullName": "Kelly Jerde",
-    "bio": "grad, streamer",
-    "gender": "Xenogender",
-    "birthdate": "1971-09-23T15:32:25.277Z",
-    "registeredAt": "2025-04-24T05:56:31.913Z"
-  },
-  {
-    "userId": "1791a203-fa19-42ef-89bf-c06232a2ec55",
-    "fullName": "Leigh Champlin",
-    "bio": "author",
-    "gender": "F2M",
-    "birthdate": "1994-04-20T14:06:08.778Z",
-    "registeredAt": "2025-04-09T06:25:58.764Z"
-  },
-  {
-    "userId": "7c6b6c32-90f3-467b-8727-e60b46ac7ab7",
-    "fullName": "Fannie Deckow DDS",
-    "bio": "writer, business owner, parent",
-    "gender": "Bigender",
-    "birthdate": "1997-05-12T22:20:42.406Z",
-    "registeredAt": "2025-09-13T10:48:43.509Z"
-  },
-  {
-    "userId": "9b6053ef-3255-41e6-b37d-b298038e10a4",
-    "fullName": "Kent Bauch",
-    "bio": "founder, coach, photographer",
+    "userId": "b0f303be-1342-4903-b302-8f648d6ef7c1",
+    "fullName": "Freddie Homenick",
+    "bio": "geek, gamer, nerd",
     "gender": "Transexual woman",
-    "birthdate": "2006-03-11T22:29:59.177Z",
-    "registeredAt": "2025-07-26T02:08:16.457Z"
+    "birthdate": "1958-03-10T11:31:40.848Z",
+    "registeredAt": "2025-06-17T16:47:23.546Z"
   },
   {
-    "userId": "ce01544e-e36f-4b21-b29c-9e30bfe9822e",
-    "fullName": "Carmen Price",
-    "bio": "hellcat devotee",
-    "gender": "Intersex woman",
-    "birthdate": "1990-12-12T21:48:53.301Z",
-    "registeredAt": "2025-11-10T16:53:13.194Z"
+    "userId": "3d246af1-314b-4705-91d4-4ade5c0c9eed",
+    "fullName": "Adam Hoeger",
+    "bio": "engineer",
+    "gender": "Gender neutral",
+    "birthdate": "1961-04-15T15:40:57.982Z",
+    "registeredAt": "2026-01-22T10:37:09.777Z"
+  },
+  {
+    "userId": "732dddf5-adf9-4248-9cc6-b3338484f5be",
+    "fullName": "Gayle Cole",
+    "bio": "conditioner fan  👛",
+    "gender": "Cis woman",
+    "birthdate": "1990-01-10T08:21:31.585Z",
+    "registeredAt": "2026-01-03T19:41:16.739Z"
+  },
+  {
+    "userId": "7896849c-e970-4bb7-a571-a71aef480bbc",
+    "fullName": "Jennifer Nolan",
+    "bio": "hen fan",
+    "gender": "Trans person",
+    "birthdate": "1960-04-06T08:17:19.008Z",
+    "registeredAt": "2025-08-11T17:41:22.781Z"
+  },
+  {
+    "userId": "777eb2a9-b047-4b7b-bb23-996f5b640488",
+    "fullName": "Gene Labadie",
+    "bio": "drop supporter",
+    "gender": "Woman",
+    "birthdate": "1956-09-18T06:57:25.781Z",
+    "registeredAt": "2025-11-01T03:27:49.354Z"
+  },
+  {
+    "userId": "6c0ac97b-8f63-4706-858a-f0051b58ad9c",
+    "fullName": "Myrtle Kautzer",
+    "bio": "singer, streamer",
+    "gender": "Transexual male",
+    "birthdate": "1989-11-27T06:44:42.982Z",
+    "registeredAt": "2026-01-27T09:49:58.041Z"
   }
 ]
