@@ -1,138 +1,82 @@
 [
   {
-    "userId": "1ba61e34-08ed-466d-8cb4-23c93bef862a",
-    "fullName": "Ms. Jan Nitzsche",
-    "bio": "geek, author, student",
-    "gender": "Hermaphrodite",
-    "birthdate": "1994-08-31T04:00:09.185Z",
-    "registeredAt": "2025-12-12T04:59:19.599Z"
-  },
-  {
-    "userId": "3da95365-9788-4d00-bd45-cde25330a93f",
-    "fullName": "Dr. Sheldon Gislason Sr.",
-    "bio": "leader, streamer, activist 🙄",
-    "gender": "Transexual person",
-    "birthdate": "1975-12-18T15:36:11.406Z",
-    "registeredAt": "2025-04-26T00:12:56.504Z"
-  },
-  {
-    "userId": "385527bf-dcb8-4942-bc4f-d3f3baa68ca8",
-    "fullName": "Mr. Mark Kunze",
-    "bio": "disposition junkie",
-    "gender": "Female to male",
-    "birthdate": "1975-12-11T00:09:21.002Z",
-    "registeredAt": "2025-08-18T18:33:24.872Z"
-  },
-  {
-    "userId": "87aefcfe-1286-46f7-b029-1ced01194b7a",
-    "fullName": "Cody Volkman",
-    "bio": "geek, model, blogger",
-    "gender": "Other",
-    "birthdate": "2002-11-06T17:47:39.263Z",
-    "registeredAt": "2025-09-10T20:09:57.103Z"
-  },
-  {
-    "userId": "d4eec924-c41a-4e8c-98a6-adedc400b05a",
-    "fullName": "Lucille Wolff",
-    "bio": "public speaker, developer, nerd",
-    "gender": "Demigender",
-    "birthdate": "2007-06-25T23:47:15.781Z",
-    "registeredAt": "2026-01-29T05:10:00.215Z"
-  },
-  {
-    "userId": "c293973e-6477-49b1-9b7b-a5ba6a6c5027",
-    "fullName": "Charlotte Collins",
-    "bio": "philosopher, creator",
-    "gender": "Transexual",
-    "birthdate": "1962-07-21T10:30:18.458Z",
-    "registeredAt": "2025-09-09T01:06:33.742Z"
-  },
-  {
-    "userId": "b54d7295-914e-4097-84c2-c061d9a3164b",
-    "fullName": "Emma Schumm",
-    "bio": "business owner, dreamer",
-    "gender": "Non-binary",
-    "birthdate": "1985-12-01T15:58:24.929Z",
-    "registeredAt": "2026-01-31T04:25:01.637Z"
-  },
-  {
-    "userId": "9015eba5-90a2-4706-91e5-748be69845ce",
-    "fullName": "Ms. Natasha Huel",
-    "bio": "interferometer fan, blogger 🃏",
-    "gender": "Trans woman",
-    "birthdate": "1996-03-18T06:59:17.309Z",
-    "registeredAt": "2026-02-28T04:20:57.133Z"
-  },
-  {
-    "userId": "1c745539-3d0d-460b-b52f-83d0b60101e5",
-    "fullName": "Gregg Fay Jr.",
-    "bio": "developer, public speaker, gamer",
-    "gender": "Transgender person",
-    "birthdate": "1994-06-28T20:55:25.833Z",
-    "registeredAt": "2025-11-27T08:12:11.232Z"
-  },
-  {
-    "userId": "8756a24a-3c25-427c-924e-b87fee82d712",
-    "fullName": "Karen Pollich",
-    "bio": "essay fan  📼",
-    "gender": "Woman",
-    "birthdate": "1964-10-23T13:12:38.822Z",
-    "registeredAt": "2025-10-13T14:58:33.486Z"
-  },
-  {
-    "userId": "38bb7311-fd3a-46a8-8876-a732095ed721",
-    "fullName": "Salvador Franecki DVM",
-    "bio": "conformation junkie",
-    "gender": "Cis female",
-    "birthdate": "1988-03-31T00:11:34.183Z",
-    "registeredAt": "2025-11-21T21:21:22.791Z"
-  },
-  {
-    "userId": "cd6d13d4-f30c-4167-84af-68b9a933b5cc",
-    "fullName": "Jorge Lebsack",
-    "bio": "geek, teacher",
-    "gender": "Gender neutral",
-    "birthdate": "1975-08-17T14:25:08.716Z",
-    "registeredAt": "2025-09-27T11:22:55.595Z"
-  },
-  {
-    "userId": "bd62d0c7-f269-440a-8338-2d7450e3847b",
-    "fullName": "Jessica Volkman",
-    "bio": "today supporter, leader 😰",
-    "gender": "Female to male trans man",
-    "birthdate": "1999-01-06T20:35:42.450Z",
-    "registeredAt": "2025-05-14T06:17:59.813Z"
-  },
-  {
-    "userId": "9b779341-f193-4e06-bcd7-d7b81149aeab",
-    "fullName": "Lucy Jacobs-Howe",
-    "bio": "value supporter",
-    "gender": "Male to female",
-    "birthdate": "1979-06-30T05:34:11.965Z",
-    "registeredAt": "2026-02-06T13:08:23.439Z"
-  },
-  {
-    "userId": "615b3957-3252-40fd-a682-ce5b2fd20cde",
-    "fullName": "Armando Kuhic Sr.",
-    "bio": "founder",
-    "gender": "Neutrois",
-    "birthdate": "1951-03-17T17:41:53.811Z",
-    "registeredAt": "2025-03-31T12:35:40.283Z"
-  },
-  {
-    "userId": "946196ca-929d-4834-af5d-37bc5f3c96c1",
-    "fullName": "Gustavo Ryan",
-    "bio": "weekender junkie, musician",
-    "gender": "Two-spirit person",
-    "birthdate": "1982-08-16T05:37:06.487Z",
-    "registeredAt": "2026-01-28T04:54:12.491Z"
-  },
-  {
-    "userId": "be65173b-695c-4ac3-a232-ac4a091efe62",
-    "fullName": "Dr. Guy Turner Jr.",
-    "bio": "author, photographer, foodie",
+    "userId": "3b988e55-6640-4137-98a4-78a97243bec8",
+    "fullName": "Karen Ebert",
+    "bio": "shark fan  👐🏻",
     "gender": "Cisgender woman",
-    "birthdate": "1997-04-07T20:18:02.208Z",
-    "registeredAt": "2025-06-24T04:11:41.640Z"
+    "birthdate": "1965-05-24T13:10:33.376Z",
+    "registeredAt": "2025-09-14T19:24:08.008Z"
+  },
+  {
+    "userId": "b6c56997-3998-4baa-aef0-29a75b455e03",
+    "fullName": "Wendell Turcotte Jr.",
+    "bio": "gamer",
+    "gender": "Xenogender",
+    "birthdate": "1962-11-14T03:32:28.713Z",
+    "registeredAt": "2025-05-24T17:48:10.408Z"
+  },
+  {
+    "userId": "5f8c01c5-4530-452d-83ff-314495f52beb",
+    "fullName": "Pamela McGlynn",
+    "bio": "ballpark junkie, scientist",
+    "gender": "Cisgender male",
+    "birthdate": "1985-07-12T06:24:16.850Z",
+    "registeredAt": "2025-09-29T14:03:54.252Z"
+  },
+  {
+    "userId": "42aae46c-8e43-4113-b9b3-4883385c93a8",
+    "fullName": "Dr. Elisa Hane",
+    "bio": "metric enthusiast  🕧",
+    "gender": "Gender questioning",
+    "birthdate": "1986-08-06T13:49:41.284Z",
+    "registeredAt": "2026-01-27T13:32:25.329Z"
+  },
+  {
+    "userId": "b81ba535-54b2-4a98-874b-ded670f0851e",
+    "fullName": "Cecilia Sawayn",
+    "bio": "public speaker",
+    "gender": "Demi-woman",
+    "birthdate": "1968-09-25T00:51:36.873Z",
+    "registeredAt": "2025-05-18T18:45:15.495Z"
+  },
+  {
+    "userId": "ab65ca21-4ffd-4d36-9aa9-f7e55995af11",
+    "fullName": "Bobbie Beier",
+    "bio": "model, streamer, writer 💌",
+    "gender": "Demi-woman",
+    "birthdate": "1975-08-02T18:01:40.892Z",
+    "registeredAt": "2026-01-15T23:46:59.150Z"
+  },
+  {
+    "userId": "8deb8d96-c30f-40bd-9b5a-3314a402b03a",
+    "fullName": "Cecilia Schmidt",
+    "bio": "artist, grad, geek 👩🏿‍🤝‍👨🏼",
+    "gender": "Female to male",
+    "birthdate": "1953-06-01T17:44:27.712Z",
+    "registeredAt": "2025-11-18T05:54:55.314Z"
+  },
+  {
+    "userId": "6796aff2-2c92-4a1a-8c44-61222387ab0a",
+    "fullName": "Jamie Mann",
+    "bio": "teletype fan, blogger",
+    "gender": "Female to male transsexual man",
+    "birthdate": "1976-06-01T00:28:03.186Z",
+    "registeredAt": "2026-01-04T01:30:06.962Z"
+  },
+  {
+    "userId": "c4ef32eb-013a-4b44-99eb-68e222a0a6af",
+    "fullName": "Emilio Kozey",
+    "bio": "monocle lover",
+    "gender": "Gender neutral",
+    "birthdate": "1973-01-27T00:14:52.746Z",
+    "registeredAt": "2025-05-17T03:03:14.023Z"
+  },
+  {
+    "userId": "fe132131-ec30-4832-b207-f126a46132b8",
+    "fullName": "Norman Mitchell",
+    "bio": "pinafore advocate, activist 🆔",
+    "gender": "Androgyne",
+    "birthdate": "1999-01-19T17:17:34.610Z",
+    "registeredAt": "2025-04-23T04:40:20.220Z"
   }
 ]
