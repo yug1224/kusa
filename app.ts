@@ -49,7 +49,7 @@ if (!program.from || !program.to) {
 const { from, to, weekyday: wd = 5, holiday: hd = 50 } = program;
 // 開始の日時をセット
 let date = dayjs(`${from}`, 'YYYYMMDD');
-// 5年後の日時をセット
+// 終了の日時をセット
 const end = dayjs(`${to}`, 'YYYYMMDD');
 // dateとendのdiffを取る
 const diff = () => {
