@@ -5,7 +5,7 @@ GitHub の草をただ生やし続けるためのリポジトリ
 ## Usage
 
 ```
-$ deno run --allow-run=git app.ts kusa -f YYYYMMDD -t YYYYMMDD
+$ deno run --allow-run=git app.ts kusa --from YYYYMMDD --to YYYYMMDD
 $ git push -u origin main
 ```
 

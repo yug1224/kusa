@@ -16,22 +16,22 @@ const program = new Denomander(
 program
   .command("kusa")
   .requiredOption(
-    "-f --from",
+    "--from",
     "(required) This flag specifies the start date. [YYYYMMDD]",
     String
   )
   .requiredOption(
-    "-t --to",
+    "--to",
     "(required) This flag specifies the end date. [YYYYMMDD]",
     String
   )
   .option(
-    "-wd --weekyday",
+    "--weekyday",
     "This argument is the percentage to run during the daytime on weekdays. [number]",
     Number
   )
   .option(
-    "-hd --holiday",
+    "--holiday",
     "This argument is the percentage to run on holidays and at night. [number]",
     Number
   )
