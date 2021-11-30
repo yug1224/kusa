@@ -109,5 +109,5 @@ while (diff()) {
   }
 
   // 時間を1時間進める
-  date = date.add(30, "minute");
+  date = date.add(60, "minute");
 }
