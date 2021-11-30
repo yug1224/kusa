@@ -26,7 +26,7 @@ program
     String
   )
   .option(
-    "--weekyday",
+    "--weekday",
     "This argument is the percentage to run during the daytime on weekdays. [number]",
     Number
   )
@@ -46,7 +46,7 @@ if (!program.from || !program.to) {
 }
 
 // 変数の定義
-const { from, to, weekyday: wd = 5, holiday: hd = 50 } = program;
+const { from, to, weekday: wd = 5, holiday: hd = 50 } = program;
 // 開始の日時をセット
 let date = dayjs(`${from}`, 'YYYYMMDD');
 // 終了の日時をセット
