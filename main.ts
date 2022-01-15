@@ -1,6 +1,6 @@
 import dayjs from "https://esm.sh/dayjs/";
 // import dayjs from "https://cdn.skypack.dev/dayjs";
-import Denomander from "https://deno.land/x/denomander/mod.ts";
+import Denomander from "https://deno.land/x/denomander@0.9.1/mod.ts";
 import * as log from "https://deno.land/std@0.121.0/log/mod.ts";
 
 // deno-lint-ignore no-explicit-any
