@@ -1,7 +1,9 @@
 import dayjs from "https://esm.sh/dayjs/";
+// import dayjs from "https://cdn.skypack.dev/dayjs";
 import Denomander from "https://deno.land/x/denomander/mod.ts";
 import * as log from "https://deno.land/std@0.121.0/log/mod.ts";
 
+// deno-lint-ignore no-explicit-any
 function validateDate(value: any): string {
   if (dayjs(String(value), "YYYYMMDD").format("YYYYMMDD") !== String(value)) {
     throw `${program.errors.INVALID_RULE}: ${value}`;
@@ -9,6 +11,7 @@ function validateDate(value: any): string {
   return String(value);
 }
 
+// deno-lint-ignore no-explicit-any
 function validateNumber(value: any): number {
   if (Number.isNaN(parseInt(value, 10))) {
     throw `${program.errors.INVALID_RULE}: ${value}`;
