@@ -1,16 +1,17 @@
 import dayjs from "https://esm.sh/dayjs/";
 import Denomander from "https://deno.land/x/denomander/mod.ts";
+import * as log from "https://deno.land/std@0.121.0/log/mod.ts";
 
 function validateDate(value: any): string {
-  if (dayjs(String(value), 'YYYYMMDD').format('YYYYMMDD') !== String(value)) {
-    throw `${program.errors.INVALID_RULE}: ${value}`
+  if (dayjs(String(value), "YYYYMMDD").format("YYYYMMDD") !== String(value)) {
+    throw `${program.errors.INVALID_RULE}: ${value}`;
   }
   return String(value);
 }
 
 function validateNumber(value: any): number {
   if (Number.isNaN(parseInt(value, 10))) {
-    throw `${program.errors.INVALID_RULE}: ${value}`
+    throw `${program.errors.INVALID_RULE}: ${value}`;
   }
   return parseInt(value, 10);
 }
@@ -29,47 +30,65 @@ program
   .requiredOption(
     "--from",
     "(required) This flag specifies the start date. [YYYYMMDD]",
-    validateDate
+    validateDate,
   )
   .requiredOption(
     "--to",
     "(required) This flag specifies the end date. [YYYYMMDD]",
-    validateDate
+    validateDate,
   )
   .option(
     "--weekday",
     "This argument is the percentage to run during the daytime on weekdays. [number]",
-    validateNumber
+    validateNumber,
   )
   .option(
     "--holiday",
     "This argument is the percentage to run on holidays and at night. [number]",
-    validateNumber
+    validateNumber,
   )
   .parse(Deno.args);
 
 // 変数の定義
 const { from, to, weekday: wd = 5, holiday: hd = 50 } = program;
+
 // 開始の日時をセット
-let date = dayjs(`${from}`, 'YYYYMMDD');
+let date = dayjs(`${from}`, "YYYYMMDD");
+
 // 終了の日時をセット
-const end = dayjs(`${to}`, 'YYYYMMDD');
+const end = dayjs(`${to}`, "YYYYMMDD");
+
 // dateとendのdiffを取る
 const diff = () => {
   return date.diff(end) < 0;
 };
 
-// commitする
-async function commit(n: number) {
-  // 1/n判定
-  const r = (n: number) => {
-    return n ? Math.floor(Math.random() * n) === 0 : false;
-  };
+// dateがendの日時を過ぎるまで続ける
+while (diff()) {
+  // 月-金判定
+  const isWeekday = +date.format("d") > 0 && +date.format("d") < 6;
 
-  if (!r(n)) {
-    return;
+  // 10-22時判定
+  const isDaytime = +date.format("h") >= 10 && +date.format("h") <= 22;
+
+  // 1/n判定
+  const n = isWeekday && isDaytime ? wd : hd;
+
+  // 月-金で10-22時の間で1/5の確率でgit commitを行う
+  // 土日もしくは23-09時の間で1/50の確率でgit commitを行う
+  const canCommit = Math.floor(Math.random() * n) === 0;
+
+  if (canCommit) {
+    await commit();
+    await rebase();
   }
 
+  // 時間を進める
+  date = date.add(30, "minute");
+}
+
+// commitする
+async function commit() {
   const p = Deno.run({
     cmd: [
       "git",
@@ -83,32 +102,35 @@ async function commit(n: number) {
     stdout: "piped",
   });
 
-  const [status, stdout, stderr] = await Promise.all([
+  const [_, stdout, stderr] = await Promise.all([
     p.status(),
     p.output(),
     p.stderrOutput(),
   ]);
   p.close();
 
-  console.log(new TextDecoder().decode(stdout || stderr));
+  log.info(new TextDecoder().decode(stdout || stderr));
 }
 
-// dateがendの日時を過ぎるまで続ける
-while (diff()) {
-  // 月-金判定
-  const d = +date.format("d") > 0 && +date.format("d") < 6;
+// rebaseする
+async function rebase() {
+  const p = Deno.run({
+    cmd: [
+      "git",
+      "rebase",
+      "HEAD~1",
+      "--committer-date-is-author-date",
+    ],
+    stderr: "piped",
+    stdout: "piped",
+  });
 
-  // 10-22時判定
-  const h = +date.format("h") >= 10 && +date.format("h") <= 22;
+  const [_, stdout, stderr] = await Promise.all([
+    p.status(),
+    p.output(),
+    p.stderrOutput(),
+  ]);
+  p.close();
 
-  if (d && h) {
-    // 月-金で10-22時の間で1/5の確率でgit commitを行う
-    await commit(+wd);
-  } else {
-    // 土日もしくは23-09時の間で1/50の確率でgit commitを行う
-    await commit(+hd);
-  }
-
-  // 時間を進める
-  date = date.add(30, "minute");
+  log.info(new TextDecoder().decode(stdout || stderr));
 }
