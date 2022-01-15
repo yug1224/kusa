@@ -29,7 +29,7 @@ const program = new Denomander(
 
 // コマンド定義
 program
-  .command("kusa")
+  .command("generate")
   .requiredOption(
     "--from",
     "(required) This flag specifies the start date. [YYYYMMDD]",
