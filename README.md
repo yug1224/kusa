@@ -2,10 +2,16 @@
 
 GitHub の草をただ生やし続けるためのリポジトリ
 
+## Install
+
+```
+deno install --allow-run=git -n kusa https://raw.githubusercontent.com/YuG1224/kusa/main/app.ts
+```
+
 ## Usage
 
 ```
-$ deno run --allow-run=git app.ts kusa --from YYYYMMDD --to YYYYMMDD
+$ kusa generate --from 20220101 --to 20220131
 $ git push -u origin main
 ```
 
