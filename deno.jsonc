@@ -3,26 +3,36 @@
     "allowJs": true,
     "strict": true
   },
-  "lint": {
-    "files": {
-      "include": ["./"],
-      "exclude": [".archive"]
-    },
-    "rules": {
-      "tags": ["recommended"]
-    }
-  },
   "fmt": {
     "files": {
-      "include": ["./"],
-      "exclude": [".archive"]
+      "exclude": [
+        ".archive"
+      ],
+      "include": [
+        "./"
+      ]
     },
     "options": {
-      "useTabs": false,
-      "lineWidth": 80,
       "indentWidth": 2,
+      "lineWidth": 80,
+      "proseWrap": "always",
       "singleQuote": false,
-      "proseWrap": "always"
+      "useTabs": false
+    }
+  },
+  "lint": {
+    "files": {
+      "exclude": [
+        ".archive"
+      ],
+      "include": [
+        "./"
+      ]
+    },
+    "rules": {
+      "tags": [
+        "recommended"
+      ]
     }
   }
 }
