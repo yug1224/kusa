@@ -5,7 +5,7 @@ GitHub の草をただ生やし続けるためのリポジトリ
 ## Install
 
 ```
-deno install --allow-run=git -n kusa https://raw.githubusercontent.com/YuG1224/kusa/main/app.ts
+deno install --allow-run=git --allow-env -n kusa https://raw.githubusercontent.com/YuG1224/kusa/main/app.ts
 ```
 
 ## Usage
@@ -17,6 +17,10 @@ $ git push -u origin main
 
 平日の昼間に草が集中するように、空コミットを行います。
 
-`git commit --allow-empty --date='${date.format()}' -m 'update'`
+```
+GIT_AUTHOR_DATE=<date>
+GIT_COMMITTER_DATE=<date>
+git commit --allow-empty -m 'kusa'
+```
 
-`--date` オプションで時間を操作し、あたかも過去と未来にコミットしたかのように見せかけています。
+`GIT_AUTHOR_DATE`と`GIT_COMMITTER_DATE`で時間を操作し、あたかも過去や未来にコミットしたかのように見せかけています。

@@ -1,6 +1,6 @@
 import dayjs from 'npm:dayjs@^1.11.6';
 import Denomander from 'https://deno.land/x/denomander@0.9.3/mod.ts';
-import * as log from 'https://deno.land/std@0.166.0/log/mod.ts';
+import * as log from 'https://deno.land/std@0.167.0/log/mod.ts';
 
 // deno-lint-ignore no-explicit-any
 function validateDate(value: any): string {
@@ -80,7 +80,6 @@ while (diff()) {
 
   if (canCommit) {
     await commit();
-    await rebase();
   }
 
   // 時間を進める
@@ -89,34 +88,10 @@ while (diff()) {
 
 // commitする
 async function commit() {
+  Deno.env.set('GIT_AUTHOR_DATE', date.format());
+  Deno.env.set('GIT_COMMITTER_DATE', date.format());
   const p = Deno.run({
-    cmd: [
-      'git',
-      'commit',
-      '--allow-empty',
-      '--date',
-      date.format(),
-      '-m',
-      'kusa',
-    ],
-    stderr: 'piped',
-    stdout: 'piped',
-  });
-
-  const [_, stdout, stderr] = await Promise.all([
-    p.status(),
-    p.output(),
-    p.stderrOutput(),
-  ]);
-  p.close();
-
-  log.info(new TextDecoder().decode(stdout || stderr));
-}
-
-// rebaseする
-async function rebase() {
-  const p = Deno.run({
-    cmd: ['git', 'rebase', 'HEAD~1', '--committer-date-is-author-date'],
+    cmd: ['git', 'commit', '--allow-empty', '-m', 'kusa'],
     stderr: 'piped',
     stdout: 'piped',
   });
