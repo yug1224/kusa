@@ -5,8 +5,10 @@ GitHub の草をただ生やし続けるためのリポジトリ
 ## Install
 
 ```
-deno install --allow-run=git --allow-env -n kusa https://raw.githubusercontent.com/YuG1224/kusa/main/app.ts
+deno install --unstable --allow-run=git --allow-env -n kusa app.ts
 ```
+
+`Deno.Command`を利用しているため、`--unstable`をつけています。
 
 ## Usage
 

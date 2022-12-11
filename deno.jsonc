@@ -5,34 +5,24 @@
   },
   "fmt": {
     "files": {
-      "exclude": [
-        ".archive"
-      ],
-      "include": [
-        "./"
-      ]
+      "exclude": [".archive"],
+      "include": ["./"]
     },
     "options": {
       "indentWidth": 2,
       "lineWidth": 80,
       "proseWrap": "always",
-      "singleQuote": false,
+      "singleQuote": true,
       "useTabs": false
     }
   },
   "lint": {
     "files": {
-      "exclude": [
-        ".archive"
-      ],
-      "include": [
-        "./"
-      ]
+      "exclude": [".archive"],
+      "include": ["./"]
     },
     "rules": {
-      "tags": [
-        "recommended"
-      ]
+      "tags": ["recommended"]
     }
   }
 }

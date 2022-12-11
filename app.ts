@@ -90,18 +90,12 @@ while (diff()) {
 async function commit() {
   Deno.env.set('GIT_AUTHOR_DATE', date.format());
   Deno.env.set('GIT_COMMITTER_DATE', date.format());
-  const p = Deno.run({
-    cmd: ['git', 'commit', '--allow-empty', '-m', 'kusa'],
-    stderr: 'piped',
-    stdout: 'piped',
+
+  const c = new Deno.Command('git', {
+    args: ['commit', '--allow-empty', '-m', 'kusa'],
   });
 
-  const [_, stdout, stderr] = await Promise.all([
-    p.status(),
-    p.output(),
-    p.stderrOutput(),
-  ]);
-  p.close();
+  const { stdout, stderr } = await c.outputSync();
 
   log.info(new TextDecoder().decode(stdout || stderr));
 }
