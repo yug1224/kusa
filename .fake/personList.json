@@ -1,114 +1,90 @@
 [
   {
-    "userId": "348582df-187f-445d-a8ec-451eca33e40e",
-    "fullName": "Darlene Olson",
-    "bio": "supermarket junkie",
-    "gender": "Gender nonconforming",
-    "birthdate": "2003-03-21T21:53:02.787Z",
-    "registeredAt": "2026-01-10T10:48:38.021Z"
-  },
-  {
-    "userId": "f66f7232-a631-46ba-b8e8-3635eda4feec",
-    "fullName": "Mr. Hugo Klocko-Sipes",
-    "bio": "teacher",
-    "gender": "F2M",
-    "birthdate": "1988-01-09T22:31:28.959Z",
-    "registeredAt": "2026-02-16T16:40:52.234Z"
-  },
-  {
-    "userId": "0d7b80f0-0bdf-48fe-bd6c-05d2fe458069",
-    "fullName": "Sidney Dooley",
-    "bio": "convertible enthusiast, inventor ⚧️",
-    "gender": "Androgyne",
-    "birthdate": "1947-06-23T17:15:14.263Z",
-    "registeredAt": "2025-08-23T11:43:11.053Z"
-  },
-  {
-    "userId": "99fc7cde-36bd-4f09-b9f7-ad7d8d9da51e",
-    "fullName": "Josephine Williamson Sr.",
-    "bio": "detention advocate",
-    "gender": "Xenogender",
-    "birthdate": "1954-02-13T18:35:04.078Z",
-    "registeredAt": "2025-05-12T09:19:16.778Z"
-  },
-  {
-    "userId": "9cf9acfe-ca0d-4c3f-bf94-b21511186ac5",
-    "fullName": "Rosie Medhurst",
-    "bio": "democrat advocate, blogger",
-    "gender": "Two-spirit person",
-    "birthdate": "2001-07-22T15:17:19.708Z",
-    "registeredAt": "2025-12-24T15:31:59.630Z"
-  },
-  {
-    "userId": "1d78fd44-d150-4c91-a7bc-b2faaaec8ac6",
-    "fullName": "Sue Cole",
-    "bio": "dreamer, grad",
-    "gender": "Neither",
-    "birthdate": "2005-09-06T19:00:27.440Z",
-    "registeredAt": "2025-06-07T14:57:11.293Z"
-  },
-  {
-    "userId": "01a77f10-2c56-4605-9806-a8073fa517e7",
-    "fullName": "Dr. Lucia Hoeger",
-    "bio": "geek, scientist, film lover 🥓",
-    "gender": "Genderqueer",
-    "birthdate": "1952-04-29T20:28:23.798Z",
-    "registeredAt": "2026-02-15T19:42:10.710Z"
-  },
-  {
-    "userId": "74b4b5f0-1c47-4210-b993-7ee23ac42bec",
-    "fullName": "Mae Armstrong",
-    "bio": "thunderstorm junkie, designer 🏦",
-    "gender": "Cisgender female",
-    "birthdate": "1964-06-02T07:06:33.282Z",
-    "registeredAt": "2025-12-18T02:25:05.551Z"
-  },
-  {
-    "userId": "ed4d34b9-d43a-4604-be32-97c90d1be572",
-    "fullName": "Estelle Schmidt",
-    "bio": "test advocate, photographer 💑🏼",
-    "gender": "Cis male",
-    "birthdate": "1951-07-13T22:21:59.214Z",
-    "registeredAt": "2025-12-13T04:28:57.804Z"
-  },
-  {
-    "userId": "d67259ea-9e92-4a71-aca3-ddc6541b2d35",
-    "fullName": "Monica Wiza",
-    "bio": "artist, blogger",
-    "gender": "Male to female",
-    "birthdate": "1997-10-20T18:51:59.498Z",
-    "registeredAt": "2025-07-05T04:48:58.969Z"
-  },
-  {
-    "userId": "c5d37be1-1585-45b2-9138-ff655facb807",
-    "fullName": "Maureen Effertz V",
-    "bio": "public speaker",
-    "gender": "Demi-boy",
-    "birthdate": "1976-09-24T23:17:12.945Z",
-    "registeredAt": "2025-10-03T21:23:18.995Z"
-  },
-  {
-    "userId": "be045a97-feaf-4a15-94e2-2fac1409db2f",
-    "fullName": "Shari Hoeger",
-    "bio": "release fan, philosopher 🎨",
-    "gender": "Two-spirit person",
-    "birthdate": "1989-09-28T20:28:09.615Z",
-    "registeredAt": "2025-06-17T16:25:16.307Z"
-  },
-  {
-    "userId": "47668196-60b2-4602-ac1a-d1810fcad9e0",
-    "fullName": "Teri Johns-Kub",
-    "bio": "mitten advocate",
-    "gender": "Transexual person",
-    "birthdate": "2007-10-22T19:53:32.394Z",
-    "registeredAt": "2026-01-25T14:32:40.463Z"
-  },
-  {
-    "userId": "41f63495-f32b-4230-8919-8c93f90001ed",
-    "fullName": "Israel Roob",
-    "bio": "reduction junkie  🚞",
+    "userId": "42e4a3f7-a51b-4e55-8d17-071b651c42f6",
+    "fullName": "Mae Graham",
+    "bio": "designer, nerd, streamer 🐟",
     "gender": "Cis man",
-    "birthdate": "1956-05-28T12:04:01.006Z",
-    "registeredAt": "2025-09-17T16:45:34.578Z"
+    "birthdate": "2004-12-05T09:29:56.215Z",
+    "registeredAt": "2025-08-04T07:20:38.889Z"
+  },
+  {
+    "userId": "56428c12-ccfb-4848-bdae-00343f5b253f",
+    "fullName": "Lauren Rogahn",
+    "bio": "dreamer, dreamer, author",
+    "gender": "Two-spirit",
+    "birthdate": "1982-11-02T18:32:56.128Z",
+    "registeredAt": "2025-07-30T00:32:47.746Z"
+  },
+  {
+    "userId": "de70d4b7-409b-4386-8f75-fa087b46a218",
+    "fullName": "Irma Farrell",
+    "bio": "sadness enthusiast, artist 🇺🇳",
+    "gender": "Trans person",
+    "birthdate": "1968-07-18T09:43:07.371Z",
+    "registeredAt": "2026-01-02T02:05:53.388Z"
+  },
+  {
+    "userId": "f3509335-b786-4f42-a726-3f6c89f70e74",
+    "fullName": "Esther Aufderhar",
+    "bio": "nerd, artist, educator 🆙",
+    "gender": "Male to female",
+    "birthdate": "1983-02-23T02:25:05.921Z",
+    "registeredAt": "2025-08-30T14:51:48.814Z"
+  },
+  {
+    "userId": "f828f5ae-d114-4efc-a456-4130b2b40a0e",
+    "fullName": "Samantha Gibson",
+    "bio": "creator",
+    "gender": "Non-binary",
+    "birthdate": "1985-10-27T19:36:44.862Z",
+    "registeredAt": "2025-05-24T19:10:19.239Z"
+  },
+  {
+    "userId": "6573ed22-7079-48a1-8309-1e2f61127966",
+    "fullName": "Clinton Jaskolski",
+    "bio": "student, activist, dreamer",
+    "gender": "Demi-boy",
+    "birthdate": "1953-07-11T08:37:08.947Z",
+    "registeredAt": "2025-05-26T13:25:51.445Z"
+  },
+  {
+    "userId": "b7f46cb1-23c7-49ee-bc24-e6e3d6de1e7d",
+    "fullName": "Jackie Davis",
+    "bio": "legal advocate  🤣",
+    "gender": "Male to female",
+    "birthdate": "1999-03-09T04:09:23.709Z",
+    "registeredAt": "2026-01-22T00:53:30.057Z"
+  },
+  {
+    "userId": "91d117e8-cf67-402b-a9d1-bfcb66236826",
+    "fullName": "Yvonne Hettinger",
+    "bio": "supernatural junkie  👁️‍🗨️",
+    "gender": "Gender nonconforming",
+    "birthdate": "1958-11-09T23:33:25.515Z",
+    "registeredAt": "2025-12-09T05:51:34.031Z"
+  },
+  {
+    "userId": "e9bfc60a-95a7-4f95-b83a-8f2c0102f4d0",
+    "fullName": "Dr. Doyle Sipes",
+    "bio": "thing lover, streamer",
+    "gender": "Man",
+    "birthdate": "1983-04-03T09:44:06.345Z",
+    "registeredAt": "2025-08-30T02:43:39.470Z"
+  },
+  {
+    "userId": "60b7e8dd-5b91-451d-8bfb-a0a6b8bdc57d",
+    "fullName": "Kristi Becker",
+    "bio": "nerd, grad, model 🆙",
+    "gender": "F2M",
+    "birthdate": "1988-02-21T15:29:56.650Z",
+    "registeredAt": "2025-04-04T12:44:09.730Z"
+  },
+  {
+    "userId": "60da0130-ccbd-4aae-8882-f9f91809a595",
+    "fullName": "Jerry Schuster",
+    "bio": "mean lover, educator",
+    "gender": "Two-spirit person",
+    "birthdate": "1985-07-02T02:57:32.686Z",
+    "registeredAt": "2025-11-01T20:23:40.129Z"
   }
 ]
