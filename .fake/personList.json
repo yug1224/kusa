@@ -1,162 +1,114 @@
 [
   {
-    "userId": "6bbcb534-18f8-4afe-bd88-9e1032a5c0c5",
-    "fullName": "Hattie Konopelski",
-    "bio": "teacher, philosopher",
-    "gender": "Woman",
-    "birthdate": "1953-09-13T19:05:12.640Z",
-    "registeredAt": "2025-11-17T01:29:02.174Z"
-  },
-  {
-    "userId": "565ef658-df6e-49b3-8c06-4e9e0f35fbc2",
-    "fullName": "Edmund Hirthe",
-    "bio": "measurement lover",
-    "gender": "Cis woman",
-    "birthdate": "1993-11-27T21:51:09.697Z",
-    "registeredAt": "2025-07-09T21:30:34.625Z"
-  },
-  {
-    "userId": "b12c959a-a633-449e-b4f3-a33246a71981",
-    "fullName": "Ms. Susan Kertzmann",
-    "bio": "founder, blogger, artist 👾",
-    "gender": "Cis",
-    "birthdate": "1957-01-08T08:10:58.354Z",
-    "registeredAt": "2025-04-23T18:55:41.183Z"
-  },
-  {
-    "userId": "93c31788-c873-4c57-a180-56d77c562ea4",
-    "fullName": "Miss June Lakin",
-    "bio": "film lover, traveler",
-    "gender": "Two-spirit",
-    "birthdate": "1963-12-03T11:39:27.203Z",
-    "registeredAt": "2025-03-12T18:37:46.789Z"
-  },
-  {
-    "userId": "0bc5cb42-1f40-4217-89a8-1a6865141686",
-    "fullName": "Aaron Bode",
-    "bio": "ectoderm advocate, nerd ♟️",
-    "gender": "Intersex",
-    "birthdate": "1991-12-20T22:51:56.035Z",
-    "registeredAt": "2025-04-12T05:20:06.784Z"
-  },
-  {
-    "userId": "40ed1f43-8fb3-4b91-a4ef-8f11baeb4cfb",
-    "fullName": "Pauline Hamill",
-    "bio": "pool advocate, parent",
-    "gender": "Demi-woman",
-    "birthdate": "2001-04-12T11:28:45.761Z",
-    "registeredAt": "2025-11-30T09:21:22.476Z"
-  },
-  {
-    "userId": "c725a35a-3048-476b-a59b-7b1d410ccdb0",
-    "fullName": "Garry Stoltenberg",
-    "bio": "model",
-    "gender": "Demi-man",
-    "birthdate": "1963-06-28T16:32:36.482Z",
-    "registeredAt": "2025-04-20T14:42:51.314Z"
-  },
-  {
-    "userId": "ef55384c-7f34-432a-b2eb-0043bfa22b0e",
-    "fullName": "Ruby Buckridge",
-    "bio": "supervision lover",
-    "gender": "F2M",
-    "birthdate": "1963-10-03T05:59:12.627Z",
-    "registeredAt": "2025-12-29T03:40:39.623Z"
-  },
-  {
-    "userId": "3d5414ea-c87e-471f-b79b-a6c2a59a6a23",
-    "fullName": "Jeremy Borer",
-    "bio": "person, leader",
-    "gender": "Gender fluid",
-    "birthdate": "1949-03-05T03:32:37.053Z",
-    "registeredAt": "2025-09-04T12:47:45.345Z"
-  },
-  {
-    "userId": "b3931eaa-ab93-4796-ad8c-5398e74eb8f5",
-    "fullName": "Gabriel Gusikowski",
-    "bio": "instrument advocate, leader 🦁",
-    "gender": "Omnigender",
-    "birthdate": "1951-06-04T00:47:23.082Z",
-    "registeredAt": "2025-07-27T21:19:39.324Z"
-  },
-  {
-    "userId": "086047f1-5733-46bc-89b7-a4271f862c55",
-    "fullName": "Lynn Lindgren",
-    "bio": "activist",
-    "gender": "Cis male",
-    "birthdate": "1972-01-06T19:13:28.247Z",
-    "registeredAt": "2026-02-08T06:20:32.789Z"
-  },
-  {
-    "userId": "0ea05add-341a-4828-afe9-5c8dbe2abb7b",
-    "fullName": "Leon Gulgowski",
-    "bio": "teriyaki enthusiast",
-    "gender": "Cis woman",
-    "birthdate": "1998-02-11T05:41:06.387Z",
-    "registeredAt": "2025-04-06T15:47:25.732Z"
-  },
-  {
-    "userId": "227d3cee-8c6f-49ef-a310-3ef89a1df9bb",
-    "fullName": "Harry Sipes",
-    "bio": "scientist, coach, designer",
-    "gender": "Trans",
-    "birthdate": "1972-02-25T09:09:54.932Z",
-    "registeredAt": "2025-10-24T17:38:25.311Z"
-  },
-  {
-    "userId": "c42cd0ea-1243-41a1-8970-787de1282be8",
-    "fullName": "April O'Keefe",
-    "bio": "singer, person, environmentalist 🌋",
-    "gender": "Gender nonconforming",
-    "birthdate": "1952-07-06T21:41:59.229Z",
-    "registeredAt": "2025-04-02T11:50:41.621Z"
-  },
-  {
-    "userId": "f7f0cdfb-0769-44f4-b834-14b54b63c14c",
-    "fullName": "Jo Lynch III",
-    "bio": "friend, artist, gamer 🇵🇰",
-    "gender": "Trans person",
-    "birthdate": "1970-11-09T14:24:20.404Z",
-    "registeredAt": "2025-03-26T10:40:16.847Z"
-  },
-  {
-    "userId": "0c7b932a-70f6-4f5e-9e31-41bea559a99b",
-    "fullName": "Brett MacGyver",
-    "bio": "word fan, writer",
-    "gender": "Cisgender female",
-    "birthdate": "1964-01-13T01:02:35.477Z",
-    "registeredAt": "2025-04-19T02:53:38.428Z"
-  },
-  {
-    "userId": "2223efb2-a0da-4168-8317-912fcf55c74c",
-    "fullName": "Debbie Schuppe V",
-    "bio": "progenitor enthusiast",
-    "gender": "Transexual woman",
-    "birthdate": "1969-03-29T11:08:09.261Z",
-    "registeredAt": "2025-09-28T22:36:27.332Z"
-  },
-  {
-    "userId": "c6c5d0f8-d59b-412f-a173-6928bc6d837a",
-    "fullName": "Sylvester Bogisich",
-    "bio": "engineer, engineer, public speaker",
-    "gender": "Female to male",
-    "birthdate": "1996-02-02T10:50:43.304Z",
-    "registeredAt": "2025-08-17T19:58:52.970Z"
-  },
-  {
-    "userId": "8c6874ca-0fbf-426a-bb0a-a34ee5fa778d",
-    "fullName": "Frank Goldner",
-    "bio": "scientist, musician, friend",
-    "gender": "Male to female transgender woman",
-    "birthdate": "2007-09-06T20:21:53.078Z",
-    "registeredAt": "2025-08-16T07:08:07.355Z"
-  },
-  {
-    "userId": "57105954-5805-4dbe-b261-803d91facecf",
-    "fullName": "Cody Cruickshank",
-    "bio": "public speaker",
+    "userId": "7229f2de-7aca-4a86-9c62-eb78e26dd988",
+    "fullName": "Hector Steuber",
+    "bio": "environmentalist, creator",
     "gender": "Trans man",
-    "birthdate": "1972-09-11T21:56:43.121Z",
-    "registeredAt": "2025-08-19T11:38:58.262Z"
+    "birthdate": "1981-02-13T22:23:26.258Z",
+    "registeredAt": "2025-11-21T01:21:51.671Z"
+  },
+  {
+    "userId": "77478d0f-52d9-41f3-bae1-ccfe8eb89607",
+    "fullName": "Bobby Schultz-Kertzmann",
+    "bio": "engineer, patriot",
+    "gender": "Non-binary",
+    "birthdate": "1959-12-09T20:16:07.068Z",
+    "registeredAt": "2026-01-10T17:44:49.394Z"
+  },
+  {
+    "userId": "d03a30bb-b447-4e26-86e4-303f47aa834d",
+    "fullName": "Mae Lind",
+    "bio": "geek, artist",
+    "gender": "Female to male transsexual man",
+    "birthdate": "1983-11-07T14:52:11.148Z",
+    "registeredAt": "2026-01-20T13:54:14.320Z"
+  },
+  {
+    "userId": "216bc1a6-133f-4a78-bc5c-571471830bea",
+    "fullName": "Bernard Ziemann DVM",
+    "bio": "patriot, model, coach",
+    "gender": "Cisgender female",
+    "birthdate": "1946-11-15T01:06:57.588Z",
+    "registeredAt": "2025-08-29T13:32:44.542Z"
+  },
+  {
+    "userId": "e5457dff-3b33-4c72-abf8-d3b32e3123f0",
+    "fullName": "Dr. Robin Franey",
+    "bio": "array junkie",
+    "gender": "Intersex person",
+    "birthdate": "1985-10-13T08:42:31.611Z",
+    "registeredAt": "2025-08-21T04:16:06.626Z"
+  },
+  {
+    "userId": "091f3f7d-4940-48aa-a2d1-b96f3cd19cc0",
+    "fullName": "Mr. Winston Wolf DDS",
+    "bio": "creator, designer, parent",
+    "gender": "Gender questioning",
+    "birthdate": "1969-02-27T21:21:18.494Z",
+    "registeredAt": "2026-02-28T13:56:58.278Z"
+  },
+  {
+    "userId": "725bd29a-bdc4-463f-b2ab-eef54aa7c8a3",
+    "fullName": "Dr. Eric VonRueden",
+    "bio": "designer, scientist, film lover",
+    "gender": "Gender questioning",
+    "birthdate": "1975-01-04T08:35:02.813Z",
+    "registeredAt": "2026-02-26T06:17:19.614Z"
+  },
+  {
+    "userId": "1f613ad2-3802-426e-b93a-2cc0e70cfbb0",
+    "fullName": "Ms. Angel Tremblay",
+    "bio": "high-rise junkie, geek 🏯",
+    "gender": "Intersex woman",
+    "birthdate": "2004-07-03T07:16:07.589Z",
+    "registeredAt": "2025-10-22T14:43:59.980Z"
+  },
+  {
+    "userId": "fdacc63f-8eb7-41c5-bad8-260a04ad464a",
+    "fullName": "Dallas Hodkiewicz",
+    "bio": "clove fan, founder 🕜",
+    "gender": "Genderqueer",
+    "birthdate": "1954-03-21T18:57:30.455Z",
+    "registeredAt": "2025-10-04T00:21:57.208Z"
+  },
+  {
+    "userId": "5860ada3-a971-4231-97fd-9038b6c6de55",
+    "fullName": "Albert Heaney",
+    "bio": "singer, inventor",
+    "gender": "Male to female",
+    "birthdate": "1956-01-13T12:43:54.977Z",
+    "registeredAt": "2025-04-15T10:39:21.836Z"
+  },
+  {
+    "userId": "0218476d-e6c3-451e-b2b8-f44a32273e47",
+    "fullName": "Maurice Pouros",
+    "bio": "veteran, coach, model",
+    "gender": "Cisgender male",
+    "birthdate": "2006-01-24T07:44:12.862Z",
+    "registeredAt": "2025-09-27T19:51:23.970Z"
+  },
+  {
+    "userId": "45fec721-b09f-4924-b366-e63cfffe1ea8",
+    "fullName": "Mr. Preston Dibbert DDS",
+    "bio": "writer",
+    "gender": "Intersex woman",
+    "birthdate": "2000-04-26T21:17:19.032Z",
+    "registeredAt": "2025-04-29T00:47:52.261Z"
+  },
+  {
+    "userId": "4fef4202-e208-45e1-a816-039c627fcd9f",
+    "fullName": "Tracey Hilll",
+    "bio": "veteran, patriot, engineer",
+    "gender": "Cisgender man",
+    "birthdate": "1951-08-16T14:03:26.756Z",
+    "registeredAt": "2025-09-13T21:54:05.386Z"
+  },
+  {
+    "userId": "99529d84-c11c-4de7-bc7c-3f9d1df1358a",
+    "fullName": "Erin Waelchi-Nicolas",
+    "bio": "clone lover, musician 😚",
+    "gender": "M2F",
+    "birthdate": "1980-04-14T09:22:51.633Z",
+    "registeredAt": "2025-06-20T14:33:37.909Z"
   }
 ]
