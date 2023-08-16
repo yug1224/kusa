@@ -1,6 +1,7 @@
+import { faker } from "npm:@faker-js/faker";
+import * as log from "https://deno.land/std@0.167.0/log/mod.ts";
 import dayjs from "npm:dayjs@^1.11.6";
 import Denomander from "https://deno.land/x/denomander@0.9.3/mod.ts";
-import * as log from "https://deno.land/std@0.167.0/log/mod.ts";
 
 // deno-lint-ignore no-explicit-any
 function validateDate(value: any): string {
@@ -91,8 +92,26 @@ async function commit() {
   Deno.env.set("GIT_AUTHOR_DATE", date.format());
   Deno.env.set("GIT_COMMITTER_DATE", date.format());
 
+  // フェイクユーザーリストを作成
+  const fakeUserList = [...Array(faker.number.int(20))].map(() => {
+    return {
+      userId: faker.string.uuid(),
+      username: faker.internet.userName(),
+      email: faker.internet.email(),
+      avatar: faker.image.avatar(),
+      password: faker.internet.password(),
+      birthdate: faker.date.birthdate(),
+      registeredAt: faker.date.past(),
+    };
+  });
+
+  await Deno.writeTextFile(
+    ".fake/userList.json",
+    JSON.stringify(fakeUserList, null, 2),
+  );
+
   const c = new Deno.Command("git", {
-    args: ["commit", "--allow-empty", "-m", "kusa"],
+    args: ["commit", "-am", "kusa"],
   });
 
   const { stdout, stderr } = await c.outputSync();

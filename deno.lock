@@ -54,8 +54,15 @@
     "https://raw.githubusercontent.com/YuG1224/kusa/main/app.ts": "44b8b04f28153f1b5a7f84fa826decb1c048bcf91b162a0214bb9f164f3d2cd1"
   },
   "npm": {
-    "specifiers": { "dayjs@^1.11.6": "dayjs@1.11.6" },
+    "specifiers": {
+      "@faker-js/faker": "@faker-js/faker@8.0.2",
+      "dayjs@^1.11.6": "dayjs@1.11.6"
+    },
     "packages": {
+      "@faker-js/faker@8.0.2": {
+        "integrity": "sha512-Uo3pGspElQW91PCvKSIAXoEgAUlRnH29sX2/p89kg7sP1m2PzCufHINd0FhTXQf6DYGiUlVncdSPa2F9wxed2A==",
+        "dependencies": {}
+      },
       "dayjs@1.11.6": {
         "integrity": "sha512-zZbY5giJAinCG+7AGaw0wIhNZ6J8AhWuSXKvuc1KAyMiRsvGQWqh4L+MomvhdAYjN+lqvVCMq1I41e3YHvXkyQ==",
         "dependencies": {}
