@@ -1,10 +1,10 @@
-import dayjs from 'npm:dayjs@^1.11.6';
-import Denomander from 'https://deno.land/x/denomander@0.9.3/mod.ts';
-import * as log from 'https://deno.land/std@0.167.0/log/mod.ts';
+import dayjs from "npm:dayjs@^1.11.6";
+import Denomander from "https://deno.land/x/denomander@0.9.3/mod.ts";
+import * as log from "https://deno.land/std@0.167.0/log/mod.ts";
 
 // deno-lint-ignore no-explicit-any
 function validateDate(value: any): string {
-  if (dayjs(String(value), 'YYYYMMDD').format('YYYYMMDD') !== String(value)) {
+  if (dayjs(String(value), "YYYYMMDD").format("YYYYMMDD") !== String(value)) {
     throw `${program.errors.INVALID_RULE}: ${value}`;
   }
   return String(value);
@@ -19,33 +19,33 @@ function validateNumber(value: any): number {
 }
 
 const program = new Denomander({
-  app_name: 'kusa',
-  app_description: 'jinko shiba generator',
-  app_version: '2.0.0',
+  app_name: "kusa",
+  app_description: "jinko shiba generator",
+  app_version: "2.0.0",
 });
 
 // コマンド定義
 program
-  .command('generate')
+  .command("generate")
   .requiredOption(
-    '--from',
-    '(required) This flag specifies the start date. [YYYYMMDD]',
-    validateDate
+    "--from",
+    "(required) This flag specifies the start date. [YYYYMMDD]",
+    validateDate,
   )
   .requiredOption(
-    '--to',
-    '(required) This flag specifies the end date. [YYYYMMDD]',
-    validateDate
+    "--to",
+    "(required) This flag specifies the end date. [YYYYMMDD]",
+    validateDate,
   )
   .option(
-    '--weekday',
-    'This argument is the percentage to run during the daytime on weekdays. [number]',
-    validateNumber
+    "--weekday",
+    "This argument is the percentage to run during the daytime on weekdays. [number]",
+    validateNumber,
   )
   .option(
-    '--holiday',
-    'This argument is the percentage to run on holidays and at night. [number]',
-    validateNumber
+    "--holiday",
+    "This argument is the percentage to run on holidays and at night. [number]",
+    validateNumber,
   )
   .parse(Deno.args);
 
@@ -53,10 +53,10 @@ program
 const { from, to, weekday: wd = 5, holiday: hd = 50 } = program;
 
 // 開始の日時をセット
-let date = dayjs(`${from}`, 'YYYYMMDD');
+let date = dayjs(`${from}`, "YYYYMMDD");
 
 // 終了の日時をセット
-const end = dayjs(`${to}`, 'YYYYMMDD');
+const end = dayjs(`${to}`, "YYYYMMDD");
 
 // dateとendのdiffを取る
 const diff = () => {
@@ -66,10 +66,10 @@ const diff = () => {
 // dateがendの日時を過ぎるまで続ける
 while (diff()) {
   // 月-金判定
-  const isWeekday = +date.format('d') > 0 && +date.format('d') < 6;
+  const isWeekday = +date.format("d") > 0 && +date.format("d") < 6;
 
   // 10-22時判定
-  const isDaytime = +date.format('h') >= 10 && +date.format('h') <= 22;
+  const isDaytime = +date.format("h") >= 10 && +date.format("h") <= 22;
 
   // 1/n判定
   const n = isWeekday && isDaytime ? wd : hd;
@@ -83,16 +83,16 @@ while (diff()) {
   }
 
   // 時間を進める
-  date = date.add(30, 'minute');
+  date = date.add(30, "minute");
 }
 
 // commitする
 async function commit() {
-  Deno.env.set('GIT_AUTHOR_DATE', date.format());
-  Deno.env.set('GIT_COMMITTER_DATE', date.format());
+  Deno.env.set("GIT_AUTHOR_DATE", date.format());
+  Deno.env.set("GIT_COMMITTER_DATE", date.format());
 
-  const c = new Deno.Command('git', {
-    args: ['commit', '--allow-empty', '-m', 'kusa'],
+  const c = new Deno.Command("git", {
+    args: ["commit", "--allow-empty", "-m", "kusa"],
   });
 
   const { stdout, stderr } = await c.outputSync();
