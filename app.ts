@@ -1,6 +1,6 @@
 import { faker } from "npm:@faker-js/faker";
 import * as log from "https://deno.land/std@0.167.0/log/mod.ts";
-import dayjs from "npm:dayjs@^1.11.6";
+import dayjs from "npm:dayjs";
 import Denomander from "https://deno.land/x/denomander@0.9.3/mod.ts";
 
 // deno-lint-ignore no-explicit-any

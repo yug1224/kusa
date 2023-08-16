@@ -56,6 +56,7 @@
   "npm": {
     "specifiers": {
       "@faker-js/faker": "@faker-js/faker@8.0.2",
+      "dayjs": "dayjs@1.11.9",
       "dayjs@^1.11.6": "dayjs@1.11.6"
     },
     "packages": {
@@ -65,6 +66,10 @@
       },
       "dayjs@1.11.6": {
         "integrity": "sha512-zZbY5giJAinCG+7AGaw0wIhNZ6J8AhWuSXKvuc1KAyMiRsvGQWqh4L+MomvhdAYjN+lqvVCMq1I41e3YHvXkyQ==",
+        "dependencies": {}
+      },
+      "dayjs@1.11.9": {
+        "integrity": "sha512-QvzAURSbQ0pKdIye2txOzNaHmxtUBXerpY0FJsFXUMKbIZeFm5ht1LS/jFsrncjnmtv8HsG0W2g6c0zUjZWmpA==",
         "dependencies": {}
       }
     }
