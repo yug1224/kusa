@@ -145,7 +145,12 @@ async function commit() {
   }
 
   const c = new Deno.Command("git", {
-    args: ["commit", "--allow-empty", "-am", "kusa"],
+    args: [
+      "commit",
+      "--allow-empty",
+      "-am",
+      faker.lorem.sentence({ max: 5, min: 3 }),
+    ],
   });
 
   const { stdout, stderr } = await c.outputSync();
