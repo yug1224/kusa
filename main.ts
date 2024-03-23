@@ -93,25 +93,59 @@ async function commit() {
   Deno.env.set("GIT_COMMITTER_DATE", date.format());
 
   // フェイクユーザーリストを作成
-  const fakeUserList = [...Array(faker.number.int(20))].map(() => {
-    return {
-      userId: faker.string.uuid(),
-      username: faker.internet.userName(),
-      email: faker.internet.email(),
-      avatar: faker.image.avatar(),
-      password: faker.internet.password(),
-      birthdate: faker.date.birthdate(),
-      registeredAt: faker.date.past(),
-    };
-  });
+  if (faker.datatype.boolean()) {
+    const fakePersonList = [...Array(faker.number.int(20))].map(() => {
+      return {
+        userId: faker.string.uuid(),
+        fullName: faker.person.fullName(),
+        bio: faker.person.bio(),
+        gender: faker.person.gender(),
+        birthdate: faker.date.birthdate(),
+        registeredAt: faker.date.past(),
+      };
+    });
+    await Deno.writeTextFile(
+      ".fake/personList.json",
+      JSON.stringify(fakePersonList, null, 2),
+    );
+  }
+  // フェイク会社リストを作成
+  if (faker.datatype.boolean()) {
+    const fakeCompanyList = [...Array(faker.number.int(20))].map(() => {
+      return {
+        companyId: faker.string.uuid(),
+        companyName: faker.company.name(),
+        catchPhrase: faker.company.catchPhrase(),
+        buzzPhrase: faker.company.buzzPhrase(),
+        established: faker.date.birthdate({ min: 0, max: 100, mode: "age" }),
+        registeredAt: faker.date.past(),
+      };
+    });
+    await Deno.writeTextFile(
+      ".fake/companyList.json",
+      JSON.stringify(fakeCompanyList, null, 2),
+    );
+  }
 
-  await Deno.writeTextFile(
-    ".fake/userList.json",
-    JSON.stringify(fakeUserList, null, 2),
-  );
+  // フェイク商品リストを作成
+  if (faker.datatype.boolean()) {
+    const fakeProductList = [...Array(faker.number.int(20))].map(() => {
+      return {
+        productId: faker.string.uuid(),
+        productName: faker.commerce.productName(),
+        price: faker.commerce.price(),
+        productDescription: faker.commerce.productDescription(),
+        registeredAt: faker.date.past(),
+      };
+    });
+    await Deno.writeTextFile(
+      ".fake/productList.json",
+      JSON.stringify(fakeProductList, null, 2),
+    );
+  }
 
   const c = new Deno.Command("git", {
-    args: ["commit", "-am", "kusa"],
+    args: ["commit", "--allow-empty", "-am", "kusa"],
   });
 
   const { stdout, stderr } = await c.outputSync();
