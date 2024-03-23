@@ -69,14 +69,14 @@ while (diff()) {
   // 月-金判定
   const isWeekday = +date.format("d") > 0 && +date.format("d") < 6;
 
-  // 10-22時判定
-  const isDaytime = +date.format("h") >= 10 && +date.format("h") <= 22;
+  // 21-4時判定
+  const isWorkTime = +date.format("h") >= 21 && +date.format("h") <= 4;
 
   // 1/n判定
-  const n = isWeekday && isDaytime ? wd : hd;
+  const n = isWeekday && isWorkTime ? wd : hd;
 
-  // 月-金で10-22時の間で1/5の確率でgit commitを行う
-  // 土日もしくは23-09時の間で1/50の確率でgit commitを行う
+  // 月-金で21-4時の間で1/5の確率でgit commitを行う
+  // 土日もしくは日中帯の間で1/50の確率でgit commitを行う
   const canCommit = Math.floor(Math.random() * n) === 0;
 
   if (canCommit) {
@@ -84,7 +84,7 @@ while (diff()) {
   }
 
   // 時間を進める
-  date = date.add(30, "minute");
+  date = date.add(15, "minute");
 }
 
 // commitする
