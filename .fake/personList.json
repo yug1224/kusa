@@ -1,130 +1,106 @@
 [
   {
-    "userId": "b7c0ca59-f6e1-4f26-99f3-3750e6b93cdd",
-    "fullName": "Dr. Geoffrey Welch",
-    "bio": "teacher",
-    "gender": "Cisgender woman",
-    "birthdate": "1972-07-09T17:54:24.354Z",
-    "registeredAt": "2024-02-04T12:36:46.734Z"
-  },
-  {
-    "userId": "2f0295f9-5740-4089-abc0-c2a1ad3c2ce4",
-    "fullName": "Olga Armstrong IV",
-    "bio": "chowder devotee, filmmaker",
-    "gender": "Gender questioning",
-    "birthdate": "1989-04-11T11:02:36.636Z",
-    "registeredAt": "2023-07-24T02:29:41.576Z"
-  },
-  {
-    "userId": "89ff2cfa-03d8-4bbd-b708-787813a28076",
-    "fullName": "Patricia Blick Jr.",
-    "bio": "educator, singer",
-    "gender": "Gender questioning",
-    "birthdate": "1944-04-12T14:09:35.720Z",
-    "registeredAt": "2023-08-01T15:55:26.825Z"
-  },
-  {
-    "userId": "a0649483-9325-41f3-b5b5-a606c396ef24",
-    "fullName": "Ian Marvin",
-    "bio": "author",
-    "gender": "Androgynous",
-    "birthdate": "1946-04-24T15:26:08.078Z",
-    "registeredAt": "2024-02-06T01:56:11.348Z"
-  },
-  {
-    "userId": "d263b6f4-627f-4905-9f07-a8b076a596cd",
-    "fullName": "Virgil Ferry II",
-    "bio": "inventor",
-    "gender": "Multigender",
-    "birthdate": "2002-01-04T21:24:34.903Z",
-    "registeredAt": "2023-12-19T13:33:16.647Z"
-  },
-  {
-    "userId": "a9dccbf7-c523-40e5-abfa-3899ebd6c76c",
-    "fullName": "Mr. Donald Bruen",
-    "bio": "instant fan, developer 🍗",
-    "gender": "Trans",
-    "birthdate": "1946-10-16T00:08:56.027Z",
-    "registeredAt": "2023-04-19T02:54:56.885Z"
-  },
-  {
-    "userId": "a955981b-5925-43c8-81fc-ca295fed3f22",
-    "fullName": "Dr. Carl Steuber PhD",
-    "bio": "afterthought advocate  🤙",
-    "gender": "Demiflux",
-    "birthdate": "1947-08-17T06:01:00.805Z",
-    "registeredAt": "2023-08-05T05:49:15.054Z"
-  },
-  {
-    "userId": "a754c9b1-7065-4740-961b-25d54dd69f2b",
-    "fullName": "Marty Davis",
-    "bio": "bidder junkie, developer",
-    "gender": "Cis woman",
-    "birthdate": "1948-03-04T05:00:22.047Z",
-    "registeredAt": "2023-07-15T15:44:42.076Z"
-  },
-  {
-    "userId": "1dcb3c72-ba9e-420e-9455-daf55f6b63cb",
-    "fullName": "Jordan Altenwerth",
-    "bio": "dreamer, business owner, engineer 🧑🏼‍❤️‍💋‍🧑🏽",
-    "gender": "Male to female transsexual woman",
-    "birthdate": "1978-03-06T21:25:06.826Z",
-    "registeredAt": "2023-06-04T01:00:58.457Z"
-  },
-  {
-    "userId": "ab1f8fbd-c1c6-412c-a291-eee6f53d8d60",
-    "fullName": "Roman Kunde-Heidenreich",
-    "bio": "nerd, creator",
-    "gender": "Gender nonconforming",
-    "birthdate": "2006-04-01T02:51:50.560Z",
-    "registeredAt": "2023-06-23T02:35:09.632Z"
-  },
-  {
-    "userId": "e9f02a52-22d4-42ad-85a0-0f0d46635ba5",
-    "fullName": "Bert Will",
-    "bio": "configuration supporter, developer 🌆",
-    "gender": "Trans female",
-    "birthdate": "2001-01-23T08:38:27.513Z",
-    "registeredAt": "2023-07-04T11:53:12.199Z"
-  },
-  {
-    "userId": "6e4a368d-9dad-47d8-b84e-8e7ed9492af1",
-    "fullName": "Dr. Essie Bauch",
-    "bio": "entrepreneur, veteran",
-    "gender": "Neutrois",
-    "birthdate": "2003-10-04T00:55:17.833Z",
-    "registeredAt": "2023-06-02T11:43:58.931Z"
-  },
-  {
-    "userId": "e7ebc82a-26a2-4518-95c8-ed198dd38041",
-    "fullName": "Desiree Murazik",
-    "bio": "grandchild devotee, author",
-    "gender": "Man",
-    "birthdate": "1966-06-06T15:46:47.541Z",
-    "registeredAt": "2023-12-14T07:38:52.560Z"
-  },
-  {
-    "userId": "6c3d6d38-fadb-402e-8e59-6df5ef28682a",
-    "fullName": "Garrett Hane",
-    "bio": "way lover  🤕",
-    "gender": "Non-binary",
-    "birthdate": "1974-03-10T06:43:27.133Z",
-    "registeredAt": "2023-09-06T07:02:56.810Z"
-  },
-  {
-    "userId": "fd6b24a5-790b-41ab-89fd-7b0eae041758",
-    "fullName": "Jeremy McGlynn",
-    "bio": "business owner, nerd",
+    "userId": "04c488bc-054f-4480-b10f-0511387c1f51",
+    "fullName": "Ms. Violet Stracke",
+    "bio": "founder",
     "gender": "Gender variant",
-    "birthdate": "1994-03-18T22:30:55.330Z",
-    "registeredAt": "2023-04-17T12:07:17.060Z"
+    "birthdate": "1968-07-28T05:21:15.755Z",
+    "registeredAt": "2023-04-15T17:24:56.676Z"
   },
   {
-    "userId": "c780aedf-8e88-4401-a097-f6932eb16ff8",
-    "fullName": "Virginia Franey",
-    "bio": "blogger, activist, dreamer",
-    "gender": "Gender questioning",
-    "birthdate": "1999-06-23T22:29:58.981Z",
-    "registeredAt": "2023-12-12T02:25:59.812Z"
+    "userId": "d211f326-adf0-482c-b92b-6a0b875c13d2",
+    "fullName": "Orville Mohr",
+    "bio": "cleaner devotee  👂🏿",
+    "gender": "Intersex man",
+    "birthdate": "1995-01-30T04:23:28.645Z",
+    "registeredAt": "2024-03-01T11:54:36.995Z"
+  },
+  {
+    "userId": "b33b2d45-db4b-472b-9819-658329c44a9b",
+    "fullName": "Brooke Ziemann",
+    "bio": "leader, musician, gamer",
+    "gender": "Androgyne",
+    "birthdate": "1995-06-05T17:54:54.930Z",
+    "registeredAt": "2024-02-06T18:26:42.680Z"
+  },
+  {
+    "userId": "d6055ede-c01e-4369-a885-582802b283c3",
+    "fullName": "Jose Steuber",
+    "bio": "patriot",
+    "gender": "Trigender",
+    "birthdate": "1982-11-19T10:26:34.533Z",
+    "registeredAt": "2023-06-13T12:54:19.877Z"
+  },
+  {
+    "userId": "f1750f24-a039-4f4e-a5e9-220a6c6d8837",
+    "fullName": "Joanne Mante",
+    "bio": "foodie, author, inventor",
+    "gender": "Cis woman",
+    "birthdate": "1994-12-14T09:15:39.066Z",
+    "registeredAt": "2023-04-21T08:47:45.065Z"
+  },
+  {
+    "userId": "5fc99d6d-2ecc-4218-9472-7e540133c45d",
+    "fullName": "Traci Marquardt",
+    "bio": "film lover, foodie",
+    "gender": "Male to female trans woman",
+    "birthdate": "1948-11-13T15:11:15.971Z",
+    "registeredAt": "2024-01-13T04:06:08.336Z"
+  },
+  {
+    "userId": "cfdecc7f-4912-4936-929d-7e09f3c46244",
+    "fullName": "Jackie Hoppe V",
+    "bio": "advancement enthusiast, foodie",
+    "gender": "Trans female",
+    "birthdate": "1988-12-19T05:32:13.582Z",
+    "registeredAt": "2023-05-25T16:36:49.518Z"
+  },
+  {
+    "userId": "4fd55970-a301-40cd-ba88-670848cf0577",
+    "fullName": "Laurence Schmitt II",
+    "bio": "traveler, traveler",
+    "gender": "Demigender",
+    "birthdate": "1947-12-20T03:41:26.902Z",
+    "registeredAt": "2023-03-29T01:56:59.487Z"
+  },
+  {
+    "userId": "50dfecfb-9115-4441-a741-d2826a1f0881",
+    "fullName": "Mandy Kihn",
+    "bio": "memorial junkie  🐨",
+    "gender": "Woman",
+    "birthdate": "1976-04-19T18:30:28.221Z",
+    "registeredAt": "2023-05-01T23:09:47.306Z"
+  },
+  {
+    "userId": "d42a5468-6576-487b-95d4-a3f50adaf6e9",
+    "fullName": "Kristopher Carter",
+    "bio": "coach, person, model 🎰",
+    "gender": "Two-spirit",
+    "birthdate": "1983-05-10T04:19:24.197Z",
+    "registeredAt": "2023-03-27T17:09:19.343Z"
+  },
+  {
+    "userId": "f9565f4f-4a9d-4091-ade8-79313a9a1145",
+    "fullName": "Dr. Travis Mayer PhD",
+    "bio": "diving supporter, public speaker 🦤",
+    "gender": "Transexual male",
+    "birthdate": "1945-07-07T05:34:13.587Z",
+    "registeredAt": "2023-11-28T10:59:20.277Z"
+  },
+  {
+    "userId": "6b6061ca-544a-47f2-93d5-324b5238c599",
+    "fullName": "Gretchen Runolfsson",
+    "bio": "student, teacher",
+    "gender": "T* woman",
+    "birthdate": "2002-03-17T00:17:53.435Z",
+    "registeredAt": "2023-07-26T16:38:50.408Z"
+  },
+  {
+    "userId": "054a440d-ef60-4689-9dc7-7da773c227aa",
+    "fullName": "Joey Smitham",
+    "bio": "virtue lover, scientist",
+    "gender": "Intersex",
+    "birthdate": "1992-04-16T10:29:43.761Z",
+    "registeredAt": "2023-10-14T14:04:21.354Z"
   }
 ]
