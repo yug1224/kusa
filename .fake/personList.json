@@ -1,162 +1,74 @@
 [
   {
-    "userId": "35bfde8e-4216-4af2-9095-31c4a2070225",
-    "fullName": "Marty Kulas",
-    "bio": "entirety supporter  💟",
-    "gender": "Genderqueer",
-    "birthdate": "1971-12-30T09:58:04.903Z",
-    "registeredAt": "2026-01-14T17:23:24.464Z"
-  },
-  {
-    "userId": "f141020d-20b9-45dc-b8e9-b4e04a26e08c",
-    "fullName": "Byron Denesik PhD",
-    "bio": "dueling supporter  🌤️",
-    "gender": "Cisgender male",
-    "birthdate": "1949-07-12T01:04:12.895Z",
-    "registeredAt": "2025-05-07T21:24:49.204Z"
-  },
-  {
-    "userId": "7a078d14-b0b2-4806-9346-24fb51dd5106",
-    "fullName": "Gwendolyn Kozey",
-    "bio": "railway advocate",
-    "gender": "Trans man",
-    "birthdate": "1985-07-07T23:53:47.047Z",
-    "registeredAt": "2025-06-29T05:16:01.203Z"
-  },
-  {
-    "userId": "bb6ef42f-0990-4623-a65c-a8022e7134c3",
-    "fullName": "Samantha Collins",
-    "bio": "nerd, coach, traveler 🎰",
-    "gender": "Transexual woman",
-    "birthdate": "1952-08-25T17:24:45.336Z",
-    "registeredAt": "2026-01-06T03:52:37.480Z"
-  },
-  {
-    "userId": "86f2a8e1-f094-4245-8776-6f6e96b506d8",
-    "fullName": "Mrs. Louise Nitzsche",
-    "bio": "filmmaker, developer",
-    "gender": "FTM",
-    "birthdate": "1965-09-26T11:15:34.746Z",
-    "registeredAt": "2025-05-24T13:08:35.345Z"
-  },
-  {
-    "userId": "0beceb3d-d78e-48b1-a863-d4a67c266e31",
-    "fullName": "Laurie Ortiz",
-    "bio": "author, photographer, educator",
-    "gender": "Gender neutral",
-    "birthdate": "2001-12-07T11:46:37.199Z",
-    "registeredAt": "2025-06-19T02:32:08.942Z"
-  },
-  {
-    "userId": "ddffa184-af84-4019-bc45-b9ed4db1c18a",
-    "fullName": "Woodrow Ratke DVM",
-    "bio": "public speaker, engineer, blogger 🇧🇹",
-    "gender": "Demi-girl",
-    "birthdate": "2003-11-01T20:05:03.246Z",
-    "registeredAt": "2025-12-19T13:46:16.896Z"
-  },
-  {
-    "userId": "8ec8f733-0fa8-4b4a-8227-027ca12c34ab",
-    "fullName": "Kent Nolan",
-    "bio": "gastropod devotee, singer 🇾🇹",
-    "gender": "Cis man",
-    "birthdate": "1957-08-25T20:20:13.119Z",
-    "registeredAt": "2025-07-11T13:40:56.171Z"
-  },
-  {
-    "userId": "33c7a433-529b-41df-8fbd-bfce34302d88",
-    "fullName": "Mrs. Brittany Hodkiewicz",
-    "bio": "founder, activist",
-    "gender": "Omnigender",
-    "birthdate": "1996-11-08T15:37:52.672Z",
-    "registeredAt": "2025-08-25T12:49:50.756Z"
-  },
-  {
-    "userId": "fef9d642-da81-4cb8-8349-e6cf7f26bc9b",
-    "fullName": "Roman Haley",
-    "bio": "person, creator",
-    "gender": "Non-binary",
-    "birthdate": "1965-07-15T10:09:26.776Z",
-    "registeredAt": "2025-08-11T21:42:08.970Z"
-  },
-  {
-    "userId": "3772498f-3373-46af-8ca8-7959143e1fa0",
-    "fullName": "Debbie Abernathy",
-    "bio": "vogue enthusiast  🥇",
-    "gender": "Gender fluid",
-    "birthdate": "1969-07-16T06:09:06.835Z",
-    "registeredAt": "2025-12-30T17:46:29.196Z"
-  },
-  {
-    "userId": "88742dc8-50be-4edf-9c7f-667929d2c4e9",
-    "fullName": "Shane Bashirian",
-    "bio": "filth junkie  ✌🏻",
-    "gender": "Transexual male",
-    "birthdate": "1982-12-17T14:37:33.284Z",
-    "registeredAt": "2025-07-17T03:06:16.532Z"
-  },
-  {
-    "userId": "3c8516c8-ba49-4732-a690-385ac71466ca",
-    "fullName": "Becky Graham",
-    "bio": "educator, parent, writer",
-    "gender": "Transexual",
-    "birthdate": "1973-01-28T17:41:33.197Z",
-    "registeredAt": "2025-11-21T16:14:19.592Z"
-  },
-  {
-    "userId": "77f8913a-b3ba-4b6a-ba6c-7854530aab01",
-    "fullName": "Ruth Hermiston",
-    "bio": "philosopher, nerd, model 👛",
-    "gender": "Transexual woman",
-    "birthdate": "2005-02-10T09:16:10.117Z",
-    "registeredAt": "2026-02-18T04:36:39.861Z"
-  },
-  {
-    "userId": "8126a170-317f-45c2-a4ca-ed843c4342e3",
-    "fullName": "Hector Kerluke",
-    "bio": "teacher, writer, filmmaker",
-    "gender": "Androgynous",
-    "birthdate": "2004-05-22T19:33:19.057Z",
-    "registeredAt": "2025-09-17T07:10:14.107Z"
-  },
-  {
-    "userId": "d2df4f48-dfaa-4bc2-9e93-49fa5fa700cf",
-    "fullName": "Kerry Koepp",
-    "bio": "solitaire enthusiast, filmmaker",
-    "gender": "MTF",
-    "birthdate": "1997-01-10T13:31:34.145Z",
-    "registeredAt": "2025-07-21T10:15:40.382Z"
-  },
-  {
-    "userId": "b817e69e-1b86-4762-bf27-2fa2a6bcee21",
-    "fullName": "Josefina Torphy PhD",
-    "bio": "traveler",
-    "gender": "Trans woman",
-    "birthdate": "1959-04-30T04:30:34.479Z",
-    "registeredAt": "2025-07-07T17:11:24.863Z"
-  },
-  {
-    "userId": "a2abf5c0-ab59-465a-9820-7b07bd6694c6",
-    "fullName": "Veronica Stark",
-    "bio": "singer, entrepreneur",
-    "gender": "Genderqueer",
-    "birthdate": "1989-02-08T16:17:36.391Z",
-    "registeredAt": "2026-02-22T13:07:41.594Z"
-  },
-  {
-    "userId": "279a0276-3085-4387-9b96-6d7dadd90a02",
-    "fullName": "Dallas Cole-McCullough",
-    "bio": "samurai supporter",
-    "gender": "Genderflux",
-    "birthdate": "2001-01-13T11:38:02.733Z",
-    "registeredAt": "2026-01-10T23:36:08.228Z"
-  },
-  {
-    "userId": "1ded06e1-da58-43e9-a4d7-3e580893421f",
-    "fullName": "Dr. George Jast",
-    "bio": "golf lover  👿",
+    "userId": "f32340a1-899b-4c90-807b-af3b3b5ef2b1",
+    "fullName": "Pat Bradtke",
+    "bio": "humor lover, entrepreneur 8️⃣",
     "gender": "Cis female",
-    "birthdate": "1981-04-24T20:59:18.851Z",
-    "registeredAt": "2025-07-17T23:00:43.366Z"
+    "birthdate": "1996-04-04T17:20:13.813Z",
+    "registeredAt": "2025-07-17T15:18:19.019Z"
+  },
+  {
+    "userId": "7d38c382-ea23-45c7-8abc-0360c20f400f",
+    "fullName": "Wilfred Stroman",
+    "bio": "involvement advocate",
+    "gender": "Xenogender",
+    "birthdate": "1952-04-01T02:59:12.370Z",
+    "registeredAt": "2025-05-01T14:58:28.481Z"
+  },
+  {
+    "userId": "a3847915-3c8e-414e-afcf-a9378ce0f883",
+    "fullName": "Frances Schoen",
+    "bio": "coach, patriot, entrepreneur",
+    "gender": "Cisgender",
+    "birthdate": "1982-12-09T23:51:59.778Z",
+    "registeredAt": "2025-04-17T04:22:46.518Z"
+  },
+  {
+    "userId": "1c396100-df7f-4bb1-abb0-66ea4579dd7b",
+    "fullName": "Virginia Jacobi",
+    "bio": "link devotee",
+    "gender": "Transexual man",
+    "birthdate": "1952-03-19T10:42:35.113Z",
+    "registeredAt": "2025-11-23T23:43:34.943Z"
+  },
+  {
+    "userId": "cdc95e65-683f-4d33-a965-66e8faedd99c",
+    "fullName": "Carole Goyette-Wiegand",
+    "bio": "author",
+    "gender": "Agender",
+    "birthdate": "1990-09-12T20:20:47.639Z",
+    "registeredAt": "2025-12-28T18:16:59.858Z"
+  },
+  {
+    "userId": "f5e7701e-b701-4ab6-9fdd-bddbdd8810a8",
+    "fullName": "Barry Lind",
+    "bio": "darkness devotee",
+    "gender": "Cis female",
+    "birthdate": "1985-09-13T20:21:56.455Z",
+    "registeredAt": "2025-05-30T16:50:32.112Z"
+  },
+  {
+    "userId": "3ef3af12-165b-428c-b544-686f1483c7aa",
+    "fullName": "Victor Runolfsson",
+    "bio": "business owner, photographer",
+    "gender": "Demigender",
+    "birthdate": "1950-02-18T10:13:32.450Z",
+    "registeredAt": "2025-03-24T11:19:55.495Z"
+  },
+  {
+    "userId": "44aa5c7a-ee10-4541-855e-1eba873d875f",
+    "fullName": "Beatrice Donnelly",
+    "bio": "nut junkie  🫁",
+    "gender": "Trans person",
+    "birthdate": "1963-10-04T17:33:51.135Z",
+    "registeredAt": "2025-10-19T21:08:54.155Z"
+  },
+  {
+    "userId": "d3868d5e-1f33-4324-8a93-578dbaabf92a",
+    "fullName": "Cassandra Conroy",
+    "bio": "vibration advocate",
+    "gender": "Gender questioning",
+    "birthdate": "2000-09-20T10:49:14.948Z",
+    "registeredAt": "2026-01-31T07:39:46.562Z"
   }
 ]
