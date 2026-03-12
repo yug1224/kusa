@@ -17,8 +17,8 @@ export function validateDate(value: string): string {
   return value;
 }
 
-export function isWorkTime(hour: number): boolean {
-  return hour >= 21 || hour <= 3;
+export function isBusinessHours(hour: number): boolean {
+  return hour >= 10 && hour <= 18;
 }
 
 export function getCoAuthorTrailer(coAuthor: string): string {
@@ -38,8 +38,8 @@ Usage:
 Options:
   --from         (required) Start date [YYYYMMDD]
   --to           (required) End date [YYYYMMDD]
-  --weekday      Probability denominator for work time commits (default: 5)
-  --holiday      Probability denominator for non-work time commits (default: 50)
+  --weekday      Probability denominator for business hours 10-19 (default: 5)
+  --holiday      Probability denominator for off-hours (default: 50)
   --co-author    AI co-author trailer (cursor|claude|devin|random)
   --help, -h     Show this help message`);
 }
@@ -59,7 +59,7 @@ async function commit(date: dayjs.Dayjs, coAuthor: string): Promise<void> {
     }));
     await Deno.writeTextFile(
       ".fake/personList.json",
-      JSON.stringify(fakePersonList, null, 2),
+      JSON.stringify(fakePersonList, null, 2) + "\n",
     );
   }
 
@@ -74,7 +74,7 @@ async function commit(date: dayjs.Dayjs, coAuthor: string): Promise<void> {
     }));
     await Deno.writeTextFile(
       ".fake/companyList.json",
-      JSON.stringify(fakeCompanyList, null, 2),
+      JSON.stringify(fakeCompanyList, null, 2) + "\n",
     );
   }
 
@@ -88,7 +88,7 @@ async function commit(date: dayjs.Dayjs, coAuthor: string): Promise<void> {
     }));
     await Deno.writeTextFile(
       ".fake/productList.json",
-      JSON.stringify(fakeProductList, null, 2),
+      JSON.stringify(fakeProductList, null, 2) + "\n",
     );
   }
 
@@ -152,7 +152,7 @@ if (import.meta.main) {
 
   while (date.diff(end) < 0) {
     const hour = +date.format("H");
-    const n = isWorkTime(hour) ? wd : hd;
+    const n = isBusinessHours(hour) ? wd : hd;
     const canCommit = Math.floor(Math.random() * n) === 0;
 
     if (canCommit) {

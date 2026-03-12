@@ -29,10 +29,17 @@ globs: ["**/*.ts"]
 - `Deno.test()` で記述し、`@std/assert` を使用する
 - `import.meta.main` ガードにより、テストからの import 時に CLI コードは実行されない
 
+## .fake/ ディレクトリ
+
+- `.fake/` は Git 追跡対象のフェイクデータ生成先
+- JSON を書き出す際は `JSON.stringify(data, null, 2) + "\n"` で末尾改行を付与する
+- `deno fmt` のチェック対象に含まれるため、フォーマットを維持すること
+
 ## 開発コマンド
 
 - `deno task generate` - コミット生成
 - `deno task test` - テスト実行
 - `deno task lint` - Lint
 - `deno task fmt` - フォーマット
+- `deno task fmt:check` - フォーマットチェック（CI 用）
 - `deno task check` - 型チェック

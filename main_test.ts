@@ -2,7 +2,7 @@ import { assertEquals, assertThrows } from "@std/assert";
 import {
   CO_AUTHORS,
   getCoAuthorTrailer,
-  isWorkTime,
+  isBusinessHours,
   validateDate,
 } from "./main.ts";
 
@@ -18,22 +18,20 @@ Deno.test("validateDate: invalid format throws", () => {
   assertThrows(() => validateDate(""), Error);
 });
 
-Deno.test("isWorkTime: 21:00-03:00 returns true", () => {
-  assertEquals(isWorkTime(21), true);
-  assertEquals(isWorkTime(22), true);
-  assertEquals(isWorkTime(23), true);
-  assertEquals(isWorkTime(0), true);
-  assertEquals(isWorkTime(1), true);
-  assertEquals(isWorkTime(2), true);
-  assertEquals(isWorkTime(3), true);
+Deno.test("isBusinessHours: 10:00-18:59 returns true", () => {
+  assertEquals(isBusinessHours(10), true);
+  assertEquals(isBusinessHours(12), true);
+  assertEquals(isBusinessHours(15), true);
+  assertEquals(isBusinessHours(18), true);
 });
 
-Deno.test("isWorkTime: 04:00-20:00 returns false", () => {
-  assertEquals(isWorkTime(4), false);
-  assertEquals(isWorkTime(10), false);
-  assertEquals(isWorkTime(12), false);
-  assertEquals(isWorkTime(15), false);
-  assertEquals(isWorkTime(20), false);
+Deno.test("isBusinessHours: 19:00-09:59 returns false", () => {
+  assertEquals(isBusinessHours(0), false);
+  assertEquals(isBusinessHours(3), false);
+  assertEquals(isBusinessHours(9), false);
+  assertEquals(isBusinessHours(19), false);
+  assertEquals(isBusinessHours(21), false);
+  assertEquals(isBusinessHours(23), false);
 });
 
 Deno.test("getCoAuthorTrailer: specific author returns correct trailer", () => {

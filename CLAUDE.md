@@ -28,10 +28,19 @@ kusa/
 ├── .claude/
 │   └── settings.json   Claude Code 設定
 ├── .cursor/
-│   └── rules/          Cursor ルール
+│   ├── commands/       Cursor コマンド
+│   ├── rules/          Cursor ルール
+│   └── skills/         Cursor スキル
 └── .vscode/
     └── settings.json   VS Code / Cursor 設定
 ```
+
+## コミット確率ロジック
+
+- 15 分刻みで `from` から `to` まで走査し、確率的にコミットを生成する
+- **日中帯 (10:00-19:00)**: `1/weekday` の確率（デフォルト 1/5 = 20%）
+- **その他の時間帯**: `1/holiday` の確率（デフォルト 1/50 = 2%）
+- `isBusinessHours(hour)` で日中帯かどうかを判定
 
 ## 開発コマンド
 
@@ -40,6 +49,7 @@ deno task generate    # コミット生成を実行 (-- --from YYYYMMDD --to YYY
 deno task test        # テスト実行
 deno task lint        # Lint 実行
 deno task fmt         # フォーマット実行
+deno task fmt:check   # フォーマットチェック（CI 用）
 deno task check       # 型チェック実行
 ```
 
@@ -52,6 +62,17 @@ deno task check       # 型チェック実行
 - 非同期処理には async/await を使用
 - テストは `Deno.test()` + `@std/assert` で記述
 - テストファイルは `*_test.ts` の命名規則
+- `.fake/` に JSON を書き出す際は末尾改行 (`+ "\n"`) を付与する
+
+## Cursor コマンド
+
+- `/ci` - CI チェック一式をローカルで実行（fmt:check, lint, check, test）
+- `/generate` - kusa 生成のパラメータをガイドして実行
+
+## Cursor スキル
+
+- `local-ci` - CI チェックの実行とエラー自動修正
+- `generate-kusa` - kusa 生成パラメータの構築と実行支援
 
 ## コミットメッセージ規約
 
