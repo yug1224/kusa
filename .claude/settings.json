@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(deno task *)",
+      "Bash(deno test *)",
+      "Bash(deno lint *)",
+      "Bash(deno fmt *)",
+      "Bash(deno check *)",
+      "Bash(deno install *)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git log *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

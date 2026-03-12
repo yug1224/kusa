@@ -2,25 +2,57 @@
 
 GitHub の草をただ生やし続けるためのリポジトリ
 
+## Requirements
+
+- [Deno](https://deno.com/) v2.x
+
 ## Install
 
-```
-deno install --allow-run=git --allow-env --allow-write -n kusa app.ts
+```bash
+deno install --allow-run=git --allow-env --allow-write --allow-read -n kusa main.ts
 ```
 
 ## Usage
 
-```
-$ kusa generate --from 20220101 --to 20220131
-$ git push -u origin main
+```bash
+# 基本的な使い方
+deno task generate -- --from 20250101 --to 20250131
+
+# AI Co-author を付与（Cursor）
+deno task generate -- --from 20250101 --to 20250131 --co-author cursor
+
+# AI Co-author をランダムに付与
+deno task generate -- --from 20250101 --to 20250131 --co-author random
+
+# 生成後にプッシュ
+git push -u origin main
 ```
 
-平日の昼間に草が集中するように、コミットを行います。
+### Options
 
-```
-GIT_AUTHOR_DATE=<date>
-GIT_COMMITTER_DATE=<date>
-git commit -am 'kusa'
+| Option        | Description                        | Default |
+| ------------- | ---------------------------------- | ------- |
+| `--from`      | 開始日 (YYYYMMDD)                  | 必須    |
+| `--to`        | 終了日 (YYYYMMDD)                  | 必須    |
+| `--weekday`   | 深夜帯 (21-3時) のコミット確率分母 | 5       |
+| `--holiday`   | その他の時間帯のコミット確率分母   | 50      |
+| `--co-author` | AI Co-author トレーラー            | なし    |
+
+### Co-author 対応ツール
+
+`cursor` / `claude` / `devin` / `random`
+
+## Development
+
+```bash
+deno task test      # テスト実行
+deno task lint      # Lint
+deno task fmt       # フォーマット
+deno task check     # 型チェック
 ```
 
-`GIT_AUTHOR_DATE`と`GIT_COMMITTER_DATE`で時間を操作し、あたかも過去や未来にコミットしたかのように見せかけています。
+## How it works
+
+`GIT_AUTHOR_DATE` と `GIT_COMMITTER_DATE`
+で時間を操作し、指定期間にコミットしたかのように見せかけます。 深夜帯
+(21:00-03:00) はコミット確率が高く、それ以外の時間帯は低確率でコミットされます。

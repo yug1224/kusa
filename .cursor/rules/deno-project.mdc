@@ -1,0 +1,38 @@
+---
+description: Deno プロジェクト開発規約
+globs: ["**/*.ts"]
+---
+
+# Deno プロジェクト規約
+
+## Import 規約
+
+- Deno 標準ライブラリは `jsr:@std/` を使用し、deno.jsonc の imports で管理する
+- npm パッケージは `npm:` specifier を使用し、deno.jsonc の imports で管理する
+- `https://deno.land/...` 形式の URL import は使用しない
+- ローカルファイルの import には拡張子 `.ts` を必ず付ける
+
+## 型安全性
+
+- `any` の使用を避け、適切な型定義を使用する
+- `deno-lint-ignore` は最小限に留める
+- compilerOptions で strict: true を有効にしている
+
+## 非同期処理
+
+- `Deno.Command` の実行は `output()` (async) を使用する
+- `outputSync()` は使用しない
+
+## テスト
+
+- テストファイルは `*_test.ts` の命名規則に従う
+- `Deno.test()` で記述し、`@std/assert` を使用する
+- `import.meta.main` ガードにより、テストからの import 時に CLI コードは実行されない
+
+## 開発コマンド
+
+- `deno task generate` - コミット生成
+- `deno task test` - テスト実行
+- `deno task lint` - Lint
+- `deno task fmt` - フォーマット
+- `deno task check` - 型チェック

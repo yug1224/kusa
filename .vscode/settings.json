@@ -1,6 +1,7 @@
 {
+  "deno.enable": true,
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno"
   },
-  "cSpell.words": ["Denomander", "jinko", "kusa", "shiba"]
+  "cSpell.words": ["jinko", "kusa", "shiba"]
 }
